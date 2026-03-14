@@ -1,0 +1,347 @@
+{
+  "companies": [
+    {
+      "id": "asml",
+      "name": "艾司摩爾(ASML)",
+      "short_name": "艾司摩爾",
+      "position": "upstream",
+      "role": "設備",
+      "x": 0.12,
+      "y": 0.1
+    },
+    {
+      "id": "tokyo_electron",
+      "name": "東京威力(Tokyo Electron)",
+      "short_name": "東京威力",
+      "position": "upstream",
+      "role": "設備",
+      "x": 0.32,
+      "y": 0.1
+    },
+    {
+      "id": "lam_research",
+      "name": "科林研發(Lam Research)",
+      "short_name": "科林研發",
+      "position": "upstream",
+      "role": "設備",
+      "x": 0.52,
+      "y": 0.1
+    },
+    {
+      "id": "sumco",
+      "name": "SUMCO",
+      "short_name": "SUMCO",
+      "position": "upstream",
+      "role": "矽晶圓",
+      "x": 0.72,
+      "y": 0.1
+    },
+    {
+      "id": "sk_siltron",
+      "name": "SK實特隆",
+      "short_name": "SK實特隆",
+      "position": "upstream",
+      "role": "矽晶圓",
+      "x": 0.88,
+      "y": 0.1
+    },
+    {
+      "id": "samsung",
+      "name": "三星(Samsung Electronics)",
+      "short_name": "三星",
+      "position": "midstream",
+      "role": "記憶體",
+      "x": 0.15,
+      "y": 0.38
+    },
+    {
+      "id": "skhynix",
+      "name": "SK海力士",
+      "short_name": "SK海力士",
+      "position": "midstream",
+      "role": "記憶體",
+      "x": 0.35,
+      "y": 0.38
+    },
+    {
+      "id": "micron",
+      "name": "美光(Micron Technology)",
+      "short_name": "美光",
+      "position": "midstream",
+      "role": "記憶體",
+      "x": 0.55,
+      "y": 0.38
+    },
+    {
+      "id": "nanya",
+      "name": "南亞科",
+      "short_name": "南亞科",
+      "position": "midstream",
+      "role": "記憶體",
+      "x": 0.75,
+      "y": 0.38
+    },
+    {
+      "id": "winbond",
+      "name": "華邦電",
+      "short_name": "華邦電",
+      "position": "midstream",
+      "role": "記憶體",
+      "x": 0.9,
+      "y": 0.38
+    },
+    {
+      "id": "ase",
+      "name": "日月光",
+      "short_name": "日月光",
+      "position": "midstream",
+      "role": "封測",
+      "x": 0.25,
+      "y": 0.58
+    },
+    {
+      "id": "powertech",
+      "name": "力成",
+      "short_name": "力成",
+      "position": "midstream",
+      "role": "封測",
+      "x": 0.5,
+      "y": 0.58
+    },
+    {
+      "id": "ptc",
+      "name": "南茂",
+      "short_name": "南茂",
+      "position": "midstream",
+      "role": "封測",
+      "x": 0.75,
+      "y": 0.58
+    },
+    {
+      "id": "nvidia",
+      "name": "輝達(NVIDIA)",
+      "short_name": "輝達",
+      "position": "downstream",
+      "role": "GPU",
+      "x": 0.12,
+      "y": 0.85
+    },
+    {
+      "id": "amd",
+      "name": "超微(AMD)",
+      "short_name": "超微",
+      "position": "downstream",
+      "role": "GPU",
+      "x": 0.28,
+      "y": 0.85
+    },
+    {
+      "id": "apple",
+      "name": "蘋果(Apple)",
+      "short_name": "蘋果",
+      "position": "downstream",
+      "role": "消費電子",
+      "x": 0.44,
+      "y": 0.85
+    },
+    {
+      "id": "aws",
+      "name": "AWS(Amazon Web Services)",
+      "short_name": "AWS",
+      "position": "downstream",
+      "role": "雲端",
+      "x": 0.6,
+      "y": 0.85
+    },
+    {
+      "id": "microsoft",
+      "name": "微軟(Microsoft)",
+      "short_name": "微軟",
+      "position": "downstream",
+      "role": "雲端",
+      "x": 0.76,
+      "y": 0.85
+    },
+    {
+      "id": "google",
+      "name": "谷歌(Google Cloud)",
+      "short_name": "谷歌",
+      "position": "downstream",
+      "role": "雲端",
+      "x": 0.9,
+      "y": 0.85
+    }
+  ],
+  "links": [
+    {
+      "source": "asml",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "asml",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "asml",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "tokyo_electron",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "tokyo_electron",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "tokyo_electron",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "lam_research",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "lam_research",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "lam_research",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "sumco",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "sumco",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "sumco",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "sk_siltron",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
+      "target": "ase",
+      "strength": 2
+    },
+    {
+      "source": "skhynix",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "skhynix",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "skhynix",
+      "target": "powertech",
+      "strength": 2
+    },
+    {
+      "source": "micron",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "micron",
+      "target": "aws",
+      "strength": 2
+    },
+    {
+      "source": "micron",
+      "target": "microsoft",
+      "strength": 2
+    },
+    {
+      "source": "micron",
+      "target": "powertech",
+      "strength": 2
+    },
+    {
+      "source": "nanya",
+      "target": "ptc",
+      "strength": 2
+    },
+    {
+      "source": "nanya",
+      "target": "powertech",
+      "strength": 2
+    },
+    {
+      "source": "ase",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "ase",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "powertech",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "nvidia",
+      "target": "aws",
+      "strength": 2
+    },
+    {
+      "source": "nvidia",
+      "target": "microsoft",
+      "strength": 2
+    },
+    {
+      "source": "nvidia",
+      "target": "google",
+      "strength": 2
+    },
+    {
+      "source": "amd",
+      "target": "aws",
+      "strength": 2
+    },
+    {
+      "source": "amd",
+      "target": "microsoft",
+      "strength": 2
+    }
+  ]
+}

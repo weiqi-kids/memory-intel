@@ -1,0 +1,76 @@
+# 記憶體供應鏈 - 7 日報告亮點偵測規則
+
+highlights_7d:
+
+  # 本週最大轉折
+  sentiment_reversal:
+    enabled: true
+    conditions:
+      sign_flip: true
+      min_delta: 0.4
+      min_events_this_week: 5
+      min_events_last_week: 3
+    output:
+      type: "sentiment_reversal"
+      fields:
+        - "subject"
+        - "subject_type"
+        - "this_week_sentiment"
+        - "last_week_sentiment"
+        - "delta"
+        - "top_events"
+
+  # 新出現的供應鏈關係
+  emerging_relation:
+    enabled: true
+    conditions:
+      lookback_days: 30
+      min_co_mentions: 3
+    output:
+      type: "emerging_relation"
+      fields:
+        - "company_a"
+        - "company_b"
+        - "relation_type"
+        - "co_mention_count"
+        - "context_topics"
+        - "sample_events"
+
+  # 持續發酵
+  sustained_momentum:
+    enabled: true
+    conditions:
+      consecutive_weeks: 3
+      min_growth_rate: 0.2
+    output:
+      type: "sustained_momentum"
+      fields:
+        - "subject"
+        - "subject_type"
+        - "weeks_rising"
+        - "total_growth"
+        - "this_week_count"
+
+  # 沉寂後爆發
+  dormant_spike:
+    enabled: true
+    conditions:
+      silent_weeks: 4
+      spike_threshold: 5
+    output:
+      type: "dormant_spike"
+      fields:
+        - "subject"
+        - "subject_type"
+        - "silent_weeks"
+        - "this_week_count"
+        - "last_seen_date"
+
+  # 亮點排序權重
+  ranking_weights:
+    sentiment_reversal: 1.0
+    emerging_relation: 0.9
+    sustained_momentum: 0.8
+    dormant_spike: 0.7
+    top_event: 0.6
+    volume_anomaly: 0.5

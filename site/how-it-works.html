@@ -1,0 +1,1066 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>系統運作流程 - 記憶體供應鏈情報</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f7fa;
+            color: #1a1a2e;
+            padding: 20px;
+            min-height: 100vh;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            color: #1a1a2e;
+        }
+
+        .nav-tabs {
+            display: flex;
+            gap: 8px;
+        }
+
+        .nav-tab {
+            padding: 8px 16px;
+            background: #f0f2f5;
+            border: 1px solid #e0e4e8;
+            border-radius: 6px;
+            text-decoration: none;
+            color: #666;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+
+        .nav-tab:hover {
+            background: #e4e7eb;
+            color: #1a1a2e;
+        }
+
+        .nav-tab.active {
+            background: #3b82f6;
+            color: white;
+            border-color: #3b82f6;
+        }
+
+        .nav-tab.sponsor {
+            background: #ff5e5b;
+            color: white;
+            border-color: #ff5e5b;
+        }
+
+        .flow-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: #ffffff;
+            border: 1px solid #e0e4e8;
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+
+        .step-block {
+            background: #f8f9fb;
+            border: 2px solid #e0e4e8;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            overflow: hidden;
+            transition: all 0.3s;
+        }
+
+        .step-block.active {
+            border-color: #3b82f6;
+            box-shadow: 0 0 20px rgba(59, 130, 246, 0.2);
+        }
+
+        .step-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 12px 20px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .step-header.sources { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); }
+        .step-header.engine { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); }
+        .step-header.events { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); }
+        .step-header.daily { background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); }
+        .step-header.weekly { background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%); }
+        .step-header.deploy { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+
+        .step-number {
+            background: rgba(255,255,255,0.3);
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.85rem;
+        }
+
+        .step-content {
+            padding: 20px;
+        }
+
+        .company-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 10px;
+        }
+
+        .company-card {
+            background: white;
+            border: 1px solid #e0e4e8;
+            border-radius: 8px;
+            padding: 12px;
+            text-align: center;
+            transition: all 0.2s;
+        }
+
+        .company-card:hover {
+            border-color: #3b82f6;
+            transform: translateY(-2px);
+        }
+
+        .company-card.active {
+            background: #e0f2fe;
+            border-color: #3b82f6;
+        }
+
+        .company-card.pending {
+            opacity: 0.5;
+        }
+
+        .company-name {
+            font-weight: 600;
+            font-size: 0.85rem;
+            margin-bottom: 4px;
+        }
+
+        .company-method {
+            font-size: 0.7rem;
+            color: #888;
+        }
+
+        .company-count {
+            font-size: 0.75rem;
+            color: #10b981;
+            margin-top: 4px;
+        }
+
+        .engine-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 15px;
+        }
+
+        .engine-module {
+            background: white;
+            border: 1px solid #e0e4e8;
+            border-radius: 8px;
+            padding: 15px;
+        }
+
+        .engine-module h4 {
+            color: #3b82f6;
+            margin-bottom: 10px;
+            font-size: 0.9rem;
+        }
+
+        .engine-stat {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            padding: 4px 0;
+            border-bottom: 1px solid #f0f2f5;
+        }
+
+        .engine-stat:last-child {
+            border-bottom: none;
+        }
+
+        .engine-stat-label {
+            color: #666;
+        }
+
+        .engine-stat-value {
+            font-weight: 600;
+            color: #1a1a2e;
+        }
+
+        .stats-row {
+            display: flex;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+
+        .stat-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .stat-label {
+            color: #666;
+            font-size: 0.85rem;
+        }
+
+        .stat-value {
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: #1a1a2e;
+        }
+
+        .sentiment-bar {
+            display: flex;
+            gap: 20px;
+            margin-top: 15px;
+        }
+
+        .sentiment-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .sentiment-bar-visual {
+            height: 20px;
+            border-radius: 4px;
+            min-width: 30px;
+        }
+
+        .sentiment-bar-visual.positive { background: #10b981; }
+        .sentiment-bar-visual.neutral { background: #6b7280; }
+        .sentiment-bar-visual.negative { background: #ef4444; }
+
+        .reports-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .report-section {
+            background: white;
+            border: 1px solid #e0e4e8;
+            border-radius: 8px;
+            padding: 15px;
+        }
+
+        .report-section h4 {
+            margin-bottom: 12px;
+            color: #1a1a2e;
+            font-size: 0.9rem;
+        }
+
+        .news-list {
+            list-style: none;
+        }
+
+        .news-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 0;
+            border-bottom: 1px solid #f0f2f5;
+            font-size: 0.85rem;
+        }
+
+        .news-item:last-child {
+            border-bottom: none;
+        }
+
+        .news-title {
+            flex: 1;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            margin-right: 10px;
+        }
+
+        .news-score {
+            background: #e0f2fe;
+            color: #0369a1;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+            font-size: 0.75rem;
+        }
+
+        .anomaly-list {
+            list-style: none;
+        }
+
+        .anomaly-item {
+            background: #fef2f2;
+            border-left: 3px solid #ef4444;
+            padding: 8px 12px;
+            margin-bottom: 8px;
+            border-radius: 0 6px 6px 0;
+            font-size: 0.85rem;
+            color: #991b1b;
+        }
+
+        .anomaly-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .trend-chart {
+            height: 120px;
+            position: relative;
+        }
+
+        .activity-bars {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .activity-bar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            width: 100%;
+        }
+
+        .activity-name {
+            width: 100px;
+            font-size: 0.8rem;
+            text-align: right;
+            flex-shrink: 0;
+        }
+
+        .activity-bar-visual {
+            height: 18px;
+            background: linear-gradient(90deg, #3b82f6 0%, #60a5fa 100%);
+            border-radius: 4px;
+            transition: all 0.5s;
+            min-width: 10px;
+        }
+
+        .activity-count {
+            font-size: 0.8rem;
+            color: #666;
+            width: 30px;
+            flex-shrink: 0;
+        }
+
+        .deploy-info {
+            display: flex;
+            gap: 40px;
+        }
+
+        .deploy-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .deploy-icon {
+            width: 40px;
+            height: 40px;
+            background: #e0f2fe;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+        }
+
+        .flow-arrow {
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+            color: #3b82f6;
+            font-size: 1.5rem;
+        }
+
+        .source-note {
+            margin-top: 10px;
+            font-size: 0.75rem;
+            color: #888;
+        }
+
+        .empty-state {
+            text-align: center;
+            color: #888;
+            padding: 20px;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 900px) {
+            .engine-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .reports-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* 動畫 */
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .loading {
+            animation: pulse 1.5s infinite;
+        }
+
+        .data-particle {
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            background: #3b82f6;
+            border-radius: 50%;
+            box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>記憶體供應鏈情報 - 系統運作流程</h1>
+        <nav class="nav-tabs">
+            <a href="index.html" class="nav-tab">情報總覽</a>
+            <a href="how-it-works.html" class="nav-tab active">運作流程</a>
+            <a href="https://ko-fi.com/lightchang" target="_blank" class="nav-tab sponsor">☕ 贊助</a>
+        </nav>
+    </div>
+
+    <div class="flow-container">
+        <!-- STEP 1: 資料來源 -->
+        <div class="step-block" id="step-1">
+            <div class="step-header sources">
+                <span class="step-number">1</span>
+                <span>資料來源</span>
+            </div>
+            <div class="step-content">
+                <div class="company-grid" id="company-grid">
+                    <div class="loading">載入中...</div>
+                </div>
+                <p class="source-note">→ 從 companies.yml 載入 <span id="company-count">-</span> 家公司</p>
+            </div>
+        </div>
+
+        <div class="flow-arrow">▼</div>
+
+        <!-- STEP 2: 規則引擎 -->
+        <div class="step-block" id="step-2">
+            <div class="step-header engine">
+                <span class="step-number">2</span>
+                <span>規則引擎處理</span>
+            </div>
+            <div class="step-content">
+                <div class="engine-grid">
+                    <div class="engine-module">
+                        <h4>matcher.py</h4>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">公司</span>
+                            <span class="engine-stat-value" id="stat-companies">-</span>
+                        </div>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">主題</span>
+                            <span class="engine-stat-value" id="stat-topics">-</span>
+                        </div>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">別名</span>
+                            <span class="engine-stat-value" id="stat-aliases">-</span>
+                        </div>
+                        <p class="source-note">→ topics.yml</p>
+                    </div>
+                    <div class="engine-module">
+                        <h4>sentiment.py</h4>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">正面詞</span>
+                            <span class="engine-stat-value" id="stat-positive">-</span>
+                        </div>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">負面詞</span>
+                            <span class="engine-stat-value" id="stat-negative">-</span>
+                        </div>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">否定詞</span>
+                            <span class="engine-stat-value" id="stat-negation">-</span>
+                        </div>
+                        <p class="source-note">→ sentiment_rules.yml</p>
+                    </div>
+                    <div class="engine-module">
+                        <h4>scorer.py</h4>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">規則數</span>
+                            <span class="engine-stat-value" id="stat-rules">-</span>
+                        </div>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">基礎分</span>
+                            <span class="engine-stat-value" id="stat-base">-</span>
+                        </div>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">上限</span>
+                            <span class="engine-stat-value" id="stat-max">-</span>
+                        </div>
+                        <p class="source-note">→ importance_rules.yml</p>
+                    </div>
+                    <div class="engine-module">
+                        <h4>anomaly.py</h4>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">新聞量閾值</span>
+                            <span class="engine-stat-value">+<span id="stat-volume">-</span>%</span>
+                        </div>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">情緒變化</span>
+                            <span class="engine-stat-value" id="stat-sentiment-threshold">-</span>
+                        </div>
+                        <div class="engine-stat">
+                            <span class="engine-stat-label">沉寂天數</span>
+                            <span class="engine-stat-value"><span id="stat-silent">-</span> 天</span>
+                        </div>
+                        <p class="source-note">→ anomaly_rules.yml</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="flow-arrow">▼</div>
+
+        <!-- STEP 3: 標註事件 -->
+        <div class="step-block" id="step-3">
+            <div class="step-header events">
+                <span class="step-number">3</span>
+                <span>標註事件</span>
+            </div>
+            <div class="step-content">
+                <div class="stats-row">
+                    <div class="stat-item">
+                        <span class="stat-label">今日事件</span>
+                        <span class="stat-value" id="stat-events">-</span>
+                        <span class="stat-label">則</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">高分事件 (≥0.8)</span>
+                        <span class="stat-value" id="stat-high-score">-</span>
+                        <span class="stat-label">則</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">平均分數</span>
+                        <span class="stat-value" id="stat-avg-score">-</span>
+                    </div>
+                </div>
+                <div class="sentiment-bar" id="sentiment-bar">
+                    <div class="sentiment-item">
+                        <div class="sentiment-bar-visual positive" id="bar-positive" style="width: 80px;"></div>
+                        <span>正面 <span id="count-positive">-</span></span>
+                    </div>
+                    <div class="sentiment-item">
+                        <div class="sentiment-bar-visual neutral" id="bar-neutral" style="width: 60px;"></div>
+                        <span>中性 <span id="count-neutral">-</span></span>
+                    </div>
+                    <div class="sentiment-item">
+                        <div class="sentiment-bar-visual negative" id="bar-negative" style="width: 30px;"></div>
+                        <span>負面 <span id="count-negative">-</span></span>
+                    </div>
+                </div>
+                <p class="source-note">→ data/events/{date}.jsonl</p>
+            </div>
+        </div>
+
+        <div class="flow-arrow">▼</div>
+
+        <!-- STEP 4 & 5: 報告生成 -->
+        <div class="reports-grid">
+            <div class="step-block" id="step-4">
+                <div class="step-header daily">
+                    <span class="step-number">4</span>
+                    <span>每日報告</span>
+                </div>
+                <div class="step-content">
+                    <div class="report-section">
+                        <h4>Top 新聞</h4>
+                        <ul class="news-list" id="news-list">
+                            <li class="empty-state">載入中...</li>
+                        </ul>
+                    </div>
+                    <div class="report-section" style="margin-top: 15px;">
+                        <h4>異常警示</h4>
+                        <ul class="anomaly-list" id="anomaly-list">
+                            <li class="empty-state">無異常</li>
+                        </ul>
+                    </div>
+                    <p class="source-note">→ reports/daily/{date}.json</p>
+                </div>
+            </div>
+
+            <div class="step-block" id="step-5">
+                <div class="step-header weekly">
+                    <span class="step-number">5</span>
+                    <span>7日報告</span>
+                </div>
+                <div class="step-content">
+                    <div class="report-section">
+                        <h4>主題趨勢</h4>
+                        <div class="trend-chart" id="trend-chart">
+                            <svg width="100%" height="120"></svg>
+                        </div>
+                    </div>
+                    <div class="report-section" style="margin-top: 15px;">
+                        <h4>公司活躍度</h4>
+                        <div class="activity-bars" id="activity-bars">
+                            <div class="empty-state">載入中...</div>
+                        </div>
+                    </div>
+                    <p class="source-note">→ reports/7d/{date}.json</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="flow-arrow">▼</div>
+
+        <!-- STEP 6: 部署 -->
+        <div class="step-block" id="step-6">
+            <div class="step-header deploy">
+                <span class="step-number">6</span>
+                <span>更新基準線 & 部署</span>
+            </div>
+            <div class="step-content">
+                <div class="deploy-info">
+                    <div class="deploy-item">
+                        <div class="deploy-icon">📊</div>
+                        <div>
+                            <div style="font-weight: 600;">基準線更新</div>
+                            <div style="font-size: 0.8rem; color: #666;">→ data/baselines/</div>
+                        </div>
+                    </div>
+                    <div class="deploy-item">
+                        <div class="deploy-icon">🚀</div>
+                        <div>
+                            <div style="font-weight: 600;">部署至 GitHub Pages</div>
+                            <div style="font-size: 0.8rem; color: #666;">→ memory.intel.weiqi.kids</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 全域狀態
+        let configStats = {};
+        let dailyReport = null;
+        let weeklyReport = null;
+        let currentStep = 1;
+
+        // 載入設定檔統計
+        async function loadConfigStats() {
+            try {
+                const response = await fetch('data/configs/stats.json');
+                if (response.ok) {
+                    configStats = await response.json();
+                    renderConfigStats();
+                }
+            } catch (e) {
+                console.log('無法載入設定統計:', e);
+                renderDemoStats();
+            }
+        }
+
+        // 渲染設定統計
+        function renderConfigStats() {
+            // 公司數量
+            document.getElementById('company-count').textContent = configStats.company_count || 0;
+            document.getElementById('stat-companies').textContent = `${configStats.company_count || 0} 家`;
+            document.getElementById('stat-topics').textContent = `${configStats.topic_count || 0} 個`;
+            document.getElementById('stat-aliases').textContent = `${configStats.alias_count || 0} 個`;
+
+            // 情緒規則
+            document.getElementById('stat-positive').textContent = `${configStats.positive_word_count || 0} 個`;
+            document.getElementById('stat-negative').textContent = `${configStats.negative_word_count || 0} 個`;
+            document.getElementById('stat-negation').textContent = `${configStats.negation_word_count || 0} 個`;
+
+            // 重要性規則
+            document.getElementById('stat-rules').textContent = `${configStats.importance_rule_count || 0} 條`;
+            document.getElementById('stat-base').textContent = configStats.base_score || 0.5;
+            document.getElementById('stat-max').textContent = configStats.max_score || 1.0;
+
+            // 異常偵測閾值
+            document.getElementById('stat-volume').textContent = configStats.volume_spike_threshold || 100;
+            document.getElementById('stat-sentiment-threshold').textContent = configStats.sentiment_shift_threshold || 0.5;
+            document.getElementById('stat-silent').textContent = configStats.silent_days_threshold || 14;
+
+            // 渲染公司卡片
+            renderCompanyCards();
+        }
+
+        // 渲染公司卡片
+        function renderCompanyCards() {
+            const grid = document.getElementById('company-grid');
+            const companies = configStats.companies || [];
+
+            if (companies.length === 0) {
+                grid.innerHTML = '<div class="empty-state">無公司資料</div>';
+                return;
+            }
+
+            // 已實作的爬蟲（全部 19 家）
+            const implemented = [
+                'asml', 'tokyo_electron', 'lam_research', 'sumco', 'sk_siltron',
+                'samsung', 'skhynix', 'micron', 'nanya', 'winbond',
+                'ase', 'powertech', 'ptc', 'nvidia', 'amd',
+                'apple', 'aws', 'microsoft', 'google'
+            ];
+
+            // RSS 爬蟲
+            const rssFetchers = ['samsung', 'nvidia', 'amd', 'apple'];
+
+            // 有成功抓到新聞的爬蟲（從 events.json 判斷）
+            const workingFetchers = ['asml', 'tokyo_electron', 'sumco', 'samsung', 'skhynix',
+                'winbond', 'powertech', 'nvidia', 'amd', 'apple', 'microsoft', 'google', 'lam_research'];
+
+            grid.innerHTML = companies.map(c => {
+                const isImplemented = implemented.includes(c.id);
+                const isWorking = workingFetchers.includes(c.id);
+                const method = rssFetchers.includes(c.id) ? 'RSS' :
+                              isImplemented ? 'Playwright' : '待建';
+                const status = isWorking ? '✓ 運作中' : (isImplemented ? '⚠ 超時' : '');
+                return `
+                    <div class="company-card ${isWorking ? 'active' : (isImplemented ? 'pending' : '')}">
+                        <div class="company-name">${c.short_name}</div>
+                        <div class="company-method">${method}</div>
+                        ${status ? `<div class="company-count">${status}</div>` : ''}
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // 渲染 Demo 統計（無資料時）
+        function renderDemoStats() {
+            document.getElementById('company-count').textContent = '19';
+            document.getElementById('stat-companies').textContent = '19 家';
+            document.getElementById('stat-topics').textContent = '14 個';
+            document.getElementById('stat-aliases').textContent = '45 個';
+            document.getElementById('stat-positive').textContent = '27 個';
+            document.getElementById('stat-negative').textContent = '27 個';
+            document.getElementById('stat-negation').textContent = '15 個';
+            document.getElementById('stat-rules').textContent = '10 條';
+            document.getElementById('stat-base').textContent = '0.5';
+            document.getElementById('stat-max').textContent = '1.0';
+            document.getElementById('stat-volume').textContent = '100';
+            document.getElementById('stat-sentiment-threshold').textContent = '0.5';
+            document.getElementById('stat-silent').textContent = '14';
+
+            // Demo 公司卡片
+            const grid = document.getElementById('company-grid');
+            const demoCompanies = [
+                { name: 'Samsung', method: 'RSS', active: true },
+                { name: 'SK hynix', method: 'Playwright', active: true },
+                { name: 'Micron', method: '待建', active: false },
+                { name: 'NVIDIA', method: '待建', active: false },
+                { name: 'AMD', method: '待建', active: false },
+                { name: 'ASML', method: '待建', active: false },
+            ];
+            grid.innerHTML = demoCompanies.map(c => `
+                <div class="company-card ${c.active ? 'active' : 'pending'}">
+                    <div class="company-name">${c.name}</div>
+                    <div class="company-method">${c.method}</div>
+                    ${c.active ? '<div class="company-count">✓ 已啟用</div>' : ''}
+                </div>
+            `).join('');
+        }
+
+        // 載入每日報告
+        async function loadDailyReport() {
+            try {
+                // 嘗試載入最新報告 - 修正路徑
+                const dates = ['2026-03-14', '2026-03-13', '2026-02-25'];
+                for (const date of dates) {
+                    try {
+                        const response = await fetch(`data/reports/daily/${date}.json`);
+                        if (response.ok) {
+                            dailyReport = await response.json();
+                            renderDailyReport();
+                            return;
+                        }
+                    } catch (e) {}
+                }
+                renderDemoDaily();
+            } catch (e) {
+                console.log('無法載入每日報告:', e);
+                renderDemoDaily();
+            }
+        }
+
+        // 渲染每日報告
+        function renderDailyReport() {
+            const newsList = document.getElementById('news-list');
+            const anomalyList = document.getElementById('anomaly-list');
+
+            // Top 新聞
+            const events = dailyReport.top_events || [];
+            if (events.length > 0) {
+                newsList.innerHTML = events.slice(0, 5).map((e, i) => `
+                    <li class="news-item">
+                        <span class="news-title">${i + 1}. ${e.title}</span>
+                        <span class="news-score">${e.importance_score.toFixed(2)}</span>
+                    </li>
+                `).join('');
+
+                // 統計
+                document.getElementById('stat-events').textContent = dailyReport.stats?.total_events || events.length;
+                document.getElementById('stat-high-score').textContent = events.filter(e => e.importance_score >= 0.8).length;
+
+                const avgScore = events.reduce((sum, e) => sum + e.importance_score, 0) / events.length;
+                document.getElementById('stat-avg-score').textContent = avgScore.toFixed(2);
+            } else {
+                newsList.innerHTML = '<li class="empty-state">無新聞資料</li>';
+            }
+
+            // 異常警示
+            const anomalies = dailyReport.anomalies || [];
+            if (anomalies.length > 0) {
+                anomalyList.innerHTML = anomalies.map(a => `
+                    <li class="anomaly-item">⚠ ${a.description || `${a.subject} ${a.type}`}</li>
+                `).join('');
+            } else {
+                anomalyList.innerHTML = '<li class="empty-state" style="background: #f0fdf4; border-color: #10b981; color: #166534;">✓ 無異常</li>';
+            }
+
+            // 情緒分布
+            const sentimentDist = dailyReport.stats?.sentiment_distribution || {};
+            const positive = sentimentDist.positive || 0;
+            const neutral = sentimentDist.neutral || 0;
+            const negative = sentimentDist.negative || 0;
+            const total = positive + neutral + negative || 1;
+
+            document.getElementById('count-positive').textContent = positive;
+            document.getElementById('count-neutral').textContent = neutral;
+            document.getElementById('count-negative').textContent = negative;
+
+            document.getElementById('bar-positive').style.width = `${(positive / total) * 150}px`;
+            document.getElementById('bar-neutral').style.width = `${(neutral / total) * 150}px`;
+            document.getElementById('bar-negative').style.width = `${(negative / total) * 150}px`;
+        }
+
+        // Demo 每日報告
+        function renderDemoDaily() {
+            const newsList = document.getElementById('news-list');
+            const demoNews = [
+                { title: 'SK hynix HBF 標準化', score: 1.00 },
+                { title: 'SK hynix FY25 財報', score: 1.00 },
+                { title: 'CES 2026 AI 記憶體展示', score: 1.00 },
+                { title: 'SK hynix 美國 AI 部門', score: 0.95 },
+                { title: 'DDR5 256GB 認證', score: 0.80 },
+            ];
+            newsList.innerHTML = demoNews.map((n, i) => `
+                <li class="news-item">
+                    <span class="news-title">${i + 1}. ${n.title}</span>
+                    <span class="news-score">${n.score.toFixed(2)}</span>
+                </li>
+            `).join('');
+
+            document.getElementById('stat-events').textContent = '9';
+            document.getElementById('stat-high-score').textContent = '5';
+            document.getElementById('stat-avg-score').textContent = '0.85';
+            document.getElementById('count-positive').textContent = '5';
+            document.getElementById('count-neutral').textContent = '3';
+            document.getElementById('count-negative').textContent = '1';
+
+            document.getElementById('anomaly-list').innerHTML = '<li class="empty-state" style="background: #f0fdf4; border-color: #10b981; color: #166534;">✓ 無異常</li>';
+        }
+
+        // 渲染公司活躍度 - 使用真實數據
+        function renderActivityBars() {
+            const container = document.getElementById('activity-bars');
+
+            // 優先使用 7d 報告數據
+            let topCompanies = [];
+            if (weeklyReport?.company_7d_summary) {
+                const companySummary = weeklyReport.company_7d_summary;
+                topCompanies = Object.entries(companySummary)
+                    .map(([id, data]) => ({ id, count: data.event_count }))
+                    .sort((a, b) => b.count - a.count)
+                    .slice(0, 5);
+            } else if (dailyReport?.stats?.top_companies) {
+                topCompanies = dailyReport.stats.top_companies;
+            }
+
+            if (topCompanies.length === 0) {
+                container.innerHTML = '<div class="empty-state">無資料</div>';
+                return;
+            }
+
+            const maxCount = Math.max(...topCompanies.map(c => c.count));
+
+            container.innerHTML = topCompanies.slice(0, 5).map(c => {
+                const name = configStats.companies?.find(co => co.id === c.id)?.short_name || c.id;
+                const pct = (c.count / maxCount) * 100;
+                return `
+                    <div class="activity-bar">
+                        <span class="activity-name">${name}</span>
+                        <div class="activity-bar-visual" style="flex: 1; max-width: ${pct}%;"></div>
+                        <span class="activity-count">${c.count}</span>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // 渲染趨勢圖 - 使用真實 7 日數據
+        function renderTrendChart() {
+            const container = document.getElementById('trend-chart');
+            const width = container.clientWidth || 280;
+            const height = 120;
+            const svg = d3.select('#trend-chart svg').attr('width', width);
+            const margin = { top: 10, right: 50, bottom: 20, left: 40 };
+
+            svg.selectAll('*').remove();
+
+            // 使用真實的 daily_breakdown 數據
+            let dailyData = [];
+            if (weeklyReport?.daily_breakdown) {
+                dailyData = weeklyReport.daily_breakdown.map((d, i) => ({
+                    day: i,
+                    value: d.event_count,
+                    date: d.date
+                }));
+            }
+
+            if (dailyData.length === 0) {
+                svg.append('text')
+                    .attr('x', width / 2)
+                    .attr('y', height / 2)
+                    .attr('text-anchor', 'middle')
+                    .attr('fill', '#888')
+                    .attr('font-size', '12px')
+                    .text('無趨勢數據');
+                return;
+            }
+
+            const days = dailyData.length;
+
+            const x = d3.scaleLinear()
+                .domain([0, days - 1])
+                .range([margin.left, width - margin.right]);
+
+            const maxValue = Math.max(...dailyData.map(d => d.value), 1);
+            const y = d3.scaleLinear()
+                .domain([0, maxValue])
+                .range([height - margin.bottom, margin.top]);
+
+            const line = d3.line()
+                .x(d => x(d.day))
+                .y(d => y(d.value))
+                .curve(d3.curveMonotoneX);
+
+            // 繪製區域填充
+            const area = d3.area()
+                .x(d => x(d.day))
+                .y0(height - margin.bottom)
+                .y1(d => y(d.value))
+                .curve(d3.curveMonotoneX);
+
+            svg.append('path')
+                .datum(dailyData)
+                .attr('fill', 'rgba(59, 130, 246, 0.2)')
+                .attr('d', area);
+
+            // 繪製線條
+            svg.append('path')
+                .datum(dailyData)
+                .attr('fill', 'none')
+                .attr('stroke', '#3b82f6')
+                .attr('stroke-width', 2)
+                .attr('d', line);
+
+            // 繪製數據點
+            svg.selectAll('.dot')
+                .data(dailyData)
+                .enter().append('circle')
+                .attr('cx', d => x(d.day))
+                .attr('cy', d => y(d.value))
+                .attr('r', 3)
+                .attr('fill', '#3b82f6');
+
+            // 標籤：最後一天的數值
+            const lastDay = dailyData[dailyData.length - 1];
+            svg.append('text')
+                .attr('x', width - margin.right + 5)
+                .attr('y', y(lastDay.value))
+                .attr('fill', '#3b82f6')
+                .attr('font-size', '10px')
+                .attr('dominant-baseline', 'middle')
+                .text(`${lastDay.value} 則`);
+
+            // X 軸
+            svg.append('g')
+                .attr('transform', `translate(0,${height - margin.bottom})`)
+                .call(d3.axisBottom(x).ticks(days).tickFormat(d => {
+                    const data = dailyData[d];
+                    return data ? data.date.slice(5) : '';  // MM-DD
+                }))
+                .attr('font-size', '8px');
+        }
+
+        // 步驟動畫
+        function animateSteps() {
+            const steps = document.querySelectorAll('.step-block');
+
+            setInterval(() => {
+                steps.forEach(s => s.classList.remove('active'));
+                const activeStep = document.getElementById(`step-${currentStep}`);
+                if (activeStep) {
+                    activeStep.classList.add('active');
+                }
+                currentStep = (currentStep % 6) + 1;
+            }, 2000);
+        }
+
+        // 載入 7 日報告
+        async function loadWeeklyReport() {
+            try {
+                const dates = ['2026-03-14', '2026-03-13', '2026-02-25'];
+                for (const date of dates) {
+                    try {
+                        const response = await fetch(`data/reports/7d/${date}.json`);
+                        if (response.ok) {
+                            weeklyReport = await response.json();
+                            return;
+                        }
+                    } catch (e) {}
+                }
+            } catch (e) {
+                console.log('無法載入 7 日報告:', e);
+            }
+        }
+
+        // 初始化
+        async function init() {
+            await loadConfigStats();
+            await loadDailyReport();
+            await loadWeeklyReport();
+            renderActivityBars();
+            renderTrendChart();
+            animateSteps();
+        }
+
+        init();
+    </script>
+</body>
+</html>

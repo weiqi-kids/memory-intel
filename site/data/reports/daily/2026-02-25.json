@@ -1,0 +1,85 @@
+{
+  "date": "2026-02-25",
+  "generated_at": "2026-03-14T04:17:06.988811Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "skhynix-2026-02-25-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 記憶體"
+      ],
+      "title": "SK hynix and Sandisk Begin Global Standardization of Next-Generation Memory ‘HBF’",
+      "companies": [
+        "skhynix"
+      ],
+      "topics": [
+        "hbm",
+        "ai_memory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      }
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-02-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AMD and Nutanix Announce Strategic Partnership to Advance an Open and Scalable Platform for Enterprise AI",
+      "companies": [
+        "amd"
+      ],
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      }
+    },
+    {
+      "rank": 3,
+      "event_id": "asml-2026-02-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASML publishes 2025 Annual Reports",
+      "companies": [
+        "asml"
+      ],
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      }
+    }
+  ],
+  "anomalies": [],
+  "stats": {
+    "total_events": 3,
+    "top_companies": [
+      {
+        "id": "skhynix",
+        "count": 1
+      },
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "asml",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "hbm",
+        "count": 1
+      },
+      {
+        "id": "ai_memory",
+        "count": 1
+      }
+    ]
+  }
+}

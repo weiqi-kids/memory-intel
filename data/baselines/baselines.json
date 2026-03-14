@@ -1,0 +1,258 @@
+{
+  "companies": {
+    "samsung": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "data_days": 2
+    },
+    "nvidia": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "data_days": 2
+    },
+    "asml": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "data_days": 2
+    },
+    "google": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "data_days": 2
+    },
+    "amd": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "data_days": 2
+    },
+    "skhynix": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "data_days": 2
+    },
+    "tokyo_electron": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "data_days": 2
+    }
+  },
+  "topics": {
+    "earnings": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "last_seen": null,
+      "data_days": 2
+    },
+    "hbm": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "last_seen": null,
+      "data_days": 2
+    },
+    "ai_memory": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "last_seen": null,
+      "data_days": 2
+    },
+    "ddr5": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "last_seen": null,
+      "data_days": 2
+    },
+    "guidance": {
+      "7d_avg": null,
+      "30d_avg": null,
+      "yoy_same_week": null,
+      "sentiment_7d_avg": null,
+      "sentiment_30d_avg": null,
+      "last_seen": null,
+      "data_days": 2
+    }
+  },
+  "history": {
+    "companies": {
+      "samsung": [
+        [
+          "2026-03-14",
+          19,
+          0.03
+        ],
+        [
+          "2026-03-14",
+          19,
+          0.03
+        ]
+      ],
+      "nvidia": [
+        [
+          "2026-03-14",
+          15,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          15,
+          0.0
+        ]
+      ],
+      "asml": [
+        [
+          "2026-03-14",
+          22,
+          0.11
+        ],
+        [
+          "2026-03-14",
+          22,
+          0.11
+        ]
+      ],
+      "google": [
+        [
+          "2026-03-14",
+          1,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          1,
+          0.0
+        ]
+      ],
+      "amd": [
+        [
+          "2026-03-14",
+          11,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          11,
+          0.0
+        ]
+      ],
+      "skhynix": [
+        [
+          "2026-03-14",
+          7,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          7,
+          0.0
+        ]
+      ],
+      "tokyo_electron": [
+        [
+          "2026-03-14",
+          3,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          3,
+          0.0
+        ]
+      ]
+    },
+    "topics": {
+      "earnings": [
+        [
+          "2026-03-14",
+          10,
+          0.15
+        ],
+        [
+          "2026-03-14",
+          10,
+          0.15
+        ]
+      ],
+      "hbm": [
+        [
+          "2026-03-14",
+          1,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          1,
+          0.0
+        ]
+      ],
+      "ai_memory": [
+        [
+          "2026-03-14",
+          2,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          2,
+          0.0
+        ]
+      ],
+      "ddr5": [
+        [
+          "2026-03-14",
+          1,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          1,
+          0.0
+        ]
+      ],
+      "guidance": [
+        [
+          "2026-03-14",
+          1,
+          0.0
+        ],
+        [
+          "2026-03-14",
+          1,
+          0.0
+        ]
+      ]
+    }
+  },
+  "last_updated": "2026-03-14"
+}

@@ -1,0 +1,57 @@
+{
+  "date": "2026-03-13",
+  "generated_at": "2026-03-14T04:16:02.436829Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-03-13-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "[World Sleep Day] How Samsung Is Tackling Sleep Apnea to Energize Your Days",
+      "companies": [
+        "samsung"
+      ],
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung-2026-03-13-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Samsung Micro RGB TV Receives Safety for Eyes and Circadian Rhythm Display Certifications From VDE",
+      "companies": [
+        "samsung"
+      ],
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      }
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-03-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "At the Milano Cortina 2026 Paralympic Winter Games, Victory Selfie Reaches a New Milestone",
+      "companies": [],
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      }
+    }
+  ],
+  "anomalies": [],
+  "stats": {
+    "total_events": 3
+  }
+}

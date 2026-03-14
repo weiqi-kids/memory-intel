@@ -1,0 +1,205 @@
+# 記憶體供應鏈 - 主題清單
+
+topics:
+  # ========================================
+  # HBM 相關
+  # ========================================
+  hbm:
+    display: "HBM"
+    keywords:
+      - "HBM"
+      - "HBM2"
+      - "HBM2E"
+      - "HBM3"
+      - "HBM3E"
+      - "HBM4"
+      - "HBF"
+      - "High Bandwidth Memory"
+      - "高頻寬記憶體"
+
+  # ========================================
+  # AI 記憶體相關
+  # ========================================
+  ai_memory:
+    display: "AI 記憶體"
+    keywords:
+      - "AI Memory"
+      - "AI 記憶體"
+      - "memory innovation"
+      - "next-generation memory"
+      - "next generation memory"
+
+  # ========================================
+  # 價格相關
+  # ========================================
+  dram_price:
+    display: "DRAM 價格"
+    keywords:
+      - "DRAM price"
+      - "DRAM 價格"
+      - "DRAM 報價"
+      - "DDR4 price"
+      - "DDR5 price"
+      - "DDR5 價格"
+      - "記憶體報價"
+      - "memory price"
+    sentiment_keywords:
+      positive:
+        - "上漲"
+        - "漲價"
+        - "調漲"
+        - "price hike"
+        - "price increase"
+      negative:
+        - "下跌"
+        - "跌價"
+        - "降價"
+        - "price cut"
+        - "price decline"
+
+  nand_price:
+    display: "NAND 價格"
+    keywords:
+      - "NAND price"
+      - "NAND 價格"
+      - "NAND 報價"
+      - "Flash price"
+      - "SSD price"
+      - "SSD 價格"
+    sentiment_keywords:
+      positive:
+        - "上漲"
+        - "漲價"
+        - "price hike"
+      negative:
+        - "下跌"
+        - "跌價"
+        - "price cut"
+
+  # ========================================
+  # 產能相關
+  # ========================================
+  capacity:
+    display: "產能"
+    keywords:
+      - "產能"
+      - "capacity"
+      - "擴產"
+      - "expansion"
+      - "wafer starts"
+      - "月產能"
+      - "產能利用率"
+      - "utilization"
+
+  capex:
+    display: "資本支出"
+    keywords:
+      - "capex"
+      - "capital expenditure"
+      - "資本支出"
+      - "投資"
+      - "建廠"
+      - "fab"
+      - "foundry"
+      - "設備投資"
+
+  # ========================================
+  # AI 伺服器相關
+  # ========================================
+  ai_server:
+    display: "AI 伺服器"
+    keywords:
+      - "AI server"
+      - "AI 伺服器"
+      - "GPU server"
+      - "accelerator"
+      - "H100"
+      - "H200"
+      - "B100"
+      - "B200"
+      - "GB200"
+      - "Blackwell"
+      - "MI300"
+      - "MI350"
+
+  # ========================================
+  # 供需相關
+  # ========================================
+  shortage:
+    display: "缺貨"
+    keywords:
+      - "缺貨"
+      - "shortage"
+      - "supply constraint"
+      - "供應緊張"
+      - "缺料"
+      - "供不應求"
+
+  inventory:
+    display: "庫存"
+    keywords:
+      - "庫存"
+      - "inventory"
+      - "stock"
+      - "去化"
+      - "destocking"
+      - "庫存調整"
+
+  # ========================================
+  # 財務相關
+  # ========================================
+  earnings:
+    display: "財報"
+    keywords:
+      - "財報"
+      - "earnings"
+      - "quarterly results"
+      - "Q1"
+      - "Q2"
+      - "Q3"
+      - "Q4"
+      - "營收"
+      - "revenue"
+      - "profit"
+      - "獲利"
+      - "毛利率"
+      - "gross margin"
+
+  guidance:
+    display: "展望"
+    keywords:
+      - "展望"
+      - "guidance"
+      - "outlook"
+      - "forecast"
+      - "預測"
+      - "下季預估"
+
+  # ========================================
+  # 技術相關
+  # ========================================
+  ddr5:
+    display: "DDR5"
+    keywords:
+      - "DDR5"
+      - "DDR5 DRAM"
+
+  advanced_packaging:
+    display: "先進封裝"
+    keywords:
+      - "先進封裝"
+      - "advanced packaging"
+      - "CoWoS"
+      - "2.5D"
+      - "3D IC"
+      - "HBM封裝"
+      - "HBM packaging"
+      - "TSV"
+
+  euv:
+    display: "EUV"
+    keywords:
+      - "EUV"
+      - "極紫外光"
+      - "extreme ultraviolet"
+      - "EUV lithography"

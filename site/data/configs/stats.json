@@ -1,0 +1,111 @@
+{
+  "company_count": 19,
+  "topic_count": 14,
+  "alias_count": 101,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "asml",
+      "short_name": "ASML",
+      "tier": ""
+    },
+    {
+      "id": "tokyo_electron",
+      "short_name": "Tokyo Electron",
+      "tier": ""
+    },
+    {
+      "id": "lam_research",
+      "short_name": "Lam Research",
+      "tier": ""
+    },
+    {
+      "id": "sumco",
+      "short_name": "SUMCO",
+      "tier": ""
+    },
+    {
+      "id": "sk_siltron",
+      "short_name": "SK Siltron",
+      "tier": ""
+    },
+    {
+      "id": "samsung",
+      "short_name": "Samsung Electronics",
+      "tier": ""
+    },
+    {
+      "id": "skhynix",
+      "short_name": "SK hynix",
+      "tier": ""
+    },
+    {
+      "id": "micron",
+      "short_name": "Micron Technology",
+      "tier": ""
+    },
+    {
+      "id": "nanya",
+      "short_name": "南亞科技",
+      "tier": ""
+    },
+    {
+      "id": "winbond",
+      "short_name": "華邦電子",
+      "tier": ""
+    },
+    {
+      "id": "ase",
+      "short_name": "日月光投控",
+      "tier": ""
+    },
+    {
+      "id": "powertech",
+      "short_name": "力成科技",
+      "tier": ""
+    },
+    {
+      "id": "ptc",
+      "short_name": "南茂科技",
+      "tier": ""
+    },
+    {
+      "id": "nvidia",
+      "short_name": "NVIDIA",
+      "tier": ""
+    },
+    {
+      "id": "amd",
+      "short_name": "AMD",
+      "tier": ""
+    },
+    {
+      "id": "apple",
+      "short_name": "Apple",
+      "tier": ""
+    },
+    {
+      "id": "aws",
+      "short_name": "Amazon Web Services",
+      "tier": ""
+    },
+    {
+      "id": "microsoft",
+      "short_name": "Microsoft",
+      "tier": ""
+    },
+    {
+      "id": "google",
+      "short_name": "Google Cloud",
+      "tier": ""
+    }
+  ]
+}
