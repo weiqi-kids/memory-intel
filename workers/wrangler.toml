@@ -1,0 +1,6 @@
+name = "feedback-api"
+main = "feedback.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+# 不要在這裡放敏感資料，用 wrangler secret put 設定
