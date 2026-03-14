@@ -559,6 +559,7 @@
         <nav style="display: flex; gap: 8px;">
             <a href="index.html" style="padding: 8px 16px; background: #3b82f6; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">情報總覽</a>
             <a href="how-it-works.html" style="padding: 8px 16px; background: #f0f2f5; color: #666; border: 1px solid #e0e4e8; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">運作流程</a>
+            <a onclick="openFeedback()" style="padding: 8px 16px; background: #10b981; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem; cursor: pointer;">💬 意見回饋</a>
             <a href="https://ko-fi.com/lightchang" target="_blank" style="padding: 8px 16px; background: #ff5e5b; color: white; border-radius: 6px; text-decoration: none; font-size: 0.9rem;">☕ 贊助</a>
         </nav>
     </div>
@@ -1704,6 +1705,205 @@
 
         // Start
         loadData();
+    </script>
+
+    <!-- 意見回饋 Modal -->
+    <div id="feedback-modal" style="display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.5); z-index: 10000; justify-content: center; align-items: center;">
+        <div style="background: white; border-radius: 12px; padding: 24px; max-width: 600px; width: 90%; max-height: 90vh; overflow-y: auto;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px;">
+                <h2 style="margin: 0; font-size: 1.25rem;">意見回饋</h2>
+                <button onclick="closeFeedback()" style="background: none; border: none; font-size: 1.5rem; cursor: pointer; color: #666;">&times;</button>
+            </div>
+
+            <div id="feedback-step1">
+                <p style="color: #666; margin-bottom: 16px;">點擊下方按鈕擷取目前畫面，或直接輸入意見</p>
+                <button onclick="captureScreen()" style="width: 100%; padding: 12px; background: #3b82f6; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem; margin-bottom: 16px;">📷 擷取畫面截圖</button>
+            </div>
+
+            <div id="feedback-screenshot" style="display: none; margin-bottom: 16px;">
+                <p style="color: #666; margin-bottom: 8px;">截圖預覽（可在上面圈選標記）：</p>
+                <div style="position: relative; border: 1px solid #e0e4e8; border-radius: 8px; overflow: hidden;">
+                    <canvas id="feedback-canvas" style="width: 100%; cursor: crosshair;"></canvas>
+                </div>
+                <div style="display: flex; gap: 8px; margin-top: 8px;">
+                    <button onclick="clearDrawing()" style="padding: 8px 16px; background: #f0f2f5; border: 1px solid #e0e4e8; border-radius: 6px; cursor: pointer;">清除標記</button>
+                    <button onclick="retakeScreenshot()" style="padding: 8px 16px; background: #f0f2f5; border: 1px solid #e0e4e8; border-radius: 6px; cursor: pointer;">重新截圖</button>
+                </div>
+            </div>
+
+            <div style="margin-bottom: 16px;">
+                <label style="display: block; margin-bottom: 8px; font-weight: 500;">您的意見或建議：</label>
+                <textarea id="feedback-message" rows="4" style="width: 100%; padding: 12px; border: 1px solid #e0e4e8; border-radius: 8px; font-size: 1rem; resize: vertical; box-sizing: border-box;" placeholder="請描述您遇到的問題或建議..."></textarea>
+            </div>
+
+            <div id="feedback-status" style="display: none; padding: 12px; border-radius: 8px; margin-bottom: 16px;"></div>
+
+            <div style="display: flex; gap: 12px;">
+                <button onclick="submitFeedback(false)" style="flex: 1; padding: 12px; background: #3b82f6; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem;">送出</button>
+                <button onclick="submitFeedback(true)" style="flex: 1; padding: 12px; background: #ff5e5b; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem;">送出 + 贊助 ☕</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script>
+        const FEEDBACK_API = 'https://feedback-api.weiqi.workers.dev/submit';
+        let feedbackCanvas, feedbackCtx;
+        let isDrawing = false;
+        let screenshotData = null;
+
+        function openFeedback() {
+            document.getElementById('feedback-modal').style.display = 'flex';
+            document.getElementById('feedback-step1').style.display = 'block';
+            document.getElementById('feedback-screenshot').style.display = 'none';
+            document.getElementById('feedback-message').value = '';
+            document.getElementById('feedback-status').style.display = 'none';
+            screenshotData = null;
+        }
+
+        function closeFeedback() {
+            document.getElementById('feedback-modal').style.display = 'none';
+        }
+
+        async function captureScreen() {
+            document.getElementById('feedback-modal').style.display = 'none';
+
+            await new Promise(r => setTimeout(r, 100));
+
+            try {
+                const canvas = await html2canvas(document.body, {
+                    useCORS: true,
+                    allowTaint: true,
+                    scale: 0.5
+                });
+
+                document.getElementById('feedback-modal').style.display = 'flex';
+                document.getElementById('feedback-step1').style.display = 'none';
+                document.getElementById('feedback-screenshot').style.display = 'block';
+
+                feedbackCanvas = document.getElementById('feedback-canvas');
+                feedbackCanvas.width = canvas.width;
+                feedbackCanvas.height = canvas.height;
+                feedbackCtx = feedbackCanvas.getContext('2d');
+                feedbackCtx.drawImage(canvas, 0, 0);
+
+                screenshotData = canvas.toDataURL('image/png');
+
+                setupDrawing();
+            } catch (err) {
+                console.error('Screenshot failed:', err);
+                document.getElementById('feedback-modal').style.display = 'flex';
+                showStatus('截圖失敗，請直接輸入意見', 'error');
+            }
+        }
+
+        function setupDrawing() {
+            let lastX, lastY;
+
+            feedbackCanvas.onmousedown = (e) => {
+                isDrawing = true;
+                const rect = feedbackCanvas.getBoundingClientRect();
+                const scaleX = feedbackCanvas.width / rect.width;
+                const scaleY = feedbackCanvas.height / rect.height;
+                lastX = (e.clientX - rect.left) * scaleX;
+                lastY = (e.clientY - rect.top) * scaleY;
+            };
+
+            feedbackCanvas.onmousemove = (e) => {
+                if (!isDrawing) return;
+                const rect = feedbackCanvas.getBoundingClientRect();
+                const scaleX = feedbackCanvas.width / rect.width;
+                const scaleY = feedbackCanvas.height / rect.height;
+                const x = (e.clientX - rect.left) * scaleX;
+                const y = (e.clientY - rect.top) * scaleY;
+
+                feedbackCtx.beginPath();
+                feedbackCtx.moveTo(lastX, lastY);
+                feedbackCtx.lineTo(x, y);
+                feedbackCtx.strokeStyle = '#ff0000';
+                feedbackCtx.lineWidth = 4;
+                feedbackCtx.lineCap = 'round';
+                feedbackCtx.stroke();
+
+                lastX = x;
+                lastY = y;
+            };
+
+            feedbackCanvas.onmouseup = () => isDrawing = false;
+            feedbackCanvas.onmouseleave = () => isDrawing = false;
+        }
+
+        function clearDrawing() {
+            if (screenshotData) {
+                const img = new Image();
+                img.onload = () => {
+                    feedbackCtx.clearRect(0, 0, feedbackCanvas.width, feedbackCanvas.height);
+                    feedbackCtx.drawImage(img, 0, 0);
+                };
+                img.src = screenshotData;
+            }
+        }
+
+        function retakeScreenshot() {
+            captureScreen();
+        }
+
+        function showStatus(message, type) {
+            const status = document.getElementById('feedback-status');
+            status.style.display = 'block';
+            status.textContent = message;
+            status.style.background = type === 'error' ? '#fee2e2' : type === 'success' ? '#d1fae5' : '#e0e7ff';
+            status.style.color = type === 'error' ? '#dc2626' : type === 'success' ? '#059669' : '#4338ca';
+        }
+
+        async function submitFeedback(withSponsor) {
+            const message = document.getElementById('feedback-message').value.trim();
+
+            if (!message) {
+                showStatus('請輸入意見內容', 'error');
+                return;
+            }
+
+            showStatus('正在送出...', 'info');
+
+            const finalScreenshot = feedbackCanvas ? feedbackCanvas.toDataURL('image/png') : null;
+
+            try {
+                const response = await fetch(FEEDBACK_API, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        screenshot: finalScreenshot,
+                        message: message,
+                        url: window.location.href
+                    })
+                });
+
+                const result = await response.json();
+
+                if (result.success) {
+                    showStatus('感謝您的意見！已成功送出', 'success');
+
+                    if (withSponsor) {
+                        setTimeout(() => {
+                            window.open('https://ko-fi.com/lightchang', '_blank');
+                            closeFeedback();
+                        }, 1000);
+                    } else {
+                        setTimeout(closeFeedback, 2000);
+                    }
+                } else {
+                    showStatus(result.error || '送出失敗，請稍後再試', 'error');
+                }
+            } catch (err) {
+                console.error('Submit failed:', err);
+                showStatus('網路錯誤，請稍後再試', 'error');
+            }
+        }
+
+        document.getElementById('feedback-modal').onclick = (e) => {
+            if (e.target.id === 'feedback-modal') closeFeedback();
+        };
     </script>
 </body>
 </html>
