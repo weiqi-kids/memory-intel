@@ -719,26 +719,43 @@
                 data.events = [];
             }
 
-            // Load daily report
-            try {
-                const today = new Date().toISOString().split('T')[0];
-                const dailyResp = await fetch(`data/reports/daily/${today}.json`);
-                if (dailyResp.ok) {
-                    data.dailyReport = await dailyResp.json();
+            // Load daily report (try today, then look back up to 7 days)
+            for (let i = 0; i < 7; i++) {
+                try {
+                    const d = new Date();
+                    d.setDate(d.getDate() - i);
+                    const dateStr = d.toISOString().split('T')[0];
+                    const dailyResp = await fetch(`data/reports/daily/${dateStr}.json`);
+                    if (dailyResp.ok) {
+                        const report = await dailyResp.json();
+                        // 只接受有事件的報告
+                        if (report.top_events?.length > 0 || report.stats?.total_events > 0) {
+                            data.dailyReport = report;
+                            break;
+                        }
+                    }
+                } catch (e) {
+                    continue;
                 }
-            } catch (e) {
-                console.log('Daily report not found');
             }
 
-            // Load weekly report
-            try {
-                const today = new Date().toISOString().split('T')[0];
-                const weeklyResp = await fetch(`data/reports/7d/${today}.json`);
-                if (weeklyResp.ok) {
-                    data.weeklyReport = await weeklyResp.json();
+            // Load weekly report (try today, then look back up to 7 days)
+            for (let i = 0; i < 7; i++) {
+                try {
+                    const d = new Date();
+                    d.setDate(d.getDate() - i);
+                    const dateStr = d.toISOString().split('T')[0];
+                    const weeklyResp = await fetch(`data/reports/7d/${dateStr}.json`);
+                    if (weeklyResp.ok) {
+                        const report = await weeklyResp.json();
+                        if (report.daily_breakdown?.length > 0) {
+                            data.weeklyReport = report;
+                            break;
+                        }
+                    }
+                } catch (e) {
+                    continue;
                 }
-            } catch (e) {
-                console.log('Weekly report not found');
             }
 
             // If no data loaded, use demo
