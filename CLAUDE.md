@@ -1,40 +1,32 @@
 # Memory Intel - 記憶體供應鏈情報追蹤
 
-## 專案現況 (2026-03-14)
+## 專案狀態：🟢 維護模式 (2026-03-15)
 
-### ✅ 已完成
+專案已完成開發，進入自動化維護階段。GitHub Actions 每日自動執行抓取、標註、報告生成流程。
 
-1. **股價抓取** - `scripts/fetch_stocks.py`
-   - 增量抓取邏輯：每次補最新 + 往前 3 個月歷史
-   - 18 檔股票，目前約 120 天資料
-   - 資料來源：Yahoo Finance (yfinance)
+### 系統架構
 
-2. **新聞爬蟲** - `fetchers/`
-   - `samsung.py` - RSS 優先，Playwright 備用
-   - `skhynix.py` - Playwright + AJAX 等待
-   - `base.py` - Playwright 共用邏輯
+| 模組 | 說明 | 狀態 |
+|------|------|------|
+| **股價抓取** | 18 檔股票，Yahoo Finance | ✅ 自動化 |
+| **新聞爬蟲** | 20 個爬蟲，涵蓋 19 家公司 | ✅ 自動化 |
+| **規則引擎** | 關鍵字匹配、情緒分析、重要性評分、異常偵測 | ✅ 完成 |
+| **報告生成** | 每日報告、7 日報告 | ✅ 自動化 |
+| **前端** | D3.js Dashboard、供應鏈圖、事件時間軸 | ✅ 完成 |
+| **CI/CD** | daily-ingest.yml + deploy-pages.yml | ✅ 運行中 |
 
-3. **前端 Dashboard** - `site/index.html`
-   - D3.js 視覺化
-   - 繁體中文介面
-   - 供應鏈圖（19 家公司、34 條關係）
-   - 事件時間軸
+### 維護檢查清單
 
-4. **規則引擎** - `lib/`（新）
-   - `matcher.py` - 關鍵字匹配（公司、主題）
-   - `sentiment.py` - 情緒分析（含否定詞處理）
-   - `scorer.py` - 重要性評分
-   - `anomaly.py` - 異常偵測
+```bash
+# 檢查最近的 GitHub Actions 執行狀態
+gh run list --limit 5
 
-5. **報告生成** - `scripts/`（新）
-   - `fetch_news.py` - 整合抓取腳本（會自動呼叫後續流程）
-   - `enrich_event.py` - 事件標註
-   - `generate_metrics.py` - 每日指標
-   - `detect_anomalies.py` - 異常偵測
-   - `generate_daily.py` - 每日報告
-   - `generate_7d_report.py` - 7 日報告
-   - `sync_to_frontend.py` - 同步事件到前端
-   - `update_baselines.py` - 更新歷史基準線
+# 檢查今日是否有新資料
+ls -la data/events/$(date +%Y-%m-%d).jsonl
+
+# 檢查前端事件數量
+jq length site/data/events.json
+```
 
 ---
 
@@ -239,19 +231,29 @@ memory-intel/
 
 ---
 
-## 待完成
+## 故障排除
 
-1. **其他公司爬蟲**
-   - Micron - https://www.micron.com/about/newsroom
-   - NVIDIA - https://nvidianews.nvidia.com/
-   - ASML - Investor news
+### 常見問題
 
-2. **GitHub Actions** - `.github/workflows/daily-ingest.yml`
-   - 每日自動抓取股價 + 新聞
-   - 執行標註 + 報告生成
-   - 部署到 GitHub Pages
+1. **GitHub Actions 失敗**
+   - 檢查 `gh run view <run-id> --log-failed`
+   - 常見原因：網站結構變更、API 限制
 
-3. **前端整合**
-   - 顯示每日報告（Top 5 新聞）
-   - 顯示異常警示
-   - 顯示 7 日趨勢
+2. **爬蟲抓不到資料**
+   - 檢查目標網站是否改版
+   - 更新 `fetchers/` 對應的爬蟲
+
+3. **前端資料未更新**
+   - 確認 `sync_to_frontend.py` 有執行
+   - 檢查 `site/data/events.json` 時間戳
+
+### 手動執行流程
+
+```bash
+source .venv/bin/activate
+python scripts/fetch_news.py           # 抓取新聞
+python scripts/enrich_event.py         # 標註事件
+python scripts/generate_metrics.py     # 計算指標
+python scripts/generate_7d_report.py   # 7 日報告
+python scripts/sync_to_frontend.py     # 同步前端
+```
