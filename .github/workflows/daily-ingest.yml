@@ -39,6 +39,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+          playwright install chromium
 
       - name: Create data directories
         run: |
@@ -111,6 +112,12 @@ jobs:
           ls site/data/reports/daily/*.json 2>/dev/null | xargs -I {} basename {} .json | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/daily/index.json || echo '[]' > site/data/reports/daily/index.json
           # Generate 7d report index
           ls site/data/reports/7d/*.json 2>/dev/null | xargs -I {} basename {} .json | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/7d/index.json || echo '[]' > site/data/reports/7d/index.json
+
+      - name: Generate config stats
+        run: |
+          mkdir -p site/data/configs
+          python scripts/generate_config_stats.py
+        continue-on-error: true
 
       - name: Sync events to frontend
         run: |
