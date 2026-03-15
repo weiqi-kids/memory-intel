@@ -107,11 +107,20 @@ def get_event_date(raw_event: dict, fallback_date: str) -> str:
     Returns:
         日期字串（YYYY-MM-DD）
     """
+    from email.utils import parsedate_to_datetime
+
     published_at = raw_event.get("published_at")
     if published_at:
-        # 解析 ISO 格式，取日期部分
-        # "2026-03-10T00:00:00+00:00" → "2026-03-10"
-        return published_at[:10]
+        try:
+            # 檢測 ISO 格式 "2026-03-10" 或 "2026-03-10T00:00:00"
+            # ISO 格式特徵：第5個字元是 "-"（如 "2026-"）
+            if len(published_at) >= 10 and published_at[4] == "-" and published_at[7] == "-":
+                return published_at[:10]
+            # 嘗試 RFC 2822 格式 "Sat, 14 Mar 2026 17:16:00 +0000"
+            dt = parsedate_to_datetime(published_at)
+            return dt.strftime("%Y-%m-%d")
+        except Exception:
+            pass
     return fallback_date
 
 
