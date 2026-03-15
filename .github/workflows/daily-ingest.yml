@@ -113,8 +113,8 @@ jobs:
       - name: Update site data
         run: |
           # Copy latest data to site for visualization
+          # Note: events.json is handled by sync_to_frontend.py, don't overwrite
           cp data/normalized/stocks.json site/data/ 2>/dev/null || true
-          cp data/normalized/events.json site/data/ 2>/dev/null || true
           cp data/normalized/companies.json site/data/ 2>/dev/null || true
 
       - name: Commit and push changes
