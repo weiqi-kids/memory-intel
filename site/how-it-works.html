@@ -676,6 +676,31 @@
         let dailyReport = null;
         let weeklyReport = null;
         let currentStep = 1;
+        let workingFetchers = new Set(); // 從實際資料判斷
+
+        // 載入事件資料，判斷哪些爬蟲有資料
+        async function loadEvents() {
+            try {
+                const response = await fetch('data/events.json');
+                if (response.ok) {
+                    const events = await response.json();
+                    // 取最近 30 天的事件
+                    const thirtyDaysAgo = new Date();
+                    thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
+
+                    events.forEach(event => {
+                        const eventDate = new Date(event.date);
+                        if (eventDate >= thirtyDaysAgo) {
+                            // 從 entities.companies 取得公司 ID
+                            const companies = event.entities?.companies || [];
+                            companies.forEach(c => workingFetchers.add(c));
+                        }
+                    });
+                }
+            } catch (e) {
+                console.log('無法載入事件資料:', e);
+            }
+        }
 
         // 載入設定檔統計
         async function loadConfigStats() {
@@ -739,16 +764,14 @@
             // RSS 爬蟲
             const rssFetchers = ['samsung', 'nvidia', 'amd', 'apple'];
 
-            // 有成功抓到新聞的爬蟲（從 events.json 判斷）
-            const workingFetchers = ['asml', 'tokyo_electron', 'sumco', 'samsung', 'skhynix',
-                'winbond', 'powertech', 'nvidia', 'amd', 'apple', 'microsoft', 'google', 'lam_research'];
+            // workingFetchers 從全域變數取得（由 loadEvents 設定）
 
             grid.innerHTML = companies.map(c => {
                 const isImplemented = implemented.includes(c.id);
-                const isWorking = workingFetchers.includes(c.id);
+                const isWorking = workingFetchers.has(c.id);
                 const method = rssFetchers.includes(c.id) ? 'RSS' :
                               isImplemented ? 'Playwright' : '待建';
-                const status = isWorking ? '✓ 運作中' : (isImplemented ? '⚠ 超時' : '');
+                const status = isWorking ? '✓ 運作中' : (isImplemented ? '⚠ 待確認' : '');
                 return `
                     <div class="company-card ${isWorking ? 'active' : (isImplemented ? 'pending' : '')}">
                         <div class="company-name">${c.short_name}</div>
@@ -797,15 +820,29 @@
         // 載入每日報告
         async function loadDailyReport() {
             try {
-                // 嘗試載入最新報告 - 修正路徑
-                const dates = ['2026-03-14', '2026-03-13', '2026-02-25'];
+                // 動態取得報告日期列表
+                let dates = [];
+                try {
+                    const indexRes = await fetch('data/reports/daily/index.json');
+                    if (indexRes.ok) {
+                        dates = await indexRes.json();
+                    }
+                } catch (e) {
+                    console.log('無法載入報告索引，使用當天日期');
+                    dates = [new Date().toISOString().split('T')[0]];
+                }
+
+                // 嘗試載入有資料的報告（跳過 total_events: 0 的報告）
                 for (const date of dates) {
                     try {
                         const response = await fetch(`data/reports/daily/${date}.json`);
                         if (response.ok) {
-                            dailyReport = await response.json();
-                            renderDailyReport();
-                            return;
+                            const report = await response.json();
+                            if (report.stats?.total_events > 0 || report.top_events?.length > 0) {
+                                dailyReport = report;
+                                renderDailyReport();
+                                return;
+                            }
                         }
                     } catch (e) {}
                 }
@@ -1043,7 +1080,17 @@
         // 載入 7 日報告
         async function loadWeeklyReport() {
             try {
-                const dates = ['2026-03-14', '2026-03-13', '2026-02-25'];
+                // 動態取得報告日期列表
+                let dates = [];
+                try {
+                    const indexRes = await fetch('data/reports/7d/index.json');
+                    if (indexRes.ok) {
+                        dates = await indexRes.json();
+                    }
+                } catch (e) {
+                    dates = [new Date().toISOString().split('T')[0]];
+                }
+
                 for (const date of dates) {
                     try {
                         const response = await fetch(`data/reports/7d/${date}.json`);
@@ -1060,6 +1107,7 @@
 
         // 初始化
         async function init() {
+            await loadEvents();  // 先載入事件，判斷哪些爬蟲有資料
             await loadConfigStats();
             await loadDailyReport();
             await loadWeeklyReport();

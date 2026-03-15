@@ -105,6 +105,13 @@ jobs:
           cp reports/7d/$TODAY.json site/data/reports/7d/ 2>/dev/null || true
         continue-on-error: true
 
+      - name: Generate report indexes
+        run: |
+          # Generate daily report index
+          ls site/data/reports/daily/*.json 2>/dev/null | xargs -I {} basename {} .json | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/daily/index.json || echo '[]' > site/data/reports/daily/index.json
+          # Generate 7d report index
+          ls site/data/reports/7d/*.json 2>/dev/null | xargs -I {} basename {} .json | sort -r | jq -R -s 'split("\n") | map(select(length > 0))' > site/data/reports/7d/index.json || echo '[]' > site/data/reports/7d/index.json
+
       - name: Sync events to frontend
         run: |
           python scripts/sync_to_frontend.py
