@@ -78,7 +78,9 @@ jobs:
       - name: Enrich events
         run: |
           TODAY=$(date +%Y-%m-%d)
-          python scripts/enrich_event.py --date $TODAY
+          if [ -f "data/raw/$TODAY/rss.jsonl" ]; then
+            python scripts/enrich_event.py --date $TODAY --input "data/raw/$TODAY/rss.jsonl"
+          fi
         continue-on-error: true
 
       - name: Generate metrics
