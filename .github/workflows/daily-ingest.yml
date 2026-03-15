@@ -75,6 +75,39 @@ jobs:
           python scripts/generate_cards.py
         continue-on-error: true
 
+      - name: Enrich events
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          python scripts/enrich_event.py --date $TODAY
+        continue-on-error: true
+
+      - name: Generate metrics
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          python scripts/generate_metrics.py --date $TODAY
+        continue-on-error: true
+
+      - name: Generate daily report
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          mkdir -p site/data/reports/daily
+          python scripts/generate_daily.py --date $TODAY
+          cp reports/daily/$TODAY.json site/data/reports/daily/ 2>/dev/null || true
+        continue-on-error: true
+
+      - name: Generate 7d report
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          mkdir -p site/data/reports/7d
+          python scripts/generate_7d_report.py --date $TODAY
+          cp reports/7d/$TODAY.json site/data/reports/7d/ 2>/dev/null || true
+        continue-on-error: true
+
+      - name: Sync events to frontend
+        run: |
+          python scripts/sync_to_frontend.py
+        continue-on-error: true
+
       - name: Update site data
         run: |
           # Copy latest data to site for visualization
