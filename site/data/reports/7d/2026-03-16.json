@@ -1,0 +1,100 @@
+{
+  "date": "2026-03-16",
+  "date_range": {
+    "start": "2026-03-10",
+    "end": "2026-03-16"
+  },
+  "generated_at": "2026-03-16T09:07:33.499442Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-03-12-022",
+      "date": "2026-03-12",
+      "title": "HBM4E Raises The Bar For AI Memory Bandwidth",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.43
+    }
+  },
+  "company_7d_summary": {
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "samsung": {
+      "event_count": 5,
+      "sentiment_avg": 0.33,
+      "rank": 2
+    },
+    "nvidia": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "apple": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 23,
+        "last": 6,
+        "change_pct": 283.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-10",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-11",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-12",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-13",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}
