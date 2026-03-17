@@ -1,11 +1,316 @@
 [
   {
+    "id": "unknown-2026-03-17-001",
+    "date": "2026-03-17",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Dell updates Alienware gaming laptops with Intel’s Arrow Lake-HX Refresh CPUs — 16-inch models receive OLED display and GPU upgrades ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-17-021",
+    "date": "2026-03-17",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How AI Will Automate Chip Design",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-17-022",
+    "date": "2026-03-17",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Optimizing Oxide Interfaces To Preserve Device Performance in TMDC-based Transistors (imec, ETH Zurich)",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-17-023",
+    "date": "2026-03-17",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Research Bits: Mar. 17",
+    "summary": "",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-16-015",
     "date": "2026-03-16",
     "companies": [],
     "topics": [],
     "impact": "neutral",
     "title": "AI Design Reshapes Data Management",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "micron-2026-03-16-002",
+    "date": "2026-03-16",
+    "companies": [
+      "micron",
+      "nvidia"
+    ],
+    "topics": [
+      "hbm"
+    ],
+    "impact": "positive",
+    "title": " Micron enters high-volume production of HBM4 for Nvidia Vera Rubin - 2.3x bandwidth improvement and 20% boost in power efficiency ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-003",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Jensen Huang expects Nvidia to sell $1 trillion of AI hardware through 2027 — AI buildout intensifies as Agentic AI takes hold ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-004",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": " Nvidia announces Vera Rubin Space Module — up to 25x the AI compute of H100 for orbital data centers ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-005",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Nvidia's Nemotron coalition brings eight AI labs together to build open frontier models ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-006",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems — Intel wins a contract as Nvidia enters data center processor market with Vera CPUs ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-007",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": " Nvidia Groq 3 LPU and Groq LPX racks join Rubin platform at GTC — SRAM-packed accelerator boosts 'every layer of the AI model on every token' ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-008",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel – new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-009",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": " Nvidia debuts DLSS 5 for increased visual fidelity in games — AI-infused tech transforms pixels with photorealistic lighting and materials ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-010",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Meta's new MTIA lineup joins hyperscalers' unified push for dedicated inferencing chips — companies diversify AI chips in effort to diversify from sole reliance on Nvidia ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "microsoft-2026-03-16-011",
+    "date": "2026-03-16",
+    "companies": [
+      "microsoft",
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Microsoft and Samsung scramble to fix a major C: drive lockout bug on Galaxy devices — faulty Galaxy Connect app leaves users with 'limited' recovery options following recent Windows 11 update ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-03-16-012",
+    "date": "2026-03-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Nvidia GTC 2026 keynote live blog — Vera Rubin GPUs and CPUs, DLSS 5, and the 'future of technology' ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-013",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Creative updates its Sound Blaster PCIe sound card line after 5 years — new $79.99 Audigy FX Pro 7.1 pitched as ‘clear upgrade over standard onboard audio’ ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-014",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": " Intel's roadmaps examined  — 14A, Nova Lake, Diamond Rapids & AI accelerator push  ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "amd-2026-03-16-015",
+    "date": "2026-03-16",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": " First credible leak of an AMD Zen 6 processor pops up on Geekbench — ten-core CPU seems to have 32MB of L3 cache ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-016",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": " No more stick drift for under $50 — 8BitDo's Pro 3 controller with Hall-Effect TMR sticks and swappable ABXY buttons is 29% off while stocks last ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "amd-2026-03-16-017",
+    "date": "2026-03-16",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": " Save $290 on this all-AMD gaming PC with a 9800X3D and RX 9070 XT for 4K gaming — just $2,259 for an elite CyberPowerPC rig with 32GB of DDR5 RAM and a huge 2TB SSD ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-018",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " GTC 2026 ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-019",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": " STMicro to deploy humanoid robots to its legacy fabs in Europe — over 100 humanoid robots to be used for routine and physically demanding tasks in fight for efficiency ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-020",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": " Chinese GPU vendor Zephyr has cancelled its single-fan RTX 4070 Ti Super due to VRAM price hikes — memory shortage is forcing a pivot to an SFF RTX 4070 Super instead ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-024",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "3D DRAM with CBA Technology (Georgia Tech)",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-025",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Systematic Training and Validation of AI-based Systems With Digital Twins and Scenario Engineering",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-16-026",
+    "date": "2026-03-16",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Pathfinding Method That Models ECC Overhead for Chiplet Interconnects (UCLA)",
     "summary": "",
     "sources": []
   },
