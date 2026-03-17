@@ -18,14 +18,13 @@
 ### 維護檢查清單
 
 ```bash
-# 檢查最近的 GitHub Actions 執行狀態
-gh run list --limit 5
+# 一鍵健康檢查（檢查 Actions、事件、股價、本地同步狀態）
+./scripts/health_check.sh
 
-# 檢查今日是否有新資料
-ls -la data/events/$(date +%Y-%m-%d).jsonl
-
-# 檢查前端事件數量
-jq length site/data/events.json
+# 或手動檢查個別項目：
+gh run list --limit 5                          # GitHub Actions 狀態
+ls -la data/events/$(date +%Y-%m-%d).jsonl     # 今日事件
+jq length site/data/events.json                # 前端事件數量
 ```
 
 ---
