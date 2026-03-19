@@ -1,0 +1,129 @@
+{
+  "date": "2026-03-19",
+  "generated_at": "2026-03-19T08:54:59.824150Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-19-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及先進封裝"
+      ],
+      "title": "Advanced Packaging Limits Come Into Focus",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "advanced_packaging"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-19-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Quantifying The Impact Of Gravity On Strip Warpage Across Assembly Stages",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-03-19-016",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Exploring The Frontiers Of Lithography And Patterning: Highlights From SPIE Advanced Lithography + Patterning 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-03-19-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Process Model Precision: Calibrating For Accurate Predictions Of FinFET Device Profiles",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-03-19-018",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Scaling AI Infrastructure: Overcoming Interconnect Bottlenecks Via CPO And Heterogeneous Integration",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "advanced_packaging",
+        "count": 1
+      }
+    ]
+  }
+}

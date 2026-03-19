@@ -1,0 +1,91 @@
+{
+  "date": "2026-03-19",
+  "date_range": {
+    "start": "2026-03-13",
+    "end": "2026-03-19"
+  },
+  "generated_at": "2026-03-19T08:54:59.897636Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "micron-2026-03-16-002",
+      "date": "2026-03-16",
+      "title": " Micron enters high-volume production of HBM4 for Nvidia Vera Rubin - 2.3x bandwidth improvement and 20% boost in power efficiency ",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.43
+    },
+    "advanced_packaging": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung": {
+      "event_count": 3,
+      "sentiment_avg": 0.39,
+      "rank": 1
+    },
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 20,
+        "last": 24,
+        "change_pct": -16.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-13",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-14",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-17",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-18",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-19",
+      "event_count": 8,
+      "sentiment_avg": 0
+    }
+  ]
+}
