@@ -1,5 +1,109 @@
 [
   {
+    "id": "unknown-2026-03-26-017",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "AI Workloads Are Turning The Data Center Network Into A Combined Memory And Storage Fabric",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-018",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "IP Requirements Evolve For 3D Multi-Die Designs",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-019",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Importance Of Hardware Security Verification In Pre-Silicon Design",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-020",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Memory Wall Gets Higher",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-021",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Precision In Depth: Extraction Workflows For CFETs And Buried Power Rails",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-022",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Shift Verification Left: AI Tools For Faster, Smarter Chip Design",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-023",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "positive",
+    "title": "Data Boom Puts Pressure On NoCs, Fabrics",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-024",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Detect, Diagnose, And Debug Using Sensors And Functional Monitoring",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-025",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Removing The Accuracy And Time Tradeoff In EM Simulation",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-26-026",
+    "date": "2026-03-26",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AI Won’t Kill Verification IP, But It Will Redefine It",
+    "summary": "",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-25-021",
     "date": "2026-03-25",
     "companies": [],
@@ -36,6 +140,188 @@
     "topics": [],
     "impact": "neutral",
     "title": "Building an AI Chip: Security, Software Development, and Lifecycle Management",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-001",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Geekbench 6 warns about inconsistent benchmarking performance from new Core Ultra 200S Plus chips — says Intel's IPC boosting Binary Optimization Tool modifies scores in 'unclear' fashion ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "micron-2026-03-25-002",
+    "date": "2026-03-25",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": " Micron's $24 billion Singapore fab could need 500 transformers, more than double the output of any single manufacturer — heavy electrical infrastructure the latest AI buildout bottleneck ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "samsung-2026-03-25-003",
+    "date": "2026-03-25",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-004",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Intel Arc Pro B70 and Arc Pro B65 GPUs bring 32GB of RAM to AI and pro apps — bigger Battlemage finally arrives, but it's not for gamers ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "amd-2026-03-25-005",
+    "date": "2026-03-25",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": " PC makers face shortages of Intel and AMD CPUs that stretch up to six months — lead time for orders jumps from just two weeks in the face of AI demand ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-03-25-006",
+    "date": "2026-03-25",
+    "companies": [
+      "google",
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": " Google's TurboQuant reduces AI LLM cache memory capacity requirements by at least six times — up to 8x performance boost on Nvidia H100 GPUs, compresses KV caches to 3 bits with no accuracy loss ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-007",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-008",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs — ‘all-new’ vPro platform goes all-in on AI ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-009",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Start your AM5 build off right with an incredible deal on a Ryzen 9 9900X processor — get $185 off and walk away with the centerpiece of your new or upgraded PC for only $314.99, an all-time low ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-010",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "negative",
+    "title": " Kentucky farm family rejects $26 million offer for 600 acres of land from unnamed AI data center suitor — declines 7x offer, wants to ‘Stay and hold and feed a nation’ ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-011",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": " Gigabyte MO27Q28G 27-inch 280 Hz OLED gaming monitor review: Bright, colorful, and quick ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-012",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "positive",
+    "title": " Grab this $8.98 TP-Link gigabit Ethernet switch for lag-free 4K streaming and gaming — save nearly 50% on silent unmanaged 5-port hub to instantly expand your LAN ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-013",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": " The Super Micro AI accelerator smuggling scandal proves how cut-throat the global AI race has become — as global trade evolves, so does export control evasion ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-014",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Russian ‘Starlink Rival’ established with 16 satellites launched, aims for 900 by 2035 — commercial operation to begin next year with 250 sputniks ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-015",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "neutral",
+    "title": " Flipper Zero pen-testing tool gets an AI-powered companion app — natural language interface allows for faster, easier hacking ",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-25-016",
+    "date": "2026-03-25",
+    "companies": [],
+    "topics": [],
+    "impact": "positive",
+    "title": " HP's new AI workstation can expand horizontally to add 15% more internal volume — alternate side panel also includes more active cooling. ",
     "summary": "",
     "sources": []
   },
