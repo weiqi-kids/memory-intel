@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T09:23:16.342646Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-30-014",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Challenges In Scaling Chips To 2nm And Below",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-30-015",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "All Software Is Hardware-Dependent",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  }
+}
