@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-06",
+  "date_range": {
+    "start": "2026-03-31",
+    "end": "2026-04-06"
+  },
+  "generated_at": "2026-04-06T09:18:31.067184Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-01-004",
+      "date": "2026-04-01",
+      "title": " DRAM prices predicted to jump 63% in Q2, NAND up to 75% — follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight ",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "advanced_packaging": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "google": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 26,
+        "last": 18,
+        "change_pct": 44.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-31",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-06",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}
