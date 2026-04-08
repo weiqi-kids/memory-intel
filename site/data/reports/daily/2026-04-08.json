@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-08",
+  "generated_at": "2026-04-08T09:13:23.844888Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-08-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及 AI 伺服器"
+      ],
+      "title": "Inside the AI Accelerator: Essential IP Design Solutions: eBook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Corsair's Strix Halo AI Workstation 300 gets even more expensive amid the RAMpocalypse — Ryzen AI Max 395+ flagship now sits at $3,399 ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-08-016",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "State Of The Market For Edge Silicon",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-08-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AI At The Edge Ubiquitous, Agentic, Multimodal, and Hardware-Accelerated",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-08-018",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Engineer’s Guide to Simulating Electronics Cooling: eBook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "ai_server",
+        "count": 1
+      }
+    ]
+  }
+}
