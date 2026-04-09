@@ -1,0 +1,129 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T09:19:46.205072Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-09-018",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及 HBM"
+      ],
+      "title": "Early HBM4 Validation Points The Way For Next Generation AI And HPC Systems",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-09-017",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PCIe 8.0: Enabling The Next Generation Of High Bandwidth Systems",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-09-019",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Coming Breakup Between AI And The Cloud",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-09-020",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Power Integrity Without Blind Spots: A System Level Approach To 3D-ICs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-09-021",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DRAM’s Whac‑A‑Mole Security Crisis",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "hbm",
+        "count": 1
+      }
+    ]
+  }
+}
