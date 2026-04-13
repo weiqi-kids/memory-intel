@@ -147,7 +147,7 @@ def enrich_event(
         標註後的事件
     """
     title = raw_event.get("title", "")
-    content = raw_event.get("content", "")
+    content = raw_event.get("content", "") or raw_event.get("summary", "")
     full_text = f"{title} {content}"
 
     # 取得事件日期（優先使用 published_at）
@@ -265,6 +265,31 @@ def process_events(
         # 過濾掉沒有 published_at 的事件（通常是抓錯的靜態頁面）
         if not raw_event.get("published_at"):
             skipped_no_date += 1
+            continue
+
+        # 預先檢查相關性
+        title = raw_event.get("title", "")
+        content = raw_event.get("content", "") or raw_event.get("summary", "")
+        preview_text = f"{title} {content}"
+        preview_companies = matcher.match_companies(preview_text)
+        preview_topics = matcher.match_topics(preview_text)
+        # 第一關：必須匹配到追蹤公司或追蹤主題
+        if not preview_companies and not preview_topics:
+            continue
+        # 第二關：標題必須包含半導體/記憶體產業關鍵字（過濾家電、手錶等無關文章）
+        industry_keywords = [
+            "semiconductor", "ai memory", "memory chip", "memory solution",
+            "dram", "nand", "hbm", "flash memory",
+            "wafer", "chip", "fab", "foundry", "euv", "lithography",
+            "server", "data center", "datacenter", "gpu", "ai accelerator",
+            "半導體", "記憶體", "晶片", "晶圓", "封裝",
+            "earnings", "revenue", "profit", "guidance", "forecast",
+            "quarterly results", "financial results",
+            "營收", "獲利", "財報", "法說",
+            "ssd", "storage", "ddr4", "ddr5", "lpddr",
+        ]
+        title_lower = title.lower()
+        if not any(kw.lower() in title_lower for kw in industry_keywords):
             continue
 
         # 標註事件

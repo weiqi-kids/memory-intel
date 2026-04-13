@@ -84,12 +84,12 @@ def main():
     raw_dir = Path(__file__).parent.parent / "data" / "raw" / today
     raw_dir.mkdir(parents=True, exist_ok=True)
 
-    # Memory/semiconductor related feeds
+    # Memory/semiconductor focused feeds
     feeds = {
-        "digitimes": "https://www.digitimes.com/rss/rss.xml",
-        "anandtech": "https://www.anandtech.com/rss/",
-        "tomshardware": "https://www.tomshardware.com/feeds/all",
         "semiengineering": "https://semiengineering.com/feed/",
+        "digitimes": "https://www.digitimes.com/rss/rss.xml",
+        "tomshardware_memory": "https://www.tomshardware.com/feeds/tag/memory",
+        "tomshardware_storage": "https://www.tomshardware.com/feeds/tag/storage",
     }
 
     all_articles = []
