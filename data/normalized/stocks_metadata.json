@@ -1,252 +1,267 @@
 {
   "asml": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "tokyo_electron": {
-    "earliest": "2016-08-24",
+    "earliest": "2016-05-26",
     "latest": "2026-04-14",
-    "count": 2375
+    "count": 2437
   },
   "lam_research": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "sumco": {
-    "earliest": "2016-08-24",
+    "earliest": "2016-05-26",
     "latest": "2026-04-14",
-    "count": 2375
+    "count": 2437
   },
   "samsung": {
-    "earliest": "2016-08-25",
+    "earliest": "2016-05-27",
     "latest": "2026-04-14",
-    "count": 2357
+    "count": 2419
   },
   "skhynix": {
-    "earliest": "2016-08-25",
+    "earliest": "2016-05-27",
     "latest": "2026-04-14",
-    "count": 2357
+    "count": 2419
   },
   "micron": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "nanya": {
-    "earliest": "2016-09-05",
+    "earliest": "2016-06-07",
     "latest": "2026-04-14",
-    "count": 2331
+    "count": 2393
   },
   "winbond": {
-    "earliest": "2016-09-05",
+    "earliest": "2016-06-07",
     "latest": "2026-04-14",
-    "count": 2331
+    "count": 2393
   },
   "ase": {
-    "earliest": "2016-09-05",
+    "earliest": "2016-06-07",
     "latest": "2026-04-14",
-    "count": 2331
+    "count": 2393
   },
   "powertech": {
-    "earliest": "2016-09-05",
+    "earliest": "2016-06-07",
     "latest": "2026-04-14",
-    "count": 2331
+    "count": 2393
   },
   "ptc": {
-    "earliest": "2016-09-05",
+    "earliest": "2016-06-07",
     "latest": "2026-04-14",
-    "count": 2331
+    "count": 2393
   },
   "nvidia": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "amd": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "apple": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "aws": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "microsoft": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "google": {
-    "earliest": "2016-08-17",
+    "earliest": "2016-05-19",
     "latest": "2026-04-13",
-    "count": 2426
+    "count": 2488
   },
   "applied_materials": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-13",
-    "count": 122
+    "count": 185
   },
   "kla": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-13",
-    "count": 122
+    "count": 185
   },
   "shin_etsu": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-14",
-    "count": 120
+    "count": 179
   },
   "synopsys": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-13",
-    "count": 122
+    "count": 185
   },
   "cadence": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-13",
-    "count": 122
+    "count": 185
   },
   "arm": {
-    "earliest": "2025-10-16",
+    "earliest": "2025-07-18",
     "latest": "2026-04-13",
-    "count": 122
+    "count": 185
   },
   "kioxia": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-14",
+    "count": 179
+  },
+  "western_digital": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "tsmc": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "intel": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "amkor": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "broadcom": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "qualcomm": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "dell": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "hp": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "lenovo": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-14",
+    "count": 181
+  },
+  "supermicro": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "meta": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "oracle": {
+    "earliest": "2025-07-18",
+    "latest": "2026-04-13",
+    "count": 185
+  },
+  "screen": {
     "earliest": "2025-10-16",
     "latest": "2026-04-14",
     "count": 120
   },
-  "western_digital": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "tsmc": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "intel": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "amkor": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "broadcom": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "qualcomm": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "dell": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "hp": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "lenovo": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-14",
-    "count": 119
-  },
-  "supermicro": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "meta": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "oracle": {
-    "earliest": "2025-10-16",
-    "latest": "2026-04-13",
-    "count": 122
-  },
-  "screen": {
-    "earliest": "2026-01-14",
-    "latest": "2026-04-14",
-    "count": 62
-  },
   "entegris": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-13",
-    "count": 61
+    "count": 122
   },
   "silicon_motion": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-13",
-    "count": 61
+    "count": 122
   },
   "macronix": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 55
+    "count": 116
   },
   "elite_semi": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 55
+    "count": 116
   },
   "psmc": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-14",
-    "count": 55
+    "count": 116
   },
   "marvell": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-13",
-    "count": 61
+    "count": 122
   },
   "ti": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-10-16",
     "latest": "2026-04-13",
-    "count": 61
+    "count": 122
   },
   "onsemi": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "infineon": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-14",
+    "count": 122
+  },
+  "phison": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-14",
+    "count": 116
+  },
+  "adata": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-14",
+    "count": 116
+  },
+  "innodisk": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-14",
+    "count": 116
+  },
+  "etf_smh": {
     "earliest": "2026-01-14",
     "latest": "2026-04-13",
     "count": 61
   },
-  "infineon": {
+  "etf_soxx": {
     "earliest": "2026-01-14",
-    "latest": "2026-04-14",
-    "count": 63
+    "latest": "2026-04-13",
+    "count": 61
   },
-  "phison": {
+  "etf_soxq": {
     "earliest": "2026-01-14",
-    "latest": "2026-04-14",
-    "count": 55
-  },
-  "adata": {
-    "earliest": "2026-01-14",
-    "latest": "2026-04-14",
-    "count": 55
-  },
-  "innodisk": {
-    "earliest": "2026-01-14",
-    "latest": "2026-04-14",
-    "count": 55
+    "latest": "2026-04-13",
+    "count": 61
   }
 }

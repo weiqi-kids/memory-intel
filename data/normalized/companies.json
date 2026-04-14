@@ -1314,5 +1314,31 @@
       "target": "google",
       "strength": 2
     }
+  ],
+  "etfs": [
+    {
+      "id": "etf_smh",
+      "name": "VanEck Semiconductor ETF",
+      "ticker": "SMH",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "半導體 ETF 龍頭，前五大持倉 NVDA/TSM/AVGO/MU/ASML"
+    },
+    {
+      "id": "etf_soxx",
+      "name": "iShares Semiconductor ETF",
+      "ticker": "SOXX",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "半導體 ETF，權重較分散"
+    },
+    {
+      "id": "etf_soxq",
+      "name": "Invesco PHLX Semiconductor ETF",
+      "ticker": "SOXQ",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "費城半導體 ETF"
+    }
   ]
 }

@@ -40,7 +40,10 @@ HISTORY_CHUNK_MONTHS = 3  # 每次往前抓幾個月
 
 
 def load_companies() -> dict[str, str]:
-    """載入公司設定，返回 {ticker: company_id}"""
+    """載入公司與 ETF 設定，返回 {ticker: id}
+
+    ETF id 會加上 etf_ 前綴避免碰撞，例如 etf_smh
+    """
     with open(CONFIG_FILE, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
 
@@ -48,6 +51,9 @@ def load_companies() -> dict[str, str]:
     for c in config.get("companies", []):
         if c.get("ticker"):
             tickers[c["ticker"]] = c["id"]
+    for etf in config.get("etfs", []):
+        if etf.get("ticker"):
+            tickers[etf["ticker"]] = f"etf_{etf['id']}"
     return tickers
 
 

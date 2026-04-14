@@ -189,9 +189,22 @@ def main():
                     "strength": 2
                 })
 
+        # Build ETF list for visualization
+        viz_etfs = []
+        for etf in config.get("etfs", []):
+            viz_etfs.append({
+                "id": f"etf_{etf['id']}",
+                "name": etf.get("name", ""),
+                "ticker": etf.get("ticker", ""),
+                "market": etf.get("market", ""),
+                "currency": etf.get("currency", "USD"),
+                "description": etf.get("description", ""),
+            })
+
         viz_data = {
             "companies": viz_companies,
-            "links": viz_links
+            "links": viz_links,
+            "etfs": viz_etfs,
         }
 
         with open(normalized_dir / "companies.json", "w", encoding="utf-8") as f:
