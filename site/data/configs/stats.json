@@ -1,5 +1,5 @@
 {
-  "company_count": 19,
+  "company_count": 53,
   "topic_count": 14,
   "alias_count": 101,
   "positive_word_count": 27,
@@ -28,6 +28,21 @@
       "tier": ""
     },
     {
+      "id": "applied_materials",
+      "short_name": "Applied Materials",
+      "tier": ""
+    },
+    {
+      "id": "kla",
+      "short_name": "KLA Corporation",
+      "tier": ""
+    },
+    {
+      "id": "screen",
+      "short_name": "Screen Holdings",
+      "tier": ""
+    },
+    {
       "id": "sumco",
       "short_name": "SUMCO",
       "tier": ""
@@ -35,6 +50,31 @@
     {
       "id": "sk_siltron",
       "short_name": "SK Siltron",
+      "tier": ""
+    },
+    {
+      "id": "shin_etsu",
+      "short_name": "Shin-Etsu Chemical",
+      "tier": ""
+    },
+    {
+      "id": "entegris",
+      "short_name": "Entegris",
+      "tier": ""
+    },
+    {
+      "id": "synopsys",
+      "short_name": "Synopsys",
+      "tier": ""
+    },
+    {
+      "id": "cadence",
+      "short_name": "Cadence Design Systems",
+      "tier": ""
+    },
+    {
+      "id": "arm",
+      "short_name": "Arm Holdings",
       "tier": ""
     },
     {
@@ -63,6 +103,71 @@
       "tier": ""
     },
     {
+      "id": "kioxia",
+      "short_name": "Kioxia",
+      "tier": ""
+    },
+    {
+      "id": "western_digital",
+      "short_name": "Western Digital",
+      "tier": ""
+    },
+    {
+      "id": "cxmt",
+      "short_name": "長鑫存儲",
+      "tier": ""
+    },
+    {
+      "id": "ymtc",
+      "short_name": "長江存儲",
+      "tier": ""
+    },
+    {
+      "id": "phison",
+      "short_name": "Phison Electronics",
+      "tier": ""
+    },
+    {
+      "id": "silicon_motion",
+      "short_name": "Silicon Motion",
+      "tier": ""
+    },
+    {
+      "id": "macronix",
+      "short_name": "Macronix",
+      "tier": ""
+    },
+    {
+      "id": "elite_semi",
+      "short_name": "Elite Semiconductor",
+      "tier": ""
+    },
+    {
+      "id": "adata",
+      "short_name": "ADATA Technology",
+      "tier": ""
+    },
+    {
+      "id": "innodisk",
+      "short_name": "Innodisk",
+      "tier": ""
+    },
+    {
+      "id": "tsmc",
+      "short_name": "TSMC",
+      "tier": ""
+    },
+    {
+      "id": "intel",
+      "short_name": "Intel",
+      "tier": ""
+    },
+    {
+      "id": "psmc",
+      "short_name": "Powerchip Semiconductor",
+      "tier": ""
+    },
+    {
       "id": "ase",
       "short_name": "日月光投控",
       "tier": ""
@@ -78,6 +183,11 @@
       "tier": ""
     },
     {
+      "id": "amkor",
+      "short_name": "Amkor Technology",
+      "tier": ""
+    },
+    {
       "id": "nvidia",
       "short_name": "NVIDIA",
       "tier": ""
@@ -88,8 +198,58 @@
       "tier": ""
     },
     {
+      "id": "broadcom",
+      "short_name": "Broadcom",
+      "tier": ""
+    },
+    {
+      "id": "qualcomm",
+      "short_name": "Qualcomm",
+      "tier": ""
+    },
+    {
+      "id": "marvell",
+      "short_name": "Marvell Technology",
+      "tier": ""
+    },
+    {
+      "id": "ti",
+      "short_name": "Texas Instruments",
+      "tier": ""
+    },
+    {
+      "id": "onsemi",
+      "short_name": "ON Semiconductor",
+      "tier": ""
+    },
+    {
+      "id": "infineon",
+      "short_name": "Infineon Technologies",
+      "tier": ""
+    },
+    {
       "id": "apple",
       "short_name": "Apple",
+      "tier": ""
+    },
+    {
+      "id": "dell",
+      "short_name": "Dell Technologies",
+      "tier": ""
+    },
+    {
+      "id": "hp",
+      "short_name": "HP Inc.",
+      "tier": ""
+    },
+    {
+      "id": "lenovo",
+      "short_name": "Lenovo",
+      "tier": ""
+    },
+    {
+      "id": "supermicro",
+      "short_name": "Super Micro Computer",
       "tier": ""
     },
     {
@@ -105,6 +265,16 @@
     {
       "id": "google",
       "short_name": "Google Cloud",
+      "tier": ""
+    },
+    {
+      "id": "meta",
+      "short_name": "Meta Platforms",
+      "tier": ""
+    },
+    {
+      "id": "oracle",
+      "short_name": "Oracle",
       "tier": ""
     }
   ]
