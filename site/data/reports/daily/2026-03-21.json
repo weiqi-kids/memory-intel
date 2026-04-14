@@ -1,18 +1,58 @@
 {
   "date": "2026-03-21",
-  "generated_at": "2026-03-21T08:43:13.729562Z",
-  "top_events": [],
+  "generated_at": "2026-04-14T02:23:50.088165Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "apple-2026-03-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Cyberpunk 2077 runs on MacBook Neo at over 30 FPS — PC gaming is possible with A18 Pro iPhone chip ",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
   "anomalies": [],
   "topic_trends": {},
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 1,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "apple",
+        "count": 1
+      }
+    ],
     "top_topics": []
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，主要涉及Apple，涵蓋產業動態等議題。市場情緒中性，正面 0 則、中性 1 則、負面 0 則。",
+    "signals": [
+      {
+        "text": "Apple為今日最活躍公司（1 則），動態正常。",
+        "level": "green"
+      },
+      {
+        "text": "今日情緒以中性為主，市場波動有限。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

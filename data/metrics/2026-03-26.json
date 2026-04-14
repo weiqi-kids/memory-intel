@@ -1,11 +1,40 @@
 {
   "date": "2026-03-26",
-  "total_events": 10,
-  "by_company": {},
+  "total_events": 8,
+  "by_company": {
+    "supermicro": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nvidia": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "intel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "capex": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "ai_server": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "ddr5": {
       "count": 2,
-      "sentiment_avg": 0.25
+      "sentiment_avg": 0.0
+    },
+    "hbm": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "baselines_used": {

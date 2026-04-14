@@ -1,8 +1,34 @@
 {
   "date": "2026-03-15",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 5,
+  "by_company": {
+    "amd": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "apple": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "ddr5": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shortage": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

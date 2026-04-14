@@ -4,12 +4,12 @@
     "start": "2026-03-30",
     "end": "2026-04-05"
   },
-  "generated_at": "2026-04-05T08:55:11.458886Z",
+  "generated_at": "2026-04-14T02:23:58.955564Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "unknown-2026-04-01-004",
+      "event_id": "unknown-2026-04-01-002",
       "date": "2026-04-01",
       "title": " DRAM prices predicted to jump 63% in Q2, NAND up to 75% — follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight ",
       "importance_score": 1.0
@@ -17,64 +17,183 @@
   ],
   "anomalies_7d": [],
   "topic_7d_summary": {
-    "advanced_packaging": {
-      "this_week": 1,
+    "capex": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.25
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "ddr5": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 3,
       "last_week": 0,
       "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 5,
+      "last_week": 6,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.2
+    },
+    "earnings": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.5
     }
   },
   "company_7d_summary": {
-    "google": {
+    "amd": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "intel": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 3
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nvidia": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "oracle": {
       "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 1
+      "rank": 4
+    },
+    "samsung": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tsmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.75,
+      "rank": 5
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 26,
-        "last": 17,
-        "change_pct": 52.9
+        "this": 35,
+        "last": 37,
+        "change_pct": -5.4
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-03-30",
-      "event_count": 2,
+      "event_count": 5,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-31",
-      "event_count": 4,
+      "event_count": 5,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-01",
-      "event_count": 10,
+      "event_count": 4,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-02",
-      "event_count": 10,
+      "event_count": 9,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-03",
-      "event_count": 0,
+      "event_count": 7,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-04",
-      "event_count": 0,
+      "event_count": 3,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-05",
-      "event_count": 0,
+      "event_count": 2,
       "sentiment_avg": 0
     }
-  ]
+  ],
+  "llm_analysis": {
+    "summary": "過去七日（2026-03-30 至 2026-04-05）記憶體供應鏈共錄得 35 則事件，NVIDIA、AMD、Intel為最受關注的公司。資本支出、DDR5、法說會/財報等議題聲量上升，值得持續追蹤。",
+    "watchlist": [
+      {
+        "company": "NVIDIA",
+        "reason": "過去七日出現 10 則事件，為本週最受關注公司之一"
+      },
+      {
+        "company": "AMD",
+        "reason": "過去七日出現 5 則事件，為本週最受關注公司之一"
+      },
+      {
+        "company": "TSMC",
+        "reason": "正面情緒突出（0.75），市場反應積極"
+      },
+      {
+        "company": "資本支出",
+        "reason": "議題聲量週增+50%，趨勢上升中"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

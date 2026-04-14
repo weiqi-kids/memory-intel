@@ -1,57 +1,134 @@
 {
   "date": "2026-03-13",
-  "generated_at": "2026-03-14T04:16:02.436829Z",
+  "generated_at": "2026-04-14T02:23:45.488850Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "samsung-2026-03-13-001",
-      "importance_score": 0.65,
+      "event_id": "nvidia-2026-03-13-002",
+      "importance_score": 0.7,
       "importance_reasons": [
-        "情緒極端"
+        "涉及 AI 伺服器"
       ],
-      "title": "[World Sleep Day] How Samsung Is Tackling Sleep Apnea to Energize Your Days",
+      "title": " Nvidia claims 1 million times better path tracing performance is coming in future gaming GPUs — says current GPUs are already 10,000x faster than Pascal ",
       "companies": [
-        "samsung"
+        "nvidia"
       ],
-      "topics": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server"
+      ],
       "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      }
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
     },
     {
       "rank": 2,
-      "event_id": "samsung-2026-03-13-002",
+      "event_id": "unknown-2026-03-13-004",
       "importance_score": 0.65,
       "importance_reasons": [
-        "情緒極端"
+        "涉及產能"
       ],
-      "title": "Samsung Micro RGB TV Receives Safety for Eyes and Circadian Rhythm Display Certifications From VDE",
-      "companies": [
-        "samsung"
+      "title": "Chip Industry Week In Review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
       ],
-      "topics": [],
       "sentiment": {
-        "label": "positive",
-        "score": 1.0
-      }
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
     },
     {
       "rank": 3,
       "event_id": "unknown-2026-03-13-003",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": "At the Milano Cortina 2026 Paralympic Winter Games, Victory Selfie Reaches a New Milestone",
+      "title": " The ongoing Strait of Hormuz blockage will impact the semiconductor and AI industries with Aluminum, Helium and LNG shortages — and with no timeline for re-opening, supply chains face significant challenges ",
       "companies": [],
-      "topics": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shortage"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
-      }
+      },
+      "source_url": null
     }
   ],
   "anomalies": [],
+  "topic_trends": {
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
   "stats": {
-    "total_events": 3
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "shortage",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
   }
 }

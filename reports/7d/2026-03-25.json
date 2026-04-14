@@ -1,0 +1,210 @@
+{
+  "date": "2026-03-25",
+  "date_range": {
+    "start": "2026-03-19",
+    "end": "2026-03-25"
+  },
+  "generated_at": "2026-04-14T02:23:52.560232Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung-2026-03-19-004",
+      "date": "2026-03-19",
+      "title": " How Nvidia's $20 billion Groq 3 LPU deal reshapes the Nvidia Vera Rubin Platform — Samsung 4nm process serves as bedrock for SRAM-based AI accelerator chip ",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "euv": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.33
+    },
+    "shortage": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.13
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 10,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.33
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.38
+    }
+  },
+  "company_7d_summary": {
+    "amd": {
+      "event_count": 6,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "nvidia": {
+      "event_count": 9,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "samsung": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "microsoft": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "supermicro": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 12
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.75,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 37,
+        "last": 38,
+        "change_pct": -2.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-19",
+      "event_count": 10,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-20",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-22",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-23",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-24",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-25",
+      "event_count": 7,
+      "sentiment_avg": 0
+    }
+  ]
+}

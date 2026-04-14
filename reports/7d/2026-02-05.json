@@ -1,0 +1,115 @@
+{
+  "date": "2026-02-05",
+  "date_range": {
+    "start": "2026-01-30",
+    "end": "2026-02-05"
+  },
+  "generated_at": "2026-04-14T02:23:42.956101Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "skhynix-2026-02-05-004",
+      "date": "2026-02-05",
+      "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "shortage": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 1
+    },
+    "tsmc": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 2
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 3
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 4
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 5
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 6
+    },
+    "samsung": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 7
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 1,
+        "change_pct": 100.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-02",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-05",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "date": "2026-03-20",
+  "generated_at": "2026-04-14T02:23:49.498724Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-03-20-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Supermicro employees accused of smuggling $2.5 billion worth of Nvidia hardware to China — perps used a hairdryer to move serial numbers between real hardware and thousands of dummy servers ",
+      "companies": [
+        "intel",
+        "nvidia",
+        "supermicro"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-03-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Intel suggests it was snubbed by Crimson Desert dev after reaching out \"many times\" about Arc GPUs – company says it provided \"early hardware, drivers, and engineering resources\" to studio ",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-03-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Crimson Desert offers no support for Intel GPUs — developer Pearl Abyss says 'please refer to the refund policy' ",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "amd-2026-03-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " AMD releases FSR 4.1 for RX 9000-series GPUs — new update delivers better Ray Regeneration, finer upscaled detail, and higher FPS ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "supermicro",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  }
+}

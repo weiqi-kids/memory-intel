@@ -1,458 +1,1078 @@
-# 記憶體供應鏈公司清單
-# 包含上中下游關係
-
 companies:
-
-  # ========================================
-  # 上游 - 設備
-  # ========================================
-
-  - id: asml
-    name: ASML
-    aliases:
-      - 艾司摩爾
-    ticker: ASML
-    market: NASDAQ
-    currency: USD
-    position: upstream
-    role: 設備
-    description: EUV 微影設備獨家供應商
-    ir_url: https://www.asml.com/en/investors
-    downstream:
-      - samsung
-      - skhynix
-      - micron
-
-  - id: tokyo_electron
-    name: Tokyo Electron
-    aliases:
-      - 東京威力科創
-      - TEL
-    ticker: 8035.T
-    market: TSE
-    currency: JPY
-    position: upstream
-    role: 設備
-    description: 半導體製程設備
-    ir_url: https://www.tel.com/ir/
-    downstream:
-      - samsung
-      - skhynix
-      - micron
-
-  - id: lam_research
-    name: Lam Research
-    aliases:
-      - 科林研發
-    ticker: LRCX
-    market: NASDAQ
-    currency: USD
-    position: upstream
-    role: 設備
-    description: 蝕刻與沉積設備
-    ir_url: https://investor.lamresearch.com/
-    downstream:
-      - samsung
-      - skhynix
-      - micron
-
-  # ========================================
-  # 上游 - 材料
-  # ========================================
-
-  - id: sumco
-    name: SUMCO
-    aliases: []
-    ticker: 3436.T
-    market: TSE
-    currency: JPY
-    position: upstream
-    role: 矽晶圓
-    description: 矽晶圓製造商
-    ir_url: https://www.sumcosi.com/english/ir/
-    downstream:
-      - samsung
-      - skhynix
-      - micron
-
-  - id: sk_siltron
-    name: SK Siltron
-    aliases:
-      - SK實特隆
-    ticker: null  # SK hynix 子公司
-    market: null
-    currency: KRW
-    position: upstream
-    role: 矽晶圓
-    description: SK 集團矽晶圓子公司
-    ir_url: null
-    downstream:
-      - skhynix
-
-  # ========================================
-  # 中游 - 記憶體製造
-  # ========================================
-
-  - id: samsung
-    name: Samsung Electronics
-    aliases:
-      - 三星
-      - 三星電子
-      - 삼성전자
-    ticker: 005930.KS
-    market: KRX
-    currency: KRW
-    position: midstream
-    role: 記憶體製造
-    description: 全球最大記憶體製造商
-    ir_url: https://www.samsung.com/global/ir/
-    news_url: https://news.samsung.com/global/
-    upstream:
-      - asml
-      - tokyo_electron
-      - sumco
-    downstream:
-      - nvidia
-      - amd
-      - apple
-      - ase
-
-  - id: skhynix
-    name: SK hynix
-    aliases:
-      - SK海力士
-      - 海力士
-      - SK하이닉스
-    ticker: 000660.KS
-    market: KRX
-    currency: KRW
-    position: midstream
-    role: 記憶體製造
-    description: HBM 市場領導者
-    ir_url: https://www.skhynix.com/ir/
-    news_url: https://news.skhynix.com/
-    upstream:
-      - asml
-      - tokyo_electron
-      - sumco
-      - sk_siltron
-    downstream:
-      - nvidia
-      - amd
-      - powertech
-
-  - id: micron
-    name: Micron Technology
-    aliases:
-      - 美光
-    ticker: MU
-    market: NASDAQ
-    currency: USD
-    position: midstream
-    role: 記憶體製造
-    description: 美國最大記憶體製造商
-    ir_url: https://investors.micron.com/
-    news_url: https://www.micron.com/about/newsroom
-    upstream:
-      - asml
-      - tokyo_electron
-      - lam_research
-      - sumco
-    downstream:
-      - nvidia
-      - aws
-      - microsoft
-      - powertech
-
-  - id: nanya
-    name: 南亞科技
-    aliases:
-      - Nanya Technology
-      - 南亞科
-    ticker: 2408.TW
-    market: TWSE
-    currency: TWD
-    position: midstream
-    role: 記憶體製造
-    description: 台灣 DRAM 製造商
-    ir_url: https://www.nanya.com/tw/IR
-    upstream:
-      - asml
-    downstream:
-      - ptc
-      - powertech
-
-  - id: winbond
-    name: 華邦電子
-    aliases:
-      - Winbond
-      - 華邦電
-    ticker: 2344.TW
-    market: TWSE
-    currency: TWD
-    position: midstream
-    role: 記憶體製造
-    description: NOR Flash 與利基型 DRAM
-    ir_url: https://www.winbond.com/hq/about-winbond/investor-relations/
-    upstream:
-      - asml
-    downstream: []
-
-  # ========================================
-  # 中游 - 封測
-  # ========================================
-
-  - id: ase
-    name: 日月光投控
-    aliases:
-      - ASE
-      - 日月光
-    ticker: 3711.TW
-    market: TWSE
-    currency: TWD
-    position: midstream
-    role: 封測
-    description: 全球最大封測廠
-    ir_url: https://www.aseglobal.com/zh-tw/investor
-    upstream:
-      - samsung
-    downstream:
-      - nvidia
-      - amd
-
-  - id: powertech
-    name: 力成科技
-    aliases:
-      - Powertech Technology
-      - 力成
-    ticker: 6239.TW
-    market: TWSE
-    currency: TWD
-    position: midstream
-    role: 封測
-    description: 記憶體封測，HBM 封裝
-    ir_url: https://www.pfreak.com.tw/investor.php
-    upstream:
-      - skhynix
-      - micron
-      - nanya
-    downstream:
-      - nvidia
-
-  - id: ptc
-    name: 南茂科技
-    aliases:
-      - ChipMOS
-      - 南茂
-    ticker: 8150.TW
-    market: TWSE
-    currency: TWD
-    position: midstream
-    role: 封測
-    description: 記憶體與驅動 IC 封測
-    ir_url: https://www.chipmos.com/investor.php
-    upstream:
-      - nanya
-    downstream: []
-
-  # ========================================
-  # 下游 - GPU / AI 晶片
-  # ========================================
-
-  - id: nvidia
-    name: NVIDIA
-    aliases:
-      - 輝達
-    ticker: NVDA
-    market: NASDAQ
-    currency: USD
-    position: downstream
-    role: GPU
-    description: AI GPU 領導者，HBM 最大客戶
-    ir_url: https://investor.nvidia.com/
-    news_url: https://nvidianews.nvidia.com/
-    upstream:
-      - samsung
-      - skhynix
-      - micron
-      - ase
-      - powertech
-    downstream:
-      - aws
-      - microsoft
-      - google
-
-  - id: amd
-    name: AMD
-    aliases:
-      - 超微
-    ticker: AMD
-    market: NASDAQ
-    currency: USD
-    position: downstream
-    role: GPU/CPU
-    description: MI 系列 AI 加速器
-    ir_url: https://ir.amd.com/
-    upstream:
-      - samsung
-      - skhynix
-      - ase
-    downstream:
-      - aws
-      - microsoft
-
-  # ========================================
-  # 下游 - 消費電子
-  # ========================================
-
-  - id: apple
-    name: Apple
-    aliases:
-      - 蘋果
-    ticker: AAPL
-    market: NASDAQ
-    currency: USD
-    position: downstream
-    role: 消費電子
-    description: iPhone, Mac 記憶體需求
-    ir_url: https://investor.apple.com/
-    upstream:
-      - samsung
-      - skhynix
-    downstream: []
-
-  # ========================================
-  # 下游 - 雲端服務商 (CSP)
-  # ========================================
-
-  - id: aws
-    name: Amazon Web Services
-    aliases:
-      - AWS
-      - 亞馬遜雲端
-    ticker: AMZN
-    market: NASDAQ
-    currency: USD
-    position: downstream
-    role: CSP
-    description: 全球最大雲端服務商
-    ir_url: https://ir.aboutamazon.com/
-    upstream:
-      - nvidia
-      - amd
-      - micron
-    downstream: []
-
-  - id: microsoft
-    name: Microsoft
-    aliases:
-      - 微軟
-      - Azure
-    ticker: MSFT
-    market: NASDAQ
-    currency: USD
-    position: downstream
-    role: CSP
-    description: Azure 雲端，AI 投資大戶
-    ir_url: https://www.microsoft.com/investor
-    upstream:
-      - nvidia
-      - amd
-      - micron
-    downstream: []
-
-  - id: google
-    name: Google Cloud
-    aliases:
-      - GCP
-      - 谷歌雲端
-    ticker: GOOGL
-    market: NASDAQ
-    currency: USD
-    position: downstream
-    role: CSP
-    description: Google Cloud Platform
-    ir_url: https://abc.xyz/investor/
-    upstream:
-      - nvidia
-    downstream: []
-
-
-# ========================================
-# 供應鏈層級定義
-# ========================================
-
+- id: asml
+  name: ASML
+  aliases:
+  - 艾司摩爾
+  ticker: ASML
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 設備
+  description: EUV 微影設備獨家供應商
+  ir_url: https://www.asml.com/en/investors
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - intel
+  - kioxia
+  - nanya
+  - winbond
+  - cxmt
+  - ymtc
+- id: tokyo_electron
+  name: Tokyo Electron
+  aliases:
+  - 東京威力科創
+  - TEL
+  ticker: 8035.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 設備
+  description: 半導體製程設備
+  ir_url: https://www.tel.com/ir/
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - intel
+  - kioxia
+  - nanya
+  - winbond
+- id: lam_research
+  name: Lam Research
+  aliases:
+  - 科林研發
+  ticker: LRCX
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 設備
+  description: 蝕刻與沉積設備
+  ir_url: https://investor.lamresearch.com/
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - intel
+  - kioxia
+  - western_digital
+- id: applied_materials
+  name: Applied Materials
+  aliases:
+  - 應材
+  - AMAT
+  ticker: AMAT
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 設備
+  description: 半導體製程設備（薄膜、離子植入）
+  ir_url: https://ir.appliedmaterials.com/
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - intel
+  - kioxia
+  - nanya
+  - winbond
+- id: kla
+  name: KLA Corporation
+  aliases:
+  - KLA
+  ticker: KLAC
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 設備
+  description: 製程檢測與量測設備
+  ir_url: https://ir.kla.com/
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - intel
+- id: screen
+  name: Screen Holdings
+  aliases: []
+  ticker: 7735.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 設備
+  description: 清洗與塗佈設備
+  ir_url: null
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+- id: sumco
+  name: SUMCO
+  aliases: []
+  ticker: 3436.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 材料
+  description: 矽晶圓製造商
+  ir_url: https://www.sumcosi.com/english/ir/
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - intel
+- id: sk_siltron
+  name: SK Siltron
+  aliases:
+  - SK實特隆
+  ticker: null
+  market: null
+  currency: KRW
+  position: upstream
+  role: 材料
+  description: SK 集團矽晶圓子公司
+  ir_url: null
+  downstream:
+  - skhynix
+  - samsung
+- id: shin_etsu
+  name: Shin-Etsu Chemical
+  aliases:
+  - 信越化學
+  - Shin-Etsu
+  ticker: 4063.T
+  market: TSE
+  currency: JPY
+  position: upstream
+  role: 材料
+  description: 矽晶圓與光阻材料
+  ir_url: https://www.shinetsu.co.jp/en/ir/
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - intel
+- id: entegris
+  name: Entegris
+  aliases: []
+  ticker: ENTG
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 材料
+  description: 製程化學材料與過濾系統
+  ir_url: null
+  downstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - intel
+- id: synopsys
+  name: Synopsys
+  aliases:
+  - 新思科技
+  ticker: SNPS
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: EDA
+  description: EDA 工具與半導體 IP
+  ir_url: https://investor.synopsys.com/
+  downstream:
+  - samsung
+  - skhynix
+  - nvidia
+  - amd
+  - broadcom
+  - qualcomm
+  - intel
+- id: cadence
+  name: Cadence Design Systems
+  aliases:
+  - 益華電腦
+  ticker: CDNS
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: EDA
+  description: EDA 工具與半導體 IP
+  ir_url: https://investors.cadence.com/
+  downstream:
+  - samsung
+  - skhynix
+  - nvidia
+  - amd
+  - broadcom
+  - qualcomm
+  - intel
+- id: arm
+  name: Arm Holdings
+  aliases:
+  - ARM
+  - 安謀
+  ticker: ARM
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: IP
+  description: 處理器架構 IP 授權
+  ir_url: https://investors.arm.com/
+  downstream:
+  - nvidia
+  - amd
+  - apple
+  - qualcomm
+  - broadcom
+- id: samsung
+  name: Samsung Electronics
+  aliases:
+  - 三星
+  - 三星電子
+  - 삼성전자
+  ticker: 005930.KS
+  market: KRX
+  currency: KRW
+  position: midstream
+  role: 記憶體製造
+  description: 全球最大記憶體製造商
+  ir_url: https://www.samsung.com/global/ir/
+  news_url: https://news.samsung.com/global/
+  upstream:
+  - asml
+  - tokyo_electron
+  - applied_materials
+  - sumco
+  - shin_etsu
+  downstream:
+  - nvidia
+  - amd
+  - apple
+  - dell
+  - hp
+  - lenovo
+  - supermicro
+  - ase
+  - amkor
+- id: skhynix
+  name: SK hynix
+  aliases:
+  - SK海力士
+  - 海力士
+  - SK하이닉스
+  ticker: 000660.KS
+  market: KRX
+  currency: KRW
+  position: midstream
+  role: 記憶體製造
+  description: HBM 市場領導者
+  ir_url: https://www.skhynix.com/ir/
+  news_url: https://news.skhynix.com/
+  upstream:
+  - asml
+  - tokyo_electron
+  - applied_materials
+  - sumco
+  - sk_siltron
+  downstream:
+  - nvidia
+  - amd
+  - apple
+  - dell
+  - supermicro
+  - powertech
+- id: micron
+  name: Micron Technology
+  aliases:
+  - 美光
+  ticker: MU
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 記憶體製造
+  description: 美國最大記憶體製造商
+  ir_url: https://investors.micron.com/
+  news_url: https://www.micron.com/about/newsroom
+  upstream:
+  - asml
+  - tokyo_electron
+  - lam_research
+  - applied_materials
+  - sumco
+  downstream:
+  - nvidia
+  - amd
+  - apple
+  - dell
+  - hp
+  - aws
+  - microsoft
+  - powertech
+- id: nanya
+  name: 南亞科技
+  aliases:
+  - Nanya Technology
+  - 南亞科
+  ticker: 2408.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 記憶體製造
+  description: 台灣 DRAM 製造商
+  ir_url: https://www.nanya.com/tw/IR
+  upstream:
+  - asml
+  - applied_materials
+  downstream:
+  - dell
+  - hp
+  - lenovo
+  - ptc
+  - powertech
+- id: winbond
+  name: 華邦電子
+  aliases:
+  - Winbond
+  - 華邦電
+  ticker: 2344.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 記憶體製造
+  description: NOR Flash 與利基型 DRAM
+  ir_url: https://www.winbond.com/hq/about-winbond/investor-relations/
+  upstream:
+  - asml
+  - applied_materials
+  downstream:
+  - dell
+  - hp
+  - lenovo
+- id: kioxia
+  name: Kioxia
+  aliases:
+  - 鎧俠
+  - Toshiba Memory
+  ticker: 285A.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 記憶體製造
+  description: NAND Flash 主要製造商
+  ir_url: https://www.kioxia.com/en-jp/ir/
+  upstream:
+  - asml
+  - tokyo_electron
+  - lam_research
+  downstream:
+  - apple
+  - dell
+  - hp
+  - lenovo
+- id: western_digital
+  name: Western Digital
+  aliases:
+  - WD
+  - 威騰電子
+  ticker: WDC
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 記憶體製造
+  description: NAND Flash 與儲存裝置
+  ir_url: https://investor.wdc.com/
+  upstream:
+  - asml
+  - lam_research
+  downstream:
+  - dell
+  - hp
+  - lenovo
+  - aws
+  - microsoft
+- id: cxmt
+  name: 長鑫存儲
+  aliases:
+  - CXMT
+  - ChangXin Memory
+  ticker: null
+  market: null
+  currency: CNY
+  position: midstream
+  role: 記憶體製造
+  description: 中國 DRAM 製造商
+  ir_url: null
+  downstream:
+  - lenovo
+  upstream:
+  - asml
+- id: ymtc
+  name: 長江存儲
+  aliases:
+  - YMTC
+  - Yangtze Memory
+  ticker: null
+  market: null
+  currency: CNY
+  position: midstream
+  role: 記憶體製造
+  description: 中國 NAND Flash 製造商
+  ir_url: null
+  downstream:
+  - lenovo
+  upstream:
+  - asml
+- id: phison
+  name: Phison Electronics
+  aliases:
+  - 群聯電子
+  - 群聯
+  ticker: 8299.TWO
+  market: TPEx
+  currency: TWD
+  position: midstream
+  role: 控制IC
+  description: NAND 控制 IC 龍頭
+  ir_url: null
+  upstream:
+  - kioxia
+  - western_digital
+  - micron
+  downstream:
+  - dell
+  - hp
+  - lenovo
+- id: silicon_motion
+  name: Silicon Motion
+  aliases:
+  - 慧榮科技
+  - 慧榮
+  ticker: SIMO
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 控制IC
+  description: SSD 控制器
+  ir_url: null
+  upstream:
+  - kioxia
+  - western_digital
+  downstream:
+  - dell
+  - hp
+- id: macronix
+  name: Macronix
+  aliases:
+  - 旺宏電子
+  - 旺宏
+  ticker: 2337.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 利基記憶體
+  description: NOR Flash 與 ROM
+  ir_url: null
+  upstream:
+  - asml
+  downstream: []
+- id: elite_semi
+  name: Elite Semiconductor
+  aliases:
+  - 晶豪科
+  - 晶豪科技
+  ticker: 3006.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 利基記憶體
+  description: 利基型 DRAM 與 Flash 設計
+  ir_url: null
+  upstream:
+  - tsmc
+  downstream: []
+- id: adata
+  name: ADATA Technology
+  aliases:
+  - 威剛科技
+  - 威剛
+  ticker: 3260.TWO
+  market: TPEx
+  currency: TWD
+  position: midstream
+  role: 記憶體模組
+  description: 全球前二大 DRAM 模組廠
+  ir_url: null
+  upstream:
+  - samsung
+  - skhynix
+  - micron
+  downstream: []
+- id: innodisk
+  name: Innodisk
+  aliases:
+  - 宜鼎國際
+  - 宜鼎
+  ticker: 5289.TWO
+  market: TPEx
+  currency: TWD
+  position: midstream
+  role: 記憶體模組
+  description: 工業級記憶體與儲存
+  ir_url: null
+  upstream:
+  - samsung
+  - micron
+  - kioxia
+  downstream: []
+- id: tsmc
+  name: TSMC
+  aliases:
+  - 台積電
+  - 台灣積體電路
+  ticker: TSM
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 代工
+  description: 全球最大晶圓代工，CoWoS 先進封裝
+  ir_url: https://investor.tsmc.com/
+  downstream:
+  - nvidia
+  - amd
+  - apple
+  - broadcom
+  - qualcomm
+  upstream:
+  - asml
+  - tokyo_electron
+  - lam_research
+  - applied_materials
+  - sumco
+  - shin_etsu
+  - synopsys
+  - cadence
+- id: intel
+  name: Intel
+  aliases:
+  - 英特爾
+  ticker: INTC
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 代工
+  description: IDM + 代工服務，EMIB-T 先進封裝
+  ir_url: https://www.intc.com/
+  upstream:
+  - asml
+  - applied_materials
+  - synopsys
+  - cadence
+  downstream:
+  - dell
+  - hp
+  - lenovo
+  - aws
+  - microsoft
+  - google
+- id: psmc
+  name: Powerchip Semiconductor
+  aliases:
+  - 力積電
+  ticker: 6770.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 代工
+  description: DRAM 代工，產線部分售予 Micron
+  ir_url: null
+  upstream:
+  - asml
+  - applied_materials
+  downstream:
+  - nanya
+  - winbond
+  - phison
+- id: ase
+  name: 日月光投控
+  aliases:
+  - ASE
+  - 日月光
+  ticker: 3711.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 封測
+  description: 全球最大封測廠
+  ir_url: https://www.aseglobal.com/zh-tw/investor
+  upstream:
+  - samsung
+  - skhynix
+  - micron
+  downstream:
+  - nvidia
+  - amd
+  - apple
+  - broadcom
+  - qualcomm
+- id: powertech
+  name: 力成科技
+  aliases:
+  - Powertech Technology
+  - 力成
+  ticker: 6239.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 封測
+  description: 記憶體封測，HBM 封裝
+  ir_url: https://www.pfreak.com.tw/investor.php
+  upstream:
+  - skhynix
+  - micron
+  - nanya
+  downstream:
+  - nvidia
+  - amd
+- id: ptc
+  name: 南茂科技
+  aliases:
+  - ChipMOS
+  - 南茂
+  ticker: 8150.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 封測
+  description: 記憶體與驅動 IC 封測
+  ir_url: https://www.chipmos.com/investor.php
+  upstream:
+  - nanya
+  - winbond
+  downstream: []
+- id: amkor
+  name: Amkor Technology
+  aliases:
+  - 艾克爾
+  ticker: AMKR
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 封測
+  description: 先進封裝與測試
+  ir_url: https://ir.amkor.com/
+  upstream:
+  - samsung
+  - micron
+  - tsmc
+  downstream:
+  - nvidia
+  - apple
+  - broadcom
+- id: nvidia
+  name: NVIDIA
+  aliases:
+  - 輝達
+  ticker: NVDA
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: GPU
+  description: AI GPU 領導者，HBM 最大客戶
+  ir_url: https://investor.nvidia.com/
+  news_url: https://nvidianews.nvidia.com/
+  upstream:
+  - samsung
+  - skhynix
+  - micron
+  - tsmc
+  - ase
+  - powertech
+  - amkor
+  downstream:
+  - aws
+  - microsoft
+  - google
+  - meta
+  - oracle
+  - dell
+  - supermicro
+- id: amd
+  name: AMD
+  aliases:
+  - 超微
+  ticker: AMD
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: GPU/CPU
+  description: MI 系列 AI 加速器
+  ir_url: https://ir.amd.com/
+  upstream:
+  - samsung
+  - skhynix
+  - tsmc
+  - ase
+  - powertech
+  downstream:
+  - aws
+  - microsoft
+  - dell
+  - supermicro
+- id: broadcom
+  name: Broadcom
+  aliases:
+  - 博通
+  ticker: AVGO
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: AI 晶片
+  description: 客製化 AI 晶片（Google TPU）
+  ir_url: https://investors.broadcom.com/
+  upstream:
+  - tsmc
+  - ase
+  - amkor
+  - skhynix
+  downstream:
+  - google
+  - meta
+- id: qualcomm
+  name: Qualcomm
+  aliases:
+  - 高通
+  ticker: QCOM
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 行動晶片
+  description: 行動處理器與基頻晶片
+  ir_url: https://investor.qualcomm.com/
+  upstream:
+  - tsmc
+  - samsung
+  - ase
+  downstream:
+  - apple
+  - lenovo
+- id: marvell
+  name: Marvell Technology
+  aliases:
+  - Marvell
+  - 美滿電子
+  ticker: MRVL
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 網通晶片
+  description: 資料中心網路晶片
+  ir_url: null
+  upstream:
+  - tsmc
+  - ase
+  downstream:
+  - aws
+  - microsoft
+  - google
+- id: ti
+  name: Texas Instruments
+  aliases:
+  - TI
+  - 德州儀器
+  ticker: TXN
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 類比IC
+  description: 類比 IC 龍頭
+  ir_url: null
+  upstream: []
+  downstream: []
+- id: onsemi
+  name: ON Semiconductor
+  aliases:
+  - ON Semi
+  - 安森美
+  ticker: 'ON'
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 功率半導體
+  description: 車用與工業功率半導體
+  ir_url: null
+  upstream: []
+  downstream: []
+- id: infineon
+  name: Infineon Technologies
+  aliases:
+  - Infineon
+  - 英飛凌
+  ticker: IFX.DE
+  market: XETRA
+  currency: EUR
+  position: downstream
+  role: 車用晶片
+  description: 車用 MCU 與功率半導體
+  ir_url: null
+  upstream: []
+  downstream: []
+- id: apple
+  name: Apple
+  aliases:
+  - 蘋果
+  ticker: AAPL
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 系統
+  description: iPhone, Mac 記憶體需求
+  ir_url: https://investor.apple.com/
+  upstream:
+  - samsung
+  - skhynix
+  - tsmc
+  - kioxia
+  - amkor
+  downstream: []
+- id: dell
+  name: Dell Technologies
+  aliases:
+  - 戴爾
+  ticker: DELL
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 系統
+  description: 伺服器與 PC，AI 伺服器主要 OEM
+  ir_url: https://investors.delltechnologies.com/
+  upstream:
+  - nvidia
+  - micron
+  - intel
+  - samsung
+  - skhynix
+  downstream: []
+- id: hp
+  name: HP Inc.
+  aliases:
+  - 惠普
+  ticker: HPQ
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 系統
+  description: PC 與工作站
+  ir_url: https://investor.hp.com/
+  upstream:
+  - micron
+  - intel
+  - nanya
+  - winbond
+  downstream: []
+- id: lenovo
+  name: Lenovo
+  aliases:
+  - 聯想
+  ticker: 0992.HK
+  market: HKEX
+  currency: HKD
+  position: downstream
+  role: 系統
+  description: 全球最大 PC 廠商
+  ir_url: https://investor.lenovo.com/
+  upstream:
+  - micron
+  - samsung
+  - intel
+  - nanya
+  - qualcomm
+  downstream: []
+- id: supermicro
+  name: Super Micro Computer
+  aliases:
+  - Supermicro
+  - 超微電腦
+  - Super Micro
+  ticker: SMCI
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 系統
+  description: AI 伺服器主要 ODM
+  ir_url: https://ir.supermicro.com/
+  upstream:
+  - nvidia
+  - micron
+  - intel
+  - samsung
+  downstream: []
+- id: aws
+  name: Amazon Web Services
+  aliases:
+  - AWS
+  - 亞馬遜雲端
+  ticker: AMZN
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: CSP
+  description: 全球最大雲端服務商
+  ir_url: https://ir.aboutamazon.com/
+  upstream:
+  - nvidia
+  - amd
+  - intel
+  - micron
+  downstream: []
+- id: microsoft
+  name: Microsoft
+  aliases:
+  - 微軟
+  - Azure
+  ticker: MSFT
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: CSP
+  description: Azure 雲端，AI 投資大戶
+  ir_url: https://www.microsoft.com/investor
+  upstream:
+  - nvidia
+  - amd
+  - intel
+  - micron
+  downstream: []
+- id: google
+  name: Google Cloud
+  aliases:
+  - GCP
+  - 谷歌雲端
+  - Alphabet
+  ticker: GOOGL
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: CSP
+  description: Google Cloud Platform，TPU 自研晶片
+  ir_url: https://abc.xyz/investor/
+  upstream:
+  - nvidia
+  - broadcom
+  - intel
+  downstream: []
+- id: meta
+  name: Meta Platforms
+  aliases:
+  - Facebook
+  - 臉書
+  ticker: META
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: CSP
+  description: AI 基礎建設大量投資
+  ir_url: https://investor.fb.com/
+  upstream:
+  - nvidia
+  - broadcom
+  - micron
+  downstream: []
+- id: oracle
+  name: Oracle
+  aliases:
+  - 甲骨文
+  ticker: ORCL
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: CSP
+  description: OCI 雲端服務，AI 基礎建設
+  ir_url: https://investor.oracle.com/
+  upstream:
+  - nvidia
+  - intel
+  downstream: []
 supply_chain_positions:
   upstream:
-    - 設備
-    - 矽晶圓
-    - 材料
+  - 設備
+  - 材料
+  - EDA
+  - IP
   midstream:
-    - 記憶體製造
-    - 封測
+  - 記憶體製造
+  - 控制IC
+  - 利基記憶體
+  - 記憶體模組
+  - 代工
+  - 封測
   downstream:
-    - GPU
-    - GPU/CPU
-    - 消費電子
-    - CSP
-
-
-# ========================================
-# 主題清單
-# ========================================
-
+  - GPU
+  - GPU/CPU
+  - AI 晶片
+  - 行動晶片
+  - 網通晶片
+  - 類比IC
+  - 功率半導體
+  - 車用晶片
+  - 系統
+  - CSP
 topics:
-  - id: hbm
-    name: HBM
-    keywords:
-      - HBM
-      - HBM2
-      - HBM2E
-      - HBM3
-      - HBM3E
-      - HBM4
-      - High Bandwidth Memory
-      - 高頻寬記憶體
-
-  - id: dram_price
-    name: DRAM 價格
-    keywords:
-      - DRAM price
-      - DRAM 報價
-      - DDR4 price
-      - DDR5 price
-      - 記憶體報價
-
-  - id: nand_price
-    name: NAND 價格
-    keywords:
-      - NAND price
-      - NAND 報價
-      - Flash price
-      - SSD price
-
-  - id: capex
-    name: 資本支出
-    keywords:
-      - capex
-      - capital expenditure
-      - 資本支出
-      - 擴產
-      - 投資
-
-  - id: ai_server
-    name: AI 伺服器
-    keywords:
-      - AI server
-      - AI 伺服器
-      - GPU server
-      - accelerator
-
-  - id: earnings
-    name: 法說會
-    keywords:
-      - earnings
-      - 法說會
-      - 財報
-      - quarterly results
-      - guidance
+- id: hbm
+  name: HBM
+  keywords:
+  - HBM
+  - HBM2
+  - HBM2E
+  - HBM3
+  - HBM3E
+  - HBM4
+  - High Bandwidth Memory
+  - 高頻寬記憶體
+- id: dram_price
+  name: DRAM 價格
+  keywords:
+  - DRAM price
+  - DRAM 報價
+  - DDR4 price
+  - DDR5 price
+  - 記憶體報價
+- id: nand_price
+  name: NAND 價格
+  keywords:
+  - NAND price
+  - NAND 報價
+  - Flash price
+  - SSD price
+- id: capex
+  name: 資本支出
+  keywords:
+  - capex
+  - capital expenditure
+  - 資本支出
+  - 擴產
+  - 投資
+- id: ai_server
+  name: AI 伺服器
+  keywords:
+  - AI server
+  - AI 伺服器
+  - GPU server
+  - accelerator
+- id: earnings
+  name: 法說會
+  keywords:
+  - earnings
+  - 法說會
+  - 財報
+  - quarterly results
+  - guidance

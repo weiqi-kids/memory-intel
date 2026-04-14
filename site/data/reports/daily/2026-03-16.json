@@ -1,14 +1,92 @@
 {
   "date": "2026-03-16",
-  "generated_at": "2026-03-16T09:07:33.430185Z",
+  "generated_at": "2026-04-14T02:23:47.131653Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-03-16-015",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "AI Design Reshapes Data Management",
-      "companies": [],
+      "event_id": "nvidia-2026-03-16-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及 AI 伺服器",
+        "涉及先進封裝",
+        "涉及 AI 記憶體"
+      ],
+      "title": "SK hynix to Showcase AI Memory Leadership at NVIDIA GTC 2026",
+      "companies": [
+        "nvidia",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "skhynix"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "capacity",
+        "ai_server",
+        "inventory",
+        "ddr5",
+        "advanced_packaging"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "micron-2026-03-16-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Micron enters high-volume production of HBM4 for Nvidia Vera Rubin - 2.3x bandwidth improvement and 20% boost in power efficiency ",
+      "companies": [
+        "micron",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "micron"
+        ]
+      },
+      "topics": [
+        "hbm"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-03-16-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Intel Xeon 6 selected as host CPU for Nvidia DGX Rubin NVL8 systems — Intel wins a contract as Nvidia enters data center processor market with Vera CPUs ",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
@@ -19,19 +97,231 @@
         "score": 0.0
       },
       "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-03-16-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Nvidia unveils details of new 88-core Vera CPUs positioned to compete with AMD and Intel – new Vera CPU rack features 256 liquid-cooled chips that deliver up to a 6X gain in CPU throughput ",
+      "companies": [
+        "nvidia",
+        "intel",
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-03-16-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": " Meta's new MTIA lineup joins hyperscalers' unified push for dedicated inferencing chips — companies diversify AI chips in effort to diversify from sole reliance on Nvidia ",
+      "companies": [
+        "nvidia",
+        "meta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
-  "supply_chain_activity": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ],
   "stats": {
-    "total_events": 1,
+    "total_events": 11,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 1,
+      "positive": 4,
+      "neutral": 7,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
-  }
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 7
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      },
+      {
+        "id": "micron",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ai_server",
+        "count": 4
+      },
+      {
+        "id": "hbm",
+        "count": 2
+      },
+      {
+        "id": "ddr5",
+        "count": 2
+      },
+      {
+        "id": "ai_memory",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點集中在NVIDIA、Intel、AMD的AI伺服器、HBM、DDR5相關動態，其中「SK hynix to Showcase AI Memory Leadership at NVIDIA GTC 2026」最受關注。市場情緒中性，正面 4 則、中性 7 則、負面 0 則。",
+    "signals": [
+      {
+        "text": "AI伺服器相關新聞密集出現（4 則），顯示產業關注度升溫。",
+        "level": "yellow"
+      },
+      {
+        "text": "NVIDIA、Intel出現高重要性事件，建議密切追蹤後續發展。",
+        "level": "yellow"
+      },
+      {
+        "text": "正面訊號明顯（4/11 則），市場氛圍樂觀。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

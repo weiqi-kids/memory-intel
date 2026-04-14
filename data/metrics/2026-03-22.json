@@ -1,8 +1,30 @@
 {
   "date": "2026-03-22",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 3,
+  "by_company": {
+    "intel": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "dram_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ddr5": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

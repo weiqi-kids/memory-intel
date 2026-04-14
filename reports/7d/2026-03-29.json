@@ -1,0 +1,188 @@
+{
+  "date": "2026-03-29",
+  "date_range": {
+    "start": "2026-03-23",
+    "end": "2026-03-29"
+  },
+  "generated_at": "2026-04-14T02:23:54.920694Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "skhynix-2026-03-24-002",
+      "date": "2026-03-24",
+      "title": " SK hynix places record $8 billion order for ASML EUV lithography machines — should pay for up to 30 EUV machines over two years, serving HBM and advanced DRAM production ",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.13
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 10,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.33
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.5
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.38
+    },
+    "capex": {
+      "this_week": 4,
+      "last_week": 7,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.13
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    }
+  },
+  "company_7d_summary": {
+    "amd": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "intel": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "nvidia": {
+      "event_count": 8,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 9
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "samsung": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.75,
+      "rank": 13
+    },
+    "supermicro": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 37,
+        "last": 46,
+        "change_pct": -19.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-23",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-24",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-25",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-26",
+      "event_count": 8,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-27",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-28",
+      "event_count": 6,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

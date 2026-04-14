@@ -1,8 +1,70 @@
 {
   "date": "2026-03-16",
-  "total_events": 1,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 11,
+  "by_company": {
+    "nvidia": {
+      "count": 7,
+      "sentiment_avg": 0.18
+    },
+    "skhynix": {
+      "count": 1,
+      "sentiment_avg": 0.25
+    },
+    "micron": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "intel": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "amd": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "meta": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "hbm": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    },
+    "ai_memory": {
+      "count": 1,
+      "sentiment_avg": 0.25
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.25
+    },
+    "ai_server": {
+      "count": 4,
+      "sentiment_avg": 0.06
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.25
+    },
+    "ddr5": {
+      "count": 2,
+      "sentiment_avg": 0.12
+    },
+    "advanced_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.25
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "shortage": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {
@@ -110,5 +172,13 @@
       }
     }
   },
-  "supply_chain_activity": []
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ]
 }

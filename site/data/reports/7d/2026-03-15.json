@@ -4,12 +4,12 @@
     "start": "2026-03-09",
     "end": "2026-03-15"
   },
-  "generated_at": "2026-03-15T08:49:03.906417Z",
+  "generated_at": "2026-04-14T02:23:46.775239Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "unknown-2026-03-12-022",
+      "event_id": "unknown-2026-03-12-005",
       "date": "2026-03-12",
       "title": "HBM4E Raises The Bar For AI Memory Bandwidth",
       "importance_score": 1.0
@@ -29,51 +29,92 @@
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
     },
-    "guidance": {
+    "dram_price": {
       "this_week": 1,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.43
+      "sentiment_this_week": 0.5
+    },
+    "hbm": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
     }
   },
   "company_7d_summary": {
     "asml": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 4
+      "rank": 3
     },
     "samsung": {
-      "event_count": 7,
-      "sentiment_avg": 0.43,
+      "event_count": 3,
+      "sentiment_avg": 0.45,
       "rank": 2
     },
     "nvidia": {
-      "event_count": 9,
-      "sentiment_avg": -0.11,
+      "event_count": 7,
+      "sentiment_avg": -0.14,
       "rank": 1
     },
     "lam_research": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 4
     },
-    "google": {
+    "amd": {
       "event_count": 1,
       "sentiment_avg": 0.5,
-      "rank": 6
+      "rank": 5
     },
     "apple": {
-      "event_count": 4,
+      "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 3
+      "rank": 6
+    },
+    "intel": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 27,
-        "last": 1,
-        "change_pct": 2600.0
+        "this": 23,
+        "last": 4,
+        "change_pct": 475.0
       }
     }
   },
@@ -90,12 +131,12 @@
     },
     {
       "date": "2026-03-11",
-      "event_count": 7,
+      "event_count": 1,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-12",
-      "event_count": 4,
+      "event_count": 1,
       "sentiment_avg": 0
     },
     {
@@ -110,8 +151,22 @@
     },
     {
       "date": "2026-03-15",
-      "event_count": 0,
+      "event_count": 5,
       "sentiment_avg": 0
     }
-  ]
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-03-09 ~ 2026-03-15）共 23 則事件，重點為「HBM4E Raises The Bar For AI Memory Bandwidth」。事件量較上週增加 475%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "Samsung",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "NVIDIA",
+        "reason": "本週出現 7 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

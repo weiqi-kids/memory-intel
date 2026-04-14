@@ -1,0 +1,78 @@
+{
+  "date": "2026-01-05",
+  "generated_at": "2026-04-14T02:23:40.550638Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "skhynix-2026-01-05-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及 AI 記憶體"
+      ],
+      "title": "SK hynix Showcases Next-Generation AI Memory Innovations at CES 2026",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_memory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "skhynix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ai_memory",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為SK hynix相關動態：「SK hynix Showcases Next-Generation AI Memory Innovations ...」。主要關注主題為AI 記憶體，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SK hynix Showcases Next-Generation AI Memory Innovations at CES 2026（AI 記憶體）",
+        "level": "yellow"
+      },
+      {
+        "text": "AI 記憶體持續受關注，技術演進帶動需求成長。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

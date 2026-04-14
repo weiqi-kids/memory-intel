@@ -1,0 +1,249 @@
+{
+  "date": "2026-03-17",
+  "generated_at": "2026-04-14T02:23:47.688675Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-03-17-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "情緒極端",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Samsung Unveils HBM4E, Showcasing Comprehensive AI Solutions, NVIDIA Partnership and Vision at NVIDIA GTC 2026",
+      "companies": [
+        "samsung",
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "ddr5",
+        "advanced_packaging"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.83
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-03-17-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 伺服器"
+      ],
+      "title": " Nvidia launches DGX Station with its bleeding-edge GB300 Grace Blackwell Superchip — now available to order and will begin shipping in the coming months ",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-03-17-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Dell updates Alienware gaming laptops with Intel’s Arrow Lake-HX Refresh CPUs — 16-inch models receive OLED display and GPU upgrades ",
+      "companies": [
+        "intel",
+        "dell"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-03-17-009",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及 HBM"
+      ],
+      "title": " Nvidia demonstrates Rubin Ultra tray, the world's first AI GPU with 1TB of HBM4E memory — new chips will slot into Kyber racks ",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-03-17-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及 AI 伺服器"
+      ],
+      "title": " Jensen says Nvidia has received orders from Chinese customers for H200 GPUs, licenses from US gov't  — H200 manufacturing restarting ",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.28,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.41,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.28,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.83,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 7
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "dell",
+        "count": 1
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "hbm",
+        "count": 3
+      },
+      {
+        "id": "ddr5",
+        "count": 3
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 1
+      }
+    ]
+  }
+}

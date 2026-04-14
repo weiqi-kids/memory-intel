@@ -1,37 +1,50 @@
 {
   "date": "2026-04-02",
-  "generated_at": "2026-04-02T09:10:15.703817Z",
+  "generated_at": "2026-04-14T02:23:56.900800Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-04-02-015",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Developing A Security Framework For Chiplet-Based Systems",
-      "companies": [],
+      "event_id": "tsmc-2026-04-02-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": " Global semiconductor foundry market hit a record $320 billion in 2025 as TSMC pulled further ahead  ",
+      "companies": [
+        "tsmc"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "capex",
+        "earnings"
+      ],
       "sentiment": {
-        "label": "neutral",
-        "score": 0.0
+        "label": "positive",
+        "score": 1.0
       },
       "source_url": null
     },
     {
       "rank": 2,
-      "event_id": "unknown-2026-04-02-016",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Automated Multiphysics For Successful 3D-IC Design",
+      "event_id": "unknown-2026-04-02-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及 AI 伺服器"
+      ],
+      "title": " America’s AI chip rules keep changing — and the rest of the world is paying the price ",
       "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "ai_server"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
@@ -40,49 +53,60 @@
     },
     {
       "rank": 3,
-      "event_id": "unknown-2026-04-02-017",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "AI Demand Resets Memory Market Priorities, Tightening NOR Flash Availability",
+      "event_id": "unknown-2026-04-02-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及價格"
+      ],
+      "title": " Raspberry Pi flagship 500+ model now costs almost as much as a Mac Mini — firm Pi launches 3GB model to fight increasing DRAM prices ",
       "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "dram_price",
+        "shortage"
+      ],
       "sentiment": {
-        "label": "neutral",
-        "score": 0.0
+        "label": "positive",
+        "score": 0.5
       },
       "source_url": null
     },
     {
       "rank": 4,
-      "event_id": "google-2026-04-02-018",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Agent Card Poisoning: A Metadata Injection Vulnerability In The Systems Using Google A2A Protocol",
+      "event_id": "intel-2026-04-02-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": " Intel buys back 49% stake in Ireland Fab Joint Venture — takes full control over Fab 34 ",
       "companies": [
-        "google"
+        "intel"
       ],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "capex"
+      ],
       "sentiment": {
-        "label": "neutral",
-        "score": 0.0
+        "label": "negative",
+        "score": -0.5
       },
       "source_url": null
     },
     {
       "rank": 5,
-      "event_id": "unknown-2026-04-02-019",
+      "event_id": "nvidia-2026-04-02-002",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": "World First: MACsec IP Receives ISO/PAS 8800 Certification For Automotive And Physical AI Security",
-      "companies": [],
+      "title": " China's homegrown silicon suppliers gain traction as Nvidia struggles to get its chips into the market — Huawei, Cambricon and more step up to fill crucial market gap  ",
+      "companies": [
+        "nvidia"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
@@ -96,21 +120,137 @@
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 10,
+    "total_events": 9,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 10,
-      "negative": 0
+      "positive": 2,
+      "neutral": 6,
+      "negative": 1
     },
     "top_companies": [
       {
-        "id": "google",
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
         "count": 1
       }
     ],
-    "top_topics": []
-  }
+    "top_topics": [
+      {
+        "id": "ddr5",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "dram_price",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日記憶體產業共有 9 則事件，NVIDIA、AMD、Samsung為主要焦點，DDR5、資本支出、AI 伺服器等議題受到市場關注。市場氣氛正面，2 則正面消息反映產業景氣回升趨勢。",
+    "signals": [
+      {
+        "text": "America’s AI chip rules keep changing — and the rest of the（AI 伺服器）",
+        "level": "yellow"
+      },
+      {
+        "text": "TSMCGlobal semiconductor foundry market hit a record $320 billio（資本支出、法說會/財報）",
+        "level": "red"
+      },
+      {
+        "text": "DDR5議題持續受關注，當日共 2 則相關報導",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

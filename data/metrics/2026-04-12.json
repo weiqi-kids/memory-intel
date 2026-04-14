@@ -2,7 +2,12 @@
   "date": "2026-04-12",
   "total_events": 1,
   "by_company": {},
-  "by_topic": {},
+  "by_topic": {
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

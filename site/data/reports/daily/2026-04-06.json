@@ -1,19 +1,72 @@
 {
   "date": "2026-04-06",
-  "generated_at": "2026-04-06T09:18:31.002217Z",
+  "generated_at": "2026-04-14T02:23:59.362561Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-04-06-020",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Research Bits: Apr. 6",
-      "companies": [],
+      "event_id": "ymtc-2026-04-06-003",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": " US lawmakers aim to ban export of DUV chipmaking and etching tools to leading firms in China — bipartisan proposal would ban lithography equipment for Huawei, SMIC, and others ",
+      "companies": [
+        "ymtc",
+        "cxmt"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "google-2026-04-06-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": " Amazon, Microsoft, and Google under investor pressure to disclose site-specific data center water and power consumption — more than a dozen shareholders ask for transparency ahead of annual investor meetings ",
+      "companies": [
+        "google",
+        "microsoft"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-04-06-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": " Why TSMC grew four times faster than its foundry rivals in 2025 — price hikes, vertical integration, and commanding technology lead pay dividends ",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
@@ -21,17 +74,21 @@
       "source_url": null
     },
     {
-      "rank": 2,
-      "event_id": "unknown-2026-04-06-021",
+      "rank": 4,
+      "event_id": "hp-2026-04-06-005",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": "All AI Data Center Interconnects Will Be Optical Within 5 Years",
-      "companies": [],
+      "title": " HP’s flagship Omen Max 45L with an RTX 5090 is on sale for $1,000 off — get a top-shelf 4K gaming PC with 64GB DDR5 and 4TB SSD for $5,499 ",
+      "companies": [
+        "hp"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "ddr5"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
@@ -40,16 +97,81 @@
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 4,
     "sentiment_distribution": {
-      "positive": 0,
+      "positive": 1,
       "neutral": 2,
-      "negative": 0
+      "negative": 1
     },
-    "top_companies": [],
-    "top_topics": []
-  }
+    "top_companies": [
+      {
+        "id": "google",
+        "count": 1
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      },
+      {
+        "id": "ymtc",
+        "count": 1
+      },
+      {
+        "id": "cxmt",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日記憶體產業共有 4 則事件，Google、Microsoft、長江存儲為主要焦點，資本支出、DDR5等議題受到市場關注。其中 2 則為高重要性事件，可能對供應鏈產生顯著影響。",
+    "signals": [
+      {
+        "text": "Google、MicrosoftAmazon, Microsoft, and Google under investor pressure to dis",
+        "level": "red"
+      },
+      {
+        "text": "長江存儲、長鑫存儲US lawmakers aim to ban export of DUV chipmaking and etching",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

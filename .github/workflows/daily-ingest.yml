@@ -71,6 +71,11 @@ jobs:
           python scripts/normalize.py
         continue-on-error: true
 
+      - name: Fetch financial data
+        run: |
+          python scripts/fetch_financials.py
+        continue-on-error: true
+
       - name: Generate cards
         run: |
           python scripts/generate_cards.py

@@ -1,8 +1,26 @@
 {
   "date": "2026-04-05",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 2,
+  "by_company": {
+    "nvidia": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "apple": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "amd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "ai_server": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

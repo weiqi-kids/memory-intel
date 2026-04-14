@@ -29,6 +29,88 @@ jq length site/data/events.json                # 前端事件數量
 
 ---
 
+## 產出報告（Claude CLI）
+
+當用戶說「產出報告」時，執行以下流程：
+
+### 1. 拉取最新資料
+```bash
+git pull origin main
+```
+
+### 2. 讀取事件資料
+- 讀取近 7 天的 `data/events/{date}.jsonl`
+- 識別重要事件、主題趨勢、供應鏈動態
+
+### 3. 抓取財務數據
+用 yfinance 抓取追蹤公司的季度 Accounts Receivable 和 Inventory：
+```python
+source .venv/bin/activate
+python3 -c "
+import yfinance as yf
+tickers = ['005930.KS','000660.KS','MU','2408.TW','2344.TW','NVDA','AMD','AAPL']
+for t in tickers:
+    bs = yf.Ticker(t).quarterly_balance_sheet
+    # 取 'Accounts Receivable' 和 'Inventory' 的最近 2 季
+"
+```
+
+### 4. 產出分析並寫入 JSON
+讀取現有的 Actions 報告 JSON，追加 `llm_analysis` 和 `financials` 欄位：
+
+**Daily Report** (`site/data/reports/daily/{date}.json`)：
+```json
+{
+  "...existing fields preserved...",
+  "llm_analysis": {
+    "summary": "2-3 句市場摘要",
+    "signals": [
+      { "text": "訊號描述", "level": "red|yellow|green" }
+    ]
+  },
+  "financials": {
+    "quarter": "2025-Q4",
+    "data": [
+      {
+        "company": "micron", "name": "Micron",
+        "ar": 15389000000, "ar_qoq": "+92%",
+        "inventory": 8267000000, "inv_qoq": "+1%",
+        "alert": true, "currency": "USD"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
+```
+
+**7d Report** (`site/data/reports/7d/{date}.json`)：
+```json
+{
+  "...existing fields preserved...",
+  "llm_analysis": {
+    "summary": "3-4 句週度摘要",
+    "watchlist": [
+      { "company": "Samsung", "reason": "觀察原因" }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
+```
+
+### 5. Commit 並 Push
+```bash
+git add site/data/reports/
+git commit -m "Weekly report: {date}"
+git push
+```
+
+### 注意事項
+- 保留既有 JSON 欄位（`top_events`、`anomalies`、`daily_breakdown` 等），只追加新欄位
+- `financials.data` 中 `alert: true` 表示 AR 或庫存 QoQ 變化超過 ±20%
+- `signals[].level`：`red` = 需關注、`yellow` = 持續觀察、`green` = 正面訊號
+
+---
+
 ## 標準流程
 
 ```

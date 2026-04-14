@@ -1,9 +1,54 @@
 {
   "date": "2026-04-09",
-  "total_events": 9,
-  "by_company": {},
+  "total_events": 8,
+  "by_company": {
+    "intel": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "nvidia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "google": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tsmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
     "hbm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ddr5": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "advanced_packaging": {
       "count": 1,
       "sentiment_avg": 0.0
     }

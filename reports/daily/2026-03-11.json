@@ -1,0 +1,57 @@
+{
+  "date": "2026-03-11",
+  "generated_at": "2026-04-14T02:23:44.411849Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-11-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及價格"
+      ],
+      "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "dram_price",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,8 +1,22 @@
 {
   "date": "2026-03-27",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 3,
+  "by_company": {
+    "samsung": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "shortage": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

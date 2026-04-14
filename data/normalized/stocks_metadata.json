@@ -1,92 +1,252 @@
 {
   "asml": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
   },
   "tokyo_electron": {
-    "earliest": "2017-02-20",
-    "latest": "2026-04-13",
-    "count": 2255
+    "earliest": "2016-08-24",
+    "latest": "2026-04-14",
+    "count": 2375
   },
   "lam_research": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
   },
   "sumco": {
-    "earliest": "2017-02-20",
-    "latest": "2026-04-13",
-    "count": 2255
+    "earliest": "2016-08-24",
+    "latest": "2026-04-14",
+    "count": 2375
   },
   "samsung": {
-    "earliest": "2017-02-21",
-    "latest": "2026-04-13",
-    "count": 2235
+    "earliest": "2016-08-25",
+    "latest": "2026-04-14",
+    "count": 2357
   },
   "skhynix": {
-    "earliest": "2017-02-21",
-    "latest": "2026-04-13",
-    "count": 2235
+    "earliest": "2016-08-25",
+    "latest": "2026-04-14",
+    "count": 2357
   },
   "micron": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
   },
   "nanya": {
-    "earliest": "2017-03-02",
-    "latest": "2026-04-13",
-    "count": 2214
+    "earliest": "2016-09-05",
+    "latest": "2026-04-14",
+    "count": 2331
   },
   "winbond": {
-    "earliest": "2017-03-02",
-    "latest": "2026-04-13",
-    "count": 2214
+    "earliest": "2016-09-05",
+    "latest": "2026-04-14",
+    "count": 2331
   },
   "ase": {
-    "earliest": "2017-03-02",
-    "latest": "2026-04-13",
-    "count": 2214
+    "earliest": "2016-09-05",
+    "latest": "2026-04-14",
+    "count": 2331
   },
   "powertech": {
-    "earliest": "2017-03-02",
-    "latest": "2026-04-13",
-    "count": 2214
+    "earliest": "2016-09-05",
+    "latest": "2026-04-14",
+    "count": 2331
   },
   "ptc": {
-    "earliest": "2017-03-02",
-    "latest": "2026-04-13",
-    "count": 2214
+    "earliest": "2016-09-05",
+    "latest": "2026-04-14",
+    "count": 2331
   },
   "nvidia": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
   },
   "amd": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
   },
   "apple": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
   },
   "aws": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
   },
   "microsoft": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
   },
   "google": {
-    "earliest": "2017-02-13",
+    "earliest": "2016-08-17",
     "latest": "2026-04-13",
-    "count": 2303
+    "count": 2426
+  },
+  "applied_materials": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "kla": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "shin_etsu": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-14",
+    "count": 120
+  },
+  "synopsys": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "cadence": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "arm": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "kioxia": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-14",
+    "count": 120
+  },
+  "western_digital": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "tsmc": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "intel": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "amkor": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "broadcom": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "qualcomm": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "dell": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "hp": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "lenovo": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-14",
+    "count": 119
+  },
+  "supermicro": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "meta": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "oracle": {
+    "earliest": "2025-10-16",
+    "latest": "2026-04-13",
+    "count": 122
+  },
+  "screen": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 62
+  },
+  "entegris": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-13",
+    "count": 61
+  },
+  "silicon_motion": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-13",
+    "count": 61
+  },
+  "macronix": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "elite_semi": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "psmc": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "marvell": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-13",
+    "count": 61
+  },
+  "ti": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-13",
+    "count": 61
+  },
+  "onsemi": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-13",
+    "count": 61
+  },
+  "infineon": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 63
+  },
+  "phison": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "adata": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
+  },
+  "innodisk": {
+    "earliest": "2026-01-14",
+    "latest": "2026-04-14",
+    "count": 55
   }
 }

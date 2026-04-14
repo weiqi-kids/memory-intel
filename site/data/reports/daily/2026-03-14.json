@@ -1,204 +1,31 @@
 {
   "date": "2026-03-14",
-  "generated_at": "2026-03-14T08:06:50.596778Z",
+  "generated_at": "2026-04-14T02:23:46.026178Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "skhynix-2026-03-14-057",
-      "importance_score": 1.0,
-      "importance_reasons": [
-        "涉及 HBM",
-        "涉及 AI 記憶體"
-      ],
-      "title": "SK hynix and Sandisk Begin Global Standardization of Next-Generation Memory ‘HBF’",
-      "companies": [
-        "skhynix"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "hbm",
-        "ai_memory"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.skhynix.com/sk-hynix-and-sandisk-begin-global-standardization-ofnext-generation-memory-hbf/"
-    },
-    {
-      "rank": 2,
-      "event_id": "samsung-2026-03-14-037",
-      "importance_score": 0.9,
-      "importance_reasons": [
-        "多公司提及",
-        "供應鏈上下游同時提及"
-      ],
-      "title": "Samsung and AMD Reinforce Strategic Collaboration To Advance AI-Powered Network Innovations for Commercial Deployments",
-      "companies": [
-        "samsung",
-        "amd"
-      ],
-      "related": {
-        "customers": [
-          "amd"
-        ],
-        "suppliers": [
-          "samsung"
-        ]
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.samsung.com/global/samsung-and-amd-reinforce-strategic-collaboration-to-advance-ai-powered-network-innovations-for-commercial-deployments"
-    },
-    {
-      "rank": 3,
-      "event_id": "nvidia-2026-03-14-041",
-      "importance_score": 0.9,
-      "importance_reasons": [
-        "多公司提及",
-        "供應鏈上下游同時提及"
-      ],
-      "title": "Samsung Takes Next Stride Toward AI-Native Software-Driven Networks With NVIDIA",
-      "companies": [
-        "nvidia",
-        "samsung"
-      ],
-      "related": {
-        "customers": [
-          "nvidia"
-        ],
-        "suppliers": [
-          "samsung"
-        ]
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://news.samsung.com/global/samsung-takes-next-stride-toward-ai-native-software-driven-networks-with-nvidia"
-    },
-    {
-      "rank": 4,
-      "event_id": "unknown-2026-03-14-021",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "How AI Is Driving Revenue, Cutting Costs and Boosting Productivity for Every Industry in 2026",
+      "event_id": "unknown-2026-03-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Chip material prices double as Middle East conflict compounds China's existing gallium export ban — wide range of materials for chipmaking skyrocket as supply constricts ",
       "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
-        "earnings"
+        "shortage"
       ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
       },
-      "source_url": "https://blogs.nvidia.com/blog/state-of-ai-report-2026/"
-    },
-    {
-      "rank": 5,
-      "event_id": "asml-2026-03-14-065",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "ASML reports €32.7 billion total net sales and €9.6 billion net income in 2025ASML expects 2026 total net sales to be between €34 billion and €39 billion, with a gross margin between 51% and 53%",
-      "companies": [
-        "asml"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "earnings"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://www.asml.com/en/news/press-releases/2026/q4-2025-financial-results"
+      "source_url": null
     }
   ],
-  "anomalies": [
-    {
-      "type": "topic_resurface",
-      "subject": "earnings",
-      "subject_type": "topic",
-      "current": 10,
-      "baselines": {
-        "last_seen": null,
-        "days_since": null
-      },
-      "description": "「earnings」主題首次出現",
-      "priority": 3
-    },
-    {
-      "type": "topic_resurface",
-      "subject": "ai_memory",
-      "subject_type": "topic",
-      "current": 2,
-      "baselines": {
-        "last_seen": null,
-        "days_since": null
-      },
-      "description": "「ai_memory」主題首次出現",
-      "priority": 3
-    }
-  ],
+  "anomalies": [],
   "topic_trends": {
-    "earnings": {
-      "today": 10,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.15,
-      "sentiment_7d_avg": null
-    },
-    "hbm": {
-      "today": 1,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
-      "sentiment_7d_avg": null
-    },
-    "ai_memory": {
-      "today": 2,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
-      "sentiment_7d_avg": null
-    },
-    "ddr5": {
-      "today": 1,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
-      "sentiment_7d_avg": null
-    },
-    "guidance": {
+    "shortage": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -211,55 +38,32 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 200,
+    "total_events": 1,
     "sentiment_distribution": {
-      "positive": 8,
-      "neutral": 191,
-      "negative": 1
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
     },
-    "top_companies": [
-      {
-        "id": "asml",
-        "count": 22
-      },
-      {
-        "id": "samsung",
-        "count": 19
-      },
-      {
-        "id": "nvidia",
-        "count": 15
-      },
-      {
-        "id": "amd",
-        "count": 11
-      },
-      {
-        "id": "skhynix",
-        "count": 7
-      }
-    ],
+    "top_companies": [],
     "top_topics": [
       {
-        "id": "earnings",
-        "count": 10
-      },
-      {
-        "id": "ai_memory",
-        "count": 2
-      },
-      {
-        "id": "hbm",
-        "count": 1
-      },
-      {
-        "id": "ddr5",
-        "count": 1
-      },
-      {
-        "id": "guidance",
+        "id": "shortage",
         "count": 1
       }
     ]
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為缺貨相關動態：「Chip material prices double as Middle East conflict compo...」。主要關注主題為缺貨，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Chip material prices double as Middle East conflict compounds China's existin...（缺貨）",
+        "level": "green"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

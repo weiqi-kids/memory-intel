@@ -4,71 +4,211 @@
     "start": "2026-03-17",
     "end": "2026-03-23"
   },
-  "generated_at": "2026-03-23T09:12:54.628706Z",
+  "generated_at": "2026-04-14T02:23:51.466715Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "samsung-2026-03-19-009",
-      "date": "2026-03-19",
-      "title": " How Nvidia's $20 billion Groq 3 LPU deal reshapes the Nvidia Vera Rubin Platform — Samsung 4nm process serves as bedrock for SRAM-based AI accelerator chip ",
+      "event_id": "samsung-2026-03-17-001",
+      "date": "2026-03-17",
+      "title": "Samsung Unveils HBM4E, Showcasing Comprehensive AI Solutions, NVIDIA Partnership and Vision at NVIDIA GTC 2026",
       "importance_score": 1.0
     }
   ],
   "anomalies_7d": [],
   "topic_7d_summary": {
+    "hbm": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.3
+    },
+    "capex": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "ddr5": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.17
+    },
     "advanced_packaging": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.75
+    },
+    "ai_server": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.67
+    },
+    "shortage": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
       "this_week": 1,
       "last_week": 0,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
     }
   },
-  "company_7d_summary": {},
+  "company_7d_summary": {
+    "samsung": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 4
+    },
+    "nvidia": {
+      "event_count": 16,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "intel": {
+      "event_count": 12,
+      "sentiment_avg": 0.21,
+      "rank": 2
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "microsoft": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 5
+    },
+    "amd": {
+      "event_count": 8,
+      "sentiment_avg": 0.15,
+      "rank": 3
+    },
+    "tsmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 16,
-        "last": 23,
-        "change_pct": -30.4
+        "this": 41,
+        "last": 29,
+        "change_pct": 41.4
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-03-17",
-      "event_count": 4,
+      "event_count": 11,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-18",
-      "event_count": 3,
+      "event_count": 6,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-19",
-      "event_count": 8,
+      "event_count": 10,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-20",
-      "event_count": 0,
+      "event_count": 4,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-21",
-      "event_count": 0,
+      "event_count": 1,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-22",
-      "event_count": 0,
+      "event_count": 3,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-23",
-      "event_count": 1,
+      "event_count": 6,
       "sentiment_avg": 0
     }
-  ]
+  ],
+  "llm_analysis": {
+    "summary": "本週共 41 則事件，主要聚焦NVIDIA、Intel、AMD，核心議題為DDR5、AI伺服器、資本支出。事件量較前週小幅增加（+41%）。",
+    "watchlist": [
+      {
+        "company": "NVIDIA",
+        "reason": "本週高度活躍（16 則事件），涉及HBM、DDR5、AI伺服器，持續觀察動向。"
+      },
+      {
+        "company": "Intel",
+        "reason": "本週高度活躍（12 則事件），涉及HBM、DDR5、AI伺服器，持續觀察動向。"
+      },
+      {
+        "company": "AMD",
+        "reason": "本週高度活躍（8 則事件），涉及HBM、DDR5、AI伺服器，持續觀察動向。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

@@ -4,12 +4,12 @@
     "start": "2026-03-22",
     "end": "2026-03-28"
   },
-  "generated_at": "2026-03-28T08:52:03.706573Z",
+  "generated_at": "2026-04-14T02:23:54.334027Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "asml-2026-03-24-005",
+      "event_id": "skhynix-2026-03-24-002",
       "date": "2026-03-24",
       "title": " SK hynix places record $8 billion order for ASML EUV lithography machines — should pay for up to 30 EUV machines over two years, serving HBM and advanced DRAM production ",
       "importance_score": 1.0
@@ -18,57 +18,195 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "capex": {
+      "this_week": 5,
+      "last_week": 7,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.1
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
       "this_week": 2,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.25
+      "sentiment_this_week": -0.25
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 11,
+      "week_over_week_change": "-55%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.13
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.33
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.5
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.38
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
     }
   },
-  "company_7d_summary": {},
+  "company_7d_summary": {
+    "intel": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "nvidia": {
+      "event_count": 7,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 9
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "samsung": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.75,
+      "rank": 13
+    },
+    "supermicro": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 17,
-        "last": 16,
-        "change_pct": 6.2
+        "this": 39,
+        "last": 48,
+        "change_pct": -18.8
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-03-22",
-      "event_count": 0,
+      "event_count": 3,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-23",
-      "event_count": 1,
+      "event_count": 6,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-24",
-      "event_count": 2,
+      "event_count": 6,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-25",
-      "event_count": 4,
+      "event_count": 7,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-26",
-      "event_count": 10,
+      "event_count": 8,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-27",
-      "event_count": 0,
+      "event_count": 3,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-28",
-      "event_count": 0,
+      "event_count": 6,
       "sentiment_avg": 0
     }
-  ]
+  ],
+  "llm_analysis": {
+    "summary": "本週共 39 則事件，主要聚焦Intel、NVIDIA、AMD，核心議題為AI伺服器、資本支出、DDR5。事件量較前週略減（-19%）。",
+    "watchlist": [
+      {
+        "company": "NVIDIA",
+        "reason": "本週出現 1 則負面事件，需關注後續影響。"
+      },
+      {
+        "company": "Intel",
+        "reason": "本週高度活躍（7 則事件），涉及DDR5，持續觀察動向。"
+      },
+      {
+        "company": "Samsung",
+        "reason": "涉及缺貨等關鍵議題（3 則），值得持續追蹤。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

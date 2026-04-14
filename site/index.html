@@ -35,7 +35,7 @@
 
         .dashboard {
             display: grid;
-            grid-template-rows: 120px 400px 280px;
+            grid-template-rows: 120px 500px 280px;
             gap: 20px;
         }
 
@@ -124,6 +124,205 @@
 
         .report-section.weekly h3::before {
             background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%);
+        }
+
+        .report-section.analysis h3::before {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+        }
+
+        .report-section.financials h3::before {
+            background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+        }
+
+        .report-section.weekly-llm h3::before {
+            background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+        }
+
+        .llm-summary {
+            font-size: 0.85rem;
+            line-height: 1.6;
+            color: #333;
+            padding: 8px 0;
+        }
+
+        .signal-list {
+            list-style: none;
+            padding: 0;
+            margin: 8px 0 0 0;
+        }
+
+        .signal-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            padding: 6px 0;
+            border-bottom: 1px solid #f0f2f5;
+            font-size: 0.82rem;
+            color: #333;
+            line-height: 1.4;
+        }
+
+        .signal-item:last-child { border-bottom: none; }
+
+        .signal-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            flex-shrink: 0;
+            margin-top: 4px;
+        }
+
+        .signal-dot.red { background: #ef4444; }
+        .signal-dot.yellow { background: #f59e0b; }
+        .signal-dot.green { background: #10b981; }
+
+        .financial-quarter {
+            font-size: 0.75rem;
+            color: #888;
+            margin-bottom: 8px;
+        }
+
+        .financial-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 5px 0;
+            border-bottom: 1px solid #f0f2f5;
+            font-size: 0.8rem;
+        }
+
+        .financial-row:last-child { border-bottom: none; }
+
+        .financial-name {
+            width: 70px;
+            font-weight: 500;
+            color: #333;
+            flex-shrink: 0;
+        }
+
+        .financial-metric {
+            display: flex;
+            align-items: center;
+            gap: 2px;
+            font-size: 0.75rem;
+        }
+
+        .financial-label {
+            color: #888;
+            width: 28px;
+        }
+
+        .financial-change {
+            font-weight: 500;
+            min-width: 45px;
+            text-align: right;
+        }
+
+        .financial-change.up { color: #ef4444; }
+        .financial-change.down { color: #10b981; }
+        .financial-change.flat { color: #888; }
+
+        .financial-row.alert {
+            background: #fef3c7;
+            margin: 0 -8px;
+            padding: 5px 8px;
+            border-radius: 4px;
+        }
+
+        .watchlist-item {
+            padding: 6px 0;
+            border-bottom: 1px solid #f0f2f5;
+            font-size: 0.82rem;
+        }
+
+        .watchlist-item:last-child { border-bottom: none; }
+
+        .watchlist-company {
+            font-weight: 500;
+            color: #1a1a2e;
+        }
+
+        .watchlist-reason {
+            color: #555;
+            margin-top: 2px;
+            line-height: 1.4;
+        }
+
+        .date-nav {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .date-nav button {
+            background: #f0f2f5;
+            border: 1px solid #e0e4e8;
+            border-radius: 4px;
+            padding: 4px 8px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            color: #555;
+            line-height: 1;
+        }
+
+        .date-nav button:hover:not(:disabled) {
+            background: #e4e7eb;
+            color: #1a1a2e;
+        }
+
+        .date-nav button:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .date-nav span {
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: #333;
+            min-width: 80px;
+            text-align: center;
+        }
+
+        #heatmap-container {
+            display: grid;
+            gap: 3px;
+        }
+
+        .heatmap-section-label {
+            font-size: 0.7rem;
+            color: #888;
+            padding: 4px 0 2px 0;
+            grid-column: 1 / -1;
+        }
+
+        .heatmap-cell {
+            border-radius: 4px;
+            padding: 6px 4px;
+            text-align: center;
+            cursor: pointer;
+            transition: opacity 0.2s;
+            min-height: 48px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .heatmap-cell:hover {
+            opacity: 0.85;
+            outline: 2px solid #333;
+        }
+
+        .heatmap-name {
+            font-size: 0.7rem;
+            font-weight: 500;
+            line-height: 1.2;
+        }
+
+        .heatmap-value {
+            font-size: 0.75rem;
+            font-weight: 600;
+            line-height: 1.2;
         }
 
         .news-list {
@@ -582,9 +781,29 @@
 
             <div class="middle-row">
                 <div id="stock-chart" class="panel">
-                    <div class="panel-title">股價走勢（標準化）</div>
-                    <svg id="stock-svg"></svg>
-                    <div class="legend" id="stock-legend"></div>
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+                        <div class="tab-bar" id="stock-tabs">
+                            <div class="tab active" data-view="trend">走勢圖</div>
+                            <div class="tab" data-view="heatmap">熱力圖</div>
+                        </div>
+                        <div class="tab-bar" id="stock-range">
+                            <div class="tab" data-range="1">日</div>
+                            <div class="tab" data-range="5">週</div>
+                            <div class="tab active" data-range="20">月</div>
+                        </div>
+                    </div>
+                    <div id="stock-trend-view">
+                        <svg id="stock-svg"></svg>
+                        <div class="legend" id="stock-legend"></div>
+                    </div>
+                    <div id="stock-heatmap-view" style="display:none;">
+                        <div id="heatmap-container"></div>
+                        <div class="legend" style="justify-content:center; margin-top:8px;">
+                            <span style="font-size:0.7rem; color:#888;">跌 3%+</span>
+                            <div style="width:120px; height:10px; border-radius:3px; background:linear-gradient(90deg, rgb(220,60,60), rgb(200,200,200), rgb(40,230,60));"></div>
+                            <span style="font-size:0.7rem; color:#888;">漲 3%+</span>
+                        </div>
+                    </div>
                 </div>
 
                 <div id="supply-chain" class="panel">
@@ -607,7 +826,14 @@
         <div class="detail-panel" id="detail-panel">
             <!-- 報告區塊（預設顯示） -->
             <div id="reports-view">
-                <h2>今日摘要</h2>
+                <div style="display:flex; justify-content:space-between; align-items:center; border-bottom:1px solid #e0e4e8; padding-bottom:10px; margin-bottom:15px;">
+                    <h2 style="margin:0; border:none; padding:0;">摘要</h2>
+                    <div class="date-nav">
+                        <button id="date-prev" title="前一天">&larr;</button>
+                        <span id="date-display">載入中...</span>
+                        <button id="date-next" title="後一天">&rarr;</button>
+                    </div>
+                </div>
                 <div class="report-section daily">
                     <h3>每日報告</h3>
                     <ul class="news-list" id="top-news-list">
@@ -620,6 +846,14 @@
                         </div>
                     </div>
                 </div>
+                <div class="report-section analysis" id="llm-analysis-section" style="display:none;">
+                    <h3>AI 分析</h3>
+                    <div id="llm-analysis-container"></div>
+                </div>
+                <div class="report-section financials" id="financials-section" style="display:none;">
+                    <h3>財務指標</h3>
+                    <div id="financials-container"></div>
+                </div>
                 <div class="report-section weekly">
                     <h3>7日趨勢</h3>
                     <div class="trend-mini" id="trend-mini">
@@ -631,6 +865,10 @@
                             <div style="color: #999; font-size: 0.8rem;">載入中...</div>
                         </div>
                     </div>
+                </div>
+                <div class="report-section weekly-llm" id="weekly-llm-section" style="display:none;">
+                    <h3>週度觀察</h3>
+                    <div id="weekly-llm-container"></div>
                 </div>
             </div>
 
@@ -719,43 +957,18 @@
                 data.events = [];
             }
 
-            // Load daily report (try today, then look back up to 7 days)
-            for (let i = 0; i < 7; i++) {
-                try {
-                    const d = new Date();
-                    d.setDate(d.getDate() - i);
-                    const dateStr = d.toISOString().split('T')[0];
-                    const dailyResp = await fetch(`data/reports/daily/${dateStr}.json`);
-                    if (dailyResp.ok) {
-                        const report = await dailyResp.json();
-                        // 只接受有事件的報告
-                        if (report.top_events?.length > 0 || report.stats?.total_events > 0) {
-                            data.dailyReport = report;
-                            break;
-                        }
-                    }
-                } catch (e) {
-                    continue;
+            // Load report date index
+            try {
+                const indexResp = await fetch('data/reports/daily/index.json');
+                if (indexResp.ok) {
+                    state.reportDates = (await indexResp.json()).filter(d => d && d !== 'index');
                 }
-            }
+            } catch (e) {}
 
-            // Load weekly report (try today, then look back up to 7 days)
-            for (let i = 0; i < 7; i++) {
-                try {
-                    const d = new Date();
-                    d.setDate(d.getDate() - i);
-                    const dateStr = d.toISOString().split('T')[0];
-                    const weeklyResp = await fetch(`data/reports/7d/${dateStr}.json`);
-                    if (weeklyResp.ok) {
-                        const report = await weeklyResp.json();
-                        if (report.daily_breakdown?.length > 0) {
-                            data.weeklyReport = report;
-                            break;
-                        }
-                    }
-                } catch (e) {
-                    continue;
-                }
+            // Load latest report
+            if (state.reportDates.length > 0) {
+                state.currentReportIdx = 0;
+                await loadReportForDate(state.reportDates[0]);
             }
 
             // If no data loaded, use demo
@@ -925,8 +1138,10 @@
         const state = {
             selectedCompany: null,
             selectedEvent: null,
-            fullTimeRange: [new Date("2025-09-01"), new Date()],  // 全部資料的時間範圍
-            timeRange: [new Date("2025-09-01"), new Date()],  // 目前選中的時間範圍
+            fullTimeRange: [new Date("2025-09-01"), new Date()],
+            timeRange: [new Date("2025-09-01"), new Date()],
+            reportDates: [],
+            currentReportIdx: 0,
         };
 
         // ===== Colors =====
@@ -1243,15 +1458,15 @@
             const container = d3.select("#supply-chain");
             const svg = d3.select("#chain-svg");
             const width = container.node().clientWidth - 30;
-            const height = 340;
+            const height = 440;
 
             svg.attr("width", width).attr("height", height);
             svg.selectAll("*").remove();
 
             const layers = [
-                { name: "上游（設備/材料）", y: 0.0, height: 0.22, color: "rgba(245, 158, 11, 0.08)" },
-                { name: "中游（製造/封測）", y: 0.26, height: 0.42, color: "rgba(59, 130, 246, 0.08)" },
-                { name: "下游（客戶）", y: 0.72, height: 0.28, color: "rgba(16, 185, 129, 0.08)" }
+                { name: "上游（設備/材料/EDA）", y: 0.0, height: 0.32, color: "rgba(245, 158, 11, 0.06)" },
+                { name: "中游（製造/代工/封測）", y: 0.34, height: 0.34, color: "rgba(59, 130, 246, 0.06)" },
+                { name: "下游（AI晶片/系統/CSP）", y: 0.70, height: 0.30, color: "rgba(16, 185, 129, 0.06)" }
             ];
 
             layers.forEach(layer => {
@@ -1517,6 +1732,34 @@
             updateSelectedInfo();
             renderReports();
 
+            // 日期導航按鈕
+            document.getElementById('date-prev').addEventListener('click', () => navigateReport(1));
+            document.getElementById('date-next').addEventListener('click', () => navigateReport(-1));
+
+            // 股價面板 tab 切換（走勢圖 / 熱力圖）
+            document.querySelectorAll('#stock-tabs .tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    document.querySelectorAll('#stock-tabs .tab').forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    const view = tab.dataset.view;
+                    document.getElementById('stock-trend-view').style.display = view === 'trend' ? 'block' : 'none';
+                    document.getElementById('stock-heatmap-view').style.display = view === 'heatmap' ? 'block' : 'none';
+                    if (view === 'heatmap') renderHeatmap();
+                    if (view === 'trend') updateStockChartByRange();
+                });
+            });
+
+            // 日/週/月 切換（影響走勢圖和熱力圖）
+            document.querySelectorAll('#stock-range .tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    document.querySelectorAll('#stock-range .tab').forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    const currentView = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
+                    if (currentView === 'heatmap') renderHeatmap();
+                    else updateStockChartByRange();
+                });
+            });
+
             // 返回報告按鈕
             document.getElementById('back-to-reports').addEventListener('click', () => {
                 state.selectedEvent = null;
@@ -1533,6 +1776,37 @@
         }
 
         // ===== 報告視圖 =====
+        // ===== 報告日期導航 =====
+        async function loadReportForDate(dateStr) {
+            try {
+                const dailyResp = await fetch(`data/reports/daily/${dateStr}.json`);
+                data.dailyReport = dailyResp.ok ? await dailyResp.json() : null;
+            } catch (e) { data.dailyReport = null; }
+
+            try {
+                const weeklyResp = await fetch(`data/reports/7d/${dateStr}.json`);
+                data.weeklyReport = weeklyResp.ok ? await weeklyResp.json() : null;
+            } catch (e) { data.weeklyReport = null; }
+
+            document.getElementById('date-display').textContent = dateStr;
+            updateDateNavButtons();
+            renderReports();
+        }
+
+        function navigateReport(delta) {
+            const newIdx = state.currentReportIdx + delta;
+            if (newIdx < 0 || newIdx >= state.reportDates.length) return;
+            state.currentReportIdx = newIdx;
+            loadReportForDate(state.reportDates[newIdx]);
+        }
+
+        function updateDateNavButtons() {
+            const prevBtn = document.getElementById('date-prev');
+            const nextBtn = document.getElementById('date-next');
+            if (prevBtn) prevBtn.disabled = state.currentReportIdx >= state.reportDates.length - 1;
+            if (nextBtn) nextBtn.disabled = state.currentReportIdx <= 0;
+        }
+
         function showReportsView() {
             document.getElementById('reports-view').style.display = 'block';
             document.getElementById('detail-view').style.display = 'none';
@@ -1546,8 +1820,11 @@
         function renderReports() {
             renderTopNews();
             renderAnomalies();
+            renderLLMAnalysis();
+            renderFinancials();
             renderTrendMini();
             renderCompanyBars();
+            renderWeeklyLLM();
         }
 
         function renderTopNews() {
@@ -1720,6 +1997,201 @@
                     </div>
                 `;
             }).join('');
+        }
+
+        function renderLLMAnalysis() {
+            const analysis = data.dailyReport?.llm_analysis;
+            if (!analysis) return;
+
+            // 直接取代機械式的 top-news-list 內容
+            const newsList = document.getElementById('top-news-list');
+            let html = '';
+            if (analysis.summary) {
+                html += `<li class="news-item" style="display:block; padding:8px 0;"><div class="llm-summary">${analysis.summary}</div></li>`;
+            }
+            if (analysis.signals?.length) {
+                html += analysis.signals.map(s => `
+                    <li class="signal-item">
+                        <span class="signal-dot ${s.level}"></span>
+                        <span>${s.text}</span>
+                    </li>
+                `).join('');
+            }
+            newsList.innerHTML = html;
+
+            // 隱藏獨立的 AI 分析區塊（內容已合併到每日報告）
+            document.getElementById('llm-analysis-section').style.display = 'none';
+        }
+
+        async function renderFinancials() {
+            const section = document.getElementById('financials-section');
+            const container = document.getElementById('financials-container');
+
+            // 優先從獨立的 financials.json 載入，fallback 到 daily report
+            let fin = null;
+            try {
+                const resp = await fetch('data/financials.json');
+                if (resp.ok) {
+                    const fdata = await resp.json();
+                    fin = { quarter: fdata.quarter, data: fdata.companies };
+                }
+            } catch (e) {}
+
+            if (!fin) {
+                fin = data.dailyReport?.financials;
+            }
+
+            if (!fin?.data?.length) { section.style.display = 'none'; return; }
+            section.style.display = 'block';
+
+            function changeClass(qoq) {
+                if (!qoq || qoq === 'N/A') return 'flat';
+                const n = parseFloat(qoq);
+                if (n > 5) return 'up';
+                if (n < -5) return 'down';
+                return 'flat';
+            }
+
+            // 只顯示有 alert 的 + 按 AR 變化排序的前 10 家
+            const sorted = [...fin.data]
+                .filter(c => c.ar_qoq !== 'N/A' || c.inv_qoq !== 'N/A')
+                .sort((a, b) => {
+                    if (a.alert && !b.alert) return -1;
+                    if (!a.alert && b.alert) return 1;
+                    const aVal = Math.abs(parseFloat(a.ar_qoq) || 0);
+                    const bVal = Math.abs(parseFloat(b.ar_qoq) || 0);
+                    return bVal - aVal;
+                })
+                .slice(0, 12);
+
+            let html = `<div class="financial-quarter">${fin.quarter}</div>`;
+            html += sorted.map(c => `
+                <div class="financial-row${c.alert ? ' alert' : ''}">
+                    <span class="financial-name">${c.name}</span>
+                    <span class="financial-metric">
+                        <span class="financial-label">AR</span>
+                        <span class="financial-change ${changeClass(c.ar_qoq)}">${c.ar_qoq}</span>
+                    </span>
+                    <span class="financial-metric">
+                        <span class="financial-label">庫存</span>
+                        <span class="financial-change ${changeClass(c.inv_qoq)}">${c.inv_qoq || 'N/A'}</span>
+                    </span>
+                </div>
+            `).join('');
+            container.innerHTML = html;
+        }
+
+        function renderWeeklyLLM() {
+            const section = document.getElementById('weekly-llm-section');
+            const container = document.getElementById('weekly-llm-container');
+            const analysis = data.weeklyReport?.llm_analysis;
+
+            if (!analysis) { section.style.display = 'none'; return; }
+            section.style.display = 'block';
+
+            let html = '';
+            if (analysis.summary) {
+                html += `<div class="llm-summary">${analysis.summary}</div>`;
+            }
+            if (analysis.watchlist?.length) {
+                html += analysis.watchlist.map(w => `
+                    <div class="watchlist-item">
+                        <div class="watchlist-company">${w.company}</div>
+                        <div class="watchlist-reason">${w.reason}</div>
+                    </div>
+                `).join('');
+            }
+            container.innerHTML = html;
+        }
+
+        function updateStockChartByRange() {
+            const days = parseInt(document.querySelector('#stock-range .tab.active')?.dataset.range || '20');
+            const now = state.fullTimeRange[1] || new Date();
+            const msPerDay = 24 * 60 * 60 * 1000;
+            const lookbackDays = days === 1 ? 5 : days === 5 ? 30 : 90;
+            const start = new Date(now.getTime() - lookbackDays * msPerDay);
+            state.timeRange = [d3.max([start, state.fullTimeRange[0]]), now];
+            updateStockChart();
+            renderTimeBrush();
+        }
+
+        function renderHeatmap() {
+            const container = document.getElementById('heatmap-container');
+            const days = parseInt(document.querySelector('#stock-range .tab.active')?.dataset.range || '1');
+
+            // 計算每家公司的漲跌幅
+            const changes = [];
+            data.companies.forEach(company => {
+                const prices = data.stockPrices[company.id];
+                if (!prices || prices.length < 2) return;
+
+                const latest = prices[prices.length - 1];
+                const lookback = Math.min(days, prices.length - 1);
+                const prev = prices[prices.length - 1 - lookback];
+                if (!latest || !prev || !prev.close || !latest.close) return;
+
+                const pct = ((latest.close - prev.close) / prev.close) * 100;
+                changes.push({
+                    id: company.id,
+                    name: company.short_name || company.name,
+                    position: company.position,
+                    role: company.role,
+                    change: pct,
+                    price: latest.close,
+                });
+            });
+
+            if (changes.length === 0) {
+                container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">無股價資料</div>';
+                return;
+            }
+
+            // 按供應鏈分組
+            const groups = [
+                { label: '上游（設備/材料/EDA）', position: 'upstream' },
+                { label: '中游（製造/代工/封測）', position: 'midstream' },
+                { label: '下游（AI晶片/系統/CSP）', position: 'downstream' },
+            ];
+
+            // 計算色塊顏色
+            function changeColor(pct) {
+                const clamped = Math.max(-5, Math.min(5, pct));
+                const t = (clamped + 5) / 10; // 0=deep red, 0.5=gray, 1=deep green
+                if (t < 0.5) {
+                    const r = 220, g = Math.round(60 + t * 2 * 140), b = Math.round(60 + t * 2 * 140);
+                    return { bg: `rgb(${r},${g},${b})`, text: '#fff' };
+                } else {
+                    const factor = (t - 0.5) * 2;
+                    const r = Math.round(200 - factor * 160), g = Math.round(200 + factor * 30), b = Math.round(200 - factor * 140);
+                    return { bg: `rgb(${r},${g},${b})`, text: factor > 0.3 ? '#fff' : '#333' };
+                }
+            }
+
+            let html = '';
+            groups.forEach(group => {
+                const items = changes.filter(c => c.position === group.position)
+                    .sort((a, b) => b.change - a.change);
+                if (items.length === 0) return;
+
+                const cols = Math.min(items.length, 6);
+                html += `<div class="heatmap-section-label">${group.label}</div>`;
+                html += `<div style="display:grid; grid-template-columns:repeat(${cols}, 1fr); gap:3px;">`;
+                items.forEach(item => {
+                    const { bg, text } = changeColor(item.change);
+                    const sign = item.change >= 0 ? '+' : '';
+                    html += `
+                        <div class="heatmap-cell" style="background:${bg}; color:${text};"
+                             onmouseenter="showTooltip('<strong>${item.name}</strong><br>${item.role}<br>漲跌：${sign}${item.change.toFixed(2)}%', event)"
+                             onmouseleave="hideTooltip()"
+                             onclick="selectCompany('${item.id}')">
+                            <span class="heatmap-name">${item.name}</span>
+                            <span class="heatmap-value">${sign}${item.change.toFixed(1)}%</span>
+                        </div>`;
+                });
+                html += '</div>';
+            });
+
+            container.innerHTML = html;
         }
 
         // Start

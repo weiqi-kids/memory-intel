@@ -1,0 +1,97 @@
+{
+  "date": "2026-02-02",
+  "date_range": {
+    "start": "2026-01-27",
+    "end": "2026-02-02"
+  },
+  "generated_at": "2026-04-14T02:23:42.391205Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "apple-2026-02-02-005",
+      "date": "2026-02-02",
+      "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 2,
+        "last": 1,
+        "change_pct": 100.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-01-27",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-28",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-02",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-01-27 ~ 2026-02-02）共 2 則事件，重點為「AI infrastructure surge begins squeezing Apple’...」。事件量較上週增加 100%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "Apple",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "TSMC",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

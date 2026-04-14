@@ -1,10 +1,10 @@
 {
   "date": "2026-04-08",
-  "generated_at": "2026-04-08T09:13:23.844888Z",
+  "generated_at": "2026-04-14T02:24:00.639403Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-04-08-019",
+      "event_id": "unknown-2026-04-08-007",
       "importance_score": 0.7,
       "importance_reasons": [
         "涉及 AI 伺服器"
@@ -26,11 +26,13 @@
     },
     {
       "rank": 2,
-      "event_id": "unknown-2026-04-08-001",
+      "event_id": "nvidia-2026-04-08-001",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": " Corsair's Strix Halo AI Workstation 300 gets even more expensive amid the RAMpocalypse — Ryzen AI Max 395+ flagship now sits at $3,399 ",
-      "companies": [],
+      "title": " Bain Capital's data center unit removes disgraced tenant suspected of smuggling Nvidia GPUs to China — Megaspeed previously alleged to have spent roughly $2 billion on AI processors for illicit distribution ",
+      "companies": [
+        "nvidia"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
@@ -44,34 +46,40 @@
     },
     {
       "rank": 3,
-      "event_id": "unknown-2026-04-08-016",
+      "event_id": "unknown-2026-04-08-002",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": "State Of The Market For Edge Silicon",
+      "title": " Taiwanese chip makers call on government to stockpile helium, liquid natural gas — TSIA pleads for strategic supplies as US and Iran sign ceasefire in Middle East ",
       "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "inventory"
+      ],
       "sentiment": {
-        "label": "neutral",
-        "score": 0.0
+        "label": "positive",
+        "score": 0.5
       },
       "source_url": null
     },
     {
       "rank": 4,
-      "event_id": "unknown-2026-04-08-017",
+      "event_id": "hp-2026-04-08-003",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": "AI At The Edge Ubiquitous, Agentic, Multimodal, and Hardware-Accelerated",
-      "companies": [],
+      "title": " Grab an entire RTX 5090 gaming PC for just $8 more than the GPU itself and score a whopping $1,600 off — huge HP discount requires a $39 controller or monitor to secure you a 4K powerhouse with a 9800X3D, 32GB DDR5, and a 1TB SSD ",
+      "companies": [
+        "hp"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "ddr5"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
@@ -80,16 +88,18 @@
     },
     {
       "rank": 5,
-      "event_id": "unknown-2026-04-08-018",
+      "event_id": "unknown-2026-04-08-004",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": "Engineer’s Guide to Simulating Electronics Cooling: eBook",
+      "title": " Russian state hackers are hijacking TP-Link and MicroTik routers to steal Outlook credentials, cybersecurity center warns — APT28 group targets DNS and redirects traffic to attacker-controlled servers ",
       "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "guidance"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
@@ -108,22 +118,87 @@
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 6,
+    "total_events": 5,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 6,
+      "positive": 1,
+      "neutral": 4,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "hp",
+        "count": 1
+      }
+    ],
     "top_topics": [
       {
         "id": "ai_server",
         "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
       }
     ]
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日記憶體產業共有 5 則事件，NVIDIA、HP為主要焦點，AI 伺服器、庫存、DDR5等議題受到市場關注。整體市場情緒中性，短期內供應鏈格局未見明顯變化。",
+    "signals": [
+      {
+        "text": "Inside the AI Accelerator: Essential IP Design Solutions: eB（AI 伺服器）",
+        "level": "yellow"
+      },
+      {
+        "text": "當日資訊密度較高（5 則事件），建議綜合研判產業脈動",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

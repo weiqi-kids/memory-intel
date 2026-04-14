@@ -1,9 +1,62 @@
 {
   "date": "2026-04-07",
-  "total_events": 10,
-  "by_company": {},
+  "total_events": 8,
+  "by_company": {
+    "samsung": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intel": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nvidia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "qualcomm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "amd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "google": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "broadcom": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
     "ai_server": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nand_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "capacity": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "ddr5": {
       "count": 1,
       "sentiment_avg": 0.0
     }

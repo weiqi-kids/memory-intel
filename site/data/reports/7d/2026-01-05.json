@@ -1,0 +1,90 @@
+{
+  "date": "2026-01-05",
+  "date_range": {
+    "start": "2025-12-30",
+    "end": "2026-01-05"
+  },
+  "generated_at": "2026-04-14T02:23:40.762803Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "skhynix-2026-01-05-004",
+      "date": "2026-01-05",
+      "title": "SK hynix Showcases Next-Generation AI Memory Innovations at CES 2026",
+      "importance_score": 0.7
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-12-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-12-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-01-05",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2025-12-30 ~ 2026-01-05）共 1 則事件，重點為「SK hynix Showcases Next-Generation AI Memory In...」。AI 記憶體為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "SK hynix",
+        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

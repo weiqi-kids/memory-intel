@@ -1,0 +1,103 @@
+{
+  "date": "2026-02-05",
+  "generated_at": "2026-04-14T02:23:42.721897Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "skhynix-2026-02-05-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
+      "companies": [
+        "skhynix",
+        "cxmt",
+        "hp",
+        "micron",
+        "samsung",
+        "dell"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "micron"
+        ]
+      },
+      "topics": [
+        "shortage"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "skhynix",
+        "count": 1
+      },
+      {
+        "id": "cxmt",
+        "count": 1
+      },
+      {
+        "id": "hp",
+        "count": 1
+      },
+      {
+        "id": "micron",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "shortage",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為SK hynix、CXMT、HP相關動態：「Leading PC manufacturers considering using Chinese memory...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Leading PC manufacturers considering using Chinese memory chips, report claim...（缺貨）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

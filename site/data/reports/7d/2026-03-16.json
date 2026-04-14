@@ -4,12 +4,12 @@
     "start": "2026-03-10",
     "end": "2026-03-16"
   },
-  "generated_at": "2026-03-16T09:07:33.499442Z",
+  "generated_at": "2026-04-14T02:23:47.338946Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "unknown-2026-03-12-022",
+      "event_id": "unknown-2026-03-12-005",
       "date": "2026-03-12",
       "title": "HBM4E Raises The Bar For AI Memory Bandwidth",
       "importance_score": 1.0
@@ -17,11 +17,65 @@
   ],
   "anomalies_7d": [],
   "topic_7d_summary": {
-    "guidance": {
+    "dram_price": {
       "this_week": 1,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.43
+      "sentiment_this_week": 0.5
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.12
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.04
+    },
+    "shortage": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.06
+    },
+    "capacity": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "inventory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "advanced_packaging": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
     }
   },
   "company_7d_summary": {
@@ -31,32 +85,52 @@
       "rank": 4
     },
     "samsung": {
-      "event_count": 5,
-      "sentiment_avg": 0.33,
-      "rank": 2
-    },
-    "nvidia": {
-      "event_count": 7,
-      "sentiment_avg": 0.0,
-      "rank": 1
-    },
-    "google": {
       "event_count": 1,
-      "sentiment_avg": 0.5,
+      "sentiment_avg": 0.0,
       "rank": 5
     },
-    "apple": {
-      "event_count": 4,
-      "sentiment_avg": 0.0,
+    "nvidia": {
+      "event_count": 12,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "amd": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
       "rank": 3
+    },
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "intel": {
+      "event_count": 4,
+      "sentiment_avg": 0.13,
+      "rank": 2
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 23,
-        "last": 6,
-        "change_pct": 283.3
+        "this": 29,
+        "last": 9,
+        "change_pct": 222.2
       }
     }
   },
@@ -68,12 +142,12 @@
     },
     {
       "date": "2026-03-11",
-      "event_count": 7,
+      "event_count": 1,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-12",
-      "event_count": 4,
+      "event_count": 1,
       "sentiment_avg": 0
     },
     {
@@ -88,13 +162,27 @@
     },
     {
       "date": "2026-03-15",
-      "event_count": 0,
+      "event_count": 5,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-16",
-      "event_count": 1,
+      "event_count": 11,
       "sentiment_avg": 0
     }
-  ]
+  ],
+  "llm_analysis": {
+    "summary": "本週共 22 則事件，主要聚焦NVIDIA、Intel、AMD，核心議題為AI伺服器、缺貨、DDR5。事件量較前週大幅增加（+222%），產業活動明顯升溫。",
+    "watchlist": [
+      {
+        "company": "NVIDIA",
+        "reason": "本週高度活躍（8 則事件），涉及HBM、DDR5、AI伺服器，持續觀察動向。"
+      },
+      {
+        "company": "Intel",
+        "reason": "涉及AI伺服器、DDR5、缺貨等關鍵議題（4 則），值得持續追蹤。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

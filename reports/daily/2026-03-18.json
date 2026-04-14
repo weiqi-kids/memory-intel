@@ -1,0 +1,264 @@
+{
+  "date": "2026-03-18",
+  "generated_at": "2026-04-14T02:23:48.269608Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-03-18-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及 AI 伺服器",
+        "涉及先進封裝",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions",
+      "companies": [
+        "intel",
+        "samsung",
+        "amd"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "capex",
+        "ai_server",
+        "ddr5",
+        "advanced_packaging"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-03-18-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Replay‑based Validation as a Scalable Methodology for Chiplet‑based Systems (Intel, Synopsys)",
+      "companies": [
+        "intel",
+        "nvidia",
+        "synopsys"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-03-18-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及 AI 伺服器"
+      ],
+      "title": " With H200s set to flow into China, Groq is reportedly set to follow — Nvidia is allegedly preparing a custom version of inferencing chip to penetrate region ",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "amd-2026-03-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Score a liquid-cooled Asus ROG 4K gaming PC with a 9800X3D and RX 9070 XT for under $1,900 right now — powerhouse rig comes equipped with 32GB of DDR5 RAM and a 1TB SSD ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-03-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Get 32GB of DDR5 RAM for an effective price of $101 thanks to this Newegg AM5 bundle —  buy a 9850X3D, premium MSI X870E Max motherboard, and 32GB of V-Color RAM for $1,278.99 ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.34,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.22,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "synopsys",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ddr5",
+        "count": 3
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      },
+      {
+        "id": "hbm",
+        "count": 1
+      },
+      {
+        "id": "ai_memory",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,42 +1,26 @@
 {
   "date": "2026-04-01",
-  "generated_at": "2026-04-01T09:18:28.238522Z",
+  "generated_at": "2026-04-14T02:23:56.338026Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-04-01-024",
-      "importance_score": 0.65,
+      "event_id": "unknown-2026-04-01-002",
+      "importance_score": 1.0,
       "importance_reasons": [
-        "情緒極端"
+        "涉及價格",
+        "涉及財報",
+        "涉及 AI 伺服器"
       ],
-      "title": "Accelerating Automotive Innovation: SRAM Compiler Breakthroughs for 5nm and 3nm SoCs",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "negative",
-        "score": -1.0
-      },
-      "source_url": null
-    },
-    {
-      "rank": 2,
-      "event_id": "unknown-2026-04-01-029",
-      "importance_score": 0.65,
-      "importance_reasons": [
-        "涉及先進封裝"
-      ],
-      "title": "Preparing For The Multiphysics Future of 3D ICs",
+      "title": " DRAM prices predicted to jump 63% in Q2, NAND up to 75% — follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight ",
       "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
-        "advanced_packaging"
+        "dram_price",
+        "ai_server",
+        "earnings"
       ],
       "sentiment": {
         "label": "neutral",
@@ -45,13 +29,33 @@
       "source_url": null
     },
     {
-      "rank": 3,
-      "event_id": "google-2026-04-01-001",
+      "rank": 2,
+      "event_id": "nvidia-2026-04-01-001",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": " Google research suggests encryption technique used by Bitcoin will be cracked by quantum computers around 2029 — search giant says quantum attacks need to be prepared for now ",
+      "title": " Nvidia market share in China falls to less than 60% — Chinese chip makers deliver 1.65 million AI GPUs as the government pushes data centers to use domestic chips ",
       "companies": [
-        "google"
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "oracle-2026-04-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Oracle believed to have cut 10,000 positions across multiple divisions as mass layoffs begin to fuel AI investments — company is reportedly reducing headcount to fund data centers ",
+      "companies": [
+        "oracle"
       ],
       "related": {
         "customers": [],
@@ -66,34 +70,18 @@
     },
     {
       "rank": 4,
-      "event_id": "unknown-2026-04-01-021",
+      "event_id": "unknown-2026-04-01-004",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": "Secure at First Silicon: Reducing Cost and Risk",
+      "title": " Act fast to grab this 32GB Corsair Vengeance DDR5 RAM for just $269, the cheapest kit in months — limited-time Woot deal is now $100 cheaper than the next-best rival ",
       "companies": [],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": null
-    },
-    {
-      "rank": 5,
-      "event_id": "unknown-2026-04-01-022",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Enabling Physical AI and Robotics: Platform for the Intelligent Edge",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
+      "topics": [
+        "ddr5"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
@@ -103,7 +91,37 @@
   ],
   "anomalies": [],
   "topic_trends": {
-    "advanced_packaging": {
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -116,23 +134,53 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 10,
+    "total_events": 4,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 9,
-      "negative": 1
+      "neutral": 4,
+      "negative": 0
     },
     "top_companies": [
       {
-        "id": "google",
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "oracle",
         "count": 1
       }
     ],
     "top_topics": [
       {
-        "id": "advanced_packaging",
+        "id": "dram_price",
+        "count": 1
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "ddr5",
         "count": 1
       }
     ]
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日記憶體產業共有 4 則事件，NVIDIA、Oracle為主要焦點，DRAM 價格、AI 伺服器、法說會/財報等議題受到市場關注。整體市場情緒中性，短期內供應鏈格局未見明顯變化。",
+    "signals": [
+      {
+        "text": "DRAM prices predicted to jump 63% in Q2, NAND up to 75% — fo（DRAM 價格、AI 伺服器）",
+        "level": "red"
+      },
+      {
+        "text": "當日共 4 則事件，市場動態維持常態",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

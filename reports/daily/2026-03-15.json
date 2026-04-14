@@ -1,0 +1,181 @@
+{
+  "date": "2026-03-15",
+  "generated_at": "2026-04-14T02:23:46.561539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-15-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": " Elon Musk says his chipmaking 'Terafab Project' venture will launch in seven days — Musk's latest moonshot multi-billion project launches on a Saturday ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Save over $100 on this feature-rich Asus AM5 motherboard with Wi-Fi 7, USB4 & DDR5-8000 support — TUF Gaming X870-Plus is on sale for just $170 ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-03-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " AMD's upcoming RDNA 5 GPUs might improve dual-issue execution & use shader units more efficiently — LLVM patch adds new FMA instruction to ease compiling ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "apple-2026-03-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Apple's MacBook Neo modded to a 1 TB SSD, breaking the firm's 512 GB barrier — base 256 GB model gets modded in expert NAND swap surgery ",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-03-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " ASRock launches new Frankensteined motherboard with one DDR4 slot and two DDR5 slots — Intel board signals the RAM apocalypse is truly nigh ",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shortage",
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "apple",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ddr5",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "shortage",
+        "count": 1
+      }
+    ]
+  }
+}

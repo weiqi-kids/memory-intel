@@ -4,12 +4,12 @@
     "start": "2026-03-25",
     "end": "2026-03-31"
   },
-  "generated_at": "2026-03-31T09:12:28.117727Z",
+  "generated_at": "2026-04-14T02:23:56.018727Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "google-2026-03-25-006",
+      "event_id": "nvidia-2026-03-25-005",
       "date": "2026-03-25",
       "title": " Google's TurboQuant reduces AI LLM cache memory capacity requirements by at least six times — up to 8x performance boost on Nvidia H100 GPUs, compresses KV caches to 3 bits with no accuracy loss ",
       "importance_score": 1.0
@@ -17,58 +17,179 @@
   ],
   "anomalies_7d": [],
   "topic_7d_summary": {
-    "capex": {
-      "this_week": 2,
+    "capacity": {
+      "this_week": 4,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.25
+      "sentiment_this_week": 0.07
+    },
+    "capex": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.09
+    },
+    "shortage": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.19
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 7,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
     }
   },
-  "company_7d_summary": {},
+  "company_7d_summary": {
+    "intel": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "samsung": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nvidia": {
+      "event_count": 5,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.75,
+      "rank": 7
+    },
+    "supermicro": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "amd": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 8
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 20,
-        "last": 14,
-        "change_pct": 42.9
+        "this": 35,
+        "last": 36,
+        "change_pct": -2.8
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-03-25",
-      "event_count": 4,
+      "event_count": 7,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-26",
-      "event_count": 10,
+      "event_count": 8,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-27",
-      "event_count": 0,
+      "event_count": 3,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-28",
-      "event_count": 0,
+      "event_count": 6,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-29",
-      "event_count": 0,
+      "event_count": 1,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-30",
-      "event_count": 2,
+      "event_count": 5,
       "sentiment_avg": 0
     },
     {
       "date": "2026-03-31",
-      "event_count": 4,
+      "event_count": 5,
       "sentiment_avg": 0
     }
-  ]
+  ],
+  "llm_analysis": {
+    "summary": "過去七日（2026-03-25 至 2026-03-31）記憶體供應鏈共錄得 35 則事件，Intel、NVIDIA、AMD為最受關注的公司。資本支出、缺貨等議題聲量上升，值得持續追蹤。",
+    "watchlist": [
+      {
+        "company": "Intel",
+        "reason": "過去七日出現 5 則事件，為本週最受關注公司之一"
+      },
+      {
+        "company": "NVIDIA",
+        "reason": "過去七日出現 5 則事件，為本週最受關注公司之一"
+      },
+      {
+        "company": "AMD",
+        "reason": "過去七日出現 5 則事件，為本週最受關注公司之一"
+      },
+      {
+        "company": "資本支出",
+        "reason": "議題聲量週增+50%，趨勢上升中"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

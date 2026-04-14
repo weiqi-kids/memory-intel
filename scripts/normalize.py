@@ -26,6 +26,22 @@ def load_jsonl(path: Path) -> list[dict]:
     return items
 
 
+def _pick_short_name(company):
+    """優先選中文別名作為顯示名稱，沒有則用 name"""
+    import re
+    aliases = company.get("aliases") or []
+    # 找第一個含中文字的 alias
+    for a in aliases:
+        if a and re.search(r'[\u4e00-\u9fff]', a):
+            return a
+    # 沒有中文 alias，用 name（可能本身就是中文）
+    name = company.get("name", "")
+    if re.search(r'[\u4e00-\u9fff]', name):
+        return name
+    # 都沒有中文，取第一個 alias 或 name
+    return aliases[0] if aliases else name
+
+
 def main():
     today = date.today().isoformat()
     raw_dir = Path(__file__).parent.parent / "data" / "raw" / today
@@ -92,26 +108,77 @@ def main():
         viz_companies = []
         viz_links = []
 
-        # Position mapping for visualization
-        positions = {
-            "upstream": {"y": 0.12, "row_count": 0},
-            "midstream": {"y": 0.50, "row_count": 0},
-            "downstream": {"y": 0.88, "row_count": 0}
+        # Position mapping: role → row
+        role_to_row = {
+            "設備": "equip",
+            "材料": "material",
+            "EDA": "eda",
+            "IP": "eda",
+            "矽晶圓": "material",
+            "記憶體製造": "memory",
+            "利基記憶體": "memory",
+            "控制IC": "controller",
+            "記憶體模組": "module",
+            "代工": "foundry",
+            "封測": "osat",
+            "OSAT": "osat",
+            "GPU": "ai",
+            "GPU/CPU": "ai",
+            "AI 晶片": "ai",
+            "行動晶片": "ai",
+            "網通晶片": "ai",
+            "類比IC": "ai",
+            "功率半導體": "ai",
+            "車用晶片": "ai",
+            "系統": "system",
+            "消費電子": "system",
+            "CSP": "csp",
         }
 
+        row_y = {
+            "equip": 0.04,
+            "material": 0.13,
+            "eda": 0.22,
+            "memory": 0.34,
+            "controller": 0.43,
+            "module": 0.52,
+            "foundry": 0.61,
+            "osat": 0.70,
+            "ai": 0.80,
+            "system": 0.89,
+            "csp": 0.96,
+        }
+
+        # Count companies per row
+        from collections import defaultdict
+        row_counts = defaultdict(int)
+        company_rows = []
         for company in config.get("companies", []):
-            pos = company.get("position", "midstream")
-            row = positions[pos]
-            x = 0.1 + (row["row_count"] * 0.18)
-            row["row_count"] += 1
+            role = company.get("role", "")
+            row_key = role_to_row.get(role, "memory")
+            company_rows.append(row_key)
+            row_counts[row_key] += 1
+
+        row_idx = defaultdict(int)
+
+        for i, company in enumerate(config.get("companies", [])):
+            role = company.get("role", "")
+            row_key = company_rows[i]
+            total = row_counts[row_key]
+            idx = row_idx[row_key]
+            row_idx[row_key] += 1
+
+            x = 0.05 + (idx * 0.9 / max(total - 1, 1)) if total > 1 else 0.5
+            y = row_y.get(row_key, 0.5)
 
             viz_companies.append({
                 "id": company.get("id"),
                 "name": company.get("name"),
-                "position": pos,
-                "role": company.get("role", ""),
-                "x": min(x, 0.95),
-                "y": row["y"]
+                "short_name": _pick_short_name(company),
+                "position": company.get("position", "midstream"),
+                "role": role,
+                "x": round(x, 3),
+                "y": y
             })
 
             # Add links for downstream relationships

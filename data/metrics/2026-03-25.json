@@ -1,8 +1,50 @@
 {
   "date": "2026-03-25",
-  "total_events": 4,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 7,
+  "by_company": {
+    "intel": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "micron": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nvidia": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "google": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "supermicro": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "capacity": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shortage": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

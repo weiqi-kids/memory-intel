@@ -1,9 +1,62 @@
 {
   "date": "2026-03-19",
-  "total_events": 8,
-  "by_company": {},
+  "total_events": 10,
+  "by_company": {
+    "amd": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "nvidia": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "samsung": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "intel": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "kioxia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "microsoft": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
   "by_topic": {
-    "advanced_packaging": {
+    "euv": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "shortage": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ddr5": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hbm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
       "count": 1,
       "sentiment_avg": 0.0
     }

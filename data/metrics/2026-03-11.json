@@ -1,25 +1,13 @@
 {
   "date": "2026-03-11",
-  "total_events": 7,
-  "by_company": {
-    "google": {
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "dram_price": {
       "count": 1,
       "sentiment_avg": 0.5
-    },
-    "samsung": {
-      "count": 1,
-      "sentiment_avg": 0.5
-    },
-    "nvidia": {
-      "count": 3,
-      "sentiment_avg": 0.0
-    },
-    "apple": {
-      "count": 2,
-      "sentiment_avg": 0.0
     }
   },
-  "by_topic": {},
   "baselines_used": {
     "companies": {
       "samsung": {

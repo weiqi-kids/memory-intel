@@ -1,14 +1,30 @@
 {
   "date": "2026-04-01",
-  "total_events": 10,
+  "total_events": 4,
   "by_company": {
-    "google": {
+    "nvidia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "oracle": {
       "count": 1,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
-    "advanced_packaging": {
+    "dram_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ddr5": {
       "count": 1,
       "sentiment_avg": 0.0
     }

@@ -1,14 +1,78 @@
 {
   "date": "2026-03-24",
-  "generated_at": "2026-03-24T09:02:05.357761Z",
+  "generated_at": "2026-04-14T02:23:51.831381Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-03-24-021",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Chip Industry Technical Paper Roundup: Mar. 24",
-      "companies": [],
+      "event_id": "skhynix-2026-03-24-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "情緒極端"
+      ],
+      "title": " SK hynix places record $8 billion order for ASML EUV lithography machines — should pay for up to 30 EUV machines over two years, serving HBM and advanced DRAM production ",
+      "companies": [
+        "skhynix",
+        "asml"
+      ],
+      "related": {
+        "customers": [
+          "skhynix"
+        ],
+        "suppliers": [
+          "asml"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "euv"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-03-24-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 伺服器"
+      ],
+      "title": " Huawei unveils new Atlas 350 AI accelerator with 1.56 PFLOPS of FP4 compute and up to 112GB of HBM — claims 2.8x more performance than Nvidia's H20 ",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "meta-2026-03-24-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Arm moves beyond IP with AGI CPU silicon — 136-core data center chip targets AI infrastructure with Meta as lead partner  ",
+      "companies": [
+        "meta",
+        "arm"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
@@ -21,17 +85,50 @@
       "source_url": null
     },
     {
-      "rank": 2,
-      "event_id": "unknown-2026-03-24-022",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Research Bits: Mar. 24",
-      "companies": [],
+      "rank": 4,
+      "event_id": "asml-2026-03-24-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Microsoft-backed start-up raises $40 million for helium atom beam lithography that could print chips at atomic resolution — 0.1nm beam is 135 times narrower than ASML's EUV light ",
+      "companies": [
+        "asml",
+        "microsoft"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
       },
-      "topics": [],
+      "topics": [
+        "euv"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "amd-2026-03-24-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": " Get an entire RTX 5090 Alienware gaming PC for just 17% more than the GPU's standalone cost — 9800X3D beast with 32GB DDR5 and 1TB SSD drops below $4,450 at Dell, saving you a massive $1,200 ",
+      "companies": [
+        "amd",
+        "dell"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
       "sentiment": {
         "label": "neutral",
         "score": 0.0
@@ -40,16 +137,113 @@
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 6,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 2,
+      "positive": 1,
+      "neutral": 5,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
-  }
+    "top_companies": [
+      {
+        "id": "asml",
+        "count": 2
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "meta",
+        "count": 1
+      },
+      {
+        "id": "arm",
+        "count": 1
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "hbm",
+        "count": 2
+      },
+      {
+        "id": "euv",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點集中在ASML、NVIDIA、Meta的HBM、EUV、AI伺服器相關動態，其中「SK hynix places record $8 billion order for ASML EUV lith...」最受關注。市場情緒中性，正面 1 則、中性 5 則、負面 0 則。",
+    "signals": [
+      {
+        "text": "HBM持續成為市場焦點，相關事件 2 則。",
+        "level": "green"
+      },
+      {
+        "text": "ASML、Meta出現高重要性事件，建議密切追蹤後續發展。",
+        "level": "yellow"
+      },
+      {
+        "text": "今日情緒以中性為主，市場波動有限。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

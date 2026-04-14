@@ -3,154 +3,479 @@
     {
       "id": "asml",
       "name": "ASML",
+      "short_name": "艾司摩爾",
       "position": "upstream",
       "role": "設備",
-      "x": 0.1,
-      "y": 0.12
+      "x": 0.05,
+      "y": 0.04
     },
     {
       "id": "tokyo_electron",
       "name": "Tokyo Electron",
+      "short_name": "東京威力科創",
       "position": "upstream",
       "role": "設備",
-      "x": 0.28,
-      "y": 0.12
+      "x": 0.23,
+      "y": 0.04
     },
     {
       "id": "lam_research",
       "name": "Lam Research",
+      "short_name": "科林研發",
       "position": "upstream",
       "role": "設備",
-      "x": 0.45999999999999996,
-      "y": 0.12
+      "x": 0.41,
+      "y": 0.04
+    },
+    {
+      "id": "applied_materials",
+      "name": "Applied Materials",
+      "short_name": "應材",
+      "position": "upstream",
+      "role": "設備",
+      "x": 0.59,
+      "y": 0.04
+    },
+    {
+      "id": "kla",
+      "name": "KLA Corporation",
+      "short_name": "KLA",
+      "position": "upstream",
+      "role": "設備",
+      "x": 0.77,
+      "y": 0.04
+    },
+    {
+      "id": "screen",
+      "name": "Screen Holdings",
+      "short_name": "Screen Holdings",
+      "position": "upstream",
+      "role": "設備",
+      "x": 0.95,
+      "y": 0.04
     },
     {
       "id": "sumco",
       "name": "SUMCO",
+      "short_name": "SUMCO",
       "position": "upstream",
-      "role": "矽晶圓",
-      "x": 0.64,
-      "y": 0.12
+      "role": "材料",
+      "x": 0.05,
+      "y": 0.13
     },
     {
       "id": "sk_siltron",
       "name": "SK Siltron",
+      "short_name": "SK實特隆",
       "position": "upstream",
-      "role": "矽晶圓",
-      "x": 0.82,
-      "y": 0.12
+      "role": "材料",
+      "x": 0.35,
+      "y": 0.13
+    },
+    {
+      "id": "shin_etsu",
+      "name": "Shin-Etsu Chemical",
+      "short_name": "信越化學",
+      "position": "upstream",
+      "role": "材料",
+      "x": 0.65,
+      "y": 0.13
+    },
+    {
+      "id": "entegris",
+      "name": "Entegris",
+      "short_name": "Entegris",
+      "position": "upstream",
+      "role": "材料",
+      "x": 0.95,
+      "y": 0.13
+    },
+    {
+      "id": "synopsys",
+      "name": "Synopsys",
+      "short_name": "新思科技",
+      "position": "upstream",
+      "role": "EDA",
+      "x": 0.05,
+      "y": 0.22
+    },
+    {
+      "id": "cadence",
+      "name": "Cadence Design Systems",
+      "short_name": "益華電腦",
+      "position": "upstream",
+      "role": "EDA",
+      "x": 0.5,
+      "y": 0.22
+    },
+    {
+      "id": "arm",
+      "name": "Arm Holdings",
+      "short_name": "安謀",
+      "position": "upstream",
+      "role": "IP",
+      "x": 0.95,
+      "y": 0.22
     },
     {
       "id": "samsung",
       "name": "Samsung Electronics",
+      "short_name": "三星",
       "position": "midstream",
       "role": "記憶體製造",
-      "x": 0.1,
-      "y": 0.5
+      "x": 0.05,
+      "y": 0.34
     },
     {
       "id": "skhynix",
       "name": "SK hynix",
+      "short_name": "SK海力士",
       "position": "midstream",
       "role": "記憶體製造",
-      "x": 0.28,
-      "y": 0.5
+      "x": 0.14,
+      "y": 0.34
     },
     {
       "id": "micron",
       "name": "Micron Technology",
+      "short_name": "美光",
       "position": "midstream",
       "role": "記憶體製造",
-      "x": 0.45999999999999996,
-      "y": 0.5
+      "x": 0.23,
+      "y": 0.34
     },
     {
       "id": "nanya",
       "name": "南亞科技",
+      "short_name": "南亞科",
       "position": "midstream",
       "role": "記憶體製造",
-      "x": 0.64,
-      "y": 0.5
+      "x": 0.32,
+      "y": 0.34
     },
     {
       "id": "winbond",
       "name": "華邦電子",
+      "short_name": "華邦電",
       "position": "midstream",
       "role": "記憶體製造",
-      "x": 0.82,
-      "y": 0.5
+      "x": 0.41,
+      "y": 0.34
+    },
+    {
+      "id": "kioxia",
+      "name": "Kioxia",
+      "short_name": "鎧俠",
+      "position": "midstream",
+      "role": "記憶體製造",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "western_digital",
+      "name": "Western Digital",
+      "short_name": "威騰電子",
+      "position": "midstream",
+      "role": "記憶體製造",
+      "x": 0.59,
+      "y": 0.34
+    },
+    {
+      "id": "cxmt",
+      "name": "長鑫存儲",
+      "short_name": "長鑫存儲",
+      "position": "midstream",
+      "role": "記憶體製造",
+      "x": 0.68,
+      "y": 0.34
+    },
+    {
+      "id": "ymtc",
+      "name": "長江存儲",
+      "short_name": "長江存儲",
+      "position": "midstream",
+      "role": "記憶體製造",
+      "x": 0.77,
+      "y": 0.34
+    },
+    {
+      "id": "phison",
+      "name": "Phison Electronics",
+      "short_name": "群聯電子",
+      "position": "midstream",
+      "role": "控制IC",
+      "x": 0.05,
+      "y": 0.43
+    },
+    {
+      "id": "silicon_motion",
+      "name": "Silicon Motion",
+      "short_name": "慧榮科技",
+      "position": "midstream",
+      "role": "控制IC",
+      "x": 0.95,
+      "y": 0.43
+    },
+    {
+      "id": "macronix",
+      "name": "Macronix",
+      "short_name": "旺宏電子",
+      "position": "midstream",
+      "role": "利基記憶體",
+      "x": 0.86,
+      "y": 0.34
+    },
+    {
+      "id": "elite_semi",
+      "name": "Elite Semiconductor",
+      "short_name": "晶豪科",
+      "position": "midstream",
+      "role": "利基記憶體",
+      "x": 0.95,
+      "y": 0.34
+    },
+    {
+      "id": "adata",
+      "name": "ADATA Technology",
+      "short_name": "威剛科技",
+      "position": "midstream",
+      "role": "記憶體模組",
+      "x": 0.05,
+      "y": 0.52
+    },
+    {
+      "id": "innodisk",
+      "name": "Innodisk",
+      "short_name": "宜鼎國際",
+      "position": "midstream",
+      "role": "記憶體模組",
+      "x": 0.95,
+      "y": 0.52
+    },
+    {
+      "id": "tsmc",
+      "name": "TSMC",
+      "short_name": "台積電",
+      "position": "midstream",
+      "role": "代工",
+      "x": 0.05,
+      "y": 0.61
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "short_name": "英特爾",
+      "position": "midstream",
+      "role": "代工",
+      "x": 0.5,
+      "y": 0.61
+    },
+    {
+      "id": "psmc",
+      "name": "Powerchip Semiconductor",
+      "short_name": "力積電",
+      "position": "midstream",
+      "role": "代工",
+      "x": 0.95,
+      "y": 0.61
     },
     {
       "id": "ase",
       "name": "日月光投控",
+      "short_name": "日月光",
       "position": "midstream",
       "role": "封測",
-      "x": 0.95,
-      "y": 0.5
+      "x": 0.05,
+      "y": 0.7
     },
     {
       "id": "powertech",
       "name": "力成科技",
+      "short_name": "力成",
       "position": "midstream",
       "role": "封測",
-      "x": 0.95,
-      "y": 0.5
+      "x": 0.35,
+      "y": 0.7
     },
     {
       "id": "ptc",
       "name": "南茂科技",
+      "short_name": "南茂",
+      "position": "midstream",
+      "role": "封測",
+      "x": 0.65,
+      "y": 0.7
+    },
+    {
+      "id": "amkor",
+      "name": "Amkor Technology",
+      "short_name": "艾克爾",
       "position": "midstream",
       "role": "封測",
       "x": 0.95,
-      "y": 0.5
+      "y": 0.7
     },
     {
       "id": "nvidia",
       "name": "NVIDIA",
+      "short_name": "輝達",
       "position": "downstream",
       "role": "GPU",
-      "x": 0.1,
-      "y": 0.88
+      "x": 0.05,
+      "y": 0.8
     },
     {
       "id": "amd",
       "name": "AMD",
+      "short_name": "超微",
       "position": "downstream",
       "role": "GPU/CPU",
-      "x": 0.28,
-      "y": 0.88
+      "x": 0.179,
+      "y": 0.8
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom",
+      "short_name": "博通",
+      "position": "downstream",
+      "role": "AI 晶片",
+      "x": 0.307,
+      "y": 0.8
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "short_name": "高通",
+      "position": "downstream",
+      "role": "行動晶片",
+      "x": 0.436,
+      "y": 0.8
+    },
+    {
+      "id": "marvell",
+      "name": "Marvell Technology",
+      "short_name": "美滿電子",
+      "position": "downstream",
+      "role": "網通晶片",
+      "x": 0.564,
+      "y": 0.8
+    },
+    {
+      "id": "ti",
+      "name": "Texas Instruments",
+      "short_name": "德州儀器",
+      "position": "downstream",
+      "role": "類比IC",
+      "x": 0.693,
+      "y": 0.8
+    },
+    {
+      "id": "onsemi",
+      "name": "ON Semiconductor",
+      "short_name": "安森美",
+      "position": "downstream",
+      "role": "功率半導體",
+      "x": 0.821,
+      "y": 0.8
+    },
+    {
+      "id": "infineon",
+      "name": "Infineon Technologies",
+      "short_name": "英飛凌",
+      "position": "downstream",
+      "role": "車用晶片",
+      "x": 0.95,
+      "y": 0.8
     },
     {
       "id": "apple",
       "name": "Apple",
+      "short_name": "蘋果",
       "position": "downstream",
-      "role": "消費電子",
-      "x": 0.45999999999999996,
-      "y": 0.88
+      "role": "系統",
+      "x": 0.05,
+      "y": 0.89
+    },
+    {
+      "id": "dell",
+      "name": "Dell Technologies",
+      "short_name": "戴爾",
+      "position": "downstream",
+      "role": "系統",
+      "x": 0.275,
+      "y": 0.89
+    },
+    {
+      "id": "hp",
+      "name": "HP Inc.",
+      "short_name": "惠普",
+      "position": "downstream",
+      "role": "系統",
+      "x": 0.5,
+      "y": 0.89
+    },
+    {
+      "id": "lenovo",
+      "name": "Lenovo",
+      "short_name": "聯想",
+      "position": "downstream",
+      "role": "系統",
+      "x": 0.725,
+      "y": 0.89
+    },
+    {
+      "id": "supermicro",
+      "name": "Super Micro Computer",
+      "short_name": "超微電腦",
+      "position": "downstream",
+      "role": "系統",
+      "x": 0.95,
+      "y": 0.89
     },
     {
       "id": "aws",
       "name": "Amazon Web Services",
+      "short_name": "亞馬遜雲端",
       "position": "downstream",
       "role": "CSP",
-      "x": 0.64,
-      "y": 0.88
+      "x": 0.05,
+      "y": 0.96
     },
     {
       "id": "microsoft",
       "name": "Microsoft",
+      "short_name": "微軟",
       "position": "downstream",
       "role": "CSP",
-      "x": 0.82,
-      "y": 0.88
+      "x": 0.275,
+      "y": 0.96
     },
     {
       "id": "google",
       "name": "Google Cloud",
+      "short_name": "谷歌雲端",
+      "position": "downstream",
+      "role": "CSP",
+      "x": 0.5,
+      "y": 0.96
+    },
+    {
+      "id": "meta",
+      "name": "Meta Platforms",
+      "short_name": "臉書",
+      "position": "downstream",
+      "role": "CSP",
+      "x": 0.725,
+      "y": 0.96
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "short_name": "甲骨文",
       "position": "downstream",
       "role": "CSP",
       "x": 0.95,
-      "y": 0.88
+      "y": 0.96
     }
   ],
   "links": [
@@ -170,6 +495,41 @@
       "strength": 2
     },
     {
+      "source": "asml",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
+      "source": "asml",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "asml",
+      "target": "kioxia",
+      "strength": 2
+    },
+    {
+      "source": "asml",
+      "target": "nanya",
+      "strength": 2
+    },
+    {
+      "source": "asml",
+      "target": "winbond",
+      "strength": 2
+    },
+    {
+      "source": "asml",
+      "target": "cxmt",
+      "strength": 2
+    },
+    {
+      "source": "asml",
+      "target": "ymtc",
+      "strength": 2
+    },
+    {
       "source": "tokyo_electron",
       "target": "samsung",
       "strength": 2
@@ -182,6 +542,31 @@
     {
       "source": "tokyo_electron",
       "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "tokyo_electron",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
+      "source": "tokyo_electron",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "tokyo_electron",
+      "target": "kioxia",
+      "strength": 2
+    },
+    {
+      "source": "tokyo_electron",
+      "target": "nanya",
+      "strength": 2
+    },
+    {
+      "source": "tokyo_electron",
+      "target": "winbond",
       "strength": 2
     },
     {
@@ -200,6 +585,111 @@
       "strength": 2
     },
     {
+      "source": "lam_research",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
+      "source": "lam_research",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "lam_research",
+      "target": "kioxia",
+      "strength": 2
+    },
+    {
+      "source": "lam_research",
+      "target": "western_digital",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "kioxia",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "nanya",
+      "strength": 2
+    },
+    {
+      "source": "applied_materials",
+      "target": "winbond",
+      "strength": 2
+    },
+    {
+      "source": "kla",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "kla",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "kla",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "kla",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
+      "source": "kla",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "screen",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "screen",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "screen",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "screen",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
       "source": "sumco",
       "target": "samsung",
       "strength": 2
@@ -212,11 +702,171 @@
     {
       "source": "sumco",
       "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "sumco",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
+      "source": "sumco",
+      "target": "intel",
       "strength": 2
     },
     {
       "source": "sk_siltron",
       "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "sk_siltron",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "shin_etsu",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "shin_etsu",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "shin_etsu",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "shin_etsu",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
+      "source": "shin_etsu",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "entegris",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "entegris",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "entegris",
+      "target": "micron",
+      "strength": 2
+    },
+    {
+      "source": "entegris",
+      "target": "tsmc",
+      "strength": 2
+    },
+    {
+      "source": "entegris",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "synopsys",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "synopsys",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "synopsys",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "synopsys",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "synopsys",
+      "target": "broadcom",
+      "strength": 2
+    },
+    {
+      "source": "synopsys",
+      "target": "qualcomm",
+      "strength": 2
+    },
+    {
+      "source": "synopsys",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "cadence",
+      "target": "samsung",
+      "strength": 2
+    },
+    {
+      "source": "cadence",
+      "target": "skhynix",
+      "strength": 2
+    },
+    {
+      "source": "cadence",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "cadence",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "cadence",
+      "target": "broadcom",
+      "strength": 2
+    },
+    {
+      "source": "cadence",
+      "target": "qualcomm",
+      "strength": 2
+    },
+    {
+      "source": "cadence",
+      "target": "intel",
+      "strength": 2
+    },
+    {
+      "source": "arm",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "arm",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "arm",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "arm",
+      "target": "qualcomm",
+      "strength": 2
+    },
+    {
+      "source": "arm",
+      "target": "broadcom",
       "strength": 2
     },
     {
@@ -236,7 +886,32 @@
     },
     {
       "source": "samsung",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
+      "target": "hp",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
+      "target": "supermicro",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
       "target": "ase",
+      "strength": 2
+    },
+    {
+      "source": "samsung",
+      "target": "amkor",
       "strength": 2
     },
     {
@@ -251,12 +926,47 @@
     },
     {
       "source": "skhynix",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "skhynix",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "skhynix",
+      "target": "supermicro",
+      "strength": 2
+    },
+    {
+      "source": "skhynix",
       "target": "powertech",
       "strength": 2
     },
     {
       "source": "micron",
       "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "micron",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "micron",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "micron",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "micron",
+      "target": "hp",
       "strength": 2
     },
     {
@@ -276,12 +986,192 @@
     },
     {
       "source": "nanya",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "nanya",
+      "target": "hp",
+      "strength": 2
+    },
+    {
+      "source": "nanya",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "nanya",
       "target": "ptc",
       "strength": 2
     },
     {
       "source": "nanya",
       "target": "powertech",
+      "strength": 2
+    },
+    {
+      "source": "winbond",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "winbond",
+      "target": "hp",
+      "strength": 2
+    },
+    {
+      "source": "winbond",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "kioxia",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "kioxia",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "kioxia",
+      "target": "hp",
+      "strength": 2
+    },
+    {
+      "source": "kioxia",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "western_digital",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "western_digital",
+      "target": "hp",
+      "strength": 2
+    },
+    {
+      "source": "western_digital",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "western_digital",
+      "target": "aws",
+      "strength": 2
+    },
+    {
+      "source": "western_digital",
+      "target": "microsoft",
+      "strength": 2
+    },
+    {
+      "source": "cxmt",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "ymtc",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "phison",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "phison",
+      "target": "hp",
+      "strength": 2
+    },
+    {
+      "source": "phison",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "silicon_motion",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "silicon_motion",
+      "target": "hp",
+      "strength": 2
+    },
+    {
+      "source": "tsmc",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "tsmc",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "tsmc",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "tsmc",
+      "target": "broadcom",
+      "strength": 2
+    },
+    {
+      "source": "tsmc",
+      "target": "qualcomm",
+      "strength": 2
+    },
+    {
+      "source": "intel",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "intel",
+      "target": "hp",
+      "strength": 2
+    },
+    {
+      "source": "intel",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "intel",
+      "target": "aws",
+      "strength": 2
+    },
+    {
+      "source": "intel",
+      "target": "microsoft",
+      "strength": 2
+    },
+    {
+      "source": "intel",
+      "target": "google",
+      "strength": 2
+    },
+    {
+      "source": "psmc",
+      "target": "nanya",
+      "strength": 2
+    },
+    {
+      "source": "psmc",
+      "target": "winbond",
+      "strength": 2
+    },
+    {
+      "source": "psmc",
+      "target": "phison",
       "strength": 2
     },
     {
@@ -295,8 +1185,43 @@
       "strength": 2
     },
     {
+      "source": "ase",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "ase",
+      "target": "broadcom",
+      "strength": 2
+    },
+    {
+      "source": "ase",
+      "target": "qualcomm",
+      "strength": 2
+    },
+    {
       "source": "powertech",
       "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "powertech",
+      "target": "amd",
+      "strength": 2
+    },
+    {
+      "source": "amkor",
+      "target": "nvidia",
+      "strength": 2
+    },
+    {
+      "source": "amkor",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "amkor",
+      "target": "broadcom",
       "strength": 2
     },
     {
@@ -315,6 +1240,26 @@
       "strength": 2
     },
     {
+      "source": "nvidia",
+      "target": "meta",
+      "strength": 2
+    },
+    {
+      "source": "nvidia",
+      "target": "oracle",
+      "strength": 2
+    },
+    {
+      "source": "nvidia",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "nvidia",
+      "target": "supermicro",
+      "strength": 2
+    },
+    {
       "source": "amd",
       "target": "aws",
       "strength": 2
@@ -322,6 +1267,51 @@
     {
       "source": "amd",
       "target": "microsoft",
+      "strength": 2
+    },
+    {
+      "source": "amd",
+      "target": "dell",
+      "strength": 2
+    },
+    {
+      "source": "amd",
+      "target": "supermicro",
+      "strength": 2
+    },
+    {
+      "source": "broadcom",
+      "target": "google",
+      "strength": 2
+    },
+    {
+      "source": "broadcom",
+      "target": "meta",
+      "strength": 2
+    },
+    {
+      "source": "qualcomm",
+      "target": "apple",
+      "strength": 2
+    },
+    {
+      "source": "qualcomm",
+      "target": "lenovo",
+      "strength": 2
+    },
+    {
+      "source": "marvell",
+      "target": "aws",
+      "strength": 2
+    },
+    {
+      "source": "marvell",
+      "target": "microsoft",
+      "strength": 2
+    },
+    {
+      "source": "marvell",
+      "target": "google",
       "strength": 2
     }
   ]

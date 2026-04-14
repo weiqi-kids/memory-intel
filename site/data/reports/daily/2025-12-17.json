@@ -1,0 +1,83 @@
+{
+  "date": "2025-12-17",
+  "generated_at": "2026-04-14T02:23:39.949673Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2025-12-17-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "SK hynix First to Complete Intel Data Center Certification for 32Gb Die-based 256GB Server DDR5 RDIMM",
+      "companies": [
+        "intel",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 1
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ddr5",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Intel、SK hynix相關動態：「SK hynix First to Complete Intel Data Center Certificatio...」。主要關注主題為DDR5，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SK hynix First to Complete Intel Data Center Certification for 32Gb Die-based...（DDR5）",
+        "level": "yellow"
+      },
+      {
+        "text": "Intel、SK hynix為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

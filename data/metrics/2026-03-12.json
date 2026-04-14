@@ -1,13 +1,21 @@
 {
   "date": "2026-03-12",
-  "total_events": 4,
-  "by_company": {
-    "apple": {
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "hbm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_memory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
       "count": 1,
       "sentiment_avg": 0.0
     }
   },
-  "by_topic": {},
   "baselines_used": {
     "companies": {
       "samsung": {

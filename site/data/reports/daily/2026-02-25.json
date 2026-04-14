@@ -81,5 +81,19 @@
         "count": 1
       }
     ]
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為SK hynix、AMD、ASML相關動態：「SK hynix and Sandisk Begin Global Standardization of Next...」。主要關注主題為HBM、AI 記憶體，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SK hynix and Sandisk Begin Global Standardization of Next-Generation Memory ‘...（HBM、AI 記憶體）",
+        "level": "red"
+      },
+      {
+        "text": "AMD and Nutanix Announce Strategic Partnership to Advance an Open and Scalabl...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

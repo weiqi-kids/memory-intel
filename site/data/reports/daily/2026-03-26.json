@@ -1,10 +1,86 @@
 {
   "date": "2026-03-26",
-  "generated_at": "2026-03-26T09:08:28.761132Z",
+  "generated_at": "2026-04-14T02:23:52.940859Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-03-26-017",
+      "event_id": "unknown-2026-03-26-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": " Elon Musk's Terafab semiconductor project could cost $5 trillion, Bernstein claims — herculean effort would cost more than 70% of the total yearly US government budget ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "supermicro-2026-03-26-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": " US Senators call for a halt to Nvidia GPU exports in the wake of the Super Micro scandal — looming Chip Security Act may put a wrench into Huang's China ambitions ",
+      "companies": [
+        "supermicro",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-03-26-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": " Class action alleges Nvidia hid more than $1B crypto-GPU income within its gaming revenues — investor lawsuit concerns business spanning 2017 and 2018 ",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-03-26-008",
       "importance_score": 0.65,
       "importance_reasons": [
         "涉及產能"
@@ -25,8 +101,8 @@
       "source_url": null
     },
     {
-      "rank": 2,
-      "event_id": "unknown-2026-03-26-023",
+      "rank": 5,
+      "event_id": "unknown-2026-03-26-009",
       "importance_score": 0.65,
       "importance_reasons": [
         "涉及產能"
@@ -45,89 +121,122 @@
         "score": 0.5
       },
       "source_url": null
-    },
-    {
-      "rank": 3,
-      "event_id": "unknown-2026-03-26-018",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "IP Requirements Evolve For 3D Multi-Die Designs",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": null
-    },
-    {
-      "rank": 4,
-      "event_id": "unknown-2026-03-26-019",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Importance Of Hardware Security Verification In Pre-Silicon Design",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": null
-    },
-    {
-      "rank": 5,
-      "event_id": "unknown-2026-03-26-020",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Memory Wall Gets Higher",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": null
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
       "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.25,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 10,
+    "total_events": 8,
     "sentiment_distribution": {
       "positive": 1,
-      "neutral": 9,
-      "negative": 0
+      "neutral": 6,
+      "negative": 1
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "supermicro",
+        "count": 2
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "intel",
+        "count": 1
+      }
+    ],
     "top_topics": [
       {
         "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "ddr5",
         "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "hbm",
+        "count": 1
       }
     ]
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點集中在supermicro、NVIDIA、Intel的資本支出、DDR5、AI伺服器相關動態，其中「Elon Musk's Terafab semiconductor project could cost $5 t...」最受關注。市場情緒分歧，正面 1 則、中性 6 則、負面 1 則。",
+    "signals": [
+      {
+        "text": "資本支出為今日主要議題（3 則）。",
+        "level": "green"
+      },
+      {
+        "text": "supermicro、NVIDIA出現高重要性事件，建議密切追蹤後續發展。",
+        "level": "yellow"
+      },
+      {
+        "text": "少數負面事件出現（1 則），暫無系統性風險。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

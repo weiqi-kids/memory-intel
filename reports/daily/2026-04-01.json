@@ -1,0 +1,172 @@
+{
+  "date": "2026-04-01",
+  "generated_at": "2026-04-14T02:23:56.338026Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-01-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": " DRAM prices predicted to jump 63% in Q2, NAND up to 75% — follows 95% jumps in Q1, Trendforce says AI server demand keeps supply tight ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-04-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Nvidia market share in China falls to less than 60% — Chinese chip makers deliver 1.65 million AI GPUs as the government pushes data centers to use domestic chips ",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "oracle-2026-04-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Oracle believed to have cut 10,000 positions across multiple divisions as mass layoffs begin to fuel AI investments — company is reportedly reducing headcount to fund data centers ",
+      "companies": [
+        "oracle"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Act fast to grab this 32GB Corsair Vengeance DDR5 RAM for just $269, the cheapest kit in months — limited-time Woot deal is now $100 cheaper than the next-best rival ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "oracle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "dram_price",
+        "count": 1
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      }
+    ]
+  }
+}

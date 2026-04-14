@@ -1,0 +1,161 @@
+{
+  "date": "2026-03-28",
+  "generated_at": "2026-04-14T02:23:54.107819Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "supermicro-2026-03-28-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": " Chinese universities performing military research acquired Super Micro servers with sanctioned Nvidia AI chips — public documents reveal purchases were completed in 2025 and 2026 despite US export controls ",
+      "companies": [
+        "supermicro",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-03-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Radeon RX 9070 XT bundle bonanza includes free SSDs, AIO coolers, and power supplies for $699 — Red Team rescues gamers with reasonably-priced GPU bundles ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-03-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " AMD Ryzen 9 7900X 12-core CPU hits all-time low of $199 — Zen 4 chip brings unbeatable value at $16.58 per core ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-03-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-03-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shortage"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "meta",
+        "count": 1
+      },
+      {
+        "id": "supermicro",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "shortage",
+        "count": 1
+      }
+    ]
+  }
+}

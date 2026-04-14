@@ -1,0 +1,164 @@
+{
+  "date": "2026-04-10",
+  "generated_at": "2026-04-14T02:24:01.846284Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-10-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-04-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Score the AMD Ryzen 7 9800X3D with 32GB of fast DDR5 RAM and an Asus X870E gaming motherboard for under $990 in this epic Newegg bundle — $200 saving brings the RAM cost down to just $196, with an AIO cooler and game thrown in for free ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-04-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Get 32GB of Corsair DDR5 RAM for $101 - Newegg combo bundle also contains MSI's flagship X870E Godlike motherboard and AMD Ryzen 9800X3D for only $1,624.98 ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-04-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " US cybersecurity agency issues an urgent alert as Iranian hackers attack critical infrastructure — CISA guidance warns organizations to immediately shield certain programmable logic controllers from the internet to thwart future attacks ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "arm-2026-04-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Ambitious hacker reduces worst-case memory latency by up to 93%, but with severe downsides — 1960s bottleneck overcome by hedging memory accesses to avoid running into DRAM refresh stalls ",
+      "companies": [
+        "arm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "arm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ddr5",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  }
+}

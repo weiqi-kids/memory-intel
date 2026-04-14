@@ -1,10 +1,115 @@
 {
   "date": "2026-04-07",
-  "generated_at": "2026-04-07T09:14:39.264566Z",
+  "generated_at": "2026-04-14T02:24:00.024028Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-04-07-018",
+      "event_id": "google-2026-04-07-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": " Broadcom to supply Anthropic with 3.5 gigawatts of Google TPU capacity from 2027 — Claude pioneer says its annual revenue run rate has passed $30 billion ",
+      "companies": [
+        "google",
+        "broadcom"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "broadcom"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-04-07-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Intel introduces its own Neural Compression technology with a fallback mode that works on GPUs without dedicated AI cores — early performance is on the level of Nvidia NTC ",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-07-003",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及產能"
+      ],
+      "title": " Framework warns of even more rising RAM and SSD prices through 2026 as memory crisis persists — some reprieve as prices plateau in latest monthly update ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "nand_price",
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-04-07-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung Electronics Announces Earnings Guidance for First Quarter 2026",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-07-006",
       "importance_score": 0.7,
       "importance_reasons": [
         "涉及 AI 伺服器"
@@ -19,87 +124,75 @@
         "ai_server"
       ],
       "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": null
-    },
-    {
-      "rank": 2,
-      "event_id": "unknown-2026-04-07-013",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "The Specialty Device Surge Part 2: The Process Control Challenges Of MEMS, Co-Packaged Optics, And More",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": null
-    },
-    {
-      "rank": 3,
-      "event_id": "unknown-2026-04-07-014",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Breaking The Legacy Trap: How Semiconductor Executives Can Accelerate AI Adoption And Transform IT Applications At The Same Time",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": null
-    },
-    {
-      "rank": 4,
-      "event_id": "unknown-2026-04-07-015",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "Enhancing Silicon Reliability With In-System Test And SLM Data",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": null
-    },
-    {
-      "rank": 5,
-      "event_id": "unknown-2026-04-07-016",
-      "importance_score": 0.5,
-      "importance_reasons": [],
-      "title": "AI data Center Providers Seek Power and Bandwidth Promise in CPO",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
+        "label": "positive",
+        "score": 0.5
       },
       "source_url": null
     }
   ],
   "anomalies": [],
   "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
     "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -112,18 +205,73 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 10,
+    "total_events": 8,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 10,
+      "positive": 2,
+      "neutral": 6,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "qualcomm",
+        "count": 1
+      },
+      {
+        "id": "amd",
+        "count": 1
+      }
+    ],
     "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      },
       {
         "id": "ai_server",
         "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
       }
     ]
-  }
+  },
+  "llm_analysis": {
+    "summary": "今日記憶體產業共有 8 則事件，Intel、Google、Broadcom為主要焦點，法說會/財報、產能、展望等議題受到市場關注。市場氣氛正面，2 則正面消息反映產業景氣回升趨勢。",
+    "signals": [
+      {
+        "text": "SamsungSamsung Electronics Announces Earnings Guidance for First Qu（法說會/財報、展望）",
+        "level": "yellow"
+      },
+      {
+        "text": "AI Accelerators Usher In New Era Of Semiconductor Test（AI 伺服器）",
+        "level": "yellow"
+      },
+      {
+        "text": "法說會/財報議題持續受關注，當日共 2 則相關報導",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

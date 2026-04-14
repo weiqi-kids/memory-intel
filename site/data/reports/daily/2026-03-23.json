@@ -1,14 +1,100 @@
 {
   "date": "2026-03-23",
-  "generated_at": "2026-03-23T09:12:54.559678Z",
+  "generated_at": "2026-04-14T02:23:51.256387Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "unknown-2026-03-23-013",
+      "event_id": "amd-2026-03-23-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及 AI 伺服器"
+      ],
+      "title": " AMD's Enterprise CPU and GPU roadmap: Venice, Verano, Zen 6, Helios, and CDNA ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-03-23-002",
       "importance_score": 0.5,
       "importance_reasons": [],
-      "title": "Auto Ethernet 10BASE-T1s Steps Up, With Tbps On The Horizon",
+      "title": " Crimson Desert devs apologize for ‘confusion’ over Intel GPU FAQ — backtracks over prior dismissive language regarding Arc graphics support ",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-03-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Get the 9800X3D CPU, Asus TUF gaming X870, and 32GB of DDR5 RAM, plus a free 512GB Gen 4 SSD and Crimson Desert, all for $959.99 — Newegg's combo bundles strike again ",
       "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-03-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Concerns raised over Shahed kamikaze drone listings on Alibaba — they featured AI guidance to lock onto ‘people, building, vehicles, ships, etc’ ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-03-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Intel's long-rumored Core Ultra 3 205 CPU finally appears for sale at French retailer — priced at $182, early listing confirms previously-known specs for the chip ",
+      "companies": [
+        "intel"
+      ],
       "related": {
         "customers": [],
         "suppliers": []
@@ -22,16 +108,91 @@
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 6,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
-      "negative": 0
+      "neutral": 5,
+      "negative": 1
     },
-    "top_companies": [],
-    "top_topics": []
-  }
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，主要涉及Intel、AMD、NVIDIA，涵蓋AI伺服器、DDR5、展望等議題。市場情緒中性，正面 0 則、中性 5 則、負面 1 則。",
+    "signals": [
+      {
+        "text": "AI伺服器持續成為市場焦點，相關事件 1 則。",
+        "level": "green"
+      },
+      {
+        "text": "Intel為今日最活躍公司（2 則），動態正常。",
+        "level": "green"
+      },
+      {
+        "text": "少數負面事件出現（1 則），暫無系統性風險。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

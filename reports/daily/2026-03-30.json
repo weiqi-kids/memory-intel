@@ -1,0 +1,187 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-04-14T02:23:55.272586Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "hp-2026-03-30-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": " Score an entire RTX 5090 gaming PC for the same price as the GPU itself, thanks to a massive $1,500 off — epic HP pre-built is ready for 4K gaming with 32GB DDR5 RAM and a 1TB SSD ",
+      "companies": [
+        "hp",
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-30-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": " Analyzing Elon Musk's TeraFab — A step towards Tesla and SpaceX's partial vertical integration, or an unattainable dream? ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-03-30-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": " Chinese chip industry leaders admit the country lags five to ten years behind in AI data center chips — AI demand is straining equipment and talent supply  ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "amd-2026-03-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test — Kenya, Congo, Nigeria platforms leaked ",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-03-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": " Just $151 for 32GB of Corsair Vengeance DDR5-6400 RAM when bundled with Intel's new 270K-Plus and Z890-E motherboard — start your Arrow Lake refresh build for less than $800 ",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "intel",
+        "count": 1
+      },
+      {
+        "id": "hp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "ddr5",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,8 +1,34 @@
 {
   "date": "2026-03-28",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 6,
+  "by_company": {
+    "amd": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "samsung": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "meta": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "supermicro": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nvidia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "shortage": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

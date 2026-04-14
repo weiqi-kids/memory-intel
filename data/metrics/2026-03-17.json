@@ -1,8 +1,58 @@
 {
   "date": "2026-03-17",
-  "total_events": 4,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 11,
+  "by_company": {
+    "samsung": {
+      "count": 1,
+      "sentiment_avg": 0.83
+    },
+    "nvidia": {
+      "count": 7,
+      "sentiment_avg": 0.12
+    },
+    "intel": {
+      "count": 2,
+      "sentiment_avg": 0.67
+    },
+    "dell": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "microsoft": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "amd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tsmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "hbm": {
+      "count": 3,
+      "sentiment_avg": 0.28
+    },
+    "capex": {
+      "count": 2,
+      "sentiment_avg": 0.41
+    },
+    "ddr5": {
+      "count": 3,
+      "sentiment_avg": 0.28
+    },
+    "advanced_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.83
+    },
+    "ai_server": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

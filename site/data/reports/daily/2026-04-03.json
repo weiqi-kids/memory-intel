@@ -1,18 +1,240 @@
 {
   "date": "2026-04-03",
-  "generated_at": "2026-04-03T09:05:22.754933Z",
-  "top_events": [],
+  "generated_at": "2026-04-14T02:23:57.490766Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oracle-2026-04-03-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": " Iran says it has struck Oracle data center in Dubai, Amazon data center in Bahrain — country has threatened to attack Nvidia, Intel, and others, too ",
+      "companies": [
+        "oracle",
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "arm-2026-04-03-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及 AI 伺服器"
+      ],
+      "title": " Report claims Arm chips will power 90% of AI servers based on custom processors in 2029 — x86 and RISC-V on the outside looking in ",
+      "companies": [
+        "arm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-04-03-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": " Supermicro co-founder pleads not guilty to smuggling billions of dollars of Nvidia servers to China — suspected smuggler released on $5 million bond ",
+      "companies": [
+        "nvidia",
+        "supermicro"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-04-03-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "tsmc-2026-04-03-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": " TSMC reportedly plans to build 12 fabs, four packaging facilities in Arizona — plan purportedly part of Taiwan's agreed $500 million investment in the US  ",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 7,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
+      "positive": 2,
+      "neutral": 5,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
-  }
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "arm",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      },
+      {
+        "id": "supermicro",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "shortage",
+        "count": 1
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日記憶體產業共有 7 則事件，NVIDIA、Intel、Arm為主要焦點，資本支出、AI 伺服器、缺貨等議題受到市場關注。市場氣氛正面，2 則正面消息反映產業景氣回升趨勢。",
+    "signals": [
+      {
+        "text": "ArmReport claims Arm chips will power 90% of AI servers based o（AI 伺服器）",
+        "level": "yellow"
+      },
+      {
+        "text": "NVIDIA、SupermicroSupermicro co-founder pleads not guilty to smuggling billion",
+        "level": "yellow"
+      },
+      {
+        "text": "資本支出相關有 2 則正面報導，顯示市場信心增強",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
 }

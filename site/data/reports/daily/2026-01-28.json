@@ -1,0 +1,58 @@
+{
+  "date": "2026-01-28",
+  "generated_at": "2026-04-14T02:23:41.643913Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "skhynix-2026-01-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SK hynix Announces FY25 Financial Results",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "skhynix",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為SK hynix相關動態：「SK hynix Announces FY25 Financial Results」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "SK hynix Announces FY25 Financial Results",
+        "level": "green"
+      },
+      {
+        "text": "SK hynix為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
