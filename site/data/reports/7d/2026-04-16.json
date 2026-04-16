@@ -1,0 +1,136 @@
+{
+  "date": "2026-04-16",
+  "date_range": {
+    "start": "2026-04-10",
+    "end": "2026-04-16"
+  },
+  "generated_at": "2026-04-16T09:28:11.527900Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "amd-2026-04-11-003",
+      "date": "2026-04-11",
+      "title": " Tests show $30,000 AI GPUs are terrible password crackers — RTX 5090 gaming GPU outperforms Nvidia H200 and AMD MI300X ",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.25
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 2,
+      "last_week": 6,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.5
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 2,
+      "last_week": 7,
+      "week_over_week_change": "-71%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "amd": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 1
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "nvidia": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 2
+    },
+    "intel": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 17,
+        "last": 37,
+        "change_pct": -54.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-10",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-11",
+      "event_count": 4,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-12",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-13",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-14",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-16",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}
