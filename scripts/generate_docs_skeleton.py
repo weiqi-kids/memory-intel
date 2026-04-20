@@ -80,7 +80,9 @@ def write_file(path, content):
 
 def make_merge_yaml(doc_id, title_zh, md_filename, **extra):
     """Generate merge.yaml content."""
-    data = {'document_id': doc_id, 'title_zh': title_zh, 'main': {'zh': md_filename}}
+    # Extract type from document_id prefix (part before the first '-')
+    doc_type = doc_id.split('-')[0]
+    data = {'document_id': doc_id, 'type': doc_type, 'title_zh': title_zh, 'main': {'zh': md_filename}}
     data.update(extra)
     return yaml.dump(data, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
