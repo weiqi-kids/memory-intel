@@ -5,6 +5,7 @@ Usage: python scripts/generate_docs_skeleton.py [--repo-path .]
 """
 
 import argparse
+import re
 import sys
 import yaml
 from pathlib import Path
@@ -185,7 +186,11 @@ def generate(repo_path):
         live_yaml = docs / 'live' / dirname / 'merge.yaml'
         if live_yaml.exists():
             content = live_yaml.read_text(encoding='utf-8')
-            content += f'latest_snapshot: {tc}-{ind}-{periods["week"]}\n'
+            snapshot_line = f'latest_snapshot: {tc}-{ind}-{periods["week"]}\n'
+            if 'latest_snapshot:' in content:
+                content = re.sub(r'latest_snapshot:.*\n', snapshot_line, content)
+            else:
+                content += snapshot_line
             live_yaml.write_text(content, encoding='utf-8')
 
     # --- monthly/ ---
@@ -216,7 +221,11 @@ def generate(repo_path):
         live_yaml = docs / 'live' / dirname / 'merge.yaml'
         if live_yaml.exists():
             content = live_yaml.read_text(encoding='utf-8')
-            content += f'latest_snapshot: {tc}-{ind}-{periods["quarter"]}\n'
+            snapshot_line = f'latest_snapshot: {tc}-{ind}-{periods["quarter"]}\n'
+            if 'latest_snapshot:' in content:
+                content = re.sub(r'latest_snapshot:.*\n', snapshot_line, content)
+            else:
+                content += snapshot_line
             live_yaml.write_text(content, encoding='utf-8')
 
     # --- companies/ ---
