@@ -5,7 +5,6 @@ Usage: python scripts/generate_docs_skeleton.py [--repo-path .]
 """
 
 import argparse
-import re
 import sys
 import yaml
 from pathlib import Path
@@ -81,15 +80,9 @@ def write_file(path, content):
 
 def make_merge_yaml(doc_id, title_zh, md_filename, **extra):
     """Generate merge.yaml content."""
-    lines = [
-        f'document_id: {doc_id}',
-        f'title_zh: {title_zh}',
-        'main:',
-        f'  zh: {md_filename}',
-    ]
-    for key, value in extra.items():
-        lines.append(f'{key}: {value}')
-    return '\n'.join(lines) + '\n'
+    data = {'document_id': doc_id, 'title_zh': title_zh, 'main': {'zh': md_filename}}
+    data.update(extra)
+    return yaml.dump(data, allow_unicode=True, default_flow_style=False, sort_keys=False)
 
 
 def make_placeholder_md(title):
@@ -146,8 +139,11 @@ def generate(repo_path):
     if arch.exists():
         dest = repo_path / 'dev-docs'
         dest.mkdir(exist_ok=True)
-        arch.rename(dest / 'architecture.md')
-        print(f'  Moved docs/architecture.md -> dev-docs/architecture.md')
+        if (dest / 'architecture.md').exists():
+            print(f'  WARNING: dev-docs/architecture.md already exists, skipping migration')
+        else:
+            arch.rename(dest / 'architecture.md')
+            print(f'  Moved docs/architecture.md -> dev-docs/architecture.md')
 
     # --- live/ ---
     for dirname, tc, title in LIVE_DOCS:
@@ -185,13 +181,9 @@ def generate(repo_path):
             continue
         live_yaml = docs / 'live' / dirname / 'merge.yaml'
         if live_yaml.exists():
-            content = live_yaml.read_text(encoding='utf-8')
-            snapshot_line = f'latest_snapshot: {tc}-{ind}-{periods["week"]}\n'
-            if 'latest_snapshot:' in content:
-                content = re.sub(r'latest_snapshot:.*\n', snapshot_line, content)
-            else:
-                content += snapshot_line
-            live_yaml.write_text(content, encoding='utf-8')
+            data = yaml.safe_load(live_yaml.read_text(encoding='utf-8'))
+            data['latest_snapshot'] = f'{tc}-{ind}-{periods["week"]}'
+            live_yaml.write_text(yaml.dump(data, allow_unicode=True, default_flow_style=False, sort_keys=False), encoding='utf-8')
 
     # --- monthly/ ---
     for dirname, tc, title in MONTHLY_DOCS:
@@ -220,19 +212,16 @@ def generate(repo_path):
             continue
         live_yaml = docs / 'live' / dirname / 'merge.yaml'
         if live_yaml.exists():
-            content = live_yaml.read_text(encoding='utf-8')
-            snapshot_line = f'latest_snapshot: {tc}-{ind}-{periods["quarter"]}\n'
-            if 'latest_snapshot:' in content:
-                content = re.sub(r'latest_snapshot:.*\n', snapshot_line, content)
-            else:
-                content += snapshot_line
-            live_yaml.write_text(content, encoding='utf-8')
+            data = yaml.safe_load(live_yaml.read_text(encoding='utf-8'))
+            data['latest_snapshot'] = f'{tc}-{ind}-{periods["quarter"]}'
+            live_yaml.write_text(yaml.dump(data, allow_unicode=True, default_flow_style=False, sort_keys=False), encoding='utf-8')
 
     # --- companies/ ---
     companies = load_companies(repo_path)
     for company in companies:
-        d = docs / 'companies' / company['id'] / 'profile'
-        doc_id = f'PR-{ind}-{company["id"].upper()}'
+        company_dir = company['id'].replace('_', '-')
+        d = docs / 'companies' / company_dir / 'profile'
+        doc_id = f'PR-{ind}-{company_dir.upper()}'
         t = f'{company["zh_name"]}（{company["name"]}）'
         md_name = f'{company["zh_name"]}.md'
         if write_file(d / 'merge.yaml', make_merge_yaml(doc_id, t, md_name)):
