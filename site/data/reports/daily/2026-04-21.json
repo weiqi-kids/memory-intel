@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T09:47:31.503917Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chip Industry Technical Paper Roundup: Apr. 21",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "euv"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "euv",
+        "count": 1
+      }
+    ]
+  }
+}
