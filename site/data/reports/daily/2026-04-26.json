@@ -1,10 +1,10 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T09:12:01.897573Z",
+  "generated_at": "2026-04-26T14:11:45.793350Z",
   "top_events": [
     {
       "rank": 1,
-      "event_id": "samsung-2026-04-26-005",
+      "event_id": "skhynix-2026-04-26-005",
       "importance_score": 1.0,
       "importance_reasons": [
         "多公司提及",
@@ -13,8 +13,8 @@
       ],
       "title": "Samsung reportedly advances sub-10nm DRAM as SK Hynix targets HBM4E sampling",
       "companies": [
-        "samsung",
-        "skhynix"
+        "skhynix",
+        "samsung"
       ],
       "related": {
         "customers": [],
@@ -42,16 +42,16 @@
       "title": "Samsung bets its HBM leverage can hold Nvidia's LPU orders &mdash; but TSMC is pushing back",
       "companies": [
         "nvidia",
-        "samsung",
-        "tsmc"
+        "tsmc",
+        "samsung"
       ],
       "related": {
         "customers": [
           "nvidia"
         ],
         "suppliers": [
-          "samsung",
-          "tsmc"
+          "tsmc",
+          "samsung"
         ]
       },
       "topics": [
@@ -66,7 +66,7 @@
     },
     {
       "rank": 3,
-      "event_id": "unknown-2026-04-26-013",
+      "event_id": "unknown-2026-04-26-011",
       "importance_score": 0.95,
       "importance_reasons": [
         "涉及 HBM",
@@ -140,23 +140,23 @@
   "anomalies": [],
   "topic_trends": {
     "earnings": {
-      "today": 5,
+      "today": 10,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.2,
+      "sentiment_today": 0.05,
       "sentiment_7d_avg": null
     },
     "inventory": {
-      "today": 1,
+      "today": 4,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": 0.38,
       "sentiment_7d_avg": null
     },
     "nand_price": {
@@ -199,7 +199,7 @@
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     },
-    "ai_server": {
+    "capacity": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -209,7 +209,7 @@
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     },
-    "capacity": {
+    "ai_server": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -222,46 +222,46 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 13,
+    "total_events": 24,
     "sentiment_distribution": {
-      "positive": 4,
-      "neutral": 7,
+      "positive": 5,
+      "neutral": 17,
       "negative": 2
     },
     "top_companies": [
       {
         "id": "samsung",
-        "count": 4
+        "count": 5
+      },
+      {
+        "id": "tsmc",
+        "count": 3
       },
       {
         "id": "nvidia",
         "count": 3
       },
       {
-        "id": "tsmc",
+        "id": "intel",
         "count": 2
       },
       {
         "id": "asml",
-        "count": 1
-      },
-      {
-        "id": "skhynix",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 5
+        "count": 10
+      },
+      {
+        "id": "inventory",
+        "count": 4
       },
       {
         "id": "hbm",
         "count": 3
-      },
-      {
-        "id": "inventory",
-        "count": 1
       },
       {
         "id": "nand_price",
@@ -274,14 +274,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 140,
-    "dup_title": 3,
-    "too_old": 3,
-    "gate1_blocked": 72,
-    "gate2_blocked": 20,
-    "passed": 42,
-    "pass_rate": "30.7%",
-    "gate2_block_rate": "14.6%",
+    "total_raw": 408,
+    "dup_title": 48,
+    "too_old": 94,
+    "gate1_blocked": 151,
+    "gate2_blocked": 61,
+    "passed": 54,
+    "pass_rate": "15.0%",
+    "gate2_block_rate": "16.9%",
     "gate2_samples": [
       "Why Chip Sovereignty Is No Longer About Chips—But Systems",
       "Microsoft will allow users to indefinitely pause updates in Windows 11 — first change in over a deca",

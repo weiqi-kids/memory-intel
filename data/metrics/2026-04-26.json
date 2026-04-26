@@ -1,18 +1,18 @@
 {
   "date": "2026-04-26",
-  "total_events": 13,
+  "total_events": 24,
   "by_company": {
     "samsung": {
-      "count": 4,
-      "sentiment_avg": -0.38
+      "count": 5,
+      "sentiment_avg": -0.3
     },
     "asml": {
       "count": 1,
       "sentiment_avg": 0.5
     },
     "tsmc": {
-      "count": 2,
-      "sentiment_avg": 0.25
+      "count": 3,
+      "sentiment_avg": 0.5
     },
     "skhynix": {
       "count": 1,
@@ -23,18 +23,30 @@
       "sentiment_avg": 0.33
     },
     "intel": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "arm": {
       "count": 1,
-      "sentiment_avg": 0.5
+      "sentiment_avg": 0.0
+    },
+    "screen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "microsoft": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "earnings": {
-      "count": 5,
-      "sentiment_avg": 0.2
+      "count": 10,
+      "sentiment_avg": 0.05
     },
     "inventory": {
-      "count": 1,
-      "sentiment_avg": 0.0
+      "count": 4,
+      "sentiment_avg": 0.38
     },
     "nand_price": {
       "count": 1,
@@ -52,11 +64,11 @@
       "count": 1,
       "sentiment_avg": 0.0
     },
-    "ai_server": {
+    "capacity": {
       "count": 1,
       "sentiment_avg": 0.0
     },
-    "capacity": {
+    "ai_server": {
       "count": 1,
       "sentiment_avg": 0.0
     }

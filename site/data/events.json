@@ -79,11 +79,11 @@
     ]
   },
   {
-    "id": "samsung-2026-04-26-005",
+    "id": "skhynix-2026-04-26-005",
     "date": "2026-04-26",
     "companies": [
-      "samsung",
-      "skhynix"
+      "skhynix",
+      "samsung"
     ],
     "topics": [
       "hbm"
@@ -142,8 +142,8 @@
     "date": "2026-04-26",
     "companies": [
       "nvidia",
-      "samsung",
-      "tsmc"
+      "tsmc",
+      "samsung"
     ],
     "topics": [
       "hbm",
@@ -167,24 +167,6 @@
     "topics": [
       "earnings"
     ],
-    "impact": "positive",
-    "title": "MercadoLibre Could Deliver 25% Annual Earnings Growth And 3-4x Returns By 2031",
-    "summary": "",
-    "sources": [
-      {
-        "name": "seeking_alpha",
-        "url": "https://seekingalpha.com/article/4894401-mercadolibre-could-deliver-25-percent-annual-earnings-growth?source=feed_all_articles",
-        "type": "rss"
-      }
-    ]
-  },
-  {
-    "id": "unknown-2026-04-26-010",
-    "date": "2026-04-26",
-    "companies": [],
-    "topics": [
-      "earnings"
-    ],
     "impact": "neutral",
     "title": "Nomura: IB Could Recover In Ebullient Q1, Macquarie Integration Costs Will Pass",
     "summary": "",
@@ -197,7 +179,7 @@
     ]
   },
   {
-    "id": "unknown-2026-04-26-011",
+    "id": "unknown-2026-04-26-010",
     "date": "2026-04-26",
     "companies": [],
     "topics": [
@@ -215,7 +197,248 @@
     ]
   },
   {
-    "id": "nvidia-2026-04-26-012",
+    "id": "unknown-2026-04-26-011",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "3D X-DRAM Hits Proof-of-Concept, HBM-Replacement with 10x Density vs Traditional DRAM & High-Yield Memory Design",
+    "summary": "Think of DRAM, but in a NAND-like structure, that's the basic concept of 3D X-DRAM, a revolution for the memory markets, bringing higher densities for AI. 3D X-DRAM Is Now Closer To Reality, An HBM-Re",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/3d-x-dram-hits-proof-of-concept-hbm-replacement-10x-density-high-yield-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-04-26-012",
+    "date": "2026-04-26",
+    "companies": [
+      "arm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Disabled gamer prototypes true one-handed keyboard-and-mouse controller, device nominated for award — maker inspired to build device after losing right arm in an accident",
+    "summary": "\n                             A Redditor who lost their right arm in an accident decided to prototype and build their own single-handed controller to get back into gaming. This peripheral combines a m",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/disabled-gamer-prototypes-true-one-handed-keyboard-and-mouse-controller-maker-inspired-to-build-device-after-losing-right-arm-in-an-accident",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-04-26-013",
+    "date": "2026-04-26",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's stock market surpasses the UK's despite having less than a quarter of the UK's economy — AI boom propels Taiwan forward, TSMC alone accounts for more than 40% of Taiwan's total market value",
+    "summary": "\n                             Taiwan's stock market is now worth more than the United Kingdom's, in a shift driven almost entirely by the insatiable global appetite for AI chips. \n                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/taiwan-stock-market-overtakes-the-uk",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-26-014",
+    "date": "2026-04-26",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intel reportedly says it boosted yields by selling what would normally be 'scrap' or 'low-expectation' CPUs — customers more willing to accept lesser chips due to overwhelming CPU demand",
+    "summary": "\n                             Intel’s Investor relations team confirmed that customers are sweeping up the lower-quality chips, bringing in tangible revenue for the company. \n                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-says-it-boosted-yields-by-selling-what-would-normally-be-scrap-or-low-expectation-cpus-customers-more-willing-to-accept-lesser-chips-due-to-overwhelming-cpu-demand",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-04-26-015",
+    "date": "2026-04-26",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Turtle Beach's new mouse has a 2.25-inch touchscreen and hotswap batteries that last 15 hours apiece — 'MC7' costs $160, part of company's new Command Series peripheral lineup",
+    "summary": "\n                             Turtle Beach's new Command Series of peripherals features a lot of screens, and the most interesting implementation is seen in the MC7 mouse. The 2.25-inch LCD rests wher",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/peripherals/turtle-beachs-new-mouse-has-a-2-25-inch-touchscreen-and-hotswap-batteries-that-last-15-hours-apiece-the-mc7-costs-usd160-part-of-companys-new-command-series-peripheral-lineup",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-016",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "3 Best Gold Stocks With 110%+ Forward Growth For The Next Leg Up",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894067-3-best-gold-stocks-with-110-percent-plus-forward-growth-for-the-next-leg-up?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-04-26-017",
+    "date": "2026-04-26",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft Q3 Preview: Why I See Upside Ahead",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894405-microsoft-q3-preview-why-i-see-upside-ahead?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-018",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Annaly Capital Earnings: The 12% Yield Is Safe",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894420-annaly-capital-earnings-the-12-percent-yield-is-safe?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-019",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Verano Is The Best Large MSO Stock",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894404-verano-is-the-best-large-mso-stock?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-020",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TTM Technologies: The AI Bottleneck Story Is Fully Valued, Earnings Preview (Rating Downgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894394-ttm-technologies-the-ai-bottleneck-story-is-fully-valued?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-021",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Paccar's Rough Ride Warrants Caution As Earnings Near",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894416-paccars-rough-ride-warrants-caution-as-earnings-near?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-022",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Roper Technologies: Solid Q1, I'm Bullish Despite The AI Fears",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894374-roper-technologies-solid-q1-im-bullish-despite-the-ai-fears?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-04-26-023",
+    "date": "2026-04-26",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Breaks the 10nm DRAM Barrier With New 4F Cell Structure That Boosts Density By Up to 50%",
+    "summary": "Samsung has reportedly produced the world's first \"standalone\" DRAM module that uses a process tech below 10nm. Samsung's New Sub-10nm DRAM Technology To Boost Densities &#38; Uses New Materials For l",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-breaks-10nm-dram-barrier-new-4f-cell-structure-boosts-density/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-04-26-024",
     "date": "2026-04-26",
     "companies": [
       "nvidia"
@@ -230,25 +453,6 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/nvidia-beats-everyone-to-deepseek-v4-day-0-blackwell-support-pushing-3500-tokens-on-1-6t-models/",
-        "type": "rss"
-      }
-    ]
-  },
-  {
-    "id": "unknown-2026-04-26-013",
-    "date": "2026-04-26",
-    "companies": [],
-    "topics": [
-      "hbm",
-      "capacity"
-    ],
-    "impact": "neutral",
-    "title": "3D X-DRAM Hits Proof-of-Concept, HBM-Replacement with 10x Density vs Traditional DRAM & High-Yield Memory Design",
-    "summary": "Think of DRAM, but in a NAND-like structure, that's the basic concept of 3D X-DRAM, a revolution for the memory markets, bringing higher densities for AI. 3D X-DRAM Is Now Closer To Reality, An HBM-Re",
-    "sources": [
-      {
-        "name": "wccftech",
-        "url": "https://wccftech.com/3d-x-dram-hits-proof-of-concept-hbm-replacement-10x-density-high-yield-memory/",
         "type": "rss"
       }
     ]
@@ -526,6 +730,24 @@
       {
         "name": "theregister",
         "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-25-016",
+    "date": "2026-04-25",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Intel's upcoming Xeon 7 'Diamond Rapids' server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
+    "summary": "\n                             Diamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, th",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak",
         "type": "rss"
       }
     ]
@@ -997,11 +1219,11 @@
     ]
   },
   {
-    "id": "intel-2026-04-22-011",
+    "id": "microsoft-2026-04-22-011",
     "date": "2026-04-22",
     "companies": [
-      "intel",
-      "microsoft"
+      "microsoft",
+      "intel"
     ],
     "topics": [],
     "impact": "neutral",
