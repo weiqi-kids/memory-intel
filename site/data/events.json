@@ -1,5 +1,259 @@
 [
   {
+    "id": "samsung-2026-04-26-001",
+    "date": "2026-04-26",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Harman hits KRW15.78 trillion in revenue 10 years after Samsung acquisition",
+    "summary": "Samsung Electronics executive chairman Lee Jae-yong's bold acquisition of premium audio brand Harman for KRW9.4 trillion (approx. US$6.3 billion) a decade ago has paid off, with the American subsidiar",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260424PD230/samsung-harman-revenue-adas.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-002",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "AI data centers hit interconnect limits, boosting optical module demand",
+    "summary": "<p class=\"P1\" data-start=\"76\" data-end=\"240\">The surge in optical module stocks reflects a deeper shift in AI infrastructure: the bottleneck is no longer computing power alone, but how that power is c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260424VL212/data-demand-infrastructure-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-04-26-003",
+    "date": "2026-04-26",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "nand_price"
+    ],
+    "impact": "negative",
+    "title": "Samsung, Kingston reportedly lift SSD prices by over 10% as supply tightens",
+    "summary": "<p class=\"P1\" data-start=\"1831\" data-end=\"2089\">Samsung Electronics and Kingston Technology have reportedly notified distributors of price increases of more than 10% across their solid-state drive (SS",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260424VL217/samsung-kingston-ssd-price-inventory.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-04-26-004",
+    "date": "2026-04-26",
+    "companies": [
+      "asml",
+      "tsmc"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "ASML cuts management layers due to restructuring; TSMC stance affects High-NA outlook",
+    "summary": "<p class=\"P1\" data-start=\"318\" data-end=\"551\">ASML is moving to eliminate a wide range of management roles as part of a broader effort to simplify its organization and improve execution, according to ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260424VL218/asml-management-tsmc-high-na-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-04-26-005",
+    "date": "2026-04-26",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm"
+    ],
+    "impact": "negative",
+    "title": "Samsung reportedly advances sub-10nm DRAM as SK Hynix targets HBM4E sampling",
+    "summary": "Samsung Electronics has reportedly produced a working die for sub-10nm DRAM, marking a potential breakthrough below the 10-nanometer threshold, according to <em>The Elec</em>. SK Hynix, meanwhile, is ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260424VL219/samsung-dram-sk-hynix-hbm-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-04-26-006",
+    "date": "2026-04-26",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Nvidia and OpenAI both make US$20 billion bets on AI chip startups: what's the common factor?",
+    "summary": "2026 has become a major year for IPO fundraising among leading AI players. At the end of 2025, Nvidia CEO Jensen Huang spent US$20 billion to acquire the IP and talent of AI chip startup Groq. In Apri",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260423PD200/openai-2026-nvidia-cerebras-ai-chip.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-26-007",
+    "date": "2026-04-26",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BizLink expands optical interconnect push, sees uncertain CPO ramp timing",
+    "summary": "<p class=\"P1\" data-start=\"1015\" data-end=\"1517\">The artificial intelligence boom continues to drive demand for related hardware, particularly as server power delivery and high-speed data transmission ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260423PD220/demand-bizlink-cpo-data-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-04-26-008",
+    "date": "2026-04-26",
+    "companies": [
+      "nvidia",
+      "samsung",
+      "tsmc"
+    ],
+    "topics": [
+      "hbm",
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Samsung bets its HBM leverage can hold Nvidia's LPU orders &mdash; but TSMC is pushing back",
+    "summary": "The AI era has officially shifted from training to inference and agent-centric computing, prompting Nvidia's strategic acquisition of Groq to integrate LPUs into its own platform. This move not only e",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260423PD221/tsmc-samsung-nvidia-2026-ceo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-009",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "MercadoLibre Could Deliver 25% Annual Earnings Growth And 3-4x Returns By 2031",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894401-mercadolibre-could-deliver-25-percent-annual-earnings-growth?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-010",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nomura: IB Could Recover In Ebullient Q1, Macquarie Integration Costs Will Pass",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894388-nomura-ib-could-recover-in-ebullient-q1-macquarie-integration-costs-will-pass?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-011",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Peapack-Gladstone Financial's Strong Q1 Bodes Well For Remainder Of 2026",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894387-peapack-gladstone-financials-strong-q1-bodes-well-for-remainder-of-2026?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-04-26-012",
+    "date": "2026-04-26",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Beats Everyone To DeepSeek V4 With Day-0 Blackwell Support, Pushing 3,500 Tokens Per Second On 1.6T Models",
+    "summary": "DeepSeek V4 is out, bringing major optimizations, including up to 1.6T model sizes, and NVIDIA is ready with Day-0 support on Blackwell GPUs using NVFP4. NVIDIA Blackwell NVFP4 Architecture Delivers M",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-beats-everyone-to-deepseek-v4-day-0-blackwell-support-pushing-3500-tokens-on-1-6t-models/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-013",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "3D X-DRAM Hits Proof-of-Concept, HBM-Replacement with 10x Density vs Traditional DRAM & High-Yield Memory Design",
+    "summary": "Think of DRAM, but in a NAND-like structure, that's the basic concept of 3D X-DRAM, a revolution for the memory markets, bringing higher densities for AI. 3D X-DRAM Is Now Closer To Reality, An HBM-Re",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/3d-x-dram-hits-proof-of-concept-hbm-replacement-10x-density-high-yield-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "skhynix-2026-04-25-001",
     "date": "2026-04-25",
     "companies": [
@@ -14,6 +268,267 @@
     "title": "SK hynix receives 2026 IEEE Corporate Innovation Award for Driving AI Computing Expansion with HBM",
     "summary": "News Highlights\n\nSK hynix honored at the 2026 IEEE Awards for leading AI technology innovation with HBM\n\nContributed to the global AI computing ecosystem via stable mass production across all HBM gene",
     "sources": []
+  },
+  {
+    "id": "unknown-2026-04-25-002",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Score an RTX 5070 prebuilt with a Ryzen 7 7700X & 16 GB of DDR5 for $650 off — Stack these promo codes to save on Skytech Gaming's high-end systems",
+    "summary": "\n                             You don't need to spend upwards of $1,500 to build and RTX 5070 system anymore as Skytech has two great prebuilts ready for you. Whether you're rocking a stealthy black s",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/score-an-rtx-5070-prebuilt-with-a-ryzen-7-7700x-and-16-gb-of-ddr5-for-usd650-off-stack-these-promo-codes-to-save-on-skytech-gamings-high-end-systems",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-25-003",
+    "date": "2026-04-25",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Intel's upcoming Xeon 7 \"Diamond Rapids\" server CPUs reportedly delayed to 2027 — Next-gen Coral Rapids lineup lands 2028 but can be accelerated, according to new leak",
+    "summary": "\n                             Diamond Rapids, also known as Xeon 7, was supposed to launch later this year, but a new leak from Jaykihn claims the timeline has now moved to 2027. Clearwater Forest, th",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intels-upcoming-xeon-7-diamond-rapids-server-cpus-reportedly-delayed-to-2027-next-gen-coral-rapids-lineup-lands-2028-but-can-be-accelerated-according-to-new-leak",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-04-25-004",
+    "date": "2026-04-25",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Your Walmart might be 3D printed — firm building more than a dozen 3D-printed Walmart expansions with concrete-printing robots",
+    "summary": "\n                             For years, 3D Concrete Printing (3DCP) has been an experimental novelty. Alquist 3D, based in Greeley, CO, is pushing the technology past the demonstration phase with the",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/3d-printing/your-walmart-might-be-3d-printed-firm-building-more-than-a-dozen-3d-printed-walmart-expansions-alquist-sells-superstore-on-3d-concrete-printing-robots",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-04-25-005",
+    "date": "2026-04-25",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD's memory-boosting EXPO 1.2 is here, adds support for three Chinese memory vendors — performance gains could be muted until Zen 6",
+    "summary": "\n                             Third-party AMD developer and hardware leakers share details of the new AMD EXPO 1.2 technology arriving on AMD AM5 motherboards. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ram/amd-expo-1-2-is-here-but-you-may-not-notice-significant-gains-until-zen-6-upgraded-ram-overclocking-tech-will-unlock-the-next-level-of-memory-speed-on-ryzen-cpus",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-006",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex"
+    ],
+    "impact": "positive",
+    "title": "LandMark Optoelectronics ramps up semiconductor-grade equipment for 6-inch SiPh amid surging demand",
+    "summary": "Silicon photonics (SiPh) products continue to see strong demand, with optical communication epitaxy manufacturer LandMark Optoelectronics reporting output still far below customer needs. The company p",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260423PD225/siph-demand-equipment-6-inch-photonics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-25-007",
+    "date": "2026-04-25",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China's Horizon Robotics aims at Tesla with new self-driving platform",
+    "summary": "<p class=\"P1\" data-start=\"51\" data-end=\"348\">As competition in intelligent electric vehicles shifts from incremental feature upgrades to full system-level redesign, China's Horizon Robotics is mountin",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260423PD237/tesla-competition-horizon-robotics-autonomous-driving-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-25-008",
+    "date": "2026-04-25",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's industrial production surges on AI infrastructure demand",
+    "summary": "Data released by Taiwan's Ministry of Economic Affairs (MOEA) on April 23 showed that major global cloud service providers continue to expand procurement of artificial intelligence (AI) hardware as co",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260423PD240/taiwan-production-industrial-moea-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-009",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "India's solar growth faces policy tension between local manufacturing push and rapid capacity expansion",
+    "summary": "India's push to localize solar manufacturing while rapidly expanding capacity is creating a structural bottleneck, as stricter domestic sourcing rules risk constraining supply just as renewable deploy",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260423VL218/solar-manufacturing-policy-growth-capacity-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-010",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "IUSG: Concentrated Exposure To Growth Stocks",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894384-iusg-concentrated-exposure-to-growth-stocks?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-25-011",
+    "date": "2026-04-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "I'm Not Ready To Write A Check For Visa, Earnings Preview",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4894382-im-not-ready-to-write-a-check-for-visa-earnings-preview?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-04-25-012",
+    "date": "2026-04-25",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Mac mini Thief Was Just Waiting To Be Caught After His Sheer Stupidity Left Incriminating Evidence On A Marketplace Listing",
+    "summary": "A base Mac mini was ordered by an Apple customer in the middle of March, and given that these compact machines were already scarce to begin with, it was estimated to reach the owner within four weeks.",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/mac-mini-thief-left-incriminating-evidence-on-marketplace-got-caught/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-04-25-013",
+    "date": "2026-04-25",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Strike Could Deepen DRAM Crunch And Cost $20 Billion As An 18-Day Walkout Risks Becoming a 36-Day Production Blackout",
+    "summary": "Samsung management appears intractable, unwilling to yield to the bonus-related demands of its unionized workers, setting the stage for a high-stakes showdown next month. As the world's largest memory",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-strike-could-deepen-dram-crunch-and-cost-20-billion-as-an-18-day-walkout-risks-becoming-a-36-day-production-blackout/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-04-25-014",
+    "date": "2026-04-25",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "advanced_packaging"
+    ],
+    "impact": "neutral",
+    "title": "TSMC’s Key CoWoS Packaging Supplier Drags Ex-General Manager to Court While Denying Any Tech Reached China",
+    "summary": "TSMC's key supplier has stated that no technology was leaked to China, but it also filed a lawsuit against its former General Manager. TSMC Supplier Denies That Key Technology Was Leaked To China, But",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmc-supplier-drags-ex-general-manager-to-court-denies-any-tech-reached-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-04-25-015",
+    "date": "2026-04-25",
+    "companies": [
+      "aws"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ex-AWS legend explains what enterprises need to make AI actually work",
+    "summary": "<h4>AI transformation is about people and organization, not technology</h4> <p>Enterprise AI projects go off the rails when companies focus on the technology instead of the people.…</p>",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/04/25/ai_enterprise_matt_domo/",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "samsung-2026-04-24-001",
@@ -40,6 +555,303 @@
     "impact": "neutral",
     "title": "Meta Partners With AWS on Graviton Chips to Power Agentic AI",
     "summary": "",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-04-24-003",
+    "date": "2026-04-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Intelligent Cost Optimization is a Competitive Advantage",
+    "summary": "\n\t\t\t\t\t\t<p>Intelligent cost optimization is not about cutting indiscriminately. It’s about understanding where investment creates differentiation and when efficiency can improve profitability.  </p>\n<p",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/intelligent-cost-optimization-is-a-competitive-advantage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-004",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "ai_memory"
+    ],
+    "impact": "neutral",
+    "title": "NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation — company secures funding to develop next-gen memory HBM alternative",
+    "summary": "\n                             NEO Semiconductor says its 3D X-DRAM passed proof-of-concept testing, using 3D NAND processes to target cheaper AI memory than HBM. The company has secured funding for de",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/neo-semiconductors-revolutionary-3d-x-dram-for-ai-processors-has-passed-proof-of-concept-validation-company-secures-funding-to-develop-next-gen-memory-hbm-alternative",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-24-005",
+    "date": "2026-04-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "CPU requirements for AI workloads are multiplying, driving intensifying shortages and price hikes — Intel already shifting production from consumer chips to Xeon as inference workloads drive server CPU ratios back toward parity with GPUs",
+    "summary": "\n                             As workloads continue migrating towards inference and agentic AI, CPU-GPU ratios could converge to 1:1 or even tilt further in favor of CPUs. \n                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/shifting-need-for-cpus-in-ai-workloads-drives-intensifying-shortages-price-hikes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-24-006",
+    "date": "2026-04-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Widely ridiculed Intel stock buyer who invested $700,000 inheritance has the last laugh (if they held) as it nearly triples in value — investment is now worth around $1.89 million",
+    "summary": "\n                             In August 2024, a Redditor was widely, repeatedly, and mercilessly ridiculed for investing the majority of an $800,000 inheritance in Intel stock. It's been a rollercoast",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/widely-ridiculed-intel-stock-buyer-who-invested-usd700-000-inheritance-has-the-last-laugh-if-they-held-as-it-nearly-triples-in-value-investment-is-now-worth-around-usd1-89-million",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-04-24-007",
+    "date": "2026-04-24",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Union rally causes Samsung fab production to plummet by 58% during night shift as workers demand up to $400,000 bonuses — updated figures show over 40,000 people attended rally for better pay and bonuses",
+    "summary": "\n                             Samsung's memory fab and contract chip foundry production for a single night-shift fell by up to 58% after a one-day strike. The union is gearing up for an extended 18-da",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/union-rally-causes-samsung-fab-production-to-plummet-by-58-percent-during-night-shift-as-workers-demand-up-to-usd400-000-bonuses-updated-figures-show-over-40-000-people-attended-rally-for-better-pay-and-bonuses",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-008",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "negative",
+    "title": "Chipmakers face higher cost pressure as packaging outpaces foundry price hikes",
+    "summary": "In recent weeks, chip companies ranging from major players to small and medium-sized firms have issued price increase notices or begun renegotiating product prices with select customers. These moves a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260424PD229/chipmakers-packaging-price-capacity-osat.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-04-24-009",
+    "date": "2026-04-24",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google splits AI chips into training and inference TPUs, signaling shift toward workload-specialized AI infrastructure",
+    "summary": "At Google Cloud Next 26, Google Cloud announced a strategic shift in its AI hardware approach by introducing two distinct eighth-generation Tensor Processing Units: the TPU v8t for training and the TP",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260424PD205/google-cloud-google-tpu-training-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-010",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "negative",
+    "title": "DDR5 RAM Prices Finally Crack In Japan As 64 GB Kits Dip Below $489 For First Time In Four Months",
+    "summary": "You will be extremely lucky if you can buy a 64 GB RAM kit for under $500 these days, but some retailers in Japan are indeed selling it for such a low price. Several DDR5 RAM Kits in Japan See a Sudde",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/ddr5-ram-prices-finally-crack-in-japan-as-64-gb-kits-dip-below-489-for-first-time-in-four-months/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-011",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Final Fantasy XIV Finally Arrives on Nintendo Switch 2 in August 2026, New Evercold Expansion Arrives in January 2027",
+    "summary": "After Naoki Yoshida told players to \"please look forward to Final Fantasy XIV on Nintendo Switch,\" today, Square Enix not only revealed the sixth expansion for the game, Evercold, but also finally con",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/final-fantasy-xiv-nintendo-switch-2-august-2026-release-evercold-expansion/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-24-012",
+    "date": "2026-04-24",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD’s Flagship Ryzen 9 9950X3D2 Outsells Every Intel CPU On Amazon As X3D Chips Dominate Top 10",
+    "summary": "The newly launched flagship CPU has already entered the top 10 best-selling CPUs on Amazon and could eventually move up on the chart. AMD Ryzen 9 9950X3D2 Enjoys Better Popularity Than Intel's Best CP",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-ryzen-9-9950xd2-rises-to-top-10-best-selling-cpus-on-amazon-us/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "marvell-2026-04-24-013",
+    "date": "2026-04-24",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Most Read – Optical transceivers, Price hikes, OCX scrapped",
+    "summary": "<p>Looking only at those written in the last week, the most read stories on our website cover abandoning the OCX update to GPS capabilities, Marvell buying Polariton Technologies, and UMC informing cu",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-optical-transceivers-price-hikes-ocx-scrapped-2026-04/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-014",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Microchip devices enable CPLD-like functionality on MCU",
+    "summary": "<p>The PIC16F13276 and PIC18-Q35 families see Microchip expanding its Configurable Logic Block (CLB)–based MCU portfolio. CPLD Aiming at motor control, industrial automation and automotive safety appl",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/fpga-news/microchip-devices-enable-cpld-like-functionality-on-mcu-2026-04/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-24-015",
+    "date": "2026-04-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Upbeat Q1 for Intel",
+    "summary": "<p>Intel’s Q1 revenue was up 7% YoY at $13.6 billion. The loss for the quarter was $3.7 billion. The forecast for Q2 revenue was $13.8 billion to $14.8 billion. The ...</p>\n<p>The post <a href=\"https:",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/upbeat-q1-for-intel-2026-04/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-23-001",
+    "date": "2026-04-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intel Reports First-Quarter 2026 Financial Results",
+    "summary": "<p>Intel Corporation&#8217;s first-quarter 2026 earnings news release and presentation are available on the company&#8217;s&#160;Investor Relations website. The earnings conference call for investors ",
+    "sources": []
+  },
+  {
+    "id": "google-2026-04-23-002",
+    "date": "2026-04-23",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "There's a new playbook for partnering with creators on marketing campaigns.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Decoded_Podcast_-_Thumbnail_-_S.max-600x600.format-webp_0PzWtaK.webp\">How Google is building tools to make creator partnership",
+    "sources": []
+  },
+  {
+    "id": "google-2026-04-23-003",
+    "date": "2026-04-23",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Convert faster on YouTube with April’s Demand Gen Drop.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DG_Road_to_GML_Master-Header_zX.max-600x600.format-webp.webp\">Learn more about our latest Demand Gen Drop and ways to maximize",
+    "sources": []
+  },
+  {
+    "id": "google-2026-04-23-004",
+    "date": "2026-04-23",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp\">Learn how Google’s TPUs power increasingly demanding AI workloads with this",
     "sources": []
   },
   {
@@ -129,6 +941,79 @@
     "title": "NVIDIA and Google Cloud Collaborate to Advance Agentic and Physical AI",
     "summary": "NVIDIA and Google Cloud have collaborated for more than a decade, coâengineering a fullâstack AI platform that spans every technology layer â from performanceâoptimized libraries and framework",
     "sources": []
+  },
+  {
+    "id": "google-2026-04-22-007",
+    "date": "2026-04-22",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google Cloud Next ‘26",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Collection_Header.max-600x600.format-webp.webp\">Here’s a look at what Google announced at Google Cloud Next ‘26.",
+    "sources": []
+  },
+  {
+    "id": "google-2026-04-22-008",
+    "date": "2026-04-22",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "We're launching two specialized TPUs for the agentic era.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Were_launching_two_TPUs_social.max-600x600.format-webp.webp\">The eighth generation of Google’s TPU includes two specialized ch",
+    "sources": []
+  },
+  {
+    "id": "google-2026-04-22-009",
+    "date": "2026-04-22",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cloud Next ‘26: Momentum and innovation at Google scale",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cloud_Next_Header.max-600x600.format-webp.webp\">Google CEO Sundar Pichai discusses the top announcements at Cloud Next 2026.",
+    "sources": []
+  },
+  {
+    "id": "tsmc-2026-04-22-010",
+    "date": "2026-04-22",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "TSMC Unfolds Map for Process, Packaging Tech",
+    "summary": "\n\t\t\t\t\t\t<p>TSMC unveils chip tech roadmap, slashing AI power use and boosting density.</p>\n<p>The post <a href=\"https://www.eetimes.com/tsmc-unfolds-map-for-process-packaging-tech/\">TSMC Unfolds Map fo",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/tsmc-unfolds-map-for-process-packaging-tech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-04-22-011",
+    "date": "2026-04-22",
+    "companies": [
+      "intel",
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Accenture and Avanade partner with Microsoft on agentic factory solution",
+    "summary": "Accenture, Avanade have partnered with Microsoft to create an agentic factory intelligence system designed to address manufacturing downtime.",
+    "sources": [
+      {
+        "name": "techmonitor",
+        "url": "https://www.techmonitor.ai/news/accenture-and-avanade-partner-with-microsoft-on-agentic-factory-solution",
+        "type": "rss"
+      }
+    ]
   },
   {
     "id": "unknown-2026-04-21-001",

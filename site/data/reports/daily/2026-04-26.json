@@ -1,18 +1,294 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:27:47.306478Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T09:12:01.897573Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-04-26-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "情緒極端"
+      ],
+      "title": "Samsung reportedly advances sub-10nm DRAM as SK Hynix targets HBM4E sampling",
+      "companies": [
+        "samsung",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260424VL219/samsung-dram-sk-hynix-hbm-development.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-04-26-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Samsung bets its HBM leverage can hold Nvidia's LPU orders &mdash; but TSMC is pushing back",
+      "companies": [
+        "nvidia",
+        "samsung",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung",
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260423PD221/tsmc-samsung-nvidia-2026-ceo.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-26-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "3D X-DRAM Hits Proof-of-Concept, HBM-Replacement with 10x Density vs Traditional DRAM & High-Yield Memory Design",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/3d-x-dram-hits-proof-of-concept-hbm-replacement-10x-density-high-yield-memory/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-04-26-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Harman hits KRW15.78 trillion in revenue 10 years after Samsung acquisition",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260424PD230/samsung-harman-revenue-adas.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-04-26-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BizLink expands optical interconnect push, sees uncertain CPO ramp timing",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260423PD220/demand-bizlink-cpo-data-hardware.html"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 13,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 0,
-      "negative": 0
+      "positive": 4,
+      "neutral": 7,
+      "negative": 2
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 4
+      },
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      },
+      {
+        "id": "asml",
+        "count": 1
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "hbm",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "nand_price",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 140,
+    "dup_title": 3,
+    "too_old": 3,
+    "gate1_blocked": 72,
+    "gate2_blocked": 20,
+    "passed": 42,
+    "pass_rate": "30.7%",
+    "gate2_block_rate": "14.6%",
+    "gate2_samples": [
+      "Why Chip Sovereignty Is No Longer About Chips—But Systems",
+      "Microsoft will allow users to indefinitely pause updates in Windows 11 — first change in over a deca",
+      "Intel has reportedly cancelled discrete gaming GPUs for the upcoming Xe3P Arc \"Celestial\" family — g",
+      "Intel Core Ultra 7 270K Plus vs AMD Ryzen 7 7800X3D — Can Intel finally beat X3D?",
+      "Intel VP claims up to 30% of CPU performance is untapped by modern games — software optimization is "
+    ],
+    "alert": false
   }
 }
