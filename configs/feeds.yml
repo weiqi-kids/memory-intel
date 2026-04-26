@@ -1,0 +1,37 @@
+feeds:
+- id: semi_engineering
+  name: SemiEngineering
+  url: https://semiengineering.com/feed/
+  description: SemiEngineering RSS feed
+- id: eetimes
+  name: EE Times
+  url: https://www.eetimes.com/feed/
+  description: EE Times RSS feed
+- id: toms_hardware
+  name: Tom's Hardware
+  url: https://www.tomshardware.com/feeds/all
+  description: Tom's Hardware RSS feed
+- id: digitimes_daily
+  name: DIGITIMES Asia
+  url: https://www.digitimes.com/rss/daily.xml
+  description: DIGITIMES Asia RSS feed
+- id: seeking_alpha
+  name: Seeking Alpha
+  url: https://seekingalpha.com/feed.xml
+  description: Seeking Alpha RSS feed
+- id: wccftech
+  name: Wccftech
+  url: https://wccftech.com/feed/
+  description: Wccftech RSS feed
+- id: theregister
+  name: The Register
+  url: https://www.theregister.com/headlines.atom
+  description: UK tech news with semiconductor/cloud coverage
+- id: electronicsweekly
+  name: Electronics Weekly
+  url: https://www.electronicsweekly.com/feed/
+  description: UK electronics industry news
+- id: techmonitor
+  name: TechMonitor
+  url: https://www.techmonitor.ai/feed
+  description: Enterprise tech with semiconductor/AI coverage

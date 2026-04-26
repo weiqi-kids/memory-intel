@@ -21,6 +21,7 @@ companies:
   - winbond
   - cxmt
   - ymtc
+  fetch_mode: http
 - id: tokyo_electron
   name: Tokyo Electron
   aliases:
@@ -42,6 +43,7 @@ companies:
   - kioxia
   - nanya
   - winbond
+  fetch_mode: http
 - id: lam_research
   name: Lam Research
   aliases:
@@ -61,6 +63,7 @@ companies:
   - intel
   - kioxia
   - western_digital
+  fetch_mode: http
 - id: applied_materials
   name: Applied Materials
   aliases:
@@ -82,6 +85,7 @@ companies:
   - kioxia
   - nanya
   - winbond
+  fetch_mode: http
 - id: kla
   name: KLA Corporation
   aliases:
@@ -99,6 +103,7 @@ companies:
   - micron
   - tsmc
   - intel
+  fetch_mode: http
 - id: screen
   name: Screen Holdings
   aliases: []
@@ -114,6 +119,7 @@ companies:
   - skhynix
   - micron
   - tsmc
+  fetch_mode: http
 - id: sumco
   name: SUMCO
   aliases: []
@@ -130,6 +136,7 @@ companies:
   - micron
   - tsmc
   - intel
+  fetch_mode: http
 - id: sk_siltron
   name: SK Siltron
   aliases:
@@ -144,6 +151,7 @@ companies:
   downstream:
   - skhynix
   - samsung
+  fetch_mode: http
 - id: shin_etsu
   name: Shin-Etsu Chemical
   aliases:
@@ -162,6 +170,7 @@ companies:
   - micron
   - tsmc
   - intel
+  fetch_mode: http
 - id: entegris
   name: Entegris
   aliases: []
@@ -178,6 +187,7 @@ companies:
   - micron
   - tsmc
   - intel
+  fetch_mode: http
 - id: synopsys
   name: Synopsys
   aliases:
@@ -197,6 +207,7 @@ companies:
   - broadcom
   - qualcomm
   - intel
+  fetch_mode: http
 - id: cadence
   name: Cadence Design Systems
   aliases:
@@ -216,6 +227,7 @@ companies:
   - broadcom
   - qualcomm
   - intel
+  fetch_mode: http
 - id: arm
   name: Arm Holdings
   aliases:
@@ -234,6 +246,7 @@ companies:
   - apple
   - qualcomm
   - broadcom
+  fetch_mode: http
 - id: samsung
   name: Samsung Electronics
   aliases:
@@ -264,6 +277,8 @@ companies:
   - supermicro
   - ase
   - amkor
+  ir_rss_url: https://news.samsung.com/global/feed
+  fetch_mode: rss
 - id: skhynix
   name: SK hynix
   aliases:
@@ -291,6 +306,7 @@ companies:
   - dell
   - supermicro
   - powertech
+  fetch_mode: http
 - id: micron
   name: Micron Technology
   aliases:
@@ -318,6 +334,7 @@ companies:
   - aws
   - microsoft
   - powertech
+  fetch_mode: http
 - id: nanya
   name: 南亞科技
   aliases:
@@ -339,6 +356,7 @@ companies:
   - lenovo
   - ptc
   - powertech
+  fetch_mode: http
 - id: winbond
   name: 華邦電子
   aliases:
@@ -358,6 +376,7 @@ companies:
   - dell
   - hp
   - lenovo
+  fetch_mode: http
 - id: kioxia
   name: Kioxia
   aliases:
@@ -379,6 +398,7 @@ companies:
   - dell
   - hp
   - lenovo
+  fetch_mode: http
 - id: western_digital
   name: Western Digital
   aliases:
@@ -400,6 +420,7 @@ companies:
   - lenovo
   - aws
   - microsoft
+  fetch_mode: http
 - id: cxmt
   name: 長鑫存儲
   aliases:
@@ -416,6 +437,7 @@ companies:
   - lenovo
   upstream:
   - asml
+  fetch_mode: http
 - id: ymtc
   name: 長江存儲
   aliases:
@@ -432,6 +454,7 @@ companies:
   - lenovo
   upstream:
   - asml
+  fetch_mode: http
 - id: phison
   name: Phison Electronics
   aliases:
@@ -452,6 +475,7 @@ companies:
   - dell
   - hp
   - lenovo
+  fetch_mode: http
 - id: silicon_motion
   name: Silicon Motion
   aliases:
@@ -470,6 +494,7 @@ companies:
   downstream:
   - dell
   - hp
+  fetch_mode: http
 - id: macronix
   name: Macronix
   aliases:
@@ -485,6 +510,7 @@ companies:
   upstream:
   - asml
   downstream: []
+  fetch_mode: http
 - id: elite_semi
   name: Elite Semiconductor
   aliases:
@@ -500,6 +526,7 @@ companies:
   upstream:
   - tsmc
   downstream: []
+  fetch_mode: http
 - id: adata
   name: ADATA Technology
   aliases:
@@ -517,6 +544,7 @@ companies:
   - skhynix
   - micron
   downstream: []
+  fetch_mode: http
 - id: innodisk
   name: Innodisk
   aliases:
@@ -534,6 +562,7 @@ companies:
   - micron
   - kioxia
   downstream: []
+  fetch_mode: http
 - id: tsmc
   name: TSMC
   aliases:
@@ -561,6 +590,7 @@ companies:
   - shin_etsu
   - synopsys
   - cadence
+  fetch_mode: http
 - id: intel
   name: Intel
   aliases:
@@ -584,6 +614,8 @@ companies:
   - aws
   - microsoft
   - google
+  ir_rss_url: https://newsroom.intel.com/feed/
+  fetch_mode: rss
 - id: psmc
   name: Powerchip Semiconductor
   aliases:
@@ -602,6 +634,7 @@ companies:
   - nanya
   - winbond
   - phison
+  fetch_mode: http
 - id: ase
   name: 日月光投控
   aliases:
@@ -624,6 +657,7 @@ companies:
   - apple
   - broadcom
   - qualcomm
+  fetch_mode: http
 - id: powertech
   name: 力成科技
   aliases:
@@ -643,6 +677,7 @@ companies:
   downstream:
   - nvidia
   - amd
+  fetch_mode: http
 - id: ptc
   name: 南茂科技
   aliases:
@@ -659,6 +694,7 @@ companies:
   - nanya
   - winbond
   downstream: []
+  fetch_mode: http
 - id: amkor
   name: Amkor Technology
   aliases:
@@ -678,6 +714,7 @@ companies:
   - nvidia
   - apple
   - broadcom
+  fetch_mode: http
 - id: nvidia
   name: NVIDIA
   aliases:
@@ -706,6 +743,8 @@ companies:
   - oracle
   - dell
   - supermicro
+  ir_rss_url: https://nvidianews.nvidia.com/releases.xml
+  fetch_mode: rss
 - id: amd
   name: AMD
   aliases:
@@ -728,6 +767,8 @@ companies:
   - microsoft
   - dell
   - supermicro
+  ir_rss_url: https://ir.amd.com/rss/news-releases.xml
+  fetch_mode: rss
 - id: broadcom
   name: Broadcom
   aliases:
@@ -747,6 +788,7 @@ companies:
   downstream:
   - google
   - meta
+  fetch_mode: http
 - id: qualcomm
   name: Qualcomm
   aliases:
@@ -765,6 +807,7 @@ companies:
   downstream:
   - apple
   - lenovo
+  fetch_mode: http
 - id: marvell
   name: Marvell Technology
   aliases:
@@ -784,6 +827,7 @@ companies:
   - aws
   - microsoft
   - google
+  fetch_mode: http
 - id: ti
   name: Texas Instruments
   aliases:
@@ -798,6 +842,7 @@ companies:
   ir_url: null
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: onsemi
   name: ON Semiconductor
   aliases:
@@ -812,6 +857,7 @@ companies:
   ir_url: null
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: infineon
   name: Infineon Technologies
   aliases:
@@ -826,6 +872,7 @@ companies:
   ir_url: null
   upstream: []
   downstream: []
+  fetch_mode: http
 - id: apple
   name: Apple
   aliases:
@@ -844,6 +891,8 @@ companies:
   - kioxia
   - amkor
   downstream: []
+  ir_rss_url: https://www.apple.com/newsroom/rss-feed.rss
+  fetch_mode: rss
 - id: dell
   name: Dell Technologies
   aliases:
@@ -862,6 +911,7 @@ companies:
   - samsung
   - skhynix
   downstream: []
+  fetch_mode: http
 - id: hp
   name: HP Inc.
   aliases:
@@ -879,6 +929,7 @@ companies:
   - nanya
   - winbond
   downstream: []
+  fetch_mode: http
 - id: lenovo
   name: Lenovo
   aliases:
@@ -897,6 +948,7 @@ companies:
   - nanya
   - qualcomm
   downstream: []
+  fetch_mode: http
 - id: supermicro
   name: Super Micro Computer
   aliases:
@@ -916,6 +968,7 @@ companies:
   - intel
   - samsung
   downstream: []
+  fetch_mode: http
 - id: aws
   name: Amazon Web Services
   aliases:
@@ -934,6 +987,7 @@ companies:
   - intel
   - micron
   downstream: []
+  fetch_mode: http
 - id: microsoft
   name: Microsoft
   aliases:
@@ -952,6 +1006,8 @@ companies:
   - intel
   - micron
   downstream: []
+  ir_rss_url: https://news.microsoft.com/feed/
+  fetch_mode: rss
 - id: google
   name: Google Cloud
   aliases:
@@ -970,6 +1026,8 @@ companies:
   - broadcom
   - intel
   downstream: []
+  ir_rss_url: https://blog.google/rss/
+  fetch_mode: rss
 - id: meta
   name: Meta Platforms
   aliases:
@@ -987,6 +1045,7 @@ companies:
   - broadcom
   - micron
   downstream: []
+  fetch_mode: http
 - id: oracle
   name: Oracle
   aliases:
@@ -1002,6 +1061,7 @@ companies:
   - nvidia
   - intel
   downstream: []
+  fetch_mode: http
 etfs:
 - id: smh
   name: VanEck Semiconductor ETF
