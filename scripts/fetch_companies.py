@@ -13,7 +13,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 try:
-    from fetchers import SamsungFetcher, SKHynixFetcher
+    from fetchers import FETCHERS
 except ImportError as e:
     print(f"Import error: {e}")
     print("Make sure requests and beautifulsoup4 are installed")
@@ -27,12 +27,13 @@ def main():
 
     all_documents = []
 
-    # List of fetchers to run
-    fetchers = [
-        SamsungFetcher(),
-        SKHynixFetcher(),
-        # Add more fetchers here as they are implemented
-    ]
+    # Instantiate all registered fetchers
+    fetchers = []
+    for company_id, fetcher_cls in FETCHERS.items():
+        try:
+            fetchers.append(fetcher_cls())
+        except Exception as e:
+            print(f"  Warning: could not instantiate {company_id} fetcher: {e}")
 
     for fetcher in fetchers:
         print(f"\n=== Fetching {fetcher.company_name} ===")
