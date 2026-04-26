@@ -1,8 +1,66 @@
 {
   "date": "2026-04-26",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 13,
+  "by_company": {
+    "samsung": {
+      "count": 4,
+      "sentiment_avg": -0.38
+    },
+    "asml": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "tsmc": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "skhynix": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "nvidia": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "intel": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nand_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "hbm": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {
       "samsung": {

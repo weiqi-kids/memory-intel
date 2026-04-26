@@ -4,14 +4,14 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:27:47.367707Z",
+  "generated_at": "2026-04-26T09:12:01.958334Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "skhynix-2026-04-22-001",
-      "date": "2026-04-22",
-      "title": "SK hynix Announces 1Q26 Financial Results",
+      "event_id": "intel-2026-04-20-001",
+      "date": "2026-04-20",
+      "title": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
       "importance_score": 1.0
     }
   ],
@@ -22,15 +22,94 @@
       "last_week": 1,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.2
+    },
+    "inventory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "nand_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "guidance": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.33
+    },
+    "capex": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
     }
   },
-  "company_7d_summary": {},
+  "company_7d_summary": {
+    "samsung": {
+      "event_count": 4,
+      "sentiment_avg": -0.38,
+      "rank": 1
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 4
+    },
+    "tsmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 3
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 5
+    },
+    "nvidia": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 2
+    },
+    "intel": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    }
+  },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 1,
+        "this": 14,
         "last": 7,
-        "change_pct": -85.7
+        "change_pct": 100.0
       }
     }
   },
@@ -67,7 +146,7 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 0,
+      "event_count": 13,
       "sentiment_avg": 0
     }
   ]
