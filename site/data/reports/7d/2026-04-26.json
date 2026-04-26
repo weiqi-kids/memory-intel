@@ -1,0 +1,74 @@
+{
+  "date": "2026-04-26",
+  "date_range": {
+    "start": "2026-04-20",
+    "end": "2026-04-26"
+  },
+  "generated_at": "2026-04-26T03:27:47.367707Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "skhynix-2026-04-22-001",
+      "date": "2026-04-22",
+      "title": "SK hynix Announces 1Q26 Financial Results",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "euv": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {},
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 7,
+        "change_pct": -85.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-24",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 0,
+      "sentiment_avg": 0
+    }
+  ]
+}
