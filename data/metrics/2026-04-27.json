@@ -1,10 +1,10 @@
 {
   "date": "2026-04-27",
-  "total_events": 8,
+  "total_events": 43,
   "by_company": {
     "apple": {
-      "count": 2,
-      "sentiment_avg": -0.09
+      "count": 6,
+      "sentiment_avg": 0.14
     },
     "micron": {
       "count": 2,
@@ -19,46 +19,94 @@
       "sentiment_avg": 0.0
     },
     "tsmc": {
-      "count": 2,
-      "sentiment_avg": 0.0
+      "count": 7,
+      "sentiment_avg": 0.18
     },
     "qualcomm": {
-      "count": 2,
-      "sentiment_avg": 0.0
+      "count": 3,
+      "sentiment_avg": 0.17
     },
     "samsung": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "google": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nvidia": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "broadcom": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "tokyo_electron": {
       "count": 1,
       "sentiment_avg": 0.0
     },
-    "google": {
+    "meta": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aws": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "marvell": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "intel": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "nanya": {
       "count": 1,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "capex": {
-      "count": 1,
-      "sentiment_avg": -0.17
+      "count": 5,
+      "sentiment_avg": 0.17
     },
     "advanced_packaging": {
-      "count": 1,
-      "sentiment_avg": -0.17
+      "count": 2,
+      "sentiment_avg": -0.09
     },
     "industry_general": {
-      "count": 6,
-      "sentiment_avg": -0.03
+      "count": 27,
+      "sentiment_avg": 0.17
     },
     "euv": {
       "count": 1,
       "sentiment_avg": 0.0
     },
     "capacity": {
+      "count": 6,
+      "sentiment_avg": 0.21
+    },
+    "earnings": {
+      "count": 10,
+      "sentiment_avg": 0.15
+    },
+    "ai_server": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "inventory": {
       "count": 1,
       "sentiment_avg": 0.0
     },
-    "earnings": {
+    "ddr5": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
     }
   },
   "baselines_used": {
@@ -168,5 +216,13 @@
       }
     }
   },
-  "supply_chain_activity": []
+  "supply_chain_activity": [
+    {
+      "from": "apple",
+      "to": "qualcomm",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:57:40.068112Z",
+  "generated_at": "2026-04-27T10:26:46.353516Z",
   "top_events": [
     {
       "rank": 1,
@@ -36,6 +36,96 @@
     },
     {
       "rank": 2,
+      "event_id": "google-2026-04-27-038",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Google Is Reportedly A Major Intel Foundry Customer, Will Use EMIB Advanced Packaging For Next-Gen TPU",
+      "companies": [
+        "google",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/google-major-intel-foundry-customer-emib-advanced-packaging-for-next-gen-tpu/"
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-04-27-039",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "NVIDIA Taps Taiwanese Nanya Technology’s LPDDR5X Memory For Vera Rubin Platform, Offering 3x Capacity & Over 50% Bandwidth Boost",
+      "companies": [
+        "nvidia",
+        "nanya"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ddr5",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidia-taps-taiwanese-nanya-tech-lpddr5x-memory-for-vera-rubin-platform/"
+    },
+    {
+      "rank": 4,
+      "event_id": "broadcom-2026-04-27-023",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Broadcom, Marvell set to benefit as 1.6T optical modules near mass production",
+      "companies": [
+        "broadcom",
+        "marvell"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260427PD210/broadcom-marvell-production-chips-cpo.html"
+    },
+    {
+      "rank": 5,
       "event_id": "qualcomm-2026-04-27-005",
       "importance_score": 0.9,
       "importance_reasons": [
@@ -59,119 +149,38 @@
         "score": 0.0
       },
       "source_url": "https://www.digitimes.com/news/a20260427VL204/digitimes-asia-weekly-news-roundup-micron-qualcomm-manufacturing-2026.html"
-    },
-    {
-      "rank": 3,
-      "event_id": "tsmc-2026-04-27-006",
-      "importance_score": 0.85,
-      "importance_reasons": [
-        "多公司提及",
-        "涉及產能"
-      ],
-      "title": "DIGITIMES Insight: Will TSMC's 3nm expansion put Samsung's 2nm bid on the back foot?",
-      "companies": [
-        "tsmc",
-        "samsung"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "capacity",
-        "industry_general"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://www.digitimes.com/news/a20260427PD214/tsmc-3nm-earnings-samsung-capacity.html"
-    },
-    {
-      "rank": 4,
-      "event_id": "google-2026-04-27-007",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "MediaTek ASIC revenue may overtake smartphone chips amid Google's TPU ramps",
-      "companies": [
-        "google"
-      ],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "earnings",
-        "industry_general"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://www.digitimes.com/news/a20260427PD208/mediatek-asic-revenue-google-tpu.html"
-    },
-    {
-      "rank": 5,
-      "event_id": "asml-2026-04-27-004",
-      "importance_score": 0.7,
-      "importance_reasons": [
-        "多公司提及"
-      ],
-      "title": "TSMC refuses ASML's expensive High-NA EUV equipment, explained",
-      "companies": [
-        "asml",
-        "tsmc"
-      ],
-      "related": {
-        "customers": [
-          "tsmc"
-        ],
-        "suppliers": [
-          "asml"
-        ]
-      },
-      "topics": [
-        "euv"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://www.digitimes.com/news/a20260427PD204/tsmc-asml-high-na-euv-equipment.html"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "capex": {
-      "today": 1,
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.17,
+      "sentiment_today": 0.17,
       "sentiment_7d_avg": null
     },
     "advanced_packaging": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.17,
+      "sentiment_today": -0.09,
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 6,
+      "today": 27,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.03,
+      "sentiment_today": 0.17,
       "sentiment_7d_avg": null
     },
     "euv": {
@@ -185,6 +194,36 @@
       "sentiment_7d_avg": null
     },
     "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -194,7 +233,7 @@
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     },
-    "earnings": {
+    "ddr5": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -203,70 +242,88 @@
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
     }
   },
-  "supply_chain_activity": [],
+  "supply_chain_activity": [
+    {
+      "from": "apple",
+      "to": "qualcomm",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": []
+    }
+  ],
   "stats": {
-    "total_events": 8,
+    "total_events": 43,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 8,
+      "positive": 12,
+      "neutral": 31,
       "negative": 0
     },
     "top_companies": [
       {
-        "id": "apple",
-        "count": 2
-      },
-      {
-        "id": "micron",
-        "count": 2
-      },
-      {
         "id": "tsmc",
-        "count": 2
+        "count": 7
+      },
+      {
+        "id": "apple",
+        "count": 6
       },
       {
         "id": "qualcomm",
-        "count": 2
+        "count": 3
       },
       {
-        "id": "ase",
-        "count": 1
+        "id": "google",
+        "count": 3
+      },
+      {
+        "id": "nvidia",
+        "count": 3
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 10
+      },
+      {
+        "id": "capacity",
         "count": 6
       },
       {
         "id": "capex",
-        "count": 1
+        "count": 5
       },
       {
         "id": "advanced_packaging",
-        "count": 1
-      },
-      {
-        "id": "euv",
-        "count": 1
-      },
-      {
-        "id": "capacity",
-        "count": 1
+        "count": 2
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 1052,
-    "dup_title": 223,
-    "too_old": 364,
-    "gate1_blocked": 244,
-    "gate2_blocked": 163,
-    "passed": 58,
-    "pass_rate": "7.0%",
-    "gate2_block_rate": "19.7%",
+    "total_raw": 1319,
+    "dup_title": 270,
+    "too_old": 450,
+    "gate1_blocked": 305,
+    "gate2_blocked": 200,
+    "passed": 94,
+    "pass_rate": "9.0%",
+    "gate2_block_rate": "19.1%",
     "gate2_samples": [
       "ASML discloses 2026 AGM results",
       "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
@@ -277,15 +334,19 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 8 則事件，焦點為蘋果、美光、台積電相關動態：「India roundup: Micron ramp, Dholera SEZ push India toward...」。主要關注主題為半導體/記憶體通用、資本支出、先進封裝，市場情緒中性。",
+    "summary": "今日共 43 則事件，焦點為台積電、蘋果、高通相關動態：「India roundup: Micron ramp, Dholera SEZ push India toward...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "India roundup: Micron ramp, Dholera SEZ push India toward full-stack chip man...（資本支出、先進封裝、半導體/記憶體通用）",
         "level": "red"
       },
       {
-        "text": "Weekly news roundup: Micron's Sanand ramp shifts India chip debate; Qualcomm ...（半導體/記憶體通用）",
+        "text": "Google Is Reportedly A Major Intel Foundry Customer, Will Use EMIB Advanced P...（資本支出、先進封裝、半導體/記憶體通用）",
         "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
       }
     ]
   },
