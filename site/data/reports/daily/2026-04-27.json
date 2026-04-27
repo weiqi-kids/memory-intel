@@ -1,29 +1,115 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:42:40.182926Z",
-  "top_events": [],
+  "generated_at": "2026-04-27T02:43:19.000655Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "apple-2026-04-27-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "India roundup: Micron ramp, Dholera SEZ push India toward full-stack chip manufacturing",
+      "companies": [
+        "apple",
+        "micron"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": -0.17
+      },
+      "source_url": "https://www.digitimes.com/news/a20260426VL200/india-roundup-design-manufacturing-packaging-solar-micron.html"
+    }
+  ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 1,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 1,
       "negative": 0
     },
-    "top_companies": [],
-    "top_topics": []
+    "top_companies": [
+      {
+        "id": "apple",
+        "count": 1
+      },
+      {
+        "id": "micron",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 268,
-    "dup_title": 39,
-    "too_old": 91,
-    "gate1_blocked": 70,
-    "gate2_blocked": 43,
-    "passed": 25,
-    "pass_rate": "10.9%",
-    "gate2_block_rate": "18.8%",
+    "total_raw": 536,
+    "dup_title": 95,
+    "too_old": 182,
+    "gate1_blocked": 132,
+    "gate2_blocked": 85,
+    "passed": 42,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "19.3%",
     "gate2_samples": [
       "ASML discloses 2026 AGM results",
       "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
@@ -34,14 +120,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "2026-04-27 無記憶體產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 1 則事件，焦點為蘋果、美光相關動態：「India roundup: Micron ramp, Dholera SEZ push India toward...」。主要關注主題為資本支出、先進封裝、半導體/記憶體通用，市場情緒中性。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
-        "level": "green"
+        "text": "India roundup: Micron ramp, Dholera SEZ push India toward full-stack chip man...（資本支出、先進封裝、半導體/記憶體通用）",
+        "level": "red"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "蘋果、美光為今日主要關注企業。",
         "level": "green"
       }
     ]
