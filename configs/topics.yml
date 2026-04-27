@@ -203,3 +203,29 @@ topics:
       - "極紫外光"
       - "extreme ultraviolet"
       - "EUV lithography"
+
+  # ========================================
+  # 產業通用（降低 gate2 誤擋率）
+  # ========================================
+  industry_general:
+    display: "半導體/記憶體通用"
+    keywords:
+      - "semiconductor"
+      - "半導體"
+      - "memory"
+      - "記憶體"
+      - "DRAM"
+      - "NAND"
+      - "flash"
+      - "wafer"
+      - "晶圓"
+      - "chip"
+      - "晶片"
+      - "fabrication"
+      - "foundry"
+      - "packaging"
+      - "封裝"
+      - "die"
+      - "node"
+      - "nanometer"
+      - "nm process"
