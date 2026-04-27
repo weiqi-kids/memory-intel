@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:49:14.373280Z",
+  "generated_at": "2026-04-27T03:57:40.068112Z",
   "top_events": [
     {
       "rank": 1,
@@ -207,13 +207,17 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 7,
+    "total_events": 8,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 7,
+      "neutral": 8,
       "negative": 0
     },
     "top_companies": [
+      {
+        "id": "apple",
+        "count": 2
+      },
       {
         "id": "micron",
         "count": 2
@@ -223,15 +227,11 @@
         "count": 2
       },
       {
-        "id": "apple",
-        "count": 1
+        "id": "qualcomm",
+        "count": 2
       },
       {
         "id": "ase",
-        "count": 1
-      },
-      {
-        "id": "asml",
         "count": 1
       }
     ],
@@ -259,14 +259,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 804,
-    "dup_title": 157,
-    "too_old": 273,
-    "gate1_blocked": 191,
-    "gate2_blocked": 126,
-    "passed": 57,
-    "pass_rate": "8.8%",
-    "gate2_block_rate": "19.5%",
+    "total_raw": 1052,
+    "dup_title": 223,
+    "too_old": 364,
+    "gate1_blocked": 244,
+    "gate2_blocked": 163,
+    "passed": 58,
+    "pass_rate": "7.0%",
+    "gate2_block_rate": "19.7%",
     "gate2_samples": [
       "ASML discloses 2026 AGM results",
       "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
@@ -277,7 +277,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 7 則事件，焦點為美光、台積電、蘋果相關動態：「India roundup: Micron ramp, Dholera SEZ push India toward...」。主要關注主題為半導體/記憶體通用、資本支出、先進封裝，市場情緒中性。",
+    "summary": "今日共 8 則事件，焦點為蘋果、美光、台積電相關動態：「India roundup: Micron ramp, Dholera SEZ push India toward...」。主要關注主題為半導體/記憶體通用、資本支出、先進封裝，市場情緒中性。",
     "signals": [
       {
         "text": "India roundup: Micron ramp, Dholera SEZ push India toward full-stack chip man...（資本支出、先進封裝、半導體/記憶體通用）",

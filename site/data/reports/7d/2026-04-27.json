@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T03:49:14.438963Z",
+  "generated_at": "2026-04-27T03:57:40.131441Z",
   "highlights": [
     {
       "rank": 1,
@@ -103,7 +103,7 @@
     "skhynix": {
       "event_count": 1,
       "sentiment_avg": -1.0,
-      "rank": 7
+      "rank": 9
     },
     "nvidia": {
       "event_count": 3,
@@ -118,37 +118,37 @@
     "arm": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 8
+      "rank": 10
     },
     "screen": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 9
+      "rank": 11
     },
     "microsoft": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 10
+      "rank": 12
     },
     "apple": {
-      "event_count": 1,
-      "sentiment_avg": -0.17,
-      "rank": 11
-    },
-    "micron": {
       "event_count": 2,
       "sentiment_avg": -0.09,
       "rank": 6
     },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": -0.09,
+      "rank": 7
+    },
     "ase": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 12
+      "rank": 13
     },
     "qualcomm": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 13
+      "rank": 8
     },
     "google": {
       "event_count": 1,
@@ -159,9 +159,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 127,
+        "this": 128,
         "last": 12,
-        "change_pct": 958.3
+        "change_pct": 966.7
       }
     }
   },
@@ -198,12 +198,12 @@
     },
     {
       "date": "2026-04-27",
-      "event_count": 7,
+      "event_count": 8,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 127 則事件，重點為「SK hynix Announces 1Q26 Financial Results」。事件量較上週增加 958%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 128 則事件，重點為「SK hynix Announces 1Q26 Financial Results」。事件量較上週增加 967%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "三星",
