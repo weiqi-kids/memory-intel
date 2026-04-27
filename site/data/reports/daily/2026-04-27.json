@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:42:40.182926Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 39,
+    "too_old": 91,
+    "gate1_blocked": 70,
+    "gate2_blocked": 43,
+    "passed": 25,
+    "pass_rate": "10.9%",
+    "gate2_block_rate": "18.8%",
+    "gate2_samples": [
+      "ASML discloses 2026 AGM results",
+      "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
+      "OpenAIâs New GPT-5.5 Powers Codex on NVIDIA Infrastructure â and NVIDIA Is Already Putting It to",
+      "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
+      "8 Gemini tips for organizing your space (and life)"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無記憶體產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
