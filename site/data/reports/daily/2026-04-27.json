@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T02:43:19.000655Z",
+  "generated_at": "2026-04-27T03:49:14.373280Z",
   "top_events": [
     {
       "rank": 1,
@@ -33,6 +33,113 @@
         "score": -0.17
       },
       "source_url": "https://www.digitimes.com/news/a20260426VL200/india-roundup-design-manufacturing-packaging-solar-micron.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "qualcomm-2026-04-27-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Weekly news roundup: Micron's Sanand ramp shifts India chip debate; Qualcomm Chief reportedly seeks deals in South Korea",
+      "companies": [
+        "qualcomm",
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260427VL204/digitimes-asia-weekly-news-roundup-micron-qualcomm-manufacturing-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-04-27-006",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "DIGITIMES Insight: Will TSMC's 3nm expansion put Samsung's 2nm bid on the back foot?",
+      "companies": [
+        "tsmc",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260427PD214/tsmc-3nm-earnings-samsung-capacity.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "google-2026-04-27-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MediaTek ASIC revenue may overtake smartphone chips amid Google's TPU ramps",
+      "companies": [
+        "google"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260427PD208/mediatek-asic-revenue-google-tpu.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "asml-2026-04-27-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "TSMC refuses ASML's expensive High-NA EUV equipment, explained",
+      "companies": [
+        "asml",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "tsmc"
+        ],
+        "suppliers": [
+          "asml"
+        ]
+      },
+      "topics": [
+        "euv"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260427PD204/tsmc-asml-high-na-euv-equipment.html"
     }
   ],
   "anomalies": [],
@@ -58,35 +165,81 @@
       "sentiment_7d_avg": null
     },
     "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
       "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.17,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 7,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 7,
       "negative": 0
     },
     "top_companies": [
+      {
+        "id": "micron",
+        "count": 2
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      },
       {
         "id": "apple",
         "count": 1
       },
       {
-        "id": "micron",
+        "id": "ase",
+        "count": 1
+      },
+      {
+        "id": "asml",
         "count": 1
       }
     ],
     "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
       {
         "id": "capex",
         "count": 1
@@ -96,20 +249,24 @@
         "count": 1
       },
       {
-        "id": "industry_general",
+        "id": "euv",
+        "count": 1
+      },
+      {
+        "id": "capacity",
         "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 536,
-    "dup_title": 95,
-    "too_old": 182,
-    "gate1_blocked": 132,
-    "gate2_blocked": 85,
-    "passed": 42,
-    "pass_rate": "9.5%",
-    "gate2_block_rate": "19.3%",
+    "total_raw": 804,
+    "dup_title": 157,
+    "too_old": 273,
+    "gate1_blocked": 191,
+    "gate2_blocked": 126,
+    "passed": 57,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "19.5%",
     "gate2_samples": [
       "ASML discloses 2026 AGM results",
       "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
@@ -120,15 +277,15 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為蘋果、美光相關動態：「India roundup: Micron ramp, Dholera SEZ push India toward...」。主要關注主題為資本支出、先進封裝、半導體/記憶體通用，市場情緒中性。",
+    "summary": "今日共 7 則事件，焦點為美光、台積電、蘋果相關動態：「India roundup: Micron ramp, Dholera SEZ push India toward...」。主要關注主題為半導體/記憶體通用、資本支出、先進封裝，市場情緒中性。",
     "signals": [
       {
         "text": "India roundup: Micron ramp, Dholera SEZ push India toward full-stack chip man...（資本支出、先進封裝、半導體/記憶體通用）",
         "level": "red"
       },
       {
-        "text": "蘋果、美光為今日主要關注企業。",
-        "level": "green"
+        "text": "Weekly news roundup: Micron's Sanand ramp shifts India chip debate; Qualcomm ...（半導體/記憶體通用）",
+        "level": "red"
       }
     ]
   },
