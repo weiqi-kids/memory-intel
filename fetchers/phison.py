@@ -17,6 +17,7 @@ class PhisonFetcher(CompanyFetcher):
     company_id = "phison"
     company_name = "Phison Electronics"
     news_url = "https://www.phison.com/en/newsroom"
+    fetch_mode = "playwright"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""
