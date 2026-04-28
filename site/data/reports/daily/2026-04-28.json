@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T06:17:49.624097Z",
+  "generated_at": "2026-04-28T10:25:34.086525Z",
   "top_events": [
     {
       "rank": 1,
@@ -67,15 +67,16 @@
     },
     {
       "rank": 3,
-      "event_id": "amd-2026-04-28-003",
-      "importance_score": 0.9,
+      "event_id": "nvidia-2026-04-28-033",
+      "importance_score": 1.0,
       "importance_reasons": [
         "多公司提及",
+        "情緒極端",
         "供應鏈上下游同時提及"
       ],
-      "title": "Agentic AI sparks CPU demand surge, boosting ASIC and niche chip makers",
+      "title": "Nvidia signs record Bengaluru office lease as India AI push accelerates",
       "companies": [
-        "amd",
+        "nvidia",
         "intel"
       ],
       "related": {
@@ -86,78 +87,101 @@
         "industry_general"
       ],
       "sentiment": {
-        "label": "neutral",
-        "score": 0.0
+        "label": "positive",
+        "score": 0.75
       },
-      "source_url": "https://www.digitimes.com/news/a20260428PD230/ai-agent-asic-cpu-demand.html"
+      "source_url": "https://www.digitimes.com/news/a20260428VL217/nvidia-india-expansion-infrastructure-technology.html"
     },
     {
       "rank": 4,
-      "event_id": "samsung-2026-04-28-010",
-      "importance_score": 0.85,
+      "event_id": "tsmc-2026-04-28-034",
+      "importance_score": 1.0,
       "importance_reasons": [
         "多公司提及",
-        "涉及產能"
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器",
+        "涉及先進封裝",
+        "涉及 AI 記憶體"
       ],
-      "title": "US chip packaging capacity to hit 10% by 2032",
+      "title": "Nanya breaks into Nvidia's AI memory ecosystem with LPDDR",
       "companies": [
-        "samsung",
-        "intel",
-        "tsmc"
+        "tsmc",
+        "nanya",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "ai_memory",
+        "ai_server",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428VL218/nvidia-rubin-dram-packaging-production.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "amkor-2026-04-28-037",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及先進封裝"
+      ],
+      "title": "Amkor records strong 1Q26, advanced packaging expected to triple YoY",
+      "companies": [
+        "amkor"
       ],
       "related": {
         "customers": [],
         "suppliers": []
       },
       "topics": [
-        "capacity",
-        "capex",
+        "earnings",
+        "advanced_packaging",
         "industry_general"
       ],
       "sentiment": {
         "label": "positive",
-        "score": 0.5
+        "score": 0.75
       },
-      "source_url": "https://www.digitimes.com/news/a20260428PD216/capacity-packaging-osat-reshoring-tsmc.html"
-    },
-    {
-      "rank": 5,
-      "event_id": "unknown-2026-04-28-002",
-      "importance_score": 0.75,
-      "importance_reasons": [
-        "涉及財報"
-      ],
-      "title": "Restocking, cost pass-through lift Eternal Materials to 1Q26 profit gains",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "inventory",
-        "earnings"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.0
-      },
-      "source_url": "https://www.digitimes.com/news/a20260428PD229/eternal-materials-cost-materials-profit-revenue.html"
+      "source_url": "https://www.digitimes.com/news/a20260428VL214/amkor-packaging-revenue-2026-arizona.html"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 14,
+      "today": 31,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.18,
+      "sentiment_today": 0.13,
       "sentiment_7d_avg": null
     },
     "inventory": {
-      "today": 1,
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 28,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -166,28 +190,18 @@
       "sentiment_today": 0.0,
       "sentiment_7d_avg": null
     },
-    "earnings": {
-      "today": 14,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.05,
-      "sentiment_7d_avg": null
-    },
     "capacity": {
-      "today": 5,
+      "today": 7,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.1,
+      "sentiment_today": 0.14,
       "sentiment_7d_avg": null
     },
     "hbm": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -197,16 +211,56 @@
       "sentiment_7d_avg": null
     },
     "ai_memory": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": -0.25,
       "sentiment_7d_avg": null
     },
     "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
       "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -216,44 +270,14 @@
       "sentiment_today": 0.25,
       "sentiment_7d_avg": null
     },
-    "ai_server": {
-      "today": 1,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
-      "sentiment_7d_avg": null
-    },
-    "shortage": {
-      "today": 1,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
-      "sentiment_7d_avg": null
-    },
-    "guidance": {
+    "advanced_packaging": {
       "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.12,
-      "sentiment_7d_avg": null
-    },
-    "dram_price": {
-      "today": 1,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": 0.12,
       "sentiment_7d_avg": null
     }
   },
@@ -262,76 +286,98 @@
       "from": "amd",
       "to": "intel",
       "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general",
+        "shortage",
+        "earnings",
+        "capacity"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "supplier_customer",
       "co_mention_count": 2,
       "topics": [
-        "earnings",
         "industry_general",
-        "capacity",
-        "shortage"
+        "capex"
+      ]
+    },
+    {
+      "from": "google",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capex",
+        "hbm",
+        "capacity"
       ]
     }
   ],
   "stats": {
-    "total_events": 29,
+    "total_events": 62,
     "sentiment_distribution": {
-      "positive": 4,
-      "neutral": 23,
-      "negative": 2
+      "positive": 12,
+      "neutral": 46,
+      "negative": 4
     },
     "top_companies": [
       {
         "id": "intel",
-        "count": 3
+        "count": 8
+      },
+      {
+        "id": "nvidia",
+        "count": 6
       },
       {
         "id": "amd",
-        "count": 2
+        "count": 3
       },
       {
         "id": "samsung",
         "count": 2
       },
       {
-        "id": "tokyo_electron",
-        "count": 1
-      },
-      {
         "id": "microsoft",
-        "count": 1
+        "count": 2
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 14
+        "count": 31
       },
       {
         "id": "earnings",
-        "count": 14
+        "count": 28
       },
       {
         "id": "capacity",
-        "count": 5
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 3
       },
       {
         "id": "capex",
-        "count": 2
-      },
-      {
-        "id": "guidance",
-        "count": 2
+        "count": 3
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 267,
-    "dup_title": 33,
-    "too_old": 89,
-    "gate1_blocked": 61,
-    "gate2_blocked": 30,
-    "passed": 54,
-    "pass_rate": "23.1%",
-    "gate2_block_rate": "12.8%",
+    "total_raw": 534,
+    "dup_title": 91,
+    "too_old": 176,
+    "gate1_blocked": 116,
+    "gate2_blocked": 64,
+    "passed": 87,
+    "pass_rate": "19.6%",
+    "gate2_block_rate": "14.4%",
     "gate2_samples": [
       "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
       "OpenAIâs New GPT-5.5 Powers Codex on NVIDIA Infrastructure â and NVIDIA Is Already Putting It to",
@@ -342,7 +388,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 29 則事件，焦點為英特爾、超微、三星相關動態：「Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge int...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 62 則事件，焦點為英特爾、輝達、超微相關動態：「Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge int...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge into AI memory scale（HBM、AI 記憶體、產能、資本支出、AI 伺服器、半導體/記憶體通用）",
@@ -353,7 +399,7 @@
         "level": "red"
       },
       {
-        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]
