@@ -1784,6 +1784,19 @@
                 }
             });
 
+            // SMH baseline normalization
+            const smhPrices = data.stockPrices['etf_smh']?.filter(d =>
+                d.date >= state.timeRange[0] && d.date <= state.timeRange[1]
+            ) || [];
+            if (smhPrices.length >= 2) {
+                const smhBase = smhPrices[0].close;
+                normalized['etf_smh'] = smhPrices.map(d => ({
+                    date: d.date,
+                    value: (d.close / smhBase) * 100,
+                    raw: d.close
+                }));
+            }
+
             if (Object.keys(normalized).length === 0) return;
 
             const allValues = Object.values(normalized).flat().map(d => d.value);
@@ -1843,7 +1856,32 @@
                     .text(`${company?.short_name || company?.name || companyId} ${lastPoint.value.toFixed(0)}`);
             });
 
+            // SMH dashed baseline
+            if (normalized['etf_smh']) {
+                const smhLine = d3.line().x(d => x(d.date)).y(d => y(d.value));
+                svg.append("path")
+                    .datum(normalized['etf_smh'])
+                    .attr("fill", "none")
+                    .attr("stroke", "#999")
+                    .attr("stroke-width", 1.5)
+                    .attr("stroke-dasharray", "4,3")
+                    .attr("d", smhLine);
+            }
+
             updateStockLegend(visibleCompanies);
+
+            // SMH legend item
+            if (normalized['etf_smh']) {
+                const legend = d3.select("#stock-legend");
+                const smhLegendItem = legend.append("div").attr("class", "legend-item");
+                smhLegendItem.append("div")
+                    .attr("class", "legend-dot")
+                    .style("background", "none")
+                    .style("width", "16px")
+                    .style("height", "0")
+                    .style("border-top", "2px dashed #999");
+                smhLegendItem.append("span").text("SMH");
+            }
         }
 
         function updateStockLegend(companies) {
@@ -3219,10 +3257,7 @@
                     const { bg, text } = changeColor(item.change);
                     const sign = item.change >= 0 ? '+' : '';
                     html += `
-                        <div class="heatmap-cell" style="background:${bg}; color:${text};"
-                             onmouseenter="showTooltip('<strong>${item.name}</strong><br>${item.role}<br>漲跌：${sign}${item.change.toFixed(2)}%', event)"
-                             onmouseleave="hideTooltip()"
-                             onclick="selectCompany('${item.id}')">
+                        <div class="heatmap-cell" data-id="${item.id}" data-name="${item.name}" data-role="${item.role}" data-change="${item.change.toFixed(2)}" style="background:${bg}; color:${text};">
                             <span class="heatmap-name">${item.name}</span>
                             <span class="heatmap-value">${sign}${item.change.toFixed(1)}%</span>
                         </div>`;
