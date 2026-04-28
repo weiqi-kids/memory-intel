@@ -871,6 +871,11 @@
         .company-link:hover {
             text-decoration: underline;
         }
+
+        @media (max-width: 768px) {
+            .info-bar { flex-wrap: wrap; }
+            #etf-header { width: 100%; order: 3; justify-content: center; margin-top: 4px; }
+        }
     </style>
 </head>
 <body>
@@ -889,6 +894,7 @@
             <span>已選擇：</span>
             <span class="selected-info" id="selected-company">無（點擊節點或事件）</span>
         </div>
+        <div id="etf-header" style="display:flex; gap:12px; font-size:0.8rem;"></div>
         <button id="reset-btn">重置</button>
     </div>
 
@@ -1130,6 +1136,7 @@
             stockColors = generateCompanyColors(data.companies);
             companyMap = Object.fromEntries(data.companies.map(c => [c.id, c]));
             state.smhReturn = calcReturn('etf_smh', state.timeRange[0], state.timeRange[1]);
+            updateHeaderETF();
 
             init();
         }
@@ -1465,6 +1472,33 @@
             return data.financialsHistory.companies[companyId];
         }
 
+        const ETF_LINKS = {
+            etf_smh: { name: 'SMH', url: 'https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/' },
+            etf_soxx: { name: 'SOXX', url: 'https://www.ishares.com/us/products/239705/' },
+            etf_soxq: { name: 'SOXQ', url: 'https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SOXQ' },
+        };
+
+        function updateHeaderETF() {
+            const container = document.getElementById('etf-header');
+            if (!container) return;
+            const etfIds = ['etf_smh', 'etf_soxx', 'etf_soxq'];
+            let html = '';
+            etfIds.forEach(etfId => {
+                const prices = data.stockPrices[etfId];
+                if (!prices || prices.length < 2) return;
+                const ei = findNearestTradingDay(prices, state.timeRange[1], 'before');
+                if (ei < 0) return;
+                const latestPrice = prices[ei].close;
+                const ret = calcReturn(etfId, state.timeRange[0], state.timeRange[1]);
+                if (ret === null) return;
+                const color = ret >= 0 ? 'var(--hex-pass, #1e8050)' : 'var(--hex-critical, #c93135)';
+                const sign = ret >= 0 ? '+' : '';
+                const info = ETF_LINKS[etfId];
+                html += `<span><a href="${info.url}" target="_blank" rel="noopener" class="company-link" style="font-weight:600;">${info.name}</a> ${latestPrice.toFixed(2)} <span style="color:${color}">${sign}${ret.toFixed(1)}%</span></span>`;
+            });
+            container.innerHTML = html;
+        }
+
         let companyMap = {};
 
         function companyLink(companyId, displayName) {
@@ -1667,6 +1701,7 @@
 
         function onBrushEnd() {
             state.smhReturn = calcReturn('etf_smh', state.timeRange[0], state.timeRange[1]);
+            updateHeaderETF();
             const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
             if (view === 'heatmap') renderHeatmap();
             if (view === 'fundflow') renderFundFlow();
