@@ -84,6 +84,54 @@ def fetch_company_financials(ticker: str) -> dict | None:
         return None
 
 
+def _should_write_history(new_companies: list[dict], history_dir: Path) -> bool:
+    """Determine whether to write a new history file based on data changes.
+
+    Compares new_companies against the latest dated history file in history_dir.
+    Returns True if data changed or no history exists, False if identical.
+    """
+    if not history_dir.exists():
+        return True
+
+    # Find history files: YYYY-MM-DD.json, exclude latest.json
+    history_files = sorted(
+        [f for f in history_dir.glob("*.json") if f.name != "latest.json"],
+        reverse=True,
+    )
+    if not history_files:
+        return True
+
+    # Load the latest history file
+    with open(history_files[0], "r", encoding="utf-8") as f:
+        latest_data = json.load(f)
+
+    old_companies = latest_data.get("companies", [])
+
+    # Build lookup by company id
+    old_lookup = {c["id"]: c for c in old_companies}
+
+    # Compare each new company
+    for comp in new_companies:
+        cid = comp["id"]
+        if cid not in old_lookup:
+            return True
+        old = old_lookup[cid]
+        if comp.get("quarter_date") != old.get("quarter_date"):
+            return True
+        if comp.get("ar") != old.get("ar"):
+            return True
+        if comp.get("inventory") != old.get("inventory"):
+            return True
+
+    # Also check if a company was removed
+    new_ids = {c["id"] for c in new_companies}
+    for old_id in old_lookup:
+        if old_id not in new_ids:
+            return True
+
+    return False
+
+
 def main():
     # 讀取公司設定
     config_path = Path(__file__).parent.parent / "configs" / "companies.yml"
@@ -164,6 +212,16 @@ def main():
     with open(data_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print(f"\nSaved to {data_path}")
+
+    # Write history file if data changed
+    if _should_write_history(output["companies"], data_dir):
+        today_str = datetime.utcnow().strftime("%Y-%m-%d")
+        history_path = data_dir / f"{today_str}.json"
+        with open(history_path, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+        print(f"History written: {history_path}")
+    else:
+        print("History skipped: data unchanged from latest history file")
 
     # 同步到 site/data/
     site_path = Path(__file__).parent.parent / "site" / "data" / "financials.json"
