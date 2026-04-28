@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T10:25:34.086525Z",
+  "generated_at": "2026-04-28T13:17:24.598606Z",
   "top_events": [
     {
       "rank": 1,
@@ -161,13 +161,13 @@
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 31,
+      "today": 39,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.13,
+      "sentiment_today": 0.1,
       "sentiment_7d_avg": null
     },
     "inventory": {
@@ -181,13 +181,13 @@
       "sentiment_7d_avg": null
     },
     "earnings": {
-      "today": 28,
+      "today": 43,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": 0.01,
       "sentiment_7d_avg": null
     },
     "capacity": {
@@ -231,26 +231,36 @@
       "sentiment_7d_avg": null
     },
     "ai_server": {
-      "today": 3,
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": -0.17,
+      "sentiment_today": -0.1,
       "sentiment_7d_avg": null
     },
     "shortage": {
-      "today": 3,
+      "today": 4,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.33,
+      "sentiment_today": 0.12,
       "sentiment_7d_avg": null
     },
     "guidance": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
       "today": 3,
       "7d_avg": 0,
       "30d_avg": 0,
@@ -258,16 +268,6 @@
       "trend": "new",
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.17,
-      "sentiment_7d_avg": null
-    },
-    "dram_price": {
-      "today": 2,
-      "7d_avg": 0,
-      "30d_avg": 0,
-      "yoy_same_week": null,
-      "trend": "new",
-      "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.25,
       "sentiment_7d_avg": null
     },
     "advanced_packaging": {
@@ -279,6 +279,16 @@
       "consecutive_weeks_rising": 0,
       "sentiment_today": 0.12,
       "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [
@@ -288,10 +298,10 @@
       "relation": "co_mention",
       "co_mention_count": 3,
       "topics": [
-        "industry_general",
-        "shortage",
+        "capacity",
         "earnings",
-        "capacity"
+        "industry_general",
+        "shortage"
       ]
     },
     {
@@ -310,74 +320,74 @@
       "relation": "supplier_customer",
       "co_mention_count": 2,
       "topics": [
+        "capacity",
         "industry_general",
         "capex",
-        "hbm",
-        "capacity"
+        "hbm"
       ]
     }
   ],
   "stats": {
-    "total_events": 62,
+    "total_events": 93,
     "sentiment_distribution": {
-      "positive": 12,
-      "neutral": 46,
-      "negative": 4
+      "positive": 13,
+      "neutral": 75,
+      "negative": 5
     },
     "top_companies": [
       {
         "id": "intel",
-        "count": 8
+        "count": 9
       },
       {
         "id": "nvidia",
-        "count": 6
+        "count": 9
       },
       {
         "id": "amd",
-        "count": 3
-      },
-      {
-        "id": "samsung",
-        "count": 2
+        "count": 6
       },
       {
         "id": "microsoft",
-        "count": 2
+        "count": 4
+      },
+      {
+        "id": "google",
+        "count": 4
       }
     ],
     "top_topics": [
       {
-        "id": "industry_general",
-        "count": 31
+        "id": "earnings",
+        "count": 43
       },
       {
-        "id": "earnings",
-        "count": 28
+        "id": "industry_general",
+        "count": 39
       },
       {
         "id": "capacity",
         "count": 7
       },
       {
-        "id": "inventory",
-        "count": 3
+        "id": "ai_server",
+        "count": 5
       },
       {
-        "id": "capex",
-        "count": 3
+        "id": "shortage",
+        "count": 4
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 534,
-    "dup_title": 91,
-    "too_old": 176,
-    "gate1_blocked": 116,
-    "gate2_blocked": 64,
-    "passed": 87,
-    "pass_rate": "19.6%",
-    "gate2_block_rate": "14.4%",
+    "total_raw": 816,
+    "dup_title": 151,
+    "too_old": 285,
+    "gate1_blocked": 167,
+    "gate2_blocked": 94,
+    "passed": 119,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "14.1%",
     "gate2_samples": [
       "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
       "OpenAIâs New GPT-5.5 Powers Codex on NVIDIA Infrastructure â and NVIDIA Is Already Putting It to",
@@ -388,7 +398,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 62 則事件，焦點為英特爾、輝達、超微相關動態：「Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge int...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 93 則事件，焦點為英特爾、輝達、超微相關動態：「Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge int...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge into AI memory scale（HBM、AI 記憶體、產能、資本支出、AI 伺服器、半導體/記憶體通用）",

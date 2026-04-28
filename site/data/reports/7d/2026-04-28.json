@@ -4,7 +4,7 @@
     "start": "2026-04-22",
     "end": "2026-04-28"
   },
-  "generated_at": "2026-04-28T10:25:34.145908Z",
+  "generated_at": "2026-04-28T13:17:24.671371Z",
   "highlights": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "earnings": {
-      "this_week": 48,
+      "this_week": 63,
       "last_week": 0,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.04
@@ -50,10 +50,10 @@
       "sentiment_this_week": -0.5
     },
     "guidance": {
-      "this_week": 5,
+      "this_week": 6,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.3
+      "sentiment_this_week": 0.25
     },
     "hbm": {
       "this_week": 5,
@@ -74,10 +74,10 @@
       "sentiment_this_week": 0.16
     },
     "ai_server": {
-      "this_week": 5,
+      "this_week": 7,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": -0.0
+      "sentiment_this_week": 0.0
     },
     "advanced_packaging": {
       "this_week": 4,
@@ -86,10 +86,10 @@
       "sentiment_this_week": 0.01
     },
     "industry_general": {
-      "this_week": 58,
+      "this_week": 66,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.15
+      "sentiment_this_week": 0.13
     },
     "euv": {
       "this_week": 1,
@@ -98,10 +98,10 @@
       "sentiment_this_week": 0.0
     },
     "ddr5": {
-      "this_week": 1,
+      "this_week": 4,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.0
+      "sentiment_this_week": 0.13
     },
     "ai_memory": {
       "this_week": 2,
@@ -110,22 +110,22 @@
       "sentiment_this_week": -0.25
     },
     "shortage": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "dram_price": {
       "this_week": 3,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.33
-    },
-    "dram_price": {
-      "this_week": 2,
-      "last_week": 0,
-      "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.25
+      "sentiment_this_week": 0.17
     }
   },
   "company_7d_summary": {
     "samsung": {
-      "event_count": 9,
-      "sentiment_avg": -0.06,
+      "event_count": 10,
+      "sentiment_avg": -0.0,
       "rank": 4
     },
     "asml": {
@@ -136,22 +136,22 @@
     "tsmc": {
       "event_count": 12,
       "sentiment_avg": 0.23,
-      "rank": 2
+      "rank": 3
     },
     "skhynix": {
       "event_count": 1,
       "sentiment_avg": -1.0,
-      "rank": 18
+      "rank": 19
     },
     "nvidia": {
-      "event_count": 12,
-      "sentiment_avg": 0.18,
-      "rank": 3
+      "event_count": 15,
+      "sentiment_avg": 0.11,
+      "rank": 1
     },
     "intel": {
-      "event_count": 13,
-      "sentiment_avg": 0.23,
-      "rank": 1
+      "event_count": 14,
+      "sentiment_avg": 0.22,
+      "rank": 2
     },
     "arm": {
       "event_count": 2,
@@ -161,17 +161,17 @@
     "screen": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 19
+      "rank": 20
     },
     "microsoft": {
-      "event_count": 3,
+      "event_count": 5,
       "sentiment_avg": 0.0,
-      "rank": 7
+      "rank": 8
     },
     "apple": {
       "event_count": 6,
       "sentiment_avg": 0.14,
-      "rank": 5
+      "rank": 6
     },
     "micron": {
       "event_count": 2,
@@ -186,12 +186,12 @@
     "qualcomm": {
       "event_count": 3,
       "sentiment_avg": 0.17,
-      "rank": 8
+      "rank": 9
     },
     "google": {
-      "event_count": 5,
+      "event_count": 7,
       "sentiment_avg": 0.0,
-      "rank": 6
+      "rank": 5
     },
     "broadcom": {
       "event_count": 2,
@@ -206,17 +206,17 @@
     "meta": {
       "event_count": 3,
       "sentiment_avg": 0.0,
-      "rank": 9
+      "rank": 10
     },
     "aws": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 20
+      "rank": 21
     },
     "marvell": {
       "event_count": 1,
       "sentiment_avg": 0.5,
-      "rank": 21
+      "rank": 22
     },
     "nanya": {
       "event_count": 2,
@@ -224,44 +224,49 @@
       "rank": 17
     },
     "amd": {
-      "event_count": 3,
-      "sentiment_avg": 0.17,
-      "rank": 10
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 7
     },
     "ymtc": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 22
+      "rank": 23
     },
     "cadence": {
       "event_count": 1,
       "sentiment_avg": 0.5,
-      "rank": 23
+      "rank": 24
     },
     "amkor": {
       "event_count": 1,
       "sentiment_avg": 0.75,
-      "rank": 24
+      "rank": 25
     },
     "macronix": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.5,
-      "rank": 25
+      "rank": 18
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 248,
+        "this": 280,
         "last": 14,
-        "change_pct": 1671.4
+        "change_pct": 1900.0
       }
     }
   },
   "daily_breakdown": [
     {
       "date": "2026-04-22",
-      "event_count": 13,
+      "event_count": 14,
       "sentiment_avg": 0
     },
     {
@@ -291,12 +296,12 @@
     },
     {
       "date": "2026-04-28",
-      "event_count": 62,
+      "event_count": 93,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-22 ~ 2026-04-28）共 248 則事件，重點為「SK hynix Announces 1Q26 Financial Results」。事件量較上週增加 1671%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-22 ~ 2026-04-28）共 280 則事件，重點為「SK hynix Announces 1Q26 Financial Results」。事件量較上週增加 1900%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "SK海力士",
@@ -308,7 +313,7 @@
       },
       {
         "company": "三星",
-        "reason": "本週出現 9 則相關事件且情緒偏負面，需特別關注。"
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
       }
     ]
   },
