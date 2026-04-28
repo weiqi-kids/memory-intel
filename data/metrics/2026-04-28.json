@@ -1,33 +1,33 @@
 {
   "date": "2026-04-28",
-  "total_events": 112,
+  "total_events": 145,
   "by_company": {
     "amd": {
-      "count": 6,
-      "sentiment_avg": 0.08
+      "count": 7,
+      "sentiment_avg": 0.07
     },
     "intel": {
-      "count": 9,
-      "sentiment_avg": 0.28
+      "count": 10,
+      "sentiment_avg": 0.25
     },
     "tokyo_electron": {
       "count": 1,
       "sentiment_avg": 0.0
     },
     "samsung": {
-      "count": 3,
-      "sentiment_avg": 0.33
+      "count": 5,
+      "sentiment_avg": 0.4
     },
     "microsoft": {
       "count": 5,
       "sentiment_avg": 0.0
     },
     "nvidia": {
-      "count": 9,
-      "sentiment_avg": -0.03
+      "count": 13,
+      "sentiment_avg": -0.02
     },
     "tsmc": {
-      "count": 2,
+      "count": 3,
       "sentiment_avg": 0.0
     },
     "ymtc": {
@@ -51,74 +51,90 @@
       "sentiment_avg": 0.0
     },
     "amkor": {
-      "count": 1,
-      "sentiment_avg": 0.75
+      "count": 2,
+      "sentiment_avg": 0.38
     },
     "macronix": {
       "count": 2,
       "sentiment_avg": 0.5
     },
     "google": {
-      "count": 5,
+      "count": 6,
       "sentiment_avg": 0.0
     },
     "arm": {
-      "count": 2,
-      "sentiment_avg": 0.0
+      "count": 3,
+      "sentiment_avg": 0.17
     },
     "ti": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "supermicro": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "oracle": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "apple": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "skhynix": {
+      "count": 1,
+      "sentiment_avg": -0.5
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 39,
-      "sentiment_avg": 0.1
+      "count": 52,
+      "sentiment_avg": 0.08
     },
     "inventory": {
-      "count": 5,
-      "sentiment_avg": 0.3
+      "count": 6,
+      "sentiment_avg": 0.25
     },
     "earnings": {
-      "count": 58,
+      "count": 71,
       "sentiment_avg": 0.03
     },
     "capacity": {
-      "count": 7,
-      "sentiment_avg": 0.14
+      "count": 10,
+      "sentiment_avg": 0.1
     },
     "hbm": {
-      "count": 2,
-      "sentiment_avg": 0.0
+      "count": 3,
+      "sentiment_avg": -0.17
     },
     "ai_memory": {
-      "count": 2,
-      "sentiment_avg": -0.25
+      "count": 3,
+      "sentiment_avg": -0.33
     },
     "capex": {
-      "count": 3,
-      "sentiment_avg": 0.17
+      "count": 5,
+      "sentiment_avg": 0.1
     },
     "ai_server": {
-      "count": 5,
-      "sentiment_avg": -0.1
+      "count": 6,
+      "sentiment_avg": -0.25
     },
     "shortage": {
-      "count": 4,
-      "sentiment_avg": 0.12
+      "count": 6,
+      "sentiment_avg": 0.08
     },
     "guidance": {
       "count": 4,
       "sentiment_avg": 0.12
     },
     "dram_price": {
-      "count": 3,
-      "sentiment_avg": 0.17
+      "count": 4,
+      "sentiment_avg": 0.12
     },
     "advanced_packaging": {
-      "count": 2,
-      "sentiment_avg": 0.12
+      "count": 5,
+      "sentiment_avg": -0.05
     },
     "ddr5": {
       "count": 3,
@@ -239,10 +255,22 @@
       "relation": "co_mention",
       "co_mention_count": 3,
       "topics": [
-        "shortage",
+        "industry_general",
         "earnings",
-        "capacity",
-        "industry_general"
+        "shortage",
+        "capacity"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capex",
+        "advanced_packaging",
+        "capacity"
       ]
     },
     {
@@ -262,9 +290,31 @@
       "co_mention_count": 2,
       "topics": [
         "hbm",
-        "capacity",
         "industry_general",
-        "capex"
+        "capex",
+        "capacity"
+      ]
+    },
+    {
+      "from": "amd",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "ddr5",
+        "earnings",
+        "inventory"
+      ]
+    },
+    {
+      "from": "nvidia",
+      "to": "oracle",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "inventory",
+        "capacity"
       ]
     }
   ]
