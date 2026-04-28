@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "generated_at": "2026-04-28T14:12:26.045891Z",
+  "generated_at": "2026-04-28T14:29:43.593910Z",
   "top_events": [
     {
       "rank": 1,
@@ -171,17 +171,17 @@
       "sentiment_7d_avg": null
     },
     "inventory": {
-      "today": 4,
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.38,
+      "sentiment_today": 0.3,
       "sentiment_7d_avg": null
     },
     "earnings": {
-      "today": 54,
+      "today": 58,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -300,8 +300,8 @@
       "topics": [
         "shortage",
         "earnings",
-        "industry_general",
-        "capacity"
+        "capacity",
+        "industry_general"
       ]
     },
     {
@@ -321,17 +321,17 @@
       "co_mention_count": 2,
       "topics": [
         "hbm",
-        "industry_general",
         "capacity",
+        "industry_general",
         "capex"
       ]
     }
   ],
   "stats": {
-    "total_events": 106,
+    "total_events": 112,
     "sentiment_distribution": {
-      "positive": 15,
-      "neutral": 86,
+      "positive": 16,
+      "neutral": 91,
       "negative": 5
     },
     "top_companies": [
@@ -353,13 +353,13 @@
       },
       {
         "id": "google",
-        "count": 4
+        "count": 5
       }
     ],
     "top_topics": [
       {
         "id": "earnings",
-        "count": 54
+        "count": 58
       },
       {
         "id": "industry_general",
@@ -370,23 +370,23 @@
         "count": 7
       },
       {
-        "id": "ai_server",
+        "id": "inventory",
         "count": 5
       },
       {
-        "id": "inventory",
-        "count": 4
+        "id": "ai_server",
+        "count": 5
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 1134,
-    "dup_title": 235,
-    "too_old": 416,
-    "gate1_blocked": 226,
-    "gate2_blocked": 125,
-    "passed": 132,
-    "pass_rate": "14.7%",
+    "total_raw": 1452,
+    "dup_title": 324,
+    "too_old": 547,
+    "gate1_blocked": 286,
+    "gate2_blocked": 157,
+    "passed": 138,
+    "pass_rate": "12.2%",
     "gate2_block_rate": "13.9%",
     "gate2_samples": [
       "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
@@ -398,7 +398,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 106 則事件，焦點為英特爾、輝達、超微相關動態：「Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge int...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 112 則事件，焦點為英特爾、輝達、超微相關動態：「Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge int...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge into AI memory scale（HBM、AI 記憶體、產能、資本支出、AI 伺服器、半導體/記憶體通用）",
@@ -409,7 +409,7 @@
         "level": "red"
       },
       {
-        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]

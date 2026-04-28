@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "total_events": 106,
+  "total_events": 112,
   "by_company": {
     "amd": {
       "count": 6,
@@ -59,7 +59,7 @@
       "sentiment_avg": 0.5
     },
     "google": {
-      "count": 4,
+      "count": 5,
       "sentiment_avg": 0.0
     },
     "arm": {
@@ -77,11 +77,11 @@
       "sentiment_avg": 0.1
     },
     "inventory": {
-      "count": 4,
-      "sentiment_avg": 0.38
+      "count": 5,
+      "sentiment_avg": 0.3
     },
     "earnings": {
-      "count": 54,
+      "count": 58,
       "sentiment_avg": 0.03
     },
     "capacity": {
@@ -241,8 +241,8 @@
       "topics": [
         "shortage",
         "earnings",
-        "industry_general",
-        "capacity"
+        "capacity",
+        "industry_general"
       ]
     },
     {
@@ -262,8 +262,8 @@
       "co_mention_count": 2,
       "topics": [
         "hbm",
-        "industry_general",
         "capacity",
+        "industry_general",
         "capex"
       ]
     }
