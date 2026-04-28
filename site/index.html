@@ -2804,6 +2804,11 @@
             const [start, end] = state.timeRange;
             const ret = calcReturn(companyId, start, end);
             const mdd = calcMDD(companyId, start, end);
+            const smhRet = calcReturn('etf_smh', start, end);
+            const smhMdd = calcMDD('etf_smh', start, end);
+            const smhRetStr = smhRet !== null ? ` (SMH ${smhRet >= 0 ? '+' : ''}${smhRet.toFixed(1)}%)` : '';
+            const smhMddStr = smhMdd !== null ? ` (SMH ${smhMdd.toFixed(1)}%)` : '';
+            const isBold = ret !== null && smhRet !== null && ret > smhRet;
 
             // 4. Filter prices to timeRange and draw chart
             const si = findNearestTradingDay(prices, start, 'after');
@@ -2871,9 +2876,10 @@
             const mddColor = 'var(--hex-critical, #c93135)';
             const retText = ret !== null ? `${ret >= 0 ? '+' : ''}${ret.toFixed(2)}%` : 'N/A';
             const mddText = mdd !== null ? `${mdd.toFixed(2)}%` : 'N/A';
+            const retStyle = isBold ? `color:${retColor}; font-weight:900` : `color:${retColor}`;
             summaryEl.innerHTML = `
-                <span>報酬率：<strong style="color:${retColor}">${retText}</strong></span>
-                <span>MDD：<strong style="color:${mddColor}">${mddText}</strong></span>
+                <span>報酬率：<strong style="${retStyle}">${retText}</strong><span style="color:#888">${smhRetStr}</span></span>
+                <span>MDD：<strong style="color:${mddColor}">${mddText}</strong><span style="color:#888">${smhMddStr}</span></span>
             `;
 
             // 7. Trigger lazy load of financials history, then overlay markers
