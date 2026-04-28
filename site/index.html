@@ -1517,7 +1517,14 @@
             const el = document.getElementById("selected-company");
             if (state.selectedCompany) {
                 const company = data.companies.find(c => c.id === state.selectedCompany);
-                el.textContent = `${company.short_name || company.name}（${company.role}）`;
+                const ret = calcReturn(state.selectedCompany, state.timeRange[0], state.timeRange[1]);
+                const mdd = calcMDD(state.selectedCompany, state.timeRange[0], state.timeRange[1]);
+                const retStr = ret !== null ? `${ret >= 0 ? '+' : ''}${ret.toFixed(1)}%` : 'N/A';
+                const mddStr = mdd !== null ? `${mdd.toFixed(1)}%` : 'N/A';
+                el.innerHTML = `${company.short_name || company.name}（${company.role}）` +
+                    `<span style="margin-left:8px; font-size:0.85em; color:${ret !== null && ret >= 0 ? '#1e8050' : '#c93135'}">` +
+                    `Return ${retStr}</span>` +
+                    `<span style="margin-left:6px; font-size:0.85em; color:#c93135">MDD ${mddStr}</span>`;
             } else if (state.selectedEvent) {
                 el.textContent = `事件：${state.selectedEvent.title.substring(0, 25)}...`;
             } else {
@@ -1593,6 +1600,9 @@
             updateHighlight();
             updateStockChart();
             updateEventTimeline();
+            const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
+            if (view === 'backtest') renderBacktest();
+            if (view === 'distribution') renderDistribution();
         };
 
         // ===== Time Brush =====
@@ -1645,7 +1655,33 @@
         }
 
         function renderSupplyChainColors() {
-            // Will be implemented in Task 12
+            const svg = d3.select("#chain-svg");
+            function scColor(pct) {
+                const clamped = Math.max(-5, Math.min(5, pct));
+                const t = (clamped + 5) / 10;
+                if (t < 0.5) {
+                    const f = t * 2;
+                    const r = Math.round(201 + f * (223 - 201));
+                    const g = Math.round(49 + f * (224 - 49));
+                    const b = Math.round(53 + f * (229 - 53));
+                    return `rgb(${r},${g},${b})`;
+                } else {
+                    const f = (t - 0.5) * 2;
+                    const r = Math.round(223 - f * (223 - 30));
+                    const g = Math.round(224 - f * (224 - 128));
+                    const b = Math.round(229 - f * (229 - 80));
+                    return `rgb(${r},${g},${b})`;
+                }
+            }
+            svg.selectAll(".node").each(function(d) {
+                const ret = calcReturn(d.id, state.timeRange[0], state.timeRange[1]);
+                const circle = d3.select(this).select("circle");
+                if (ret === null) {
+                    circle.attr("fill", "#888");
+                } else {
+                    circle.attr("fill", scColor(ret));
+                }
+            });
         }
 
         // ===== Stock Chart =====
@@ -1846,6 +1882,9 @@
                     updateHighlight();
                     updateStockChart();
                     updateEventTimeline();
+                    const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
+                    if (view === 'backtest') renderBacktest();
+                    if (view === 'distribution') renderDistribution();
                 })
                 .on("mouseenter", (event, d) => {
                     const relatedCount = data.links.filter(l => l.source === d.id || l.target === d.id).length;
@@ -2054,6 +2093,7 @@
             renderTimeBrush();
             updateStockChart();
             renderSupplyChain();
+            renderSupplyChainColors();
             updateEventTimeline();
             updateSelectedInfo();
             renderReports();
@@ -2094,6 +2134,7 @@
                 renderTimeBrush();
                 updateStockChart();
                 renderSupplyChain();
+                renderSupplyChainColors();
                 updateEventTimeline();
             });
 
