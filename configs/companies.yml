@@ -481,7 +481,7 @@ companies:
   - dell
   - hp
   - lenovo
-  fetch_mode: http
+  fetch_mode: playwright
   news_url: https://www.phison.com/en/newsroom
 - id: silicon_motion
   name: Silicon Motion
@@ -985,7 +985,7 @@ companies:
   - intel
   - samsung
   downstream: []
-  fetch_mode: http
+  fetch_mode: playwright
   news_url: https://www.supermicro.com/en/newsroom/pressreleases
 - id: aws
   name: Amazon Web Services
