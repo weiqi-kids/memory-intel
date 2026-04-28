@@ -895,15 +895,14 @@
                 <div id="stock-chart" class="panel">
                     <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
                         <div class="tab-bar" id="stock-tabs">
-                            <div class="tab active" data-view="trend">走勢圖</div>
-                            <div class="tab" data-view="heatmap">熱力圖</div>
-                            <div class="tab" data-view="fundflow">資金流向</div>
-                            <div class="tab" data-view="holders">機構持倉</div>
+                            <div class="tab active" data-view="trend">走勢</div>
+                            <div class="tab" data-view="heatmap">熱力</div>
+                            <div class="tab" data-view="fundflow">流向</div>
+                            <div class="tab" data-view="holders">持倉</div>
+                            <div class="tab" data-view="backtest">回測</div>
+                            <div class="tab" data-view="distribution">分布</div>
                         </div>
                         <div class="tab-bar" id="stock-range">
-                            <div class="tab" data-range="1">日</div>
-                            <div class="tab" data-range="5">週</div>
-                            <div class="tab active" data-range="20">月</div>
                         </div>
                     </div>
                     <div id="stock-trend-view">
@@ -929,6 +928,12 @@
                     <div id="stock-holders-view" style="display:none;">
                         <div class="holders-select" id="holders-company-select"></div>
                         <div id="holders-table-container"></div>
+                    </div>
+                    <div id="stock-backtest-view" style="display:none;">
+                        <div id="backtest-container"></div>
+                    </div>
+                    <div id="stock-distribution-view" style="display:none;">
+                        <div id="distribution-container"></div>
                     </div>
                 </div>
 
@@ -2057,33 +2062,26 @@
             document.getElementById('date-prev').addEventListener('click', () => navigateReport(1));
             document.getElementById('date-next').addEventListener('click', () => navigateReport(-1));
 
-            // 股價面板 tab 切換（走勢圖 / 熱力圖）
+            // 股價面板 tab 切換
             document.querySelectorAll('#stock-tabs .tab').forEach(tab => {
                 tab.addEventListener('click', () => {
                     document.querySelectorAll('#stock-tabs .tab').forEach(t => t.classList.remove('active'));
                     tab.classList.add('active');
                     const view = tab.dataset.view;
-                    ['trend', 'heatmap', 'fundflow', 'holders'].forEach(v => {
+                    ['trend', 'heatmap', 'fundflow', 'holders', 'backtest', 'distribution'].forEach(v => {
                         const el = document.getElementById('stock-' + v + '-view');
                         if (el) el.style.display = v === view ? 'block' : 'none';
                     });
+                    updateRangeButtons(view);
                     if (view === 'heatmap') renderHeatmap();
                     if (view === 'trend') updateStockChartByRange();
                     if (view === 'fundflow') renderFundFlow();
                     if (view === 'holders') renderHolders();
+                    if (view === 'backtest') renderBacktest();
+                    if (view === 'distribution') renderDistribution();
                 });
             });
 
-            // 日/週/月 切換（影響走勢圖和熱力圖）
-            document.querySelectorAll('#stock-range .tab').forEach(tab => {
-                tab.addEventListener('click', () => {
-                    document.querySelectorAll('#stock-range .tab').forEach(t => t.classList.remove('active'));
-                    tab.classList.add('active');
-                    const currentView = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
-                    if (currentView === 'heatmap') renderHeatmap();
-                    else updateStockChartByRange();
-                });
-            });
 
             // 返回報告按鈕
             document.getElementById('back-to-reports').addEventListener('click', () => {
@@ -2098,6 +2096,8 @@
                 renderSupplyChain();
                 updateEventTimeline();
             });
+
+            updateRangeButtons('trend');
         }
 
         // ===== 報告視圖 =====
@@ -2571,6 +2571,52 @@
                 `).join('');
             }
             container.innerHTML = html;
+        }
+
+        function updateRangeButtons(view) {
+            const container = document.getElementById('stock-range');
+            let buttons = '';
+            if (view === 'trend' || view === 'heatmap') {
+                buttons = '<div class="tab" data-range="1">日</div><div class="tab" data-range="5">週</div><div class="tab active" data-range="20">月</div>';
+            } else if (view === 'backtest') {
+                buttons = '<div class="tab" data-range="20">1M</div><div class="tab active" data-range="60">3M</div><div class="tab" data-range="120">6M</div><div class="tab" data-range="250">1Y</div>';
+            } else if (view === 'distribution') {
+                buttons = '<div class="tab" data-range="6">6M</div><div class="tab active" data-range="12">12M</div><div class="tab" data-range="24">24M</div>';
+            }
+            container.innerHTML = buttons;
+
+            container.querySelectorAll('.tab').forEach(tab => {
+                tab.addEventListener('click', () => {
+                    container.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                    tab.classList.add('active');
+                    const range = parseInt(tab.dataset.range);
+                    if (view === 'trend' || view === 'heatmap') {
+                        updateStockChartByRange();
+                    } else if (view === 'backtest') {
+                        const now = state.fullTimeRange[1] || new Date();
+                        const msPerDay = 24 * 60 * 60 * 1000;
+                        const start = new Date(now.getTime() - range * msPerDay);
+                        state.timeRange = [d3.max([start, state.fullTimeRange[0]]), now];
+                        renderTimeBrush();
+                        updateStockChart();
+                        updateEventTimeline();
+                        renderBacktest();
+                        onBrushEnd();
+                    } else if (view === 'distribution') {
+                        renderDistribution();
+                    }
+                });
+            });
+        }
+
+        function renderBacktest() {
+            document.getElementById('backtest-container').innerHTML =
+                '<div style="color:#999; text-align:center; padding:40px;">回測（建置中）</div>';
+        }
+
+        function renderDistribution() {
+            document.getElementById('distribution-container').innerHTML =
+                '<div style="color:#999; text-align:center; padding:40px;">分布（建置中）</div>';
         }
 
         function updateStockChartByRange() {
