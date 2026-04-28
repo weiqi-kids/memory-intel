@@ -1618,6 +1618,9 @@
                         state.timeRange = event.selection.map(x.invert);
                         updateStockChart();
                         updateEventTimeline();
+                        if (event.type === 'end') {
+                            onBrushEnd();
+                        }
                     }
                 });
 
@@ -1626,6 +1629,18 @@
                 .attr("class", "brush")
                 .call(brush)
                 .call(brush.move, [x(state.timeRange[0]), x(state.timeRange[1])]);
+        }
+
+        function onBrushEnd() {
+            const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
+            if (view === 'heatmap') renderHeatmap();
+            if (view === 'fundflow') renderFundFlow();
+            if (view === 'backtest' && typeof renderBacktest === 'function') renderBacktest();
+            renderSupplyChainColors();
+        }
+
+        function renderSupplyChainColors() {
+            // Will be implemented in Task 12
         }
 
         // ===== Stock Chart =====
