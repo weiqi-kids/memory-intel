@@ -16,7 +16,9 @@ class EntegrisFetcher(CompanyFetcher):
 
     company_id = "entegris"
     company_name = "Entegris"
-    news_url = "https://www.entegris.com/en/home/about-us/newsroom.html"
+    news_url = "https://www.entegris.com/en/home/about-us/news.html"
+    ir_rss_url = "https://blog.entegris.com/rss.xml"
+    fetch_mode = "rss"
     ir_url = "https://investor.entegris.com/quarterly-results"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:

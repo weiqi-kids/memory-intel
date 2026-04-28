@@ -16,7 +16,7 @@ class SupermicroFetcher(CompanyFetcher):
 
     company_id = "supermicro"
     company_name = "Super Micro Computer"
-    news_url = "https://www.supermicro.com/en/pressreleases"
+    news_url = "https://www.supermicro.com/en/newsroom/pressreleases"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""

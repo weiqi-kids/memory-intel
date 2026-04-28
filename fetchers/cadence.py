@@ -16,7 +16,8 @@ class CadenceFetcher(CompanyFetcher):
 
     company_id = "cadence"
     company_name = "Cadence Design Systems"
-    news_url = "https://www.cadence.com/en_US/home/company/newsroom.html"
+    news_url = "https://www.cadence.com/en_US/home/company/newsroom/press-releases.html"
+    fetch_mode = "playwright"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""

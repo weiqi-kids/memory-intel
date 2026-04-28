@@ -16,7 +16,9 @@ class AppliedMaterialsFetcher(CompanyFetcher):
 
     company_id = "applied_materials"
     company_name = "Applied Materials"
-    news_url = "https://www.appliedmaterials.com/us/en/blog.html"
+    news_url = "https://ir.appliedmaterials.com/news-releases"
+    ir_rss_url = "https://ir.appliedmaterials.com/rss/news-releases.xml"
+    fetch_mode = "rss"
     ir_url = "https://ir.appliedmaterials.com/quarterly-results"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:

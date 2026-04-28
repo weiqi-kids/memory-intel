@@ -16,7 +16,9 @@ class KLAFetcher(CompanyFetcher):
 
     company_id = "kla"
     company_name = "KLA Corporation"
-    news_url = "https://www.kla.com/company/news"
+    news_url = "https://ir.kla.com/news-events/press-releases"
+    ir_rss_url = "https://ir.kla.com/news-events/press-releases/rss"
+    fetch_mode = "rss"
     ir_url = "https://ir.kla.com/quarterly-results"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:

@@ -16,7 +16,7 @@ class PSMCFetcher(CompanyFetcher):
 
     company_id = "psmc"
     company_name = "Powerchip Semiconductor"
-    news_url = "https://www.psmc.com/en/news"
+    news_url = "https://www.powerchip.com/en-global/insights/press-releases"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""

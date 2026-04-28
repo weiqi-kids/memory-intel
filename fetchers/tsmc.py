@@ -16,7 +16,8 @@ class TSMCFetcher(CompanyFetcher):
 
     company_id = "tsmc"
     company_name = "TSMC"
-    news_url = "https://pr.tsmc.com/english/news/releaseByFilter"
+    news_url = "https://pr.tsmc.com/english/latest-news"
+    fetch_mode = "playwright"
     ir_url = "https://investor.tsmc.com/english/quarterly-results"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:

@@ -16,7 +16,9 @@ class DellFetcher(CompanyFetcher):
 
     company_id = "dell"
     company_name = "Dell Technologies"
-    news_url = "https://www.dell.com/en-us/dt/corporate/newsroom.htm"
+    news_url = "https://investors.delltechnologies.com/news-events/press-release"
+    ir_rss_url = "https://investors.delltechnologies.com/rss/news-releases.xml"
+    fetch_mode = "rss"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""

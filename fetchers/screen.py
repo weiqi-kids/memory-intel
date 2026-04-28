@@ -16,7 +16,7 @@ class ScreenFetcher(CompanyFetcher):
 
     company_id = "screen"
     company_name = "Screen Holdings"
-    news_url = "https://www.screen.co.jp/eng/press"
+    news_url = "https://www.screen.co.jp/en/news/"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""

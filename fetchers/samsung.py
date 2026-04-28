@@ -29,11 +29,12 @@ class SamsungFetcher(CompanyFetcher):
     company_name = "Samsung Electronics"
 
     # RSS Feed（優先使用）
-    rss_url = "https://news.samsung.com/global/category/semiconductor/feed"
+    rss_url = "https://news.samsungsemiconductor.com/global/feed/"
+    ir_rss_url = "https://news.samsungsemiconductor.com/global/feed/"
 
     # 備用 Playwright
     ir_url = "https://www.samsung.com/global/ir/financial-information/earnings-release/"
-    news_url = "https://news.samsung.com/global/"
+    news_url = "https://news.samsungsemiconductor.com/global/"
 
     def fetch_all(self) -> dict[str, list[CompanyDocument]]:
         """優先使用 RSS 抓取"""

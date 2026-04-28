@@ -16,7 +16,9 @@ class MarvellFetcher(CompanyFetcher):
 
     company_id = "marvell"
     company_name = "Marvell Technology"
-    news_url = "https://www.marvell.com/company/newsroom.html"
+    news_url = "https://investor.marvell.com/news-events/press-releases"
+    ir_rss_url = "https://investor.marvell.com/rss-news-feed"
+    fetch_mode = "rss"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""

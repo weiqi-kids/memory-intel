@@ -16,7 +16,9 @@ class OnsemiFetcher(CompanyFetcher):
 
     company_id = "onsemi"
     company_name = "ON Semiconductor"
-    news_url = "https://www.onsemi.com/company/news-media/in-the-news"
+    news_url = "https://investor.onsemi.com/news-events/press-releases"
+    ir_rss_url = "https://investor.onsemi.com/rss/news-releases.xml"
+    fetch_mode = "rss"
     ir_url = "https://investor.onsemi.com/quarterly-results"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:

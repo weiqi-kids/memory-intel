@@ -16,7 +16,7 @@ class EliteSemiFetcher(CompanyFetcher):
 
     company_id = "elite_semi"
     company_name = "Elite Semiconductor"
-    news_url = "https://www.esmt.com.tw/en/IR/news"
+    news_url = "https://www.esmt.com.tw/en/News"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""

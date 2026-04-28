@@ -22,7 +22,7 @@ class ChipMOSFetcher(CompanyFetcher):
     company_name = "南茂科技"
 
     ir_url = None
-    news_url = "https://www.chipmos.com/investor.php"
+    news_url = "https://www.chipmos.com/english/news/news-list.aspx?MID=1"
 
     wait_for_selector = ".news-list, .ir-list, article, table"
     timeout = 60000

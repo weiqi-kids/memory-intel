@@ -16,7 +16,8 @@ class MacronixFetcher(CompanyFetcher):
 
     company_id = "macronix"
     company_name = "Macronix"
-    news_url = "https://www.macronix.com/en-us/about/Pages/press-release.aspx"
+    news_url = "https://www.macronix.com/en-us/about/news/Pages/default.aspx"
+    fetch_mode = "playwright"
 
     def parse_news(self, html: str) -> list[CompanyDocument]:
         """解析新聞頁面"""

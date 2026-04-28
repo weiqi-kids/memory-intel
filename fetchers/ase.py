@@ -22,7 +22,7 @@ class ASEFetcher(CompanyFetcher):
     company_name = "日月光投控"
 
     ir_url = None
-    news_url = "https://ase.aseglobal.com/en/press_room"
+    news_url = "https://www.aseglobal.com/press-room/"
 
     wait_for_selector = "a[href*='press'], article, .content, body"
     timeout = 90000  # 增加超時時間

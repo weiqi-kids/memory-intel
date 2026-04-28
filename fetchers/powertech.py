@@ -22,8 +22,8 @@ class PowertechFetcher(CompanyFetcher):
     company_name = "力成科技"
 
     ir_url = None
-    # 力成官網是 powertech-group.com，不是 pfreak.com.tw
-    news_url = "https://www.powertech-group.com/zh_tw/investors"
+    news_url = "https://www.pti.com.tw/en/ir/news/message"
+    fetch_mode = "playwright"
 
     wait_for_selector = "a[href*='pdf'], table, .content, body"
     timeout = 90000  # 增加超時時間
