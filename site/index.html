@@ -1574,7 +1574,7 @@
                 const mdd = calcMDD(state.selectedCompany, state.timeRange[0], state.timeRange[1]);
                 const retStr = ret !== null ? `${ret >= 0 ? '+' : ''}${ret.toFixed(1)}%` : 'N/A';
                 const mddStr = mdd !== null ? `${mdd.toFixed(1)}%` : 'N/A';
-                el.innerHTML = `${company.short_name || company.name}（${company.role}）` +
+                el.innerHTML = `${companyLink(state.selectedCompany, company.short_name || company.name)}（${company.role}）` +
                     `<span style="margin-left:8px; font-size:0.85em; color:${ret !== null && ret >= 0 ? '#1e8050' : '#c93135'}">` +
                     `Return ${retStr}</span>` +
                     `<span style="margin-left:6px; font-size:0.85em; color:#c93135">MDD ${mddStr}</span>`;
@@ -1983,7 +1983,7 @@
                     const relatedCount = data.links.filter(l => l.source === d.id || l.target === d.id).length;
                     const eventCount = data.events.filter(e => e.companies.includes(d.id)).length;
                     showTooltip(
-                        `<strong>${d.name}</strong><br>
+                        `<strong>${companyLink(d.id, d.name)}</strong><br>
                          ${d.role}<br>
                          <span style="color:#888">關聯：${relatedCount} 家</span><br>
                          <span style="color:#888">事件：${eventCount} 則</span>`,
@@ -2527,7 +2527,7 @@
             let html = `<div class="financial-quarter">${fin.quarter}</div>`;
             html += sorted.map(c => `
                 <div class="financial-row${c.alert ? ' alert' : ''}">
-                    <span class="financial-name">${c.name}</span>
+                    <span class="financial-name">${companyLink(c.id || c.company, c.name)}</span>
                     <span class="financial-metric">
                         <span class="financial-label">應收</span>
                         <span class="financial-change ${changeClass(c.ar_qoq)}">${c.ar_qoq}</span>
@@ -2572,7 +2572,7 @@
                     }
 
                     sparkDiv.innerHTML += `<div style="display:flex; align-items:center; gap:8px; font-size:0.7rem; margin-bottom:2px;">
-                        <span style="width:50px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${name}</span>
+                        <span style="width:50px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${companyLink(cid, name)}</span>
                         <span style="color:#888;">AR</span>${miniSpark(quarters.map(q => q.ar))}
                         <span style="color:#888;">庫存</span>${miniSpark(quarters.map(q => q.inventory))}
                     </div>`;
@@ -2689,7 +2689,7 @@
             const chipsHtml = ids.map(id => {
                 const c = companies[id];
                 const name = c.short_name || c.name || id;
-                return `<div class="holder-chip${id === selected ? ' active' : ''}" onclick="selectHolderCompany('${id}')">${name}</div>`;
+                return `<div class="holder-chip${id === selected ? ' active' : ''}" onclick="selectHolderCompany('${id}')">${companyLink(id, name)}</div>`;
             }).join('');
             document.getElementById('holders-company-select').innerHTML = chipsHtml;
 
@@ -2861,7 +2861,7 @@
 
             // Build container HTML
             container.innerHTML = `
-                <div style="font-size:0.85rem; font-weight:600; margin-bottom:4px; color:var(--fg, #1e2030);">${displayName}</div>
+                <div style="font-size:0.85rem; font-weight:600; margin-bottom:4px; color:var(--fg, #1e2030);">${companyLink(companyId, displayName)}</div>
                 <svg id="backtest-svg"></svg>
                 <div id="backtest-summary" style="display:flex; gap:16px; justify-content:center; margin-top:6px; font-size:0.8rem;"></div>
             `;
@@ -3032,7 +3032,7 @@
 
                 // Company name with insufficient data warning
                 html += '<div style="font-size:0.8rem; color:#666; margin-bottom:6px;">';
-                html += companyName;
+                html += companyLink(companyId, companyName);
                 if (dist.insufficientData) {
                     html += ' <span style="color:#e67e22;">⚠ 資料僅 ' + dist.dataMonths + ' 個月</span>';
                 }
