@@ -1017,7 +1017,9 @@
             stockPrices: {},
             events: [],
             dailyReport: null,
-            weeklyReport: null
+            weeklyReport: null,
+            financialsHistory: null,    // NEW
+            holdersHistory: null,       // NEW
         };
 
         // Load data from JSON files
@@ -1098,11 +1100,7 @@
             }
 
 
-            // Load fund flow data
-            try {
-                const ffResp = await fetch('data/fund_flow.json');
-                if (ffResp.ok) data.fundFlow = await ffResp.json();
-            } catch (e) {}
+            // fund_flow.json no longer loaded — calculated from stockPrices
 
             // Load holders data
             try {
@@ -1284,6 +1282,172 @@
             holders: null,
             currentReportIdx: 0,
         };
+
+        // ===== Investment Analysis Utilities =====
+
+        function findNearestTradingDay(prices, target, mode) {
+            if (!prices || prices.length === 0) return -1;
+            let lo = 0, hi = prices.length - 1;
+            if (mode === 'after') {
+                if (prices[hi].date < target) return -1;
+                while (lo < hi) {
+                    const mid = (lo + hi) >> 1;
+                    if (prices[mid].date < target) lo = mid + 1;
+                    else hi = mid;
+                }
+                return lo;
+            } else {
+                if (prices[lo].date > target) return -1;
+                while (lo < hi) {
+                    const mid = (lo + hi + 1) >> 1;
+                    if (prices[mid].date > target) hi = mid - 1;
+                    else lo = mid;
+                }
+                return lo;
+            }
+        }
+
+        function calcReturn(companyId, start, end) {
+            const prices = data.stockPrices[companyId];
+            if (!prices || prices.length < 2) return null;
+            const si = findNearestTradingDay(prices, start, 'after');
+            const ei = findNearestTradingDay(prices, end, 'before');
+            if (si < 0 || ei < 0 || si >= ei) return null;
+            return ((prices[ei].close - prices[si].close) / prices[si].close) * 100;
+        }
+
+        function calcMDD(companyId, start, end) {
+            const prices = data.stockPrices[companyId];
+            if (!prices || prices.length < 2) return null;
+            const si = findNearestTradingDay(prices, start, 'after');
+            const ei = findNearestTradingDay(prices, end, 'before');
+            if (si < 0 || ei < 0 || si >= ei) return null;
+            let peak = prices[si].close;
+            let maxDrawdown = 0;
+            for (let i = si; i <= ei; i++) {
+                if (prices[i].close > peak) peak = prices[i].close;
+                const dd = (prices[i].close - peak) / peak * 100;
+                if (dd < maxDrawdown) maxDrawdown = dd;
+            }
+            return maxDrawdown;
+        }
+
+        function calcDistribution(companyId, lookbackMonths) {
+            const prices = data.stockPrices[companyId];
+            if (!prices || prices.length === 0) return null;
+            const cutoff = new Date();
+            cutoff.setMonth(cutoff.getMonth() - lookbackMonths);
+            const si = findNearestTradingDay(prices, cutoff, 'after');
+            if (si < 0) return null;
+            const subset = prices.slice(si);
+            if (subset.length < 20) return null;
+            const holdingDays = 20;
+            const returns = [];
+            for (let i = 0; i <= subset.length - holdingDays; i++) {
+                const entry = subset[i].close;
+                const exit = subset[i + holdingDays - 1].close;
+                returns.push(((exit - entry) / entry) * 100);
+            }
+            if (returns.length === 0) return null;
+            returns.sort((a, b) => a - b);
+            const pct = p => returns[Math.floor(returns.length * p / 100)] || 0;
+            const positiveCount = returns.filter(r => r > 0).length;
+            return {
+                returns,
+                count: returns.length,
+                median: pct(50),
+                winRate: (positiveCount / returns.length) * 100,
+                maxLoss: returns[0],
+                p5: pct(5), p25: pct(25), p75: pct(75), p95: pct(95),
+                below10Pct: (returns.filter(r => r < -10).length / returns.length) * 100,
+                above5Pct: (returns.filter(r => r > 5).length / returns.length) * 100,
+                above10Pct: (returns.filter(r => r > 10).length / returns.length) * 100,
+                above15Pct: (returns.filter(r => r > 15).length / returns.length) * 100,
+                dataMonths: Math.round(subset.length / 20),
+                insufficientData: subset.length < lookbackMonths * 20,
+            };
+        }
+
+        function calcRecovery(companyId, lookbackMonths) {
+            const prices = data.stockPrices[companyId];
+            if (!prices || prices.length === 0) return null;
+            const cutoff = new Date();
+            cutoff.setMonth(cutoff.getMonth() - lookbackMonths);
+            const si = findNearestTradingDay(prices, cutoff, 'after');
+            if (si < 0) return null;
+            const subset = prices.slice(si);
+            if (subset.length < 20) return null;
+            const holdingDays = 20;
+            const recoveryDays = [];
+            let noRecoveryCount = 0;
+            let drawdownCount = 0;
+            for (let i = 0; i <= subset.length - holdingDays; i++) {
+                const entryPrice = subset[i].close;
+                let troughIdx = i;
+                for (let j = i + 1; j < i + holdingDays; j++) {
+                    if (subset[j].close < subset[troughIdx].close) troughIdx = j;
+                }
+                if (subset[troughIdx].close >= entryPrice) continue;
+                drawdownCount++;
+                if (troughIdx === i + holdingDays - 1) { noRecoveryCount++; continue; }
+                let recovered = false;
+                for (let j = troughIdx + 1; j < i + holdingDays; j++) {
+                    if (subset[j].close >= entryPrice) {
+                        recoveryDays.push(j - troughIdx);
+                        recovered = true;
+                        break;
+                    }
+                }
+                if (!recovered) noRecoveryCount++;
+            }
+            if (drawdownCount === 0) return { avg: 0, median: 0, noRecoveryPct: 0 };
+            recoveryDays.sort((a, b) => a - b);
+            const avg = recoveryDays.length > 0 ? recoveryDays.reduce((s, v) => s + v, 0) / recoveryDays.length : 0;
+            const median = recoveryDays.length > 0 ? recoveryDays[Math.floor(recoveryDays.length / 2)] : 0;
+            return { avg: Math.round(avg), median, noRecoveryPct: Math.round((noRecoveryCount / drawdownCount) * 100) };
+        }
+
+        function calcFundFlow(etfId, start, end) {
+            const prices = data.stockPrices[etfId];
+            if (!prices || prices.length < 2) return [];
+            const si = findNearestTradingDay(prices, start, 'after');
+            const ei = findNearestTradingDay(prices, end, 'before');
+            if (si < 0 || ei < 0 || si >= ei) return [];
+            const flows = [];
+            for (let i = Math.max(si, 1); i <= ei; i++) {
+                const closeChange = prices[i].close - prices[i - 1].close;
+                flows.push({
+                    date: prices[i].date,
+                    flow: closeChange * prices[i].volume,
+                    volume: prices[i].volume,
+                    changePct: (closeChange / prices[i - 1].close) * 100,
+                });
+            }
+            return flows;
+        }
+
+        async function ensureFinancialsHistory() {
+            if (data.financialsHistory) return data.financialsHistory;
+            try {
+                const resp = await fetch('data/financials_history.json');
+                if (resp.ok) data.financialsHistory = await resp.json();
+            } catch (e) {}
+            return data.financialsHistory || null;
+        }
+
+        async function ensureHoldersHistory() {
+            if (data.holdersHistory) return data.holdersHistory;
+            try {
+                const resp = await fetch('data/holders_history.json');
+                if (resp.ok) data.holdersHistory = await resp.json();
+            } catch (e) {}
+            return data.holdersHistory || null;
+        }
+
+        function getFinancialsTimeline(companyId) {
+            if (!data.financialsHistory?.companies?.[companyId]) return null;
+            return data.financialsHistory.companies[companyId];
+        }
 
         // ===== Colors =====
         // OKLCH design tokens (hex fallback for JS/canvas)
