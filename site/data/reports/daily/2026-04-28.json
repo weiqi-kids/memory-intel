@@ -1,0 +1,362 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T06:17:49.624097Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-04-28-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及 AI 伺服器",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge into AI memory scale",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "capacity",
+        "capex",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428VL209/samsung-hbm4-fab-capacity-dram.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-04-28-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Intel prioritizes Xeon; CPU shortage opens door for AMD and MediaTek",
+      "companies": [
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "shortage",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428PD208/intel-cpu-gpu-genai-demand-amd-mediatek.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-04-28-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Agentic AI sparks CPU demand surge, boosting ASIC and niche chip makers",
+      "companies": [
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428PD230/ai-agent-asic-cpu-demand.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-04-28-010",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "US chip packaging capacity to hit 10% by 2032",
+      "companies": [
+        "samsung",
+        "intel",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428PD216/capacity-packaging-osat-reshoring-tsmc.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Restocking, cost pass-through lift Eternal Materials to 1Q26 profit gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428PD229/eternal-materials-cost-materials-profit-revenue.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "capacity",
+        "shortage"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 23,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "tokyo_electron",
+        "count": 1
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 267,
+    "dup_title": 33,
+    "too_old": 89,
+    "gate1_blocked": 61,
+    "gate2_blocked": 30,
+    "passed": 54,
+    "pass_rate": "23.1%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
+      "OpenAIâs New GPT-5.5 Powers Codex on NVIDIA Infrastructure â and NVIDIA Is Already Putting It to",
+      "Expanding digital IDs in India and around the world",
+      "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "Albertsons Media Collective brings retail signals to YouTube with Google’s Commerce Media Suite."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為英特爾、超微、三星相關動態：「Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge int...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung fast-tracks Pyeongtaek fabs to turn HBM4 edge into AI memory scale（HBM、AI 記憶體、產能、資本支出、AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intel prioritizes Xeon; CPU shortage opens door for AMD and MediaTek（產能、缺貨、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

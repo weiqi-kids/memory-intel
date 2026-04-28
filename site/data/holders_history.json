@@ -1,4 +1,1005 @@
 {
-  "updated_at": "2026-04-28T05:34:56.403578+00:00",
-  "companies": {}
+  "updated_at": "2026-04-28T06:17:50.258312+00:00",
+  "companies": {
+    "amd": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 33.3,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.7
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 9.1
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.6
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.3
+          },
+          {
+            "holder": "Morgan Stanley",
+            "pct": 1.5
+          }
+        ]
+      }
+    ],
+    "amkor": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 25.9,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 6.3
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 5.2
+          },
+          {
+            "holder": "Dimensional Fund Advisors LP",
+            "pct": 5.2
+          },
+          {
+            "holder": "Earnest Partners LLC",
+            "pct": 1.5
+          },
+          {
+            "holder": "American Century Companies Inc",
+            "pct": 1.4
+          }
+        ]
+      }
+    ],
+    "apple": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 33.6,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.7
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 7.9
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.1
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.4
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "applied_materials": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 37.0,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.7
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 9.5
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.8
+          },
+          {
+            "holder": "Capital Research Global Investors",
+            "pct": 4.1
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.3
+          }
+        ]
+      }
+    ],
+    "arm": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 2.4,
+        "top5": [
+          {
+            "holder": "Goldman Sachs Group Inc",
+            "pct": 0.4
+          },
+          {
+            "holder": "Morgan Stanley",
+            "pct": 0.4
+          },
+          {
+            "holder": "Sustainable Growth Advisors, LP",
+            "pct": 0.2
+          },
+          {
+            "holder": "Invesco Ltd.",
+            "pct": 0.2
+          },
+          {
+            "holder": "Bank of America Corporation",
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "asml": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 6.4,
+        "top5": [
+          {
+            "holder": "Fisher Asset Management, LLC",
+            "pct": 1.2
+          },
+          {
+            "holder": "Capital World Investors",
+            "pct": 1.0
+          },
+          {
+            "holder": "Capital International Investors",
+            "pct": 0.9
+          },
+          {
+            "holder": "State Farm Mutual Automobile Insurance Co",
+            "pct": 0.7
+          },
+          {
+            "holder": "Van Eck Associates Corporation",
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "aws": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 29.9,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 7.9
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 6.8
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 3.6
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 3.1
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "broadcom": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 38.4,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 10.2
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 8.0
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.0
+          },
+          {
+            "holder": "Capital International Investors",
+            "pct": 3.0
+          },
+          {
+            "holder": "Capital World Investors",
+            "pct": 2.6
+          }
+        ]
+      }
+    ],
+    "cadence": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 39.6,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.9
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 9.5
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.6
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 3.6
+          },
+          {
+            "holder": "Jennison Associates LLC",
+            "pct": 2.8
+          }
+        ]
+      }
+    ],
+    "dell": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 39.7,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.9
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 7.9
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.6
+          },
+          {
+            "holder": "Bank of America Corporation",
+            "pct": 4.2
+          },
+          {
+            "holder": "Morgan Stanley",
+            "pct": 3.7
+          }
+        ]
+      }
+    ],
+    "entegris": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 53.9,
+        "top5": [
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 11.8
+          },
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 10.4
+          },
+          {
+            "holder": "Price (T.Rowe) Associates Inc",
+            "pct": 9.6
+          },
+          {
+            "holder": "Barrow, Hanley Mewhinney & Strauss, LLC",
+            "pct": 4.5
+          },
+          {
+            "holder": "Capital Research Global Investors",
+            "pct": 3.9
+          }
+        ]
+      }
+    ],
+    "google": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 34.6,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.1
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 7.6
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 4.0
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 3.9
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.5
+          }
+        ]
+      }
+    ],
+    "hp": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 47.6,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 14.4
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 12.1
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 5.8
+          },
+          {
+            "holder": "Dodge & Cox Inc.",
+            "pct": 3.8
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 3.0
+          }
+        ]
+      }
+    ],
+    "infineon": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 0.0,
+        "top5": [
+          {
+            "holder": "Pacer Advisors, Inc.",
+            "pct": 0.0
+          },
+          {
+            "holder": "Essex Investment Management Co LLC",
+            "pct": 0.0
+          },
+          {
+            "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
+            "pct": 0.0
+          }
+        ]
+      }
+    ],
+    "intel": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 35.1,
+        "top5": [
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 8.7
+          },
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 8.1
+          },
+          {
+            "holder": "Nvidia Corp                          ",
+            "pct": 4.3
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.2
+          },
+          {
+            "holder": "Capital World Investors",
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "kioxia": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 2.1,
+        "top5": [
+          {
+            "holder": "VANGUARD STAR FUNDS-Vanguard Total International Stock Index Fund",
+            "pct": 0.4
+          },
+          {
+            "holder": "Fidelity Select Portfolios-Select Semiconductors Portfolio",
+            "pct": 0.3
+          },
+          {
+            "holder": "VANGUARD TAX-MANAGED FUNDS-Vanguard Developed Markets Index Fund",
+            "pct": 0.3
+          },
+          {
+            "holder": "iShares Trust-iShares Core MSCI EAFE ETF",
+            "pct": 0.2
+          },
+          {
+            "holder": "Fidelity Mt. Vernon Street Trust-Fidelity Growth Company Fund",
+            "pct": 0.2
+          }
+        ]
+      }
+    ],
+    "kla": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 42.5,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 10.6
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 9.4
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.7
+          },
+          {
+            "holder": "Capital International Investors",
+            "pct": 4.2
+          },
+          {
+            "holder": "Capital World Investors",
+            "pct": 2.8
+          }
+        ]
+      }
+    ],
+    "lam_research": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 39.7,
+        "top5": [
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 10.7
+          },
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 10.5
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.8
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.7
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 2.1
+          }
+        ]
+      }
+    ],
+    "lenovo": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 0.1,
+        "top5": [
+          {
+            "holder": "Pacer Advisors, Inc.",
+            "pct": 0.1
+          }
+        ]
+      }
+    ],
+    "marvell": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 41.3,
+        "top5": [
+          {
+            "holder": "FMR, LLC",
+            "pct": 14.5
+          },
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.0
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 6.8
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 2.6
+          },
+          {
+            "holder": "Ameriprise Financial, Inc.",
+            "pct": 2.0
+          }
+        ]
+      }
+    ],
+    "meta": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 37.7,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.1
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 7.8
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 5.6
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.1
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.4
+          }
+        ]
+      }
+    ],
+    "micron": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 41.7,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.4
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 8.9
+          },
+          {
+            "holder": "Capital World Investors",
+            "pct": 5.2
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.7
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 3.5
+          }
+        ]
+      }
+    ],
+    "microsoft": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 34.9,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.7
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 8.1
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.1
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 2.7
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.5
+          }
+        ]
+      }
+    ],
+    "nvidia": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 35.0,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.3
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 8.0
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.1
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 4.0
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.4
+          }
+        ]
+      }
+    ],
+    "onsemi": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 57.1,
+        "top5": [
+          {
+            "holder": "FMR, LLC",
+            "pct": 15.1
+          },
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 13.0
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 10.3
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.8
+          },
+          {
+            "holder": "Janus Henderson Group PLC",
+            "pct": 3.1
+          }
+        ]
+      }
+    ],
+    "oracle": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 21.1,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 6.1
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 5.1
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 2.7
+          },
+          {
+            "holder": "JPMORGAN CHASE & CO",
+            "pct": 1.4
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 1.3
+          }
+        ]
+      }
+    ],
+    "powertech": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 6.7,
+        "top5": [
+          {
+            "holder": "Fidelity Low-Priced Stock Fund",
+            "pct": 1.3
+          },
+          {
+            "holder": "Vanguard International Stock Index-Emerging Markets Stk",
+            "pct": 1.3
+          },
+          {
+            "holder": "Vanguard International Stock Index-Total Intl Stock Indx",
+            "pct": 1.2
+          },
+          {
+            "holder": "WisdomTree Tr-WisdomTree Emerging Markets Small Cap Dividend Fund",
+            "pct": 0.7
+          },
+          {
+            "holder": "iShares Core MSCI Emerging Markets ETF",
+            "pct": 0.6
+          }
+        ]
+      }
+    ],
+    "qualcomm": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 36.0,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 10.7
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 9.4
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 5.0
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.7
+          },
+          {
+            "holder": "Morgan Stanley",
+            "pct": 1.7
+          }
+        ]
+      }
+    ],
+    "samsung": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 0.0,
+        "top5": [
+          {
+            "holder": "Aristotle Capital Management, LLC",
+            "pct": 0.0
+          },
+          {
+            "holder": "Paradigm Asset Management Company, LLC",
+            "pct": 0.0
+          },
+          {
+            "holder": "Pacer Advisors, Inc.",
+            "pct": 0.0
+          },
+          {
+            "holder": "Chickasaw Capital Management, LLC",
+            "pct": 0.0
+          },
+          {
+            "holder": "Stanley-Laman Group, Ltd.",
+            "pct": 0.0
+          }
+        ]
+      }
+    ],
+    "shin_etsu": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 0.0,
+        "top5": [
+          {
+            "holder": "Pacer Advisors, Inc.",
+            "pct": 0.0
+          }
+        ]
+      }
+    ],
+    "silicon_motion": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 34.3,
+        "top5": [
+          {
+            "holder": "FMR, LLC",
+            "pct": 10.0
+          },
+          {
+            "holder": "Reinhart Partners, LLC",
+            "pct": 3.9
+          },
+          {
+            "holder": "Acadian Asset Management. LLC",
+            "pct": 3.8
+          },
+          {
+            "holder": "Pertento Partners LLP",
+            "pct": 3.4
+          },
+          {
+            "holder": "Lord, Abbett & Co. LLC",
+            "pct": 2.9
+          }
+        ]
+      }
+    ],
+    "sumco": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 0.0,
+        "top5": [
+          {
+            "holder": "Oregon Public Employees Retirement Fund",
+            "pct": 0.0
+          },
+          {
+            "holder": "Paradigm Asset Management Company, LLC",
+            "pct": 0.0
+          }
+        ]
+      }
+    ],
+    "supermicro": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 32.6,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 11.4
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 7.0
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 3.7
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.3
+          },
+          {
+            "holder": "Morgan Stanley",
+            "pct": 1.9
+          }
+        ]
+      }
+    ],
+    "synopsys": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 39.5,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.6
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 7.9
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.6
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 3.9
+          },
+          {
+            "holder": "Capital World Investors",
+            "pct": 3.5
+          }
+        ]
+      }
+    ],
+    "ti": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 39.4,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 10.6
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 8.7
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.8
+          },
+          {
+            "holder": "JPMORGAN CHASE & CO",
+            "pct": 3.1
+          },
+          {
+            "holder": "Charles Schwab Investment Management, Inc.",
+            "pct": 2.7
+          }
+        ]
+      }
+    ],
+    "tokyo_electron": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 0.0,
+        "top5": [
+          {
+            "holder": "Pacer Advisors, Inc.",
+            "pct": 0.0
+          },
+          {
+            "holder": "Stanley-Laman Group, Ltd.",
+            "pct": 0.0
+          }
+        ]
+      }
+    ],
+    "tsmc": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 4.9,
+        "top5": [
+          {
+            "holder": "FMR, LLC",
+            "pct": 1.2
+          },
+          {
+            "holder": "Sanders Capital, LLC",
+            "pct": 0.6
+          },
+          {
+            "holder": "Capital World Investors",
+            "pct": 0.5
+          },
+          {
+            "holder": "Capital International Investors",
+            "pct": 0.5
+          },
+          {
+            "holder": "JPMORGAN CHASE & CO",
+            "pct": 0.5
+          }
+        ]
+      }
+    ],
+    "western_digital": [
+      {
+        "date": "2026-04-28",
+        "total_institutional_pct": 55.2,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 12.5
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 10.5
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 10.0
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.6
+          },
+          {
+            "holder": "JPMORGAN CHASE & CO",
+            "pct": 4.2
+          }
+        ]
+      }
+    ]
+  }
 }
