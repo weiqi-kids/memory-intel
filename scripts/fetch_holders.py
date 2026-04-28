@@ -26,6 +26,49 @@ DATA_DIR = BASE_DIR / "data" / "holders"
 SITE_DIR = BASE_DIR / "site" / "data"
 
 
+def _fingerprint(company_data: dict) -> tuple:
+    """Fingerprint a single company's holder data: top 5 holders by (name, rounded pct)."""
+    holders = company_data.get("holders", [])
+    top5 = holders[:5]
+    return tuple((h["holder"], round(h["pct_held"], 1)) for h in top5)
+
+
+def _should_write_history(new_data: dict, history_dir: Path) -> bool:
+    """Determine whether to write a new holders history file.
+
+    Compares top 5 holders per company (holder name + pct_held rounded to 1 decimal)
+    against the latest dated history file.
+    Returns True if data changed or no history exists, False if identical.
+    """
+    if not history_dir.exists():
+        return True
+
+    history_files = sorted(
+        [f for f in history_dir.glob("*.json") if f.name != "latest.json"],
+        reverse=True,
+    )
+    if not history_files:
+        return True
+
+    with open(history_files[0], "r", encoding="utf-8") as f:
+        old_data = json.load(f)
+
+    old_companies = old_data.get("companies", {})
+    new_companies = new_data.get("companies", {})
+
+    # Check if company set changed
+    if set(old_companies.keys()) != set(new_companies.keys()):
+        return True
+
+    # Compare fingerprints per company
+    for cid, new_comp in new_companies.items():
+        old_comp = old_companies.get(cid, {})
+        if _fingerprint(new_comp) != _fingerprint(old_comp):
+            return True
+
+    return False
+
+
 def _pick_short_name(company: dict) -> str:
     """優先選中文別名作為顯示名稱，沒有則用 name"""
     aliases = company.get("aliases") or []
@@ -128,6 +171,16 @@ def main():
     with open(data_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print(f"\nSaved to {data_path}")
+
+    # Write history file if data changed
+    if _should_write_history(output, DATA_DIR):
+        today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        history_path = DATA_DIR / f"{today_str}.json"
+        with open(history_path, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+        print(f"History written: {history_path}")
+    else:
+        print("History skipped: data unchanged from latest history file")
 
     # 同步到 site/data/
     SITE_DIR.mkdir(parents=True, exist_ok=True)

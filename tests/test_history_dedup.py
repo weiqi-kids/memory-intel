@@ -186,3 +186,178 @@ class TestShouldWriteFinancialsHistory:
             # new_companies matches older (2026-04-25) but not latest -> should write
             result2 = should_write_financials_history(old_data, tmpdir)
             assert result2 is True
+
+
+# ---------------------------------------------------------------------------
+# Holders history dedup
+# ---------------------------------------------------------------------------
+
+def _holders_fingerprint(company_data: dict) -> tuple:
+    """Fingerprint a single company's holder data: top 5 holders by (name, rounded pct)."""
+    holders = company_data.get("holders", [])
+    top5 = holders[:5]
+    return tuple((h["holder"], round(h["pct_held"], 1)) for h in top5)
+
+
+def should_write_holders_history(new_data: dict, history_dir: str) -> bool:
+    """Determine whether to write a new holders history file.
+
+    Compares top 5 holders per company (holder name + pct_held rounded to 1 decimal)
+    against the latest dated history file.
+    Returns True if data changed or no history exists, False if identical.
+    """
+    history_path = Path(history_dir)
+    if not history_path.exists():
+        return True
+
+    history_files = sorted(
+        [f for f in history_path.glob("*.json") if f.name != "latest.json"],
+        reverse=True,
+    )
+    if not history_files:
+        return True
+
+    with open(history_files[0], "r", encoding="utf-8") as f:
+        old_data = json.load(f)
+
+    old_companies = old_data.get("companies", {})
+    new_companies = new_data.get("companies", {})
+
+    # Check if company set changed
+    if set(old_companies.keys()) != set(new_companies.keys()):
+        return True
+
+    # Compare fingerprints per company
+    for cid, new_comp in new_companies.items():
+        old_comp = old_companies.get(cid, {})
+        if _holders_fingerprint(new_comp) != _holders_fingerprint(old_comp):
+            return True
+
+    return False
+
+
+def _make_holders_data(*company_defs):
+    """Helper: create holders data dict.
+
+    Each company_def is (company_id, holders_list).
+    If no args, returns a default single-company dataset.
+    """
+    if not company_defs:
+        company_defs = [("micron", [
+            {"holder": "Vanguard Group", "shares": 100000, "pct_held": 8.21, "value": 5000000},
+            {"holder": "BlackRock", "shares": 90000, "pct_held": 7.55, "value": 4500000},
+            {"holder": "State Street", "shares": 50000, "pct_held": 4.10, "value": 2500000},
+            {"holder": "Capital Group", "shares": 40000, "pct_held": 3.22, "value": 2000000},
+            {"holder": "Fidelity", "shares": 30000, "pct_held": 2.80, "value": 1500000},
+        ])]
+    companies = {}
+    for cid, holders in company_defs:
+        companies[cid] = {
+            "name": cid.title(),
+            "short_name": cid.title(),
+            "ticker": f"{cid.upper()}",
+            "holders": holders,
+        }
+    return {"updated_at": "2026-04-28T00:00:00Z", "companies": companies}
+
+
+def _write_holders_history(directory: Path, filename: str, data: dict):
+    """Helper: write a holders history JSON file."""
+    path = directory / filename
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f)
+
+
+class TestShouldWriteHoldersHistory:
+    """Tests for should_write_holders_history."""
+
+    def test_first_run_no_history(self):
+        """Returns True when no history directory exists."""
+        result = should_write_holders_history(
+            _make_holders_data(), "/tmp/nonexistent_holders_dir_12345"
+        )
+        assert result is True
+
+    def test_first_run_empty_dir(self):
+        """Returns True when history directory exists but is empty."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            result = should_write_holders_history(_make_holders_data(), tmpdir)
+            assert result is True
+
+    def test_identical_skips(self):
+        """Returns False when holder data matches exactly."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            data = _make_holders_data()
+            _write_holders_history(Path(tmpdir), "2026-04-27.json", data)
+            result = should_write_holders_history(data, tmpdir)
+            assert result is False
+
+    def test_pct_change_writes(self):
+        """Returns True when a holder's pct_held changes enough to affect rounding."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            old_data = _make_holders_data()
+            _write_holders_history(Path(tmpdir), "2026-04-27.json", old_data)
+
+            # Change Vanguard from 8.21 -> 8.35 (rounds to 8.2 vs 8.4 at 1 decimal)
+            new_holders = [
+                {"holder": "Vanguard Group", "shares": 100000, "pct_held": 8.35, "value": 5000000},
+                {"holder": "BlackRock", "shares": 90000, "pct_held": 7.55, "value": 4500000},
+                {"holder": "State Street", "shares": 50000, "pct_held": 4.10, "value": 2500000},
+                {"holder": "Capital Group", "shares": 40000, "pct_held": 3.22, "value": 2000000},
+                {"holder": "Fidelity", "shares": 30000, "pct_held": 2.80, "value": 1500000},
+            ]
+            new_data = _make_holders_data(("micron", new_holders))
+            result = should_write_holders_history(new_data, tmpdir)
+            assert result is True
+
+    def test_tiny_pct_change_skips(self):
+        """Returns False when pct_held changes are too small to affect 1-decimal rounding."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            old_data = _make_holders_data()
+            _write_holders_history(Path(tmpdir), "2026-04-27.json", old_data)
+
+            # Change Vanguard from 8.21 -> 8.24 (both round to 8.2 at 1 decimal)
+            new_holders = [
+                {"holder": "Vanguard Group", "shares": 100000, "pct_held": 8.24, "value": 5000000},
+                {"holder": "BlackRock", "shares": 90000, "pct_held": 7.55, "value": 4500000},
+                {"holder": "State Street", "shares": 50000, "pct_held": 4.10, "value": 2500000},
+                {"holder": "Capital Group", "shares": 40000, "pct_held": 3.22, "value": 2000000},
+                {"holder": "Fidelity", "shares": 30000, "pct_held": 2.80, "value": 1500000},
+            ]
+            new_data = _make_holders_data(("micron", new_holders))
+            result = should_write_holders_history(new_data, tmpdir)
+            assert result is False
+
+    def test_holder_composition_change_writes(self):
+        """Returns True when a holder name changes in top 5."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            old_data = _make_holders_data()
+            _write_holders_history(Path(tmpdir), "2026-04-27.json", old_data)
+
+            # Replace "Fidelity" with "T. Rowe Price" in position 5
+            new_holders = [
+                {"holder": "Vanguard Group", "shares": 100000, "pct_held": 8.21, "value": 5000000},
+                {"holder": "BlackRock", "shares": 90000, "pct_held": 7.55, "value": 4500000},
+                {"holder": "State Street", "shares": 50000, "pct_held": 4.10, "value": 2500000},
+                {"holder": "Capital Group", "shares": 40000, "pct_held": 3.22, "value": 2000000},
+                {"holder": "T. Rowe Price", "shares": 30000, "pct_held": 2.80, "value": 1500000},
+            ]
+            new_data = _make_holders_data(("micron", new_holders))
+            result = should_write_holders_history(new_data, tmpdir)
+            assert result is True
+
+    def test_new_company_added_writes(self):
+        """Returns True when a new company appears in the data."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            old_data = _make_holders_data()
+            _write_holders_history(Path(tmpdir), "2026-04-27.json", old_data)
+
+            samsung_holders = [
+                {"holder": "National Pension", "shares": 200000, "pct_held": 10.5, "value": 8000000},
+            ]
+            new_data = _make_holders_data(
+                ("micron", old_data["companies"]["micron"]["holders"]),
+                ("samsung", samsung_holders),
+            )
+            result = should_write_holders_history(new_data, tmpdir)
+            assert result is True
