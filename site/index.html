@@ -3266,6 +3266,27 @@
             });
 
             container.innerHTML = html;
+
+            container.querySelectorAll('.heatmap-cell').forEach(cell => {
+                const id = cell.dataset.id;
+                const name = cell.dataset.name;
+                const role = cell.dataset.role;
+                const change = parseFloat(cell.dataset.change);
+                const sign = change >= 0 ? '+' : '';
+
+                cell.addEventListener('mouseenter', (event) => {
+                    let tip = `<strong>${companyLink(id, name)}</strong><br>${role}<br>漲跌：${sign}${change.toFixed(2)}%`;
+                    if (state.smhReturn !== null) {
+                        const excess = change - state.smhReturn;
+                        const exSign = excess >= 0 ? '+' : '';
+                        const exColor = excess >= 0 ? 'var(--hex-pass, #1e8050)' : 'var(--hex-critical, #c93135)';
+                        tip += `<br>vs SMH：${state.smhReturn >= 0 ? '+' : ''}${state.smhReturn.toFixed(2)}%（<span style="color:${exColor}">超額 ${exSign}${excess.toFixed(2)}%</span>）`;
+                    }
+                    showTooltip(tip, event);
+                });
+                cell.addEventListener('mouseleave', () => hideTooltip());
+                cell.addEventListener('click', () => selectCompany(id));
+            });
         }
 
         // Start
