@@ -2778,8 +2778,185 @@
         }
 
         function renderDistribution() {
-            document.getElementById('distribution-container').innerHTML =
-                '<div style="color:#999; text-align:center; padding:40px;">分布（建置中）</div>';
+            const container = document.getElementById('distribution-container');
+            const companyId = state.selectedCompany;
+
+            // 1. No company selected
+            if (!companyId) {
+                container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">請點擊供應鏈節點或選擇公司</div>';
+                return;
+            }
+
+            // 2. Check stock price data
+            const prices = data.stockPrices[companyId];
+            if (!prices || prices.length < 20) {
+                container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">此公司無股價資料</div>';
+                return;
+            }
+
+            // 3. Get selected lookback months
+            const months = parseInt(document.querySelector('#stock-range .tab.active')?.dataset.range || '12');
+
+            // 4. Show loading indicator
+            container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">計算中...</div>';
+
+            // 5. Defer heavy computation
+            setTimeout(() => {
+                const dist = calcDistribution(companyId, months);
+                if (!dist) {
+                    container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">資料不足，需至少 20 個交易日</div>';
+                    return;
+                }
+                const recovery = calcRecovery(companyId, months);
+                const company = data.companies.find(c => c.id === companyId);
+                const companyName = company ? (company.short_name || company.name) : companyId;
+
+                // Build HTML
+                let html = '';
+
+                // Company name with insufficient data warning
+                html += '<div style="font-size:0.8rem; color:#666; margin-bottom:6px;">';
+                html += companyName;
+                if (dist.insufficientData) {
+                    html += ' <span style="color:#e67e22;">⚠ 資料僅 ' + dist.dataMonths + ' 個月</span>';
+                }
+                html += '</div>';
+
+                // SVG placeholder for histogram
+                html += '<div id="dist-chart-wrapper"></div>';
+
+                // Stats grid
+                html += '<div style="display:grid; grid-template-columns:1fr 1fr; gap:4px 12px; font-size:0.78rem; margin-top:8px;">';
+
+                // Row 1: 中位數, 勝率
+                html += '<div>中位數: <b>' + dist.median.toFixed(2) + '%</b></div>';
+                const winColor = dist.winRate >= 50 ? '#1e8050' : '#c93135';
+                html += '<div>勝率: <b style="color:' + winColor + ';">' + dist.winRate.toFixed(1) + '%</b></div>';
+
+                // Row 2: 最大虧損, 95th percentile
+                html += '<div>最大虧損: <b style="color:#c93135;">' + dist.maxLoss.toFixed(2) + '%</b></div>';
+                html += '<div>95th: <b>' + dist.p95.toFixed(2) + '%</b></div>';
+
+                // Row 3: 跌>10%, 漲>10%
+                html += '<div>跌&gt;10%: <b>' + dist.below10Pct.toFixed(1) + '%</b></div>';
+                html += '<div>漲&gt;10%: <b>' + dist.above10Pct.toFixed(1) + '%</b></div>';
+
+                // Row 4: Recovery stats
+                if (recovery) {
+                    html += '<div>回撤恢復: <b>' + recovery.avg + '天</b> (中位 ' + recovery.median + '天)</div>';
+                    html += '<div>未恢復: <b>' + recovery.noRecoveryPct + '%</b></div>';
+                }
+
+                html += '</div>';
+
+                container.innerHTML = html;
+
+                // Draw histogram with D3
+                const chartWidth = document.getElementById('stock-chart').clientWidth - 30;
+                const chartHeight = 200;
+                const margin = { top: 10, right: 15, bottom: 25, left: 40 };
+                const width = chartWidth - margin.left - margin.right;
+                const height = chartHeight - margin.top - margin.bottom;
+
+                const svg = d3.select('#dist-chart-wrapper')
+                    .append('svg')
+                    .attr('id', 'dist-svg')
+                    .attr('width', chartWidth)
+                    .attr('height', chartHeight);
+
+                const g = svg.append('g')
+                    .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+
+                // Create histogram bins with 2% bin width
+                const returns = dist.returns;
+                const minVal = Math.floor(d3.min(returns) / 2) * 2;
+                const maxVal = Math.ceil(d3.max(returns) / 2) * 2;
+                const thresholds = d3.range(minVal, maxVal + 2, 2);
+
+                const histogram = d3.histogram()
+                    .domain([minVal, maxVal + 2])
+                    .thresholds(thresholds);
+
+                const bins = histogram(returns);
+
+                // Scales
+                const x = d3.scaleLinear()
+                    .domain([minVal, maxVal + 2])
+                    .range([0, width]);
+
+                const y = d3.scaleLinear()
+                    .domain([0, d3.max(bins, d => d.length)])
+                    .nice()
+                    .range([height, 0]);
+
+                // Draw bars (green for positive, red for negative)
+                g.selectAll('rect')
+                    .data(bins)
+                    .enter()
+                    .append('rect')
+                    .attr('x', d => x(d.x0) + 1)
+                    .attr('y', d => y(d.length))
+                    .attr('width', d => Math.max(0, x(d.x1) - x(d.x0) - 1))
+                    .attr('height', d => height - y(d.length))
+                    .attr('fill', d => {
+                        const midpoint = (d.x0 + d.x1) / 2;
+                        return midpoint >= 0 ? '#1e8050' : '#c93135';
+                    })
+                    .attr('opacity', 0.8);
+
+                // Zero line (dashed vertical)
+                if (minVal < 0 && maxVal + 2 > 0) {
+                    g.append('line')
+                        .attr('x1', x(0))
+                        .attr('x2', x(0))
+                        .attr('y1', 0)
+                        .attr('y2', height)
+                        .attr('stroke', '#333')
+                        .attr('stroke-width', 1)
+                        .attr('stroke-dasharray', '4,3');
+                }
+
+                // X-axis with percentile tick marks
+                const percentiles = [
+                    { p: dist.p5, label: '5th' },
+                    { p: dist.p25, label: '25th' },
+                    { p: dist.median, label: '50th' },
+                    { p: dist.p75, label: '75th' },
+                    { p: dist.p95, label: '95th' }
+                ];
+
+                const xAxis = g.append('g')
+                    .attr('transform', 'translate(0,' + height + ')');
+
+                // Draw percentile ticks
+                percentiles.forEach(pt => {
+                    const xPos = x(pt.p);
+                    if (xPos >= 0 && xPos <= width) {
+                        xAxis.append('line')
+                            .attr('x1', xPos)
+                            .attr('x2', xPos)
+                            .attr('y1', 0)
+                            .attr('y2', 5)
+                            .attr('stroke', '#333');
+
+                        xAxis.append('text')
+                            .attr('x', xPos)
+                            .attr('y', 16)
+                            .attr('text-anchor', 'middle')
+                            .attr('font-size', '9px')
+                            .attr('fill', '#666')
+                            .attr('font-weight', pt.label === '50th' ? 'bold' : 'normal')
+                            .text(pt.p.toFixed(1) + '%');
+                    }
+                });
+
+                // Y-axis
+                g.append('g')
+                    .call(d3.axisLeft(y).ticks(4))
+                    .selectAll('text')
+                    .attr('font-size', '9px');
+
+            }, 10);
         }
 
         function updateStockChartByRange() {
