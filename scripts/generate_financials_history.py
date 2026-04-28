@@ -39,7 +39,8 @@ def _dated_files(directory: Path) -> list[Path]:
     files = [
         f
         for f in directory.glob("*.json")
-        if f.name != "latest.json" and f.stem[:4].isdigit()
+        if f.name != "latest.json"
+        and (f.stem[:4].isdigit() or f.name.startswith("backfill-"))
     ]
     return sorted(files, key=lambda p: p.name)
 

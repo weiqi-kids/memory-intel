@@ -1,4 +1,1440 @@
 {
-  "updated_at": "2026-04-28T05:29:59.167344+00:00",
-  "companies": {}
+  "updated_at": "2026-04-28T05:34:56.388572+00:00",
+  "companies": {
+    "adata": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 5666684000,
+          "inventory": 14198444000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 6465421000,
+          "inventory": 13971712000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 7472910000,
+          "inventory": 14441333000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 8897658000,
+          "inventory": 13462924000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 8059711000,
+          "inventory": 23556620000
+        }
+      ]
+    },
+    "amd": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 6192000000,
+          "inventory": 5734000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 5443000000,
+          "inventory": 6416000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 5115000000,
+          "inventory": 6677000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 6201000000,
+          "inventory": 7313000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 6315000000,
+          "inventory": 7920000000
+        }
+      ]
+    },
+    "amkor": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 1055013000,
+          "inventory": 310910000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 1052873000,
+          "inventory": 326185000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 1125586000,
+          "inventory": 375249000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 1399446000,
+          "inventory": 399892000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 1354825000,
+          "inventory": 437797000
+        }
+      ]
+    },
+    "apple": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 29639000000,
+          "inventory": 6911000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 26136000000,
+          "inventory": 6269000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 27557000000,
+          "inventory": 5925000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 39777000000,
+          "inventory": 5718000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 39921000000,
+          "inventory": 5875000000
+        }
+      ]
+    },
+    "applied_materials": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-01-31",
+          "ar": 5998000000,
+          "inventory": 5501000000
+        },
+        {
+          "quarter": "2025-04-30",
+          "ar": 6187000000,
+          "inventory": 5656000000
+        },
+        {
+          "quarter": "2025-07-31",
+          "ar": 5772000000,
+          "inventory": 5807000000
+        },
+        {
+          "quarter": "2025-10-31",
+          "ar": 5185000000,
+          "inventory": 5915000000
+        },
+        {
+          "quarter": "2026-01-31",
+          "ar": 4977000000,
+          "inventory": 5997000000
+        }
+      ]
+    },
+    "arm": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 272000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 346000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 220000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 248000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 278000000,
+          "inventory": null
+        }
+      ]
+    },
+    "ase": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 113419820000,
+          "inventory": 61180932000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 109717000000,
+          "inventory": 59858000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 103101000000,
+          "inventory": 57058000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 125663000000,
+          "inventory": 66182000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 125042214000,
+          "inventory": 69382990000
+        }
+      ]
+    },
+    "asml": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 317200000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 153400000,
+          "inventory": 11024700000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 175100000,
+          "inventory": 11575800000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": null,
+          "inventory": 11762800000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 13300000,
+          "inventory": 11429300000
+        },
+        {
+          "quarter": "2026-03-31",
+          "ar": 198200000,
+          "inventory": 11711200000
+        }
+      ]
+    },
+    "aws": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 55451000000,
+          "inventory": 34214000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 54216000000,
+          "inventory": 35864000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 57415000000,
+          "inventory": 40825000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 61175000000,
+          "inventory": 41494000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 67729000000,
+          "inventory": 38325000000
+        }
+      ]
+    },
+    "broadcom": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-01-31",
+          "ar": 4955000000,
+          "inventory": 1908000000
+        },
+        {
+          "quarter": "2025-04-30",
+          "ar": 5563000000,
+          "inventory": 2017000000
+        },
+        {
+          "quarter": "2025-07-31",
+          "ar": 6494000000,
+          "inventory": 2180000000
+        },
+        {
+          "quarter": "2025-10-31",
+          "ar": 7145000000,
+          "inventory": 2270000000
+        },
+        {
+          "quarter": "2026-01-31",
+          "ar": 8460000000,
+          "inventory": 2962000000
+        }
+      ]
+    },
+    "cadence": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 393017000,
+          "inventory": 257711000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 314976000,
+          "inventory": 225621000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 359103000,
+          "inventory": 226162000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 383797000,
+          "inventory": 286193000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 492834000,
+          "inventory": 303545000
+        }
+      ]
+    },
+    "dell": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-01-31",
+          "ar": 5927000000,
+          "inventory": 6716000000
+        },
+        {
+          "quarter": "2025-04-30",
+          "ar": 6042000000,
+          "inventory": 7415000000
+        },
+        {
+          "quarter": "2025-07-31",
+          "ar": 6071000000,
+          "inventory": 7211000000
+        },
+        {
+          "quarter": "2025-10-31",
+          "ar": 6725000000,
+          "inventory": 6949000000
+        },
+        {
+          "quarter": "2026-01-31",
+          "ar": 5822000000,
+          "inventory": 10437000000
+        }
+      ]
+    },
+    "elite_semi": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 1599588000,
+          "inventory": 7708232000
+        },
+        {
+          "quarter": "2024-12-31",
+          "ar": 1432658000,
+          "inventory": 7936970000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 1462635000,
+          "inventory": 8339932000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 1453967000,
+          "inventory": 7772952000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 2211845000,
+          "inventory": 7081820000
+        }
+      ]
+    },
+    "entegris": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 497300000,
+          "inventory": 638100000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 500500000,
+          "inventory": 671500000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 494100000,
+          "inventory": 694600000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 493200000,
+          "inventory": 646800000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 462500000,
+          "inventory": 643200000
+        }
+      ]
+    },
+    "google": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 52340000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 51000000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 55048000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 57148000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 62886000000,
+          "inventory": null
+        }
+      ]
+    },
+    "hp": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-01-31",
+          "ar": 4188000000,
+          "inventory": 8443000000
+        },
+        {
+          "quarter": "2025-04-30",
+          "ar": 4336000000,
+          "inventory": 8175000000
+        },
+        {
+          "quarter": "2025-07-31",
+          "ar": 5123000000,
+          "inventory": 8356000000
+        },
+        {
+          "quarter": "2025-10-31",
+          "ar": 5692000000,
+          "inventory": 8512000000
+        },
+        {
+          "quarter": "2026-01-31",
+          "ar": 5332000000,
+          "inventory": 8737000000
+        }
+      ]
+    },
+    "infineon": {
+      "currency": "EUR",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 2059000000,
+          "inventory": 4385000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 2017000000,
+          "inventory": 4333000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 2052000000,
+          "inventory": 4280000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 2249000000,
+          "inventory": 4141000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 1981000000,
+          "inventory": 4485000000
+        }
+      ]
+    },
+    "innodisk": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 1256194000,
+          "inventory": 1712783000
+        },
+        {
+          "quarter": "2024-12-31",
+          "ar": 1184164000,
+          "inventory": 1643775000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 1486555000,
+          "inventory": 1576592000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 1657196000,
+          "inventory": 2691572000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 3292316000,
+          "inventory": 5385202000
+        }
+      ]
+    },
+    "intel": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-03-31",
+          "ar": 3064000000,
+          "inventory": 12281000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 2360000000,
+          "inventory": 11377000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 3202000000,
+          "inventory": 11489000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 3839000000,
+          "inventory": 11618000000
+        },
+        {
+          "quarter": "2026-03-31",
+          "ar": 4066000000,
+          "inventory": 12426000000
+        }
+      ]
+    },
+    "kioxia": {
+      "currency": "JPY",
+      "quarters": [
+        {
+          "quarter": "2025-03-31",
+          "ar": 3441000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 236412000000,
+          "inventory": 361634000000
+        }
+      ]
+    },
+    "kla": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 2334977000,
+          "inventory": 3046340000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 2159897000,
+          "inventory": 3155777000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 2263915000,
+          "inventory": 3212149000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 2277755000,
+          "inventory": 3297368000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 2073581000,
+          "inventory": 3282605000
+        }
+      ]
+    },
+    "lam_research": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-03-31",
+          "ar": 3228182000,
+          "inventory": 4463275000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 3378071000,
+          "inventory": 4307991000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 3633034000,
+          "inventory": 4095054000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 3491987000,
+          "inventory": 4037682000
+        },
+        {
+          "quarter": "2026-03-31",
+          "ar": 4132890000,
+          "inventory": 3999992000
+        }
+      ]
+    },
+    "lenovo": {
+      "currency": "HKD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 9449829000,
+          "inventory": 9118816000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 12336497000,
+          "inventory": 8617381000
+        }
+      ]
+    },
+    "macronix": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 4807101000,
+          "inventory": 13353728000
+        },
+        {
+          "quarter": "2024-12-31",
+          "ar": 3338792000,
+          "inventory": 13405910000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 3770848000,
+          "inventory": 13026551000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 3765028000,
+          "inventory": 12146148000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 4315114000,
+          "inventory": 9813388000
+        }
+      ]
+    },
+    "marvell": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-01-31",
+          "ar": 1028400000,
+          "inventory": 1029700000
+        },
+        {
+          "quarter": "2025-04-30",
+          "ar": 1144000000,
+          "inventory": 1071400000
+        },
+        {
+          "quarter": "2025-07-31",
+          "ar": 1451700000,
+          "inventory": 1051600000
+        },
+        {
+          "quarter": "2025-10-31",
+          "ar": 1546300000,
+          "inventory": 1014500000
+        },
+        {
+          "quarter": "2026-01-31",
+          "ar": 2186600000,
+          "inventory": 1388000000
+        }
+      ]
+    },
+    "meta": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 16994000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 14514000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 16561000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 17297000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 19769000000,
+          "inventory": null
+        }
+      ]
+    },
+    "micron": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-02-28",
+          "ar": 5092000000,
+          "inventory": 9007000000
+        },
+        {
+          "quarter": "2025-05-31",
+          "ar": 5492000000,
+          "inventory": 8727000000
+        },
+        {
+          "quarter": "2025-08-31",
+          "ar": 7163000000,
+          "inventory": 8355000000
+        },
+        {
+          "quarter": "2025-11-30",
+          "ar": 8009000000,
+          "inventory": 8205000000
+        },
+        {
+          "quarter": "2026-02-28",
+          "ar": 15389000000,
+          "inventory": 8267000000
+        }
+      ]
+    },
+    "microsoft": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 48188000000,
+          "inventory": 909000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 51700000000,
+          "inventory": 848000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 69905000000,
+          "inventory": 938000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 52894000000,
+          "inventory": 1130000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 56535000000,
+          "inventory": 1059000000
+        }
+      ]
+    },
+    "nanya": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 5164831000,
+          "inventory": 31606529000
+        },
+        {
+          "quarter": "2024-12-31",
+          "ar": 4132016000,
+          "inventory": 35318045000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 4796170000,
+          "inventory": 37588408000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 5950011000,
+          "inventory": 35528632000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 16558481000,
+          "inventory": 27287519000
+        }
+      ]
+    },
+    "nvidia": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-10-31",
+          "ar": 568000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-01-31",
+          "ar": 750000000,
+          "inventory": 10080000000
+        },
+        {
+          "quarter": "2025-04-30",
+          "ar": 895000000,
+          "inventory": 11333000000
+        },
+        {
+          "quarter": "2025-07-31",
+          "ar": 1042000000,
+          "inventory": 14962000000
+        },
+        {
+          "quarter": "2025-10-31",
+          "ar": 1369000000,
+          "inventory": 19784000000
+        },
+        {
+          "quarter": "2026-01-31",
+          "ar": null,
+          "inventory": 21403000000
+        }
+      ]
+    },
+    "onsemi": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 1160100000,
+          "inventory": 2242000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 825000000,
+          "inventory": 2078200000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 927000000,
+          "inventory": 2087100000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 943400000,
+          "inventory": 2047900000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 908000000,
+          "inventory": 1989600000
+        }
+      ]
+    },
+    "oracle": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-02-28",
+          "ar": 8051000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-05-31",
+          "ar": 8558000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-08-31",
+          "ar": 8843000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-11-30",
+          "ar": 9440000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2026-02-28",
+          "ar": 10719000000,
+          "inventory": null
+        }
+      ]
+    },
+    "phison": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 8010891000,
+          "inventory": 24614049000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 8920733000,
+          "inventory": 28175906000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 10948359000,
+          "inventory": 29088655000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 11727771000,
+          "inventory": 31527041000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 13689060000,
+          "inventory": 35608709000
+        }
+      ]
+    },
+    "powertech": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 17248967000,
+          "inventory": 5315846000
+        },
+        {
+          "quarter": "2024-12-31",
+          "ar": 15885215000,
+          "inventory": 5446174000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 14665536000,
+          "inventory": 5652402000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 4570663000,
+          "inventory": 5597303000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 18537158000,
+          "inventory": 6565731000
+        }
+      ]
+    },
+    "psmc": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 6417333000,
+          "inventory": 9849796000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 6301134000,
+          "inventory": 9586588000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 6188346000,
+          "inventory": 9125085000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 6263668000,
+          "inventory": 8880606000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 6549582000,
+          "inventory": 9291111000
+        }
+      ]
+    },
+    "ptc": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 5010154000,
+          "inventory": 2694594000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 6099947000,
+          "inventory": 3301398000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 6042574000,
+          "inventory": 3356503000
+        }
+      ]
+    },
+    "qualcomm": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 3550000000,
+          "inventory": 6303000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 3699000000,
+          "inventory": 6196000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 3410000000,
+          "inventory": 6338000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 2855000000,
+          "inventory": 6526000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 4153000000,
+          "inventory": 6665000000
+        }
+      ]
+    },
+    "samsung": {
+      "currency": "KRW",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 43623073000000,
+          "inventory": 51754865000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 44866585000000,
+          "inventory": 53220267000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 43550509000000,
+          "inventory": 51037413000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 50538790000000,
+          "inventory": 50332392000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 51127642000000,
+          "inventory": 52636828000000
+        }
+      ]
+    },
+    "screen": {
+      "currency": "JPY",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 66749000000,
+          "inventory": 192955000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 90791000000,
+          "inventory": 168660000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 85843000000,
+          "inventory": 173406000000
+        }
+      ]
+    },
+    "shin_etsu": {
+      "currency": "JPY",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 549904000000,
+          "inventory": 735264000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 514702000000,
+          "inventory": 769966000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 559584000000,
+          "inventory": 736326000000
+        }
+      ]
+    },
+    "silicon_motion": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 202726000,
+          "inventory": 214574000
+        },
+        {
+          "quarter": "2024-12-31",
+          "ar": 233744000,
+          "inventory": 199229000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 206693000,
+          "inventory": 180903000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 220924000,
+          "inventory": 208005000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 201576000,
+          "inventory": 337967000
+        }
+      ]
+    },
+    "skhynix": {
+      "currency": "KRW",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 13019006000000,
+          "inventory": 13313937000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 10628589000000,
+          "inventory": 14551350000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 13125210000000,
+          "inventory": 13408333000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 14312462000000,
+          "inventory": 13156389000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 18199078000000,
+          "inventory": 14289390000000
+        }
+      ]
+    },
+    "sumco": {
+      "currency": "JPY",
+      "quarters": [
+        {
+          "quarter": "2025-06-30",
+          "ar": 86326000000,
+          "inventory": 238303000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 89994000000,
+          "inventory": 250643000000
+        }
+      ]
+    },
+    "supermicro": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": null,
+          "inventory": 3596145000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": null,
+          "inventory": 3870243000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 166405000,
+          "inventory": 4680375000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 76355000,
+          "inventory": 5730002000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 141128000,
+          "inventory": 10595448000
+        }
+      ]
+    },
+    "synopsys": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2025-01-31",
+          "ar": null,
+          "inventory": 415199000
+        },
+        {
+          "quarter": "2025-04-30",
+          "ar": null,
+          "inventory": 395339000
+        },
+        {
+          "quarter": "2025-07-31",
+          "ar": 355802000,
+          "inventory": 382056000
+        },
+        {
+          "quarter": "2025-10-31",
+          "ar": null,
+          "inventory": 365190000
+        },
+        {
+          "quarter": "2026-01-31",
+          "ar": null,
+          "inventory": 393221000
+        }
+      ]
+    },
+    "ti": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 806000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 1869000000,
+          "inventory": 4687000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 1058000000,
+          "inventory": 4812000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": null,
+          "inventory": 4829000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": null,
+          "inventory": 4804000000
+        },
+        {
+          "quarter": "2026-03-31",
+          "ar": null,
+          "inventory": 4695000000
+        }
+      ]
+    },
+    "tokyo_electron": {
+      "currency": "JPY",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 371710000000,
+          "inventory": 742273000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 485626000000,
+          "inventory": 749124000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 411443000000,
+          "inventory": 720447000000
+        }
+      ]
+    },
+    "tsmc": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 249970000000,
+          "inventory": null
+        },
+        {
+          "quarter": "2024-12-31",
+          "ar": 270683235000,
+          "inventory": 287868800000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": null,
+          "inventory": 293387615000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 235690000000,
+          "inventory": 304193716000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 305477496000,
+          "inventory": 288689063000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": null,
+          "inventory": 288109500000
+        }
+      ]
+    },
+    "western_digital": {
+      "currency": "USD",
+      "quarters": [
+        {
+          "quarter": "2024-12-31",
+          "ar": 2597000000,
+          "inventory": 3420000000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 1469000000,
+          "inventory": 1311000000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 1486000000,
+          "inventory": 1291000000
+        },
+        {
+          "quarter": "2025-09-30",
+          "ar": 1355000000,
+          "inventory": 1393000000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 1685000000,
+          "inventory": 1349000000
+        }
+      ]
+    },
+    "winbond": {
+      "currency": "TWD",
+      "quarters": [
+        {
+          "quarter": "2024-09-30",
+          "ar": 11562629000,
+          "inventory": 23057175000
+        },
+        {
+          "quarter": "2024-12-31",
+          "ar": 10038346000,
+          "inventory": 24201163000
+        },
+        {
+          "quarter": "2025-03-31",
+          "ar": 11855172000,
+          "inventory": 23539566000
+        },
+        {
+          "quarter": "2025-06-30",
+          "ar": 11855348000,
+          "inventory": 21628915000
+        },
+        {
+          "quarter": "2025-12-31",
+          "ar": 16071154000,
+          "inventory": 25758040000
+        }
+      ]
+    }
+  }
 }

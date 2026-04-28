@@ -1,0 +1,34 @@
+{
+  "updated_at": "2026-04-28T05:34:46.813404+00:00",
+  "quarter": "2025-08-31",
+  "companies": [
+    {
+      "id": "micron",
+      "name": "美光",
+      "ticker": "MU",
+      "currency": "USD",
+      "quarter_date": "2025-08-31",
+      "ar": 7163000000,
+      "inventory": 8355000000,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
+      "alert": false
+    },
+    {
+      "id": "oracle",
+      "name": "甲骨文",
+      "ticker": "ORCL",
+      "currency": "USD",
+      "quarter_date": "2025-08-31",
+      "ar": 8843000000,
+      "inventory": null,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
+      "alert": false
+    }
+  ]
+}

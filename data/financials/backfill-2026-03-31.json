@@ -1,0 +1,62 @@
+{
+  "updated_at": "2026-04-28T05:34:46.832737+00:00",
+  "quarter": "2026-03-31",
+  "companies": [
+    {
+      "id": "asml",
+      "name": "艾司摩爾",
+      "ticker": "ASML",
+      "currency": "USD",
+      "quarter_date": "2026-03-31",
+      "ar": 198200000,
+      "inventory": 11711200000,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
+      "alert": false
+    },
+    {
+      "id": "intel",
+      "name": "英特爾",
+      "ticker": "INTC",
+      "currency": "USD",
+      "quarter_date": "2026-03-31",
+      "ar": 4066000000,
+      "inventory": 12426000000,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
+      "alert": false
+    },
+    {
+      "id": "lam_research",
+      "name": "科林研發",
+      "ticker": "LRCX",
+      "currency": "USD",
+      "quarter_date": "2026-03-31",
+      "ar": 4132890000,
+      "inventory": 3999992000,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
+      "alert": false
+    },
+    {
+      "id": "ti",
+      "name": "德州儀器",
+      "ticker": "TXN",
+      "currency": "USD",
+      "quarter_date": "2026-03-31",
+      "ar": null,
+      "inventory": 4695000000,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
+      "inv_prev": null,
+      "inv_qoq": "N/A",
+      "alert": false
+    }
+  ]
+}
