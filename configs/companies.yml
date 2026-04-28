@@ -115,7 +115,7 @@ companies:
   position: upstream
   role: 設備
   description: 清洗與塗佈設備
-  ir_url: null
+  ir_url: https://www.screen.co.jp/en/ir
   downstream:
   - samsung
   - skhynix
@@ -183,7 +183,7 @@ companies:
   position: upstream
   role: 材料
   description: 製程化學材料與過濾系統
-  ir_url: null
+  ir_url: https://investor.entegris.com/
   downstream:
   - samsung
   - skhynix
@@ -472,7 +472,7 @@ companies:
   position: midstream
   role: 控制IC
   description: NAND 控制 IC 龍頭
-  ir_url: null
+  ir_url: https://www.phison.com/en/InvestorRelations
   upstream:
   - kioxia
   - western_digital
@@ -494,7 +494,7 @@ companies:
   position: midstream
   role: 控制IC
   description: SSD 控制器
-  ir_url: null
+  ir_url: https://www.siliconmotion.com/investor
   upstream:
   - kioxia
   - western_digital
@@ -513,7 +513,7 @@ companies:
   position: midstream
   role: 利基記憶體
   description: NOR Flash 與 ROM
-  ir_url: null
+  ir_url: https://www.macronix.com/en-us/IR/Pages/default.aspx
   upstream:
   - asml
   downstream: []
@@ -530,7 +530,7 @@ companies:
   position: midstream
   role: 利基記憶體
   description: 利基型 DRAM 與 Flash 設計
-  ir_url: null
+  ir_url: https://www.esmt.com.tw/en/IR
   upstream:
   - tsmc
   downstream: []
@@ -547,7 +547,7 @@ companies:
   position: midstream
   role: 記憶體模組
   description: 全球前二大 DRAM 模組廠
-  ir_url: null
+  ir_url: https://www.adata.com/en/investor/
   upstream:
   - samsung
   - skhynix
@@ -565,7 +565,7 @@ companies:
   position: midstream
   role: 記憶體模組
   description: 工業級記憶體與儲存
-  ir_url: null
+  ir_url: https://www.innodisk.com/en/investor
   upstream:
   - samsung
   - micron
@@ -636,7 +636,7 @@ companies:
   position: midstream
   role: 代工
   description: DRAM 代工，產線部分售予 Micron
-  ir_url: null
+  ir_url: https://www.powerchip.com/en-global/investors
   upstream:
   - asml
   - applied_materials
@@ -833,7 +833,7 @@ companies:
   position: downstream
   role: 網通晶片
   description: 資料中心網路晶片
-  ir_url: null
+  ir_url: https://investor.marvell.com/
   upstream:
   - tsmc
   - ase
@@ -854,7 +854,7 @@ companies:
   position: downstream
   role: 類比IC
   description: 類比 IC 龍頭
-  ir_url: null
+  ir_url: https://investor.ti.com/
   upstream: []
   downstream: []
   fetch_mode: http
@@ -869,7 +869,7 @@ companies:
   position: downstream
   role: 功率半導體
   description: 車用與工業功率半導體
-  ir_url: null
+  ir_url: https://investor.onsemi.com/
   upstream: []
   downstream: []
   fetch_mode: rss
@@ -885,7 +885,7 @@ companies:
   position: downstream
   role: 車用晶片
   description: 車用 MCU 與功率半導體
-  ir_url: null
+  ir_url: https://www.infineon.com/cms/en/about-infineon/investor/
   upstream: []
   downstream: []
   fetch_mode: http

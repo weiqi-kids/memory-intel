@@ -6,6 +6,7 @@
       "short_name": "艾司摩爾",
       "position": "upstream",
       "role": "設備",
+      "ir_url": "https://www.asml.com/en/investors",
       "x": 0.05,
       "y": 0.04
     },
@@ -15,6 +16,7 @@
       "short_name": "東京威力科創",
       "position": "upstream",
       "role": "設備",
+      "ir_url": "https://www.tel.com/ir/",
       "x": 0.23,
       "y": 0.04
     },
@@ -24,6 +26,7 @@
       "short_name": "科林研發",
       "position": "upstream",
       "role": "設備",
+      "ir_url": "https://investor.lamresearch.com/",
       "x": 0.41,
       "y": 0.04
     },
@@ -33,6 +36,7 @@
       "short_name": "應材",
       "position": "upstream",
       "role": "設備",
+      "ir_url": "https://ir.appliedmaterials.com/",
       "x": 0.59,
       "y": 0.04
     },
@@ -42,6 +46,7 @@
       "short_name": "KLA",
       "position": "upstream",
       "role": "設備",
+      "ir_url": "https://ir.kla.com/",
       "x": 0.77,
       "y": 0.04
     },
@@ -51,6 +56,7 @@
       "short_name": "Screen Holdings",
       "position": "upstream",
       "role": "設備",
+      "ir_url": "https://www.screen.co.jp/en/ir",
       "x": 0.95,
       "y": 0.04
     },
@@ -60,6 +66,7 @@
       "short_name": "SUMCO",
       "position": "upstream",
       "role": "材料",
+      "ir_url": "https://www.sumcosi.com/english/ir/",
       "x": 0.05,
       "y": 0.13
     },
@@ -69,6 +76,7 @@
       "short_name": "SK實特隆",
       "position": "upstream",
       "role": "材料",
+      "ir_url": null,
       "x": 0.35,
       "y": 0.13
     },
@@ -78,6 +86,7 @@
       "short_name": "信越化學",
       "position": "upstream",
       "role": "材料",
+      "ir_url": "https://www.shinetsu.co.jp/en/ir/",
       "x": 0.65,
       "y": 0.13
     },
@@ -87,6 +96,7 @@
       "short_name": "Entegris",
       "position": "upstream",
       "role": "材料",
+      "ir_url": "https://investor.entegris.com/",
       "x": 0.95,
       "y": 0.13
     },
@@ -96,6 +106,7 @@
       "short_name": "新思科技",
       "position": "upstream",
       "role": "EDA",
+      "ir_url": "https://investor.synopsys.com/",
       "x": 0.05,
       "y": 0.22
     },
@@ -105,6 +116,7 @@
       "short_name": "益華電腦",
       "position": "upstream",
       "role": "EDA",
+      "ir_url": "https://investors.cadence.com/",
       "x": 0.5,
       "y": 0.22
     },
@@ -114,6 +126,7 @@
       "short_name": "安謀",
       "position": "upstream",
       "role": "IP",
+      "ir_url": "https://investors.arm.com/",
       "x": 0.95,
       "y": 0.22
     },
@@ -123,6 +136,7 @@
       "short_name": "三星",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": "https://www.samsung.com/global/ir/",
       "x": 0.05,
       "y": 0.34
     },
@@ -132,6 +146,7 @@
       "short_name": "SK海力士",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": "https://www.skhynix.com/ir/",
       "x": 0.14,
       "y": 0.34
     },
@@ -141,6 +156,7 @@
       "short_name": "美光",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": "https://investors.micron.com/",
       "x": 0.23,
       "y": 0.34
     },
@@ -150,6 +166,7 @@
       "short_name": "南亞科",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": "https://www.nanya.com/tw/IR",
       "x": 0.32,
       "y": 0.34
     },
@@ -159,6 +176,7 @@
       "short_name": "華邦電",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": "https://www.winbond.com/hq/about-winbond/investor-relations/",
       "x": 0.41,
       "y": 0.34
     },
@@ -168,6 +186,7 @@
       "short_name": "鎧俠",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": "https://www.kioxia.com/en-jp/ir/",
       "x": 0.5,
       "y": 0.34
     },
@@ -177,6 +196,7 @@
       "short_name": "威騰電子",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": "https://investor.wdc.com/",
       "x": 0.59,
       "y": 0.34
     },
@@ -186,6 +206,7 @@
       "short_name": "長鑫存儲",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": null,
       "x": 0.68,
       "y": 0.34
     },
@@ -195,6 +216,7 @@
       "short_name": "長江存儲",
       "position": "midstream",
       "role": "記憶體製造",
+      "ir_url": null,
       "x": 0.77,
       "y": 0.34
     },
@@ -204,6 +226,7 @@
       "short_name": "群聯電子",
       "position": "midstream",
       "role": "控制IC",
+      "ir_url": "https://www.phison.com/en/InvestorRelations",
       "x": 0.05,
       "y": 0.43
     },
@@ -213,6 +236,7 @@
       "short_name": "慧榮科技",
       "position": "midstream",
       "role": "控制IC",
+      "ir_url": "https://www.siliconmotion.com/investor",
       "x": 0.95,
       "y": 0.43
     },
@@ -222,6 +246,7 @@
       "short_name": "旺宏電子",
       "position": "midstream",
       "role": "利基記憶體",
+      "ir_url": "https://www.macronix.com/en-us/IR/Pages/default.aspx",
       "x": 0.86,
       "y": 0.34
     },
@@ -231,6 +256,7 @@
       "short_name": "晶豪科",
       "position": "midstream",
       "role": "利基記憶體",
+      "ir_url": "https://www.esmt.com.tw/en/IR",
       "x": 0.95,
       "y": 0.34
     },
@@ -240,6 +266,7 @@
       "short_name": "威剛科技",
       "position": "midstream",
       "role": "記憶體模組",
+      "ir_url": "https://www.adata.com/en/investor/",
       "x": 0.05,
       "y": 0.52
     },
@@ -249,6 +276,7 @@
       "short_name": "宜鼎國際",
       "position": "midstream",
       "role": "記憶體模組",
+      "ir_url": "https://www.innodisk.com/en/investor",
       "x": 0.95,
       "y": 0.52
     },
@@ -258,6 +286,7 @@
       "short_name": "台積電",
       "position": "midstream",
       "role": "代工",
+      "ir_url": "https://investor.tsmc.com/",
       "x": 0.05,
       "y": 0.61
     },
@@ -267,6 +296,7 @@
       "short_name": "英特爾",
       "position": "midstream",
       "role": "代工",
+      "ir_url": "https://www.intc.com/",
       "x": 0.5,
       "y": 0.61
     },
@@ -276,6 +306,7 @@
       "short_name": "力積電",
       "position": "midstream",
       "role": "代工",
+      "ir_url": "https://www.powerchip.com/en-global/investors",
       "x": 0.95,
       "y": 0.61
     },
@@ -285,6 +316,7 @@
       "short_name": "日月光",
       "position": "midstream",
       "role": "封測",
+      "ir_url": "https://www.aseglobal.com/zh-tw/investor",
       "x": 0.05,
       "y": 0.7
     },
@@ -294,6 +326,7 @@
       "short_name": "力成",
       "position": "midstream",
       "role": "封測",
+      "ir_url": "https://www.pti.com.tw/en/ir/news/message",
       "x": 0.35,
       "y": 0.7
     },
@@ -303,6 +336,7 @@
       "short_name": "南茂",
       "position": "midstream",
       "role": "封測",
+      "ir_url": "https://www.chipmos.com/english/investor/index.aspx",
       "x": 0.65,
       "y": 0.7
     },
@@ -312,6 +346,7 @@
       "short_name": "艾克爾",
       "position": "midstream",
       "role": "封測",
+      "ir_url": "https://ir.amkor.com/",
       "x": 0.95,
       "y": 0.7
     },
@@ -321,6 +356,7 @@
       "short_name": "輝達",
       "position": "downstream",
       "role": "GPU",
+      "ir_url": "https://investor.nvidia.com/",
       "x": 0.05,
       "y": 0.8
     },
@@ -330,6 +366,7 @@
       "short_name": "超微",
       "position": "downstream",
       "role": "GPU/CPU",
+      "ir_url": "https://ir.amd.com/",
       "x": 0.179,
       "y": 0.8
     },
@@ -339,6 +376,7 @@
       "short_name": "博通",
       "position": "downstream",
       "role": "AI 晶片",
+      "ir_url": "https://investors.broadcom.com/",
       "x": 0.307,
       "y": 0.8
     },
@@ -348,6 +386,7 @@
       "short_name": "高通",
       "position": "downstream",
       "role": "行動晶片",
+      "ir_url": "https://investor.qualcomm.com/",
       "x": 0.436,
       "y": 0.8
     },
@@ -357,6 +396,7 @@
       "short_name": "美滿電子",
       "position": "downstream",
       "role": "網通晶片",
+      "ir_url": "https://investor.marvell.com/",
       "x": 0.564,
       "y": 0.8
     },
@@ -366,6 +406,7 @@
       "short_name": "德州儀器",
       "position": "downstream",
       "role": "類比IC",
+      "ir_url": "https://investor.ti.com/",
       "x": 0.693,
       "y": 0.8
     },
@@ -375,6 +416,7 @@
       "short_name": "安森美",
       "position": "downstream",
       "role": "功率半導體",
+      "ir_url": "https://investor.onsemi.com/",
       "x": 0.821,
       "y": 0.8
     },
@@ -384,6 +426,7 @@
       "short_name": "英飛凌",
       "position": "downstream",
       "role": "車用晶片",
+      "ir_url": "https://www.infineon.com/cms/en/about-infineon/investor/",
       "x": 0.95,
       "y": 0.8
     },
@@ -393,6 +436,7 @@
       "short_name": "蘋果",
       "position": "downstream",
       "role": "系統",
+      "ir_url": "https://investor.apple.com/",
       "x": 0.05,
       "y": 0.89
     },
@@ -402,6 +446,7 @@
       "short_name": "戴爾",
       "position": "downstream",
       "role": "系統",
+      "ir_url": "https://investors.delltechnologies.com/",
       "x": 0.275,
       "y": 0.89
     },
@@ -411,6 +456,7 @@
       "short_name": "惠普",
       "position": "downstream",
       "role": "系統",
+      "ir_url": "https://investor.hp.com/",
       "x": 0.5,
       "y": 0.89
     },
@@ -420,6 +466,7 @@
       "short_name": "聯想",
       "position": "downstream",
       "role": "系統",
+      "ir_url": "https://investor.lenovo.com/",
       "x": 0.725,
       "y": 0.89
     },
@@ -429,6 +476,7 @@
       "short_name": "超微電腦",
       "position": "downstream",
       "role": "系統",
+      "ir_url": "https://ir.supermicro.com/",
       "x": 0.95,
       "y": 0.89
     },
@@ -438,6 +486,7 @@
       "short_name": "亞馬遜雲端",
       "position": "downstream",
       "role": "CSP",
+      "ir_url": "https://ir.aboutamazon.com/",
       "x": 0.05,
       "y": 0.96
     },
@@ -447,6 +496,7 @@
       "short_name": "微軟",
       "position": "downstream",
       "role": "CSP",
+      "ir_url": "https://www.microsoft.com/investor",
       "x": 0.275,
       "y": 0.96
     },
@@ -456,6 +506,7 @@
       "short_name": "谷歌雲端",
       "position": "downstream",
       "role": "CSP",
+      "ir_url": "https://abc.xyz/investor/",
       "x": 0.5,
       "y": 0.96
     },
@@ -465,6 +516,7 @@
       "short_name": "臉書",
       "position": "downstream",
       "role": "CSP",
+      "ir_url": "https://investor.fb.com/",
       "x": 0.725,
       "y": 0.96
     },
@@ -474,6 +526,7 @@
       "short_name": "甲骨文",
       "position": "downstream",
       "role": "CSP",
+      "ir_url": "https://investor.oracle.com/",
       "x": 0.95,
       "y": 0.96
     }

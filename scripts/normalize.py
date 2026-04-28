@@ -177,6 +177,7 @@ def main():
                 "short_name": _pick_short_name(company),
                 "position": company.get("position", "midstream"),
                 "role": role,
+                "ir_url": company.get("ir_url"),
                 "x": round(x, 3),
                 "y": y
             })
