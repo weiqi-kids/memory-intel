@@ -2628,6 +2628,37 @@
             });
             tableHtml += '</tbody></table>';
             document.getElementById('holders-table-container').innerHTML = tableHtml;
+
+            // Holders history sparkline
+            ensureHoldersHistory().then(holdersHistory => {
+                const selected = state.selectedHolderCompany;
+                if (!holdersHistory?.companies?.[selected]) return;
+                const snapshots = holdersHistory.companies[selected];
+                if (snapshots.length < 2) return;
+
+                // Prevent duplicate sparklines
+                const existing = document.querySelector('.holders-sparkline');
+                if (existing) existing.remove();
+
+                const pcts = snapshots.map(s => s.total_institutional_pct);
+                const sparkW = 100, sparkH = 24;
+                const min = Math.min(...pcts), max = Math.max(...pcts);
+                const range = max - min || 1;
+                const points = pcts.map((v, i) =>
+                    `${(i / (pcts.length - 1)) * sparkW},${sparkH - ((v - min) / range) * sparkH}`
+                ).join(' ');
+                const latest = pcts[pcts.length - 1];
+
+                const sparkHtml = `<div class="holders-sparkline" style="display:flex; align-items:center; gap:8px; margin-bottom:8px; font-size:0.75rem; color:#888;">
+                    機構持股比例趨勢: ${latest.toFixed(1)}%
+                    <svg width="${sparkW}" height="${sparkH}" style="vertical-align:middle;">
+                        <polyline points="${points}" fill="none" stroke="var(--hex-brand,#3b82f6)" stroke-width="1.5"/>
+                    </svg>
+                </div>`;
+
+                const tableContainer = document.getElementById('holders-table-container');
+                tableContainer.insertAdjacentHTML('beforebegin', sparkHtml);
+            });
         }
 
         window.selectHolderCompany = function(id) {
