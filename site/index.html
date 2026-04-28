@@ -2445,6 +2445,50 @@
                 </div>
             `).join('');
             container.innerHTML = html;
+
+            // Add sparklines if history data is available
+            ensureFinancialsHistory().then(finHistory => {
+                if (!finHistory?.companies) return;
+                // Prevent infinite re-render loop
+                const section = document.getElementById('financials-section');
+                if (section.querySelector('.fin-sparklines')) return;
+
+                const sparkDiv = document.createElement('div');
+                sparkDiv.className = 'fin-sparklines';
+                sparkDiv.style.marginTop = '8px';
+
+                Object.entries(finHistory.companies).forEach(([cid, cdata]) => {
+                    if (!cdata.quarters || cdata.quarters.length < 2) return;
+                    const quarters = cdata.quarters.slice(-6);
+                    const company = data.companies.find(c => c.id === cid);
+                    const name = company?.short_name || company?.name || cid;
+
+                    const sparkW = 60, sparkH = 20;
+                    function miniSpark(values) {
+                        const filtered = values.filter(v => v != null);
+                        if (filtered.length < 2) return '';
+                        const min = Math.min(...filtered), max = Math.max(...filtered);
+                        const range = max - min || 1;
+                        const points = filtered.map((v, i) =>
+                            `${(i / (filtered.length - 1)) * sparkW},${sparkH - ((v - min) / range) * sparkH}`
+                        ).join(' ');
+                        return `<svg width="${sparkW}" height="${sparkH}" style="vertical-align:middle;">
+                            <polyline points="${points}" fill="none" stroke="var(--hex-brand,#3b82f6)" stroke-width="1.5"/>
+                        </svg>`;
+                    }
+
+                    sparkDiv.innerHTML += `<div style="display:flex; align-items:center; gap:8px; font-size:0.7rem; margin-bottom:2px;">
+                        <span style="width:50px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;">${name}</span>
+                        <span style="color:#888;">AR</span>${miniSpark(quarters.map(q => q.ar))}
+                        <span style="color:#888;">庫存</span>${miniSpark(quarters.map(q => q.inventory))}
+                    </div>`;
+                });
+
+                if (sparkDiv.innerHTML) {
+                    const container = document.getElementById('financials-container');
+                    container.appendChild(sparkDiv);
+                }
+            });
         }
 
 
