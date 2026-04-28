@@ -85,7 +85,8 @@ companies:
   - kioxia
   - nanya
   - winbond
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://ir.appliedmaterials.com/rss/news-releases.xml
 - id: kla
   name: KLA Corporation
   aliases:
@@ -103,7 +104,8 @@ companies:
   - micron
   - tsmc
   - intel
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://ir.kla.com/news-events/press-releases/rss
 - id: screen
   name: Screen Holdings
   aliases: []
@@ -120,6 +122,7 @@ companies:
   - micron
   - tsmc
   fetch_mode: http
+  news_url: https://www.screen.co.jp/en/news/
 - id: sumco
   name: SUMCO
   aliases: []
@@ -187,7 +190,9 @@ companies:
   - micron
   - tsmc
   - intel
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://blog.entegris.com/rss.xml
+  news_url: https://www.entegris.com/en/home/about-us/news.html
 - id: synopsys
   name: Synopsys
   aliases:
@@ -227,7 +232,8 @@ companies:
   - broadcom
   - qualcomm
   - intel
-  fetch_mode: http
+  fetch_mode: playwright
+  news_url: https://www.cadence.com/en_US/home/company/newsroom/press-releases.html
 - id: arm
   name: Arm Holdings
   aliases:
@@ -260,7 +266,7 @@ companies:
   role: 記憶體製造
   description: 全球最大記憶體製造商
   ir_url: https://www.samsung.com/global/ir/
-  news_url: https://news.samsung.com/global/
+  news_url: https://news.samsungsemiconductor.com/global/
   upstream:
   - asml
   - tokyo_electron
@@ -277,7 +283,7 @@ companies:
   - supermicro
   - ase
   - amkor
-  ir_rss_url: https://news.samsung.com/global/feed
+  ir_rss_url: https://news.samsungsemiconductor.com/global/feed/
   fetch_mode: rss
 - id: skhynix
   name: SK hynix
@@ -476,6 +482,7 @@ companies:
   - hp
   - lenovo
   fetch_mode: http
+  news_url: https://www.phison.com/en/newsroom
 - id: silicon_motion
   name: Silicon Motion
   aliases:
@@ -510,7 +517,8 @@ companies:
   upstream:
   - asml
   downstream: []
-  fetch_mode: http
+  fetch_mode: playwright
+  news_url: https://www.macronix.com/en-us/about/news/Pages/default.aspx
 - id: elite_semi
   name: Elite Semiconductor
   aliases:
@@ -527,6 +535,7 @@ companies:
   - tsmc
   downstream: []
   fetch_mode: http
+  news_url: https://www.esmt.com.tw/en/News
 - id: adata
   name: ADATA Technology
   aliases:
@@ -590,7 +599,8 @@ companies:
   - shin_etsu
   - synopsys
   - cadence
-  fetch_mode: http
+  fetch_mode: playwright
+  news_url: https://pr.tsmc.com/english/latest-news
 - id: intel
   name: Intel
   aliases:
@@ -635,6 +645,7 @@ companies:
   - winbond
   - phison
   fetch_mode: http
+  news_url: https://www.powerchip.com/en-global/insights/press-releases
 - id: ase
   name: 日月光投控
   aliases:
@@ -658,6 +669,7 @@ companies:
   - broadcom
   - qualcomm
   fetch_mode: http
+  news_url: https://www.aseglobal.com/press-room/
 - id: powertech
   name: 力成科技
   aliases:
@@ -669,7 +681,7 @@ companies:
   position: midstream
   role: 封測
   description: 記憶體封測，HBM 封裝
-  ir_url: https://www.pfreak.com.tw/investor.php
+  ir_url: https://www.pti.com.tw/en/ir/news/message
   upstream:
   - skhynix
   - micron
@@ -677,7 +689,8 @@ companies:
   downstream:
   - nvidia
   - amd
-  fetch_mode: http
+  fetch_mode: playwright
+  news_url: https://www.pti.com.tw/en/ir/news/message
 - id: ptc
   name: 南茂科技
   aliases:
@@ -689,12 +702,13 @@ companies:
   position: midstream
   role: 封測
   description: 記憶體與驅動 IC 封測
-  ir_url: https://www.chipmos.com/investor.php
+  ir_url: https://www.chipmos.com/english/investor/index.aspx
   upstream:
   - nanya
   - winbond
   downstream: []
   fetch_mode: http
+  news_url: https://www.chipmos.com/english/news/news-list.aspx?MID=1
 - id: amkor
   name: Amkor Technology
   aliases:
@@ -827,7 +841,8 @@ companies:
   - aws
   - microsoft
   - google
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://investor.marvell.com/rss-news-feed
 - id: ti
   name: Texas Instruments
   aliases:
@@ -857,7 +872,8 @@ companies:
   ir_url: null
   upstream: []
   downstream: []
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://investor.onsemi.com/rss/news-releases.xml
 - id: infineon
   name: Infineon Technologies
   aliases:
@@ -911,7 +927,8 @@ companies:
   - samsung
   - skhynix
   downstream: []
-  fetch_mode: http
+  fetch_mode: rss
+  ir_rss_url: https://investors.delltechnologies.com/rss/news-releases.xml
 - id: hp
   name: HP Inc.
   aliases:
@@ -969,6 +986,7 @@ companies:
   - samsung
   downstream: []
   fetch_mode: http
+  news_url: https://www.supermicro.com/en/newsroom/pressreleases
 - id: aws
   name: Amazon Web Services
   aliases:
