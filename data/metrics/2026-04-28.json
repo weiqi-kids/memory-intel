@@ -1,6 +1,6 @@
 {
   "date": "2026-04-28",
-  "total_events": 93,
+  "total_events": 106,
   "by_company": {
     "amd": {
       "count": 6,
@@ -19,7 +19,7 @@
       "sentiment_avg": 0.33
     },
     "microsoft": {
-      "count": 4,
+      "count": 5,
       "sentiment_avg": 0.0
     },
     "nvidia": {
@@ -63,7 +63,7 @@
       "sentiment_avg": 0.0
     },
     "arm": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     },
     "ti": {
@@ -77,12 +77,12 @@
       "sentiment_avg": 0.1
     },
     "inventory": {
-      "count": 3,
-      "sentiment_avg": 0.5
+      "count": 4,
+      "sentiment_avg": 0.38
     },
     "earnings": {
-      "count": 43,
-      "sentiment_avg": 0.01
+      "count": 54,
+      "sentiment_avg": 0.03
     },
     "capacity": {
       "count": 7,
@@ -239,10 +239,10 @@
       "relation": "co_mention",
       "co_mention_count": 3,
       "topics": [
-        "capacity",
+        "shortage",
         "earnings",
         "industry_general",
-        "shortage"
+        "capacity"
       ]
     },
     {
@@ -261,10 +261,10 @@
       "relation": "supplier_customer",
       "co_mention_count": 2,
       "topics": [
-        "capacity",
+        "hbm",
         "industry_general",
-        "capex",
-        "hbm"
+        "capacity",
+        "capex"
       ]
     }
   ]
