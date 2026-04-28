@@ -76,6 +76,11 @@ jobs:
           python scripts/fetch_financials.py
         continue-on-error: true
 
+      - name: Fetch holders data
+        run: |
+          python scripts/fetch_holders.py
+        continue-on-error: true
+
       - name: Generate cards
         run: |
           python scripts/generate_cards.py
@@ -136,6 +141,11 @@ jobs:
       - name: Sync events to frontend
         run: |
           python scripts/sync_to_frontend.py
+        continue-on-error: true
+
+      - name: Generate financials history
+        run: |
+          python scripts/generate_financials_history.py
         continue-on-error: true
 
       - name: Update site data
