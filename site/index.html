@@ -2609,9 +2609,172 @@
             });
         }
 
-        function renderBacktest() {
-            document.getElementById('backtest-container').innerHTML =
-                '<div style="color:#999; text-align:center; padding:40px;">回測（建置中）</div>';
+        async function renderBacktest() {
+            const container = document.getElementById('backtest-container');
+
+            // 1. Check selectedCompany
+            if (!state.selectedCompany) {
+                container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">請點擊供應鏈節點或選擇公司</div>';
+                return;
+            }
+
+            const companyId = state.selectedCompany;
+            const company = data.companies.find(c => c.id === companyId);
+            const prices = data.stockPrices[companyId];
+
+            // 2. Check stock price data
+            if (!prices || prices.length < 2) {
+                container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">此公司無股價資料</div>';
+                return;
+            }
+
+            // 3. Calculate return and MDD
+            const [start, end] = state.timeRange;
+            const ret = calcReturn(companyId, start, end);
+            const mdd = calcMDD(companyId, start, end);
+
+            // 4. Filter prices to timeRange and draw chart
+            const si = findNearestTradingDay(prices, start, 'after');
+            const ei = findNearestTradingDay(prices, end, 'before');
+            if (si < 0 || ei < 0 || si >= ei) {
+                container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">此公司無股價資料</div>';
+                return;
+            }
+            const filtered = prices.slice(si, ei + 1);
+
+            const displayName = company?.short_name || company?.name || companyId;
+
+            // Build container HTML
+            container.innerHTML = `
+                <div style="font-size:0.85rem; font-weight:600; margin-bottom:4px; color:var(--fg, #1e2030);">${displayName}</div>
+                <svg id="backtest-svg"></svg>
+                <div id="backtest-summary" style="display:flex; gap:16px; justify-content:center; margin-top:6px; font-size:0.8rem;"></div>
+            `;
+
+            const chartEl = document.getElementById('stock-chart');
+            const width = chartEl.clientWidth - 30;
+            const height = 260;
+            const margin = { top: 15, right: 15, bottom: 25, left: 55 };
+
+            const svg = d3.select('#backtest-svg')
+                .attr('width', width)
+                .attr('height', height);
+
+            const x = d3.scaleTime()
+                .domain([filtered[0].date, filtered[filtered.length - 1].date])
+                .range([margin.left, width - margin.right]);
+
+            const y = d3.scaleLinear()
+                .domain([d3.min(filtered, d => d.close) * 0.98, d3.max(filtered, d => d.close) * 1.02])
+                .range([height - margin.bottom, margin.top]);
+
+            // X axis
+            svg.append('g')
+                .attr('class', 'axis')
+                .attr('transform', `translate(0,${height - margin.bottom})`)
+                .call(d3.axisBottom(x).ticks(6).tickFormat(d3.timeFormat('%Y/%m/%d')));
+
+            // Y axis
+            svg.append('g')
+                .attr('class', 'axis')
+                .attr('transform', `translate(${margin.left},0)`)
+                .call(d3.axisLeft(y).ticks(5));
+
+            // Price line
+            const line = d3.line()
+                .x(d => x(d.date))
+                .y(d => y(d.close))
+                .curve(d3.curveMonotoneX);
+
+            svg.append('path')
+                .datum(filtered)
+                .attr('fill', 'none')
+                .attr('stroke', 'var(--hex-brand, #3b82f6)')
+                .attr('stroke-width', 1.8)
+                .attr('d', line);
+
+            // 5. Summary: return and MDD with color coding
+            const summaryEl = document.getElementById('backtest-summary');
+            const retColor = ret !== null && ret >= 0 ? 'var(--hex-pass, #1e8050)' : 'var(--hex-critical, #c93135)';
+            const mddColor = 'var(--hex-critical, #c93135)';
+            const retText = ret !== null ? `${ret >= 0 ? '+' : ''}${ret.toFixed(2)}%` : 'N/A';
+            const mddText = mdd !== null ? `${mdd.toFixed(2)}%` : 'N/A';
+            summaryEl.innerHTML = `
+                <span>報酬率：<strong style="color:${retColor}">${retText}</strong></span>
+                <span>MDD：<strong style="color:${mddColor}">${mddText}</strong></span>
+            `;
+
+            // 7. Trigger lazy load of financials history, then overlay markers
+            const fh = await ensureFinancialsHistory();
+
+            // 6. Overlay fundamental markers
+            if (fh) {
+                const timeline = getFinancialsTimeline(companyId);
+                if (timeline && timeline.quarters && timeline.quarters.length > 1) {
+                    const quarters = timeline.quarters;
+
+                    // Helper to format large numbers as xB
+                    function fmtB(val) {
+                        if (val == null) return 'N/A';
+                        return (val / 1e9).toFixed(1) + 'B';
+                    }
+
+                    // Helper to calculate QoQ%
+                    function qoq(curr, prev) {
+                        if (prev == null || prev === 0) return null;
+                        return ((curr - prev) / Math.abs(prev)) * 100;
+                    }
+
+                    quarters.forEach((q, idx) => {
+                        const qDate = new Date(q.quarter);
+                        // Only show markers within timeRange
+                        if (qDate < start || qDate > end) return;
+                        // Check if this date is within chart x domain
+                        if (qDate < filtered[0].date || qDate > filtered[filtered.length - 1].date) return;
+
+                        // Find nearest price for y position
+                        const pi = findNearestTradingDay(prices, qDate, 'before');
+                        if (pi < 0) return;
+                        const priceAtQ = prices[pi].close;
+
+                        // Calculate QoQ
+                        const prevQ = idx > 0 ? quarters[idx - 1] : null;
+                        const arQoQ = prevQ ? qoq(q.ar, prevQ.ar) : null;
+                        const invQoQ = prevQ ? qoq(q.inventory, prevQ.inventory) : null;
+
+                        // AR marker (yellow circle)
+                        if (q.ar != null) {
+                            const arTooltipHtml = `<strong>應收帳款 (AR)</strong><br>${fmtB(q.ar)}${arQoQ !== null ? `<br>QoQ: ${arQoQ >= 0 ? '+' : ''}${arQoQ.toFixed(1)}%` : ''}`;
+                            svg.append('circle')
+                                .attr('cx', x(qDate))
+                                .attr('cy', y(priceAtQ) - 12)
+                                .attr('r', 5)
+                                .attr('fill', '#eab308')
+                                .attr('stroke', '#a16207')
+                                .attr('stroke-width', 1)
+                                .style('cursor', 'pointer')
+                                .on('mouseenter', function(event) { showTooltip(arTooltipHtml, event); })
+                                .on('mouseleave', hideTooltip);
+                        }
+
+                        // Inventory marker (purple square)
+                        if (q.inventory != null) {
+                            const invTooltipHtml = `<strong>庫存 (Inventory)</strong><br>${fmtB(q.inventory)}${invQoQ !== null ? `<br>QoQ: ${invQoQ >= 0 ? '+' : ''}${invQoQ.toFixed(1)}%` : ''}`;
+                            svg.append('rect')
+                                .attr('x', x(qDate) - 5)
+                                .attr('y', y(priceAtQ) + 7)
+                                .attr('width', 10)
+                                .attr('height', 10)
+                                .attr('fill', '#a855f7')
+                                .attr('stroke', '#7e22ce')
+                                .attr('stroke-width', 1)
+                                .style('cursor', 'pointer')
+                                .on('mouseenter', function(event) { showTooltip(invTooltipHtml, event); })
+                                .on('mouseleave', hideTooltip);
+                        }
+                    });
+                }
+            }
         }
 
         function renderDistribution() {
