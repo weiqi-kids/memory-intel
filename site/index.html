@@ -863,6 +863,14 @@
         .tab:hover:not(.active) {
             background: var(--bg-active, #e4e7eb);
         }
+
+        .company-link {
+            color: inherit;
+            text-decoration: none;
+        }
+        .company-link:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -1120,6 +1128,8 @@
 
             // 產生公司顏色
             stockColors = generateCompanyColors(data.companies);
+            companyMap = Object.fromEntries(data.companies.map(c => [c.id, c]));
+            state.smhReturn = calcReturn('etf_smh', state.timeRange[0], state.timeRange[1]);
 
             init();
         }
@@ -1286,6 +1296,7 @@
             fundFlow: null,
             holders: null,
             currentReportIdx: 0,
+            smhReturn: null,
         };
 
         // ===== Investment Analysis Utilities =====
@@ -1452,6 +1463,14 @@
         function getFinancialsTimeline(companyId) {
             if (!data.financialsHistory?.companies?.[companyId]) return null;
             return data.financialsHistory.companies[companyId];
+        }
+
+        let companyMap = {};
+
+        function companyLink(companyId, displayName) {
+            const url = companyMap[companyId]?.ir_url;
+            if (!url) return displayName;
+            return `<a href="${url}" target="_blank" rel="noopener" class="company-link">${displayName}</a>`;
         }
 
         // ===== Colors =====
@@ -1647,6 +1666,7 @@
         }
 
         function onBrushEnd() {
+            state.smhReturn = calcReturn('etf_smh', state.timeRange[0], state.timeRange[1]);
             const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
             if (view === 'heatmap') renderHeatmap();
             if (view === 'fundflow') renderFundFlow();
@@ -2086,6 +2106,7 @@
             updateStockChart();
             updateEventTimeline();
             clearEventDetail();
+            onBrushEnd();
         });
 
         // ===== Init =====
