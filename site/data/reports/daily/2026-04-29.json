@@ -1,0 +1,352 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:18:01.620250Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-29-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及先進封裝"
+      ],
+      "title": "China OSAT leader JCET expands in advanced packaging, profit climbs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429VL211/jcet-osat-packaging-profit-demand.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-29-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器",
+        "涉及 AI 記憶體"
+      ],
+      "title": "China memory chip designer Montage lifts profit on DDR5, AI server demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_memory",
+        "ai_server",
+        "earnings",
+        "ddr5",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428VL216/demand-ddr5-profit-chips-revenue.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "nanya-2026-04-29-020",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack",
+      "companies": [
+        "nanya",
+        "qualcomm",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429VL207/expansion-nvidia-demand-hbm-rubin.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "tsmc-2026-04-29-014",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "TSMC exits Arm investment with US$231 million sale",
+      "companies": [
+        "tsmc",
+        "arm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429PD230/tsmc-arm-investment-2024-mediatek.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-29-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "BYD reports steep drop in profit despite global expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429VL206/byd-earnings-ev-expansion.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 32,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "tsmc",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "arm",
+        "count": 2
+      },
+      {
+        "id": "meta",
+        "count": 1
+      },
+      {
+        "id": "apple",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 60,
+    "too_old": 137,
+    "gate1_blocked": 68,
+    "gate2_blocked": 23,
+    "passed": 40,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
+      "OpenAIâs New GPT-5.5 Powers Codex on NVIDIA Infrastructure â and NVIDIA Is Already Putting It to",
+      "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "Expanding digital IDs in India and around the world",
+      "Join the new AI Agents Vibe Coding Course from Google and Kaggle"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為台積電、英特爾、ARM相關動態：「China OSAT leader JCET expands in advanced packaging, pro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China OSAT leader JCET expands in advanced packaging, profit climbs（財報、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "China memory chip designer Montage lifts profit on DDR5, AI server demand（AI 記憶體、AI 伺服器、財報、DDR5、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
