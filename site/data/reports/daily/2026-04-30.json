@@ -1,0 +1,335 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:18:28.020164Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "google-2026-04-30-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Korea's 'father of HBM' sees 1,000x AI memory surge as Google's TurboQuant faces real-world tests",
+      "companies": [
+        "google"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429PD223/hbm-ai-inference-google-technology.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-30-026",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Delta Electronics posts 34% revenue growth in 1Q26, invests NT$12.1B to expand Taoyuan plants",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260430PD203/delta-electronics-growth-plant-production-capacity-merger.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-04-30-047",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Samsung Q1 2026 Earnings: Conventional DRAM More Profitable Than HBM Right Now",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://wccftech.com/samsung-q1-2026-earnings-conventional-dram-more-profitable-than-hbm-right-now/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-04-30-050",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及財報"
+      ],
+      "title": "Samsung Q1 chip profit hits $36bn on sales of $94bn",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/samsung-q1-chip-profit-hits-36bn-on-sales-of-94bn-2026-04/"
+    },
+    {
+      "rank": 5,
+      "event_id": "powertech-2026-04-30-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Taiwan OSAT Powertech lifts capex to US$1.6bn, targets AI packaging growth",
+      "companies": [
+        "powertech"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429PD241/packaging-growth-testing-powertech-taiwan.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capex": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.44,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 53,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 37,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 7
+      },
+      {
+        "id": "google",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "arm",
+        "count": 2
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 28
+      },
+      {
+        "id": "capex",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "hbm",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 29,
+    "too_old": 133,
+    "gate1_blocked": 52,
+    "gate2_blocked": 35,
+    "passed": 79,
+    "pass_rate": "26.4%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
+      "KLA Corporation Reports Fiscal 2026 Third Quarter Results",
+      "OpenAIâs New GPT-5.5 Powers Codex on NVIDIA Infrastructure â and NVIDIA Is Already Putting It to",
+      "Formula 1® returns to the U.S. this weekend, streaming live on Apple TV",
+      "A new way to create a digital wardrobe from your Google Photos"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 53 則事件，焦點為三星、GCP、英特爾相關動態：「Korea's 'father of HBM' sees 1,000x AI memory surge as Go...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Korea's 'father of HBM' sees 1,000x AI memory surge as Google's TurboQuant fa...（HBM、AI 記憶體、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Delta Electronics posts 34% revenue growth in 1Q26, invests NT$12.1B to expan...（產能、AI 伺服器、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

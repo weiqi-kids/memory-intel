@@ -1,0 +1,341 @@
+{
+  "date": "2026-04-30",
+  "date_range": {
+    "start": "2026-04-24",
+    "end": "2026-04-30"
+  },
+  "generated_at": "2026-04-30T10:18:28.092274Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-24-004",
+      "date": "2026-04-24",
+      "title": "NEO Semiconductor's revolutionary 3D X-DRAM for AI processors has passed proof-of-concept validation — company secures funding to develop next-gen memory HBM alternative",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "amd",
+      "company_b": "intel",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "aws",
+      "company_b": "meta",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 138,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.04
+    },
+    "inventory": {
+      "this_week": 12,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "nand_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "guidance": {
+      "this_week": 10,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.24
+    },
+    "hbm": {
+      "this_week": 11,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.13
+    },
+    "capex": {
+      "this_week": 21,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.04
+    },
+    "capacity": {
+      "this_week": 25,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "ai_server": {
+      "this_week": 11,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.05
+    },
+    "advanced_packaging": {
+      "this_week": 10,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 127,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.09
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "ai_memory": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.1
+    },
+    "shortage": {
+      "this_week": 10,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.15
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "samsung": {
+      "event_count": 19,
+      "sentiment_avg": -0.08,
+      "rank": 2
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 15
+    },
+    "tsmc": {
+      "event_count": 17,
+      "sentiment_avg": 0.16,
+      "rank": 4
+    },
+    "skhynix": {
+      "event_count": 2,
+      "sentiment_avg": -0.75,
+      "rank": 16
+    },
+    "nvidia": {
+      "event_count": 22,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "intel": {
+      "event_count": 19,
+      "sentiment_avg": 0.16,
+      "rank": 3
+    },
+    "arm": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 7
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "microsoft": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "apple": {
+      "event_count": 10,
+      "sentiment_avg": 0.17,
+      "rank": 6
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": -0.09,
+      "rank": 17
+    },
+    "ase": {
+      "event_count": 3,
+      "sentiment_avg": -0.04,
+      "rank": 13
+    },
+    "qualcomm": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "google": {
+      "event_count": 13,
+      "sentiment_avg": 0.08,
+      "rank": 5
+    },
+    "broadcom": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 18
+    },
+    "tokyo_electron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "meta": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    },
+    "nanya": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 9
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 28
+    },
+    "amkor": {
+      "event_count": 2,
+      "sentiment_avg": 0.38,
+      "rank": 20
+    },
+    "macronix": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 21
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.19,
+      "rank": 22
+    },
+    "supermicro": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 23
+    },
+    "oracle": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "powertech": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 29
+    },
+    "kla": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 30
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 430,
+        "last": 31,
+        "change_pct": 1287.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-24",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 17,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 61,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 69,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 145,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 66,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 53,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-24 ~ 2026-04-30）共 430 則事件，重點為「NEO Semiconductor's revolutionary 3D X-DRAM for...」。事件量較上週增加 1287%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "SK海力士",
+        "reason": "本週情緒偏負面（-0.8），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 19 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "台積電",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
