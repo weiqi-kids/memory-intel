@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30T10:18:22.121624Z",
+  "updated_at": "2026-05-01T09:58:50.960596Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -91,14 +91,14 @@
       "name": "日月光",
       "ticker": "3711.TW",
       "currency": "TWD",
-      "ar": 125042214000,
-      "ar_prev": 125663000000,
-      "ar_qoq": "-0%",
-      "inventory": 69382990000,
-      "inv_prev": 66182000000,
-      "inv_qoq": "+5%",
+      "ar": 126007000000,
+      "ar_prev": 125042214000,
+      "ar_qoq": "+1%",
+      "inventory": 76043000000,
+      "inv_prev": 69382990000,
+      "inv_qoq": "+10%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "asml",
@@ -287,14 +287,14 @@
       "name": "KLA Corporation",
       "ticker": "KLAC",
       "currency": "USD",
-      "ar": 2073581000,
-      "ar_prev": 2277755000,
-      "ar_qoq": "-9%",
-      "inventory": 3282605000,
-      "inv_prev": 3297368000,
-      "inv_qoq": "-0%",
+      "ar": 78210000,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
+      "inventory": 3437046000,
+      "inv_prev": 3282605000,
+      "inv_qoq": "+5%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "lam_research",
@@ -385,14 +385,14 @@
       "name": "微軟",
       "ticker": "MSFT",
       "currency": "USD",
-      "ar": 56535000000,
-      "ar_prev": 52894000000,
-      "ar_qoq": "+7%",
-      "inventory": 1059000000,
-      "inv_prev": 1130000000,
-      "inv_qoq": "-6%",
+      "ar": 60041000000,
+      "ar_prev": 56535000000,
+      "ar_qoq": "+6%",
+      "inventory": 1219000000,
+      "inv_prev": 1059000000,
+      "inv_qoq": "+15%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "nanya",
@@ -511,14 +511,14 @@
       "name": "高通",
       "ticker": "QCOM",
       "currency": "USD",
-      "ar": 4153000000,
-      "ar_prev": 2855000000,
-      "ar_qoq": "+45%",
-      "inventory": 6665000000,
-      "inv_prev": 6526000000,
-      "inv_qoq": "+2%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 4347000000,
+      "ar_prev": 4153000000,
+      "ar_qoq": "+5%",
+      "inventory": 7368000000,
+      "inv_prev": 6665000000,
+      "inv_qoq": "+11%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "samsung",
@@ -567,14 +567,14 @@
       "name": "慧榮科技",
       "ticker": "SIMO",
       "currency": "USD",
-      "ar": 201576000,
-      "ar_prev": 220924000,
-      "ar_qoq": "-9%",
-      "inventory": 337967000,
-      "inv_prev": 208005000,
-      "inv_qoq": "+62%",
+      "ar": 220445000,
+      "ar_prev": 211546000,
+      "ar_qoq": "+4%",
+      "inventory": 515250000,
+      "inv_prev": 421798000,
+      "inv_qoq": "+22%",
       "alert": true,
-      "quarter_date": "2025-09-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "skhynix",

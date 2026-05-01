@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-01",
+  "total_events": 37,
+  "by_company": {
+    "google": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "intel": {
+      "count": 4,
+      "sentiment_avg": 0.06
+    },
+    "nvidia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "macronix": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "kla": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "apple": {
+      "count": 4,
+      "sentiment_avg": 0.06
+    },
+    "qualcomm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tsmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "meta": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "aws": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "microsoft": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "capacity": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "shortage": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "earnings": {
+      "count": 23,
+      "sentiment_avg": 0.03
+    },
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.08
+    },
+    "capex": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "guidance": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {
+      "samsung": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "nvidia": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "asml": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "google": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "amd": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "skhynix": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "tokyo_electron": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      }
+    },
+    "topics": {
+      "earnings": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "hbm": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ai_memory": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ddr5": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "guidance": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      }
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "arm",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capacity",
+        "shortage",
+        "earnings",
+        "capex"
+      ]
+    }
+  ]
+}

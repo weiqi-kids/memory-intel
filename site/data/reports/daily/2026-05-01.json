@@ -1,0 +1,338 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:58:57.564136Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "google-2026-05-01-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Chip Industry Week in Review",
+      "companies": [
+        "google",
+        "arm",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "shortage",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://semiengineering.com/chip-industry-week-in-review-136/"
+    },
+    {
+      "rank": 2,
+      "event_id": "meta-2026-05-01-034",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Q1 capex of AWS, MS, Google and Meta tops $700bn",
+      "companies": [
+        "meta",
+        "aws",
+        "google",
+        "microsoft"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/q1-capex-of-aws-ms-google-and-meta-tops-700bn-2026-05/"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-05-01-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Samsung strike threat highlights rising labor risk to AI chip supply chain and corporate pay models",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260428VL206/samsung-labor-strike-ai-chip-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "apple-2026-05-01-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Apple's fiscal 2Q in numbers: iPhone surge, China rebound, margins hold",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260501VL200/apple-growth-iphone-revenue-tim-cook.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "apple-2026-05-01-029",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Apple’s Fatal Misjudgment With Advanced Chip Supply & OpenClaw’s Popularity Has Resulted In Disgruntled Customers And Revenue Loss",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shortage",
+        "inventory",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://wccftech.com/apple-facing-macbook-neo-and-mac-mini-shortages/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "arm",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capacity",
+        "shortage",
+        "earnings",
+        "capex"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 28,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "apple",
+        "count": 4
+      },
+      {
+        "id": "google",
+        "count": 2
+      },
+      {
+        "id": "arm",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 23
+      },
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "capex",
+        "count": 5
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 47,
+    "too_old": 134,
+    "gate1_blocked": 55,
+    "gate2_blocked": 33,
+    "passed": 60,
+    "pass_rate": "21.3%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "2026.04.24Tokyo Electron Chosen for METI's Global South Future-Oriented Co-Creation Project in 2024 ",
+      "KLA Corporation Reports Fiscal 2026 Third Quarter Results",
+      "Formula 1® returns to the U.S. this weekend, streaming live on Apple TV",
+      "Your car with Google built-in is about to get smarter, thanks to Gemini",
+      "Check out the new ways to explore Route 66 on Google Maps."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為英特爾、蘋果、GCP相關動態：「Chip Industry Week in Review」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Chip Industry Week in Review（產能、缺貨、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Q1 capex of AWS, MS, Google and Meta tops $700bn（資本支出、財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
