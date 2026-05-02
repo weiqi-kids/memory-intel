@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01T09:58:50.960596Z",
+  "updated_at": "2026-05-02T09:19:57.842150Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -119,14 +119,14 @@
       "name": "亞馬遜雲端",
       "ticker": "AMZN",
       "currency": "USD",
-      "ar": 67729000000,
-      "ar_prev": 61175000000,
-      "ar_qoq": "+11%",
-      "inventory": 38325000000,
-      "inv_prev": 41494000000,
-      "inv_qoq": "-8%",
+      "ar": 75532000000,
+      "ar_prev": 67729000000,
+      "ar_qoq": "+12%",
+      "inventory": 36534000000,
+      "inv_prev": 38325000000,
+      "inv_qoq": "-5%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "broadcom",
@@ -189,28 +189,28 @@
       "name": "Entegris",
       "ticker": "ENTG",
       "currency": "USD",
-      "ar": 462500000,
-      "ar_prev": 493200000,
-      "ar_qoq": "-6%",
-      "inventory": 643200000,
-      "inv_prev": 646800000,
-      "inv_qoq": "-1%",
+      "ar": 529500000,
+      "ar_prev": 462500000,
+      "ar_qoq": "+14%",
+      "inventory": 644400000,
+      "inv_prev": 643200000,
+      "inv_qoq": "+0%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "google",
       "name": "谷歌雲端",
       "ticker": "GOOGL",
       "currency": "USD",
-      "ar": 62886000000,
-      "ar_prev": 57148000000,
-      "ar_qoq": "+10%",
+      "ar": 62999000000,
+      "ar_prev": 62886000000,
+      "ar_qoq": "+0%",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "hp",
@@ -357,14 +357,14 @@
       "name": "臉書",
       "ticker": "META",
       "currency": "USD",
-      "ar": 19769000000,
-      "ar_prev": 17297000000,
-      "ar_qoq": "+14%",
+      "ar": 17470000000,
+      "ar_prev": 19769000000,
+      "ar_qoq": "-12%",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "micron",

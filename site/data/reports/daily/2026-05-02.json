@@ -1,0 +1,198 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:20:03.993997Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "silicon_motion-2026-05-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Silicon Motion Technology Corporation (SIMO) Q1 2026 Earnings Call Transcript",
+      "companies": [
+        "silicon_motion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4896020-silicon-motion-technology-corporation-simo-q1-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-02-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TotalEnergies SE (TTES:CA) Q1 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4897375-totalenergies-se-ttes-ca-q1-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sumida Corporation 2026 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4897718-sumida-corporation-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Alliant Energy Corporation 2026 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4897716-alliant-energy-corporation-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-02-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "adidas AG (ADDYY) Q1 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4896048-adidas-ag-addyy-q1-2026-earnings-call-transcript?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "silicon_motion",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 60,
+    "too_old": 136,
+    "gate1_blocked": 57,
+    "gate2_blocked": 29,
+    "passed": 47,
+    "pass_rate": "17.5%",
+    "gate2_block_rate": "10.8%",
+    "gate2_samples": [
+      "KLA Corporation Reports Fiscal 2026 Third Quarter Results",
+      "Formula 1® returns to the U.S. this weekend, streaming live on Apple TV",
+      "Your car with Google built-in is about to get smarter, thanks to Gemini",
+      "Check out the new ways to explore Route 66 on Google Maps.",
+      "Preferred Sources is now available in all languages."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為慧榮科技相關動態：「Silicon Motion Technology Corporation (SIMO) Q1 2026 Earn...」。主要關注主題為財報、半導體/記憶體通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Silicon Motion Technology Corporation (SIMO) Q1 2026 Earnings Call Transcript（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "TotalEnergies SE (TTES:CA) Q1 2026 Earnings Call Transcript（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
