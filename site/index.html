@@ -1731,10 +1731,15 @@
             svg.selectAll(".node").each(function(d) {
                 const ret = calcReturn(d.id, state.timeRange[0], state.timeRange[1]);
                 const circle = d3.select(this).select("circle");
+                // 填色用位置色（上游橘/中游藍/下游綠）
+                circle.attr("fill", stockColors[d.id] || positionColor[d.position] || "#888");
+                // 外框用漲跌色
                 if (ret === null) {
-                    circle.attr("fill", "#888");
+                    circle.attr("stroke", "#ccc").attr("stroke-width", 2);
+                } else if (ret > 0) {
+                    circle.attr("stroke", "var(--hex-pass, #1e8050)").attr("stroke-width", 3);
                 } else {
-                    circle.attr("fill", scColor(ret));
+                    circle.attr("stroke", "var(--hex-critical, #c93135)").attr("stroke-width", 3);
                 }
             });
         }
