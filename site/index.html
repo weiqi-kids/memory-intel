@@ -2712,6 +2712,60 @@
                     if (abs >= 1e3) return (d / 1e3).toFixed(0) + 'K';
                     return d;
                 }));
+
+            // Overlay selected company stock price line
+            if (state.selectedCompany && data.stockPrices[state.selectedCompany]) {
+                const prices = data.stockPrices[state.selectedCompany]
+                    .filter(p => p.date >= state.timeRange[0] && p.date <= state.timeRange[1]);
+                if (prices.length > 1) {
+                    const basePrice = prices[0].close;
+                    const normalized = prices.map(p => ({ date: p.date, val: (p.close / basePrice) * 100 }));
+                    const yRight = d3.scaleLinear()
+                        .domain(d3.extent(normalized, d => d.val)).nice()
+                        .range([height - margin.bottom, margin.top]);
+
+                    // Right axis
+                    svg.append('g').attr('class', 'axis')
+                        .attr('transform', `translate(${width - margin.right},0)`)
+                        .call(d3.axisRight(yRight).ticks(4).tickFormat(d => d.toFixed(0)));
+
+                    // Price line
+                    const company = companyMap[state.selectedCompany];
+                    const lineColor = stockColors[state.selectedCompany]
+                        || (company ? positionColor[company.position] : null)
+                        || '#666';
+                    svg.append('path')
+                        .datum(normalized)
+                        .attr('fill', 'none')
+                        .attr('stroke', lineColor)
+                        .attr('stroke-width', 2)
+                        .attr('d', d3.line()
+                            .x(d => x(d.date))
+                            .y(d => yRight(d.val))
+                        );
+
+                    // End dot + label
+                    const last = normalized[normalized.length - 1];
+                    svg.append('circle')
+                        .attr('cx', x(last.date)).attr('cy', yRight(last.val))
+                        .attr('r', 3).attr('fill', lineColor);
+                    svg.append('text')
+                        .attr('x', x(last.date) - 5).attr('y', yRight(last.val) - 8)
+                        .attr('fill', lineColor).attr('font-size', '10px').attr('text-anchor', 'end')
+                        .text(`${company?.short_name || state.selectedCompany} ${last.val.toFixed(0)}`);
+
+                    // Legend
+                    const legendY = height - 5;
+                    svg.append('line')
+                        .attr('x1', width / 2 + 80).attr('x2', width / 2 + 100)
+                        .attr('y1', legendY).attr('y2', legendY)
+                        .attr('stroke', lineColor).attr('stroke-width', 2);
+                    svg.append('text')
+                        .attr('x', width / 2 + 105).attr('y', legendY + 3)
+                        .attr('fill', '#666').attr('font-size', '11px')
+                        .text(`${company?.short_name || state.selectedCompany} 股價`);
+                }
+            }
         }
 
         window.selectETF = function(etfId) {
