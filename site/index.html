@@ -704,6 +704,26 @@
             color: var(--text-primary, #1e2030);
         }
 
+        .tab-info {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            background: var(--bg-muted, #f0f2f5);
+            color: var(--text-muted, #999);
+            font-size: 9px;
+            font-weight: 700;
+            cursor: help;
+            margin-left: 2px;
+            vertical-align: middle;
+        }
+        .tab-info:hover {
+            background: var(--bg-active, #e0e4e8);
+            color: var(--text-secondary, #666);
+        }
+
         .layer-label {
             font-size: 11px;
             fill: #666;
@@ -909,12 +929,12 @@
                 <div id="stock-chart" class="panel">
                     <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
                         <div class="tab-bar" id="stock-tabs">
-                            <div class="tab active" data-view="trend">走勢</div>
-                            <div class="tab" data-view="heatmap">熱力</div>
-                            <div class="tab" data-view="fundflow">流向</div>
-                            <div class="tab" data-view="holders">持倉</div>
-                            <div class="tab" data-view="backtest">回測</div>
-                            <div class="tab" data-view="distribution">分布</div>
+                            <div class="tab active" data-view="trend">走勢 <span class="tab-info" data-view="trend">?</span></div>
+                            <div class="tab" data-view="heatmap">熱力 <span class="tab-info" data-view="heatmap">?</span></div>
+                            <div class="tab" data-view="fundflow">流向 <span class="tab-info" data-view="fundflow">?</span></div>
+                            <div class="tab" data-view="holders">持倉 <span class="tab-info" data-view="holders">?</span></div>
+                            <div class="tab" data-view="backtest">回測 <span class="tab-info" data-view="backtest">?</span></div>
+                            <div class="tab" data-view="distribution">分布 <span class="tab-info" data-view="distribution">?</span></div>
                         </div>
                         <div class="tab-bar" id="stock-range">
                         </div>
@@ -1565,6 +1585,29 @@
         function hideTooltip() {
             tooltip.style("opacity", 0);
         }
+
+        // ===== Tab Info Tooltips =====
+        const tabInfoTexts = {
+            trend: '<strong>走勢</strong><br>多檔股價走勢圖（歸一化為 100）<br>• 拖曳時間刷選器調整範圍<br>• 點供應鏈節點看該公司 vs 上下游<br>• 日/週/月 切換區間<br>• 灰虛線 = SMH ETF 基準',
+            heatmap: '<strong>熱力</strong><br>漲跌熱力圖，按上/中/下游分組<br>• 顏色深淺 = 漲跌幅度<br>• 點擊色塊切換到該公司走勢',
+            fundflow: '<strong>流向</strong><br>半導體 ETF 資金流向<br>• SMH / SOXX / SOXQ 三檔 ETF<br>• 綠柱 = 資金流入，紅柱 = 流出<br>• 點 ETF 卡片切換',
+            holders: '<strong>持倉</strong><br>機構投資人持股明細<br>• 點上方公司名稱切換<br>• 顯示股數、佔比、市值<br>• 折線 = 機構持股比例歷史趨勢',
+            backtest: '<strong>回測</strong><br>⚠ 需先點選一家公司<br>• 股價走勢 + 報酬率 vs SMH<br>• 黃點 = 應收帳款(AR)，紫方 = 庫存<br>• Hover 看季度數據 + QoQ 變化<br>• 1M/3M/6M/1Y 切換區間',
+            distribution: '<strong>分布</strong><br>⚠ 需先點選一家公司<br>• 20 日持有期報酬分布直方圖<br>• 顯示勝率、中位數、最大虧損<br>• 跌/漲 >10% 發生率<br>• 6M/12M/24M 切換回顧期',
+        };
+        document.querySelectorAll('.tab-info').forEach(el => {
+            el.addEventListener('mouseenter', e => {
+                e.stopPropagation();
+                const view = el.getAttribute('data-view');
+                const html = tabInfoTexts[view] || '';
+                if (html) showTooltip(html, e);
+            });
+            el.addEventListener('mouseleave', e => {
+                e.stopPropagation();
+                hideTooltip();
+            });
+            el.addEventListener('click', e => e.stopPropagation());
+        });
 
         function updateSelectedInfo() {
             const el = document.getElementById("selected-company");
