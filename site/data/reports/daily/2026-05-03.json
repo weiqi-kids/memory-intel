@@ -1,0 +1,282 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:31:38.144389Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "aws-2026-05-03-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "CSP capex push toward US$700B as AI race intensifies, but ASIC demand timing remains uncertain",
+      "companies": [
+        "aws",
+        "google",
+        "meta",
+        "microsoft"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260430VL223/capex-earnings-asic-demand-csp.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-05-03-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Taiwan supplier JPC takes No. 2 spot in Nvidia Vera Rubin power cable certification",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429PD200/jpc-production-investment-cables-development.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-05-03-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Hot Memory Demand Pushes Samsung’s Chip Making Business To Profitability – Report",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/hot-memory-demand-pushes-samsungs-chip-making-business-to-profitability-report/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-05-03-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung restructures home appliance business after 90% profit erosion",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429PD238/samsung-home-appliance-business-production-sales.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "silicon_motion-2026-05-03-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Silicon Motion posts record 1Q26 revenue driven by AI, new products to boost growth",
+      "companies": [
+        "silicon_motion"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260429PD239/revenue-growth-silicon-motion-2026-market-share.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "silicon_motion",
+        "count": 1
+      },
+      {
+        "id": "aws",
+        "count": 1
+      },
+      {
+        "id": "google",
+        "count": 1
+      },
+      {
+        "id": "meta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 70,
+    "too_old": 136,
+    "gate1_blocked": 61,
+    "gate2_blocked": 34,
+    "passed": 28,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "KLA Corporation Reports Fiscal 2026 Third Quarter Results",
+      "Formula 1® returns to the U.S. this weekend, streaming live on Apple TV",
+      "Your car with Google built-in is about to get smarter, thanks to Gemini",
+      "Check out the new ways to explore Route 66 on Google Maps.",
+      "Preferred Sources is now available in all languages."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為三星、慧榮科技、AWS相關動態：「CSP capex push toward US$700B as AI race intensifies, but...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CSP capex push toward US$700B as AI race intensifies, but ASIC demand timing ...（資本支出、財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "Taiwan supplier JPC takes No. 2 spot in Nvidia Vera Rubin power cable certifi...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
