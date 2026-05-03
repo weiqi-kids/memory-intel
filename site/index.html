@@ -3323,12 +3323,16 @@
                 const sign = change >= 0 ? '+' : '';
 
                 cell.addEventListener('mouseenter', (event) => {
-                    let tip = `<strong>${companyLink(id, name)}</strong><br>${role}<br>漲跌：${sign}${change.toFixed(2)}%`;
+                    let tip = `<strong>${companyLink(id, name)}</strong><br>`;
+                    tip += `<span style="color:var(--text-muted,#999)">角色：${role}</span><br>`;
+                    tip += `本公司漲跌：${sign}${change.toFixed(2)}%<br>`;
                     if (state.smhReturn !== null) {
                         const excess = change - state.smhReturn;
                         const exSign = excess >= 0 ? '+' : '';
                         const exColor = excess >= 0 ? 'var(--hex-pass, #1e8050)' : 'var(--hex-critical, #c93135)';
-                        tip += `<br>vs SMH：${state.smhReturn >= 0 ? '+' : ''}${state.smhReturn.toFixed(2)}%（<span style="color:${exColor}">超額 ${exSign}${excess.toFixed(2)}%</span>）`;
+                        const smhSign = state.smhReturn >= 0 ? '+' : '';
+                        tip += `大盤 SMH 同期：${smhSign}${state.smhReturn.toFixed(2)}%<br>`;
+                        tip += `<span style="color:${exColor}">${excess >= 0 ? '贏大盤' : '輸大盤'} ${Math.abs(excess).toFixed(2)}%</span>`;
                     }
                     showTooltip(tip, event);
                 });
