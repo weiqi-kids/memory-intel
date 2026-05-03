@@ -111,6 +111,15 @@
             letter-spacing: 0.5px;
         }
 
+        #supply-chain {
+            overflow: hidden;
+            min-width: 0;
+        }
+        #chain-svg {
+            width: 100%;
+            display: block;
+        }
+
         #time-brush {
             grid-row: 1;
             overflow: hidden;
@@ -1697,6 +1706,7 @@
             updateStockChart();
             updateEventTimeline();
             const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
+            if (view === 'fundflow') renderFundFlow();
             if (view === 'backtest') renderBacktest();
             if (view === 'distribution') renderDistribution();
         };
