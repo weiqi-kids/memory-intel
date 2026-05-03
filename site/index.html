@@ -3323,16 +3323,24 @@
                 const sign = change >= 0 ? '+' : '';
 
                 cell.addEventListener('mouseenter', (event) => {
-                    let tip = `<strong>${companyLink(id, name)}</strong><br>`;
-                    tip += `<span style="color:var(--text-muted,#999)">角色：${role}</span><br>`;
-                    tip += `本公司漲跌：${sign}${change.toFixed(2)}%<br>`;
+                    // 計算時間範圍文字
+                    const fmt = d => d.toLocaleDateString('zh-TW', {year:'numeric',month:'2-digit',day:'2-digit'});
+                    const rangeText = `${fmt(state.timeRange[0])} ~ ${fmt(state.timeRange[1])}`;
+
+                    let tip = `<strong>${companyLink(id, name)}</strong>`;
+                    tip += `<span style="color:var(--text-muted,#999)">（${role}）</span><br>`;
+                    tip += `<span style="color:var(--text-muted,#999)">期間：${rangeText}</span><br><br>`;
+                    tip += `本公司在這段期間的股價漲跌：<strong>${sign}${change.toFixed(2)}%</strong><br>`;
                     if (state.smhReturn !== null) {
                         const excess = change - state.smhReturn;
-                        const exSign = excess >= 0 ? '+' : '';
                         const exColor = excess >= 0 ? 'var(--hex-pass, #1e8050)' : 'var(--hex-critical, #c93135)';
                         const smhSign = state.smhReturn >= 0 ? '+' : '';
-                        tip += `大盤 SMH 同期：${smhSign}${state.smhReturn.toFixed(2)}%<br>`;
-                        tip += `<span style="color:${exColor}">${excess >= 0 ? '贏大盤' : '輸大盤'} ${Math.abs(excess).toFixed(2)}%</span>`;
+                        tip += `同期間半導體大盤（SMH ETF）漲跌：<strong>${smhSign}${state.smhReturn.toFixed(2)}%</strong><br><br>`;
+                        if (excess >= 0) {
+                            tip += `<span style="color:${exColor}">→ 贏大盤 ${excess.toFixed(2)}%（表現優於大盤）</span>`;
+                        } else {
+                            tip += `<span style="color:${exColor}">→ 輸大盤 ${Math.abs(excess).toFixed(2)}%（漲幅不及大盤）</span>`;
+                        }
                     }
                     showTooltip(tip, event);
                 });
