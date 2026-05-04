@@ -116,8 +116,8 @@
             min-width: 0;
         }
         #chain-svg {
-            width: 100%;
             display: block;
+            overflow: visible;
         }
 
         #time-brush {
@@ -127,7 +127,7 @@
 
         .middle-row {
             display: grid;
-            grid-template-columns: 1fr;
+            grid-template-columns: 1fr 1fr;
             gap: 20px;
         }
 
@@ -2000,6 +2000,9 @@
 
             const linkGroup = svg.append("g").attr("class", "links");
 
+            const padLeft = 15, padRight = 50;
+            const usableWidth = width - padLeft - padRight;
+
             data.links.forEach(link => {
                 const source = data.companies.find(c => c.id === link.source);
                 const target = data.companies.find(c => c.id === link.target);
@@ -2009,9 +2012,9 @@
                     .attr("class", "link")
                     .attr("data-source", link.source)
                     .attr("data-target", link.target)
-                    .attr("x1", source.x * width)
+                    .attr("x1", padLeft + source.x * usableWidth)
                     .attr("y1", source.y * height)
-                    .attr("x2", target.x * width)
+                    .attr("x2", padLeft + target.x * usableWidth)
                     .attr("y2", target.y * height)
                     .attr("stroke-width", link.strength || 1);
             });
@@ -2020,7 +2023,11 @@
                 .data(data.companies)
                 .join("g")
                 .attr("class", "node")
-                .attr("transform", d => `translate(${d.x * width}, ${d.y * height})`)
+                .attr("transform", d => {
+                    const padLeft = 15, padRight = 50;
+                    const usableWidth = width - padLeft - padRight;
+                    return `translate(${padLeft + d.x * usableWidth}, ${d.y * height})`;
+                })
                 .on("click", (event, d) => {
                     event.stopPropagation();
                     selectCompany(state.selectedCompany === d.id ? null : d.id);
