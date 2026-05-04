@@ -2986,7 +2986,7 @@
                     <div style="font-size:0.7rem; color:#888;">
                         <span style="color:#eab308">●</span> 應收帳款
                         <span style="color:#a855f7; margin-left:6px;">■</span> 庫存
-                        <span style="color:#888; margin-left:6px;">（Hover 看數據）</span>
+                        <span style="margin-left:6px;">（標記在財報發布時間點，Hover 看數據）</span>
                     </div>
                 </div>
                 <svg id="backtest-svg"></svg>
@@ -3088,7 +3088,7 @@
                         // AR marker (yellow circle) — 左偏 10px
                         if (q.ar != null) {
                             const arQoQText = arQoQ !== null ? `<br>較上季：${arQoQ >= 0 ? '+' : ''}${arQoQ.toFixed(1)}%${arQoQ > 20 ? ' <span style="color:var(--hex-critical,#c93135)">⚠ 大幅增加</span>' : ''}` : '';
-                            const arTooltipHtml = `<strong>● 應收帳款 (AR)</strong><br>金額：${fmtB(q.ar)}${arQoQText}<br><span style="color:#888;font-size:0.75rem">AR 大幅增加可能代表客戶付款延遲</span>`;
+                            const arTooltipHtml = `<strong>● 應收帳款 (AR)</strong><br>季度：${q.quarter}<br>金額：${fmtB(q.ar)}${arQoQText}<br><span style="color:#888;font-size:0.75rem">標記位置 = 該季財報發布時間點<br>AR 大幅增加可能代表客戶付款延遲</span>`;
                             svg.append('circle')
                                 .attr('cx', x(qDate) - 10)
                                 .attr('cy', y(priceAtQ) - 15)
@@ -3104,7 +3104,7 @@
                         // Inventory marker (purple square) — 右偏 10px
                         if (q.inventory != null) {
                             const invQoQText = invQoQ !== null ? `<br>較上季：${invQoQ >= 0 ? '+' : ''}${invQoQ.toFixed(1)}%${invQoQ > 20 ? ' <span style="color:var(--hex-critical,#c93135)">⚠ 大幅增加</span>' : ''}` : '';
-                            const invTooltipHtml = `<strong>■ 庫存 (Inventory)</strong><br>金額：${fmtB(q.inventory)}${invQoQText}<br><span style="color:#888;font-size:0.75rem">庫存大幅增加可能代表產品滯銷</span>`;
+                            const invTooltipHtml = `<strong>■ 庫存 (Inventory)</strong><br>季度：${q.quarter}<br>金額：${fmtB(q.inventory)}${invQoQText}<br><span style="color:#888;font-size:0.75rem">標記位置 = 該季財報發布時間點<br>庫存大幅增加可能代表產品滯銷</span>`;
                             svg.append('rect')
                                 .attr('x', x(qDate) + 4)
                                 .attr('y', y(priceAtQ) - 20)
