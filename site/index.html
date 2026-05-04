@@ -127,7 +127,7 @@
 
         .middle-row {
             display: grid;
-            grid-template-columns: 1fr 1fr;
+            grid-template-columns: 3fr 4fr;
             gap: 20px;
         }
 
@@ -1971,14 +1971,10 @@
         function renderSupplyChain() {
             const container = d3.select("#supply-chain");
             const svg = d3.select("#chain-svg");
-            const containerWidth = container.node().clientWidth - 30;
-            const width = Math.max(containerWidth, 600);
+            const width = container.node().clientWidth - 30;
             const height = 440;
 
-            svg.attr("viewBox", `0 0 ${width} ${height}`)
-               .attr("width", "100%")
-               .attr("height", null)
-               .style("max-height", height + "px");
+            svg.attr("width", width).attr("height", height);
             svg.selectAll("*").remove();
 
             const layers = [
