@@ -1610,7 +1610,7 @@
             heatmap: '<strong>熱力圖</strong><br>顯示所有公司在目前時間範圍內的股價漲跌。<br>按供應鏈位置分三排：上游（設備/材料）、中游（製造/封測）、下游（AI/系統）。<br><br><strong>顏色：</strong>綠色 = 漲，紅色 = 跌，越深越大。<br><strong>Hover：</strong>顯示該公司漲跌% 和 vs 大盤表現（贏/輸大盤多少%）。<br><strong>點擊：</strong>切換到該公司的走勢圖。',
             fundflow: '<strong>ETF 資金流向</strong><br>SMH、SOXX、SOXQ 是追蹤半導體產業的指數型基金(ETF)，<br>它們持有本 Dashboard 上多數公司的股票。<br><br><strong>為什麼要看？</strong><br>ETF 資金流入 = 市場整體看好半導體產業，會帶動個股上漲。<br>ETF 資金流出 = 市場偏保守，個股可能承壓。<br>這是「產業整體資金動向」的觀察指標。<br><br><strong>卡片資訊：</strong>最新價格、當日漲跌、近 5 日淨流向。<br><strong>柱狀圖：</strong>綠柱 = 當日資金流入，紅柱 = 當日流出。<br><strong>點擊卡片：</strong>切換顯示不同 ETF。',
             holders: '<strong>機構持倉</strong><br>顯示各公司的機構投資人（基金、法人）持股明細。<br><br><strong>操作方式：</strong>點上方公司名稱切換。<br><strong>表格欄位：</strong>持股機構名稱、股數、佔比(%)、市值。<br><strong>折線圖：</strong>該公司機構總持股比例的歷史趨勢，<br>上升 = 法人持續買進，下降 = 法人減碼。',
-            backtest: '<strong>回測分析</strong><br>分析單一公司的股價走勢和基本面數據。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>圖表：</strong>該公司股價走勢（原始價格）。<br><strong>黃色圓點：</strong>應收帳款(AR)季度數據，Hover 看金額和 QoQ 變化。<br><strong>紫色方塊：</strong>庫存季度數據，Hover 看金額和 QoQ 變化。<br><strong>下方：</strong>報酬率 vs SMH 大盤、最大回撤(MDD) vs SMH。<br><strong>按鈕：</strong>1M/3M/6M/1Y 切換回顧期間。',
+            backtest: '<strong>回測分析</strong><br>分析單一公司的股價走勢和基本面數據。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>藍色線：</strong>該公司的股價走勢（原始價格）。<br><strong>黃色圓點 ●：</strong>該季度的應收帳款(AR)金額。<br>AR 大幅增加可能代表客戶付款延遲，是風險信號。<br><strong>紫色方塊 ■：</strong>該季度的庫存金額。<br>庫存大幅增加可能代表產品滯銷。<br>Hover 圓點或方塊可看金額和較上季變化。<br><br><strong>下方數字：</strong><br>• 期間報酬率 = 這段期間股價漲跌幅（括號內是大盤 SMH ETF 同期比較）<br>• 最大回撤(MDD) = 期間內從最高點跌到最低點的幅度（越小越好）<br><strong>按鈕：</strong>1M/3M/6M/1Y 切換回顧期間。',
             distribution: '<strong>報酬分布</strong><br>分析單一公司「任意買進持有 20 個交易日」的報酬分布。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>直方圖：</strong>所有 20 日持有期報酬的分布。<br>綠色 = 正報酬區間，紅色 = 負報酬區間。<br><strong>統計數據：</strong><br>• 中位數 = 買進後最可能的報酬<br>• 勝率 = 賺錢的機率（>50% 為綠色）<br>• 最大虧損 / 跌>10% 發生率<br>• 回撤恢復天數 = 跌了之後多久漲回來<br><strong>按鈕：</strong>6M/12M/24M 切換回顧期間。',
         };
         document.querySelectorAll('.tab-info').forEach(el => {
@@ -2981,7 +2981,14 @@
 
             // Build container HTML
             container.innerHTML = `
-                <div style="font-size:0.85rem; font-weight:600; margin-bottom:4px; color:var(--fg, #1e2030);">${companyLink(companyId, displayName)}</div>
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+                    <div style="font-size:0.85rem; font-weight:600; color:var(--fg, #1e2030);">${companyLink(companyId, displayName)}</div>
+                    <div style="font-size:0.7rem; color:#888;">
+                        <span style="color:#eab308">●</span> 應收帳款
+                        <span style="color:#a855f7; margin-left:6px;">■</span> 庫存
+                        <span style="color:#888; margin-left:6px;">（Hover 看數據）</span>
+                    </div>
+                </div>
                 <svg id="backtest-svg"></svg>
                 <div id="backtest-summary" style="display:flex; gap:16px; justify-content:center; margin-top:6px; font-size:0.8rem;"></div>
             `;
@@ -3036,8 +3043,8 @@
             const mddText = mdd !== null ? `${mdd.toFixed(2)}%` : 'N/A';
             const retStyle = isBold ? `color:${retColor}; font-weight:900` : `color:${retColor}`;
             summaryEl.innerHTML = `
-                <span>報酬率：<strong style="${retStyle}">${retText}</strong><span style="color:#888">${smhRetStr}</span></span>
-                <span>MDD：<strong style="color:${mddColor}">${mddText}</strong><span style="color:#888">${smhMddStr}</span></span>
+                <span>期間報酬率：<strong style="${retStyle}">${retText}</strong><span style="color:#888"> 大盤${smhRetStr}</span></span>
+                <span>最大回撤(MDD)：<strong style="color:${mddColor}">${mddText}</strong><span style="color:#888"> 大盤${smhMddStr}</span></span>
             `;
 
             // 7. Trigger lazy load of financials history, then overlay markers
@@ -3080,7 +3087,8 @@
 
                         // AR marker (yellow circle)
                         if (q.ar != null) {
-                            const arTooltipHtml = `<strong>應收帳款 (AR)</strong><br>${fmtB(q.ar)}${arQoQ !== null ? `<br>QoQ: ${arQoQ >= 0 ? '+' : ''}${arQoQ.toFixed(1)}%` : ''}`;
+                            const arQoQText = arQoQ !== null ? `<br>較上季：${arQoQ >= 0 ? '+' : ''}${arQoQ.toFixed(1)}%${arQoQ > 20 ? ' <span style="color:var(--hex-critical,#c93135)">⚠ 大幅增加</span>' : ''}` : '';
+                            const arTooltipHtml = `<strong>● 應收帳款 (AR)</strong><br>金額：${fmtB(q.ar)}${arQoQText}<br><span style="color:#888;font-size:0.75rem">AR 大幅增加可能代表客戶付款延遲</span>`;
                             svg.append('circle')
                                 .attr('cx', x(qDate))
                                 .attr('cy', y(priceAtQ) - 12)
@@ -3095,7 +3103,8 @@
 
                         // Inventory marker (purple square)
                         if (q.inventory != null) {
-                            const invTooltipHtml = `<strong>庫存 (Inventory)</strong><br>${fmtB(q.inventory)}${invQoQ !== null ? `<br>QoQ: ${invQoQ >= 0 ? '+' : ''}${invQoQ.toFixed(1)}%` : ''}`;
+                            const invQoQText = invQoQ !== null ? `<br>較上季：${invQoQ >= 0 ? '+' : ''}${invQoQ.toFixed(1)}%${invQoQ > 20 ? ' <span style="color:var(--hex-critical,#c93135)">⚠ 大幅增加</span>' : ''}` : '';
+                            const invTooltipHtml = `<strong>■ 庫存 (Inventory)</strong><br>金額：${fmtB(q.inventory)}${invQoQText}<br><span style="color:#888;font-size:0.75rem">庫存大幅增加可能代表產品滯銷</span>`;
                             svg.append('rect')
                                 .attr('x', x(qDate) - 5)
                                 .attr('y', y(priceAtQ) + 7)
