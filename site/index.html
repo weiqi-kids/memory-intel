@@ -888,6 +888,15 @@
             border-color: var(--color-brand, #3b82f6);
             color: var(--color-brand, #3b82f6);
         }
+        .holder-ext {
+            margin-left: 3px;
+            color: var(--text-muted, #999);
+            text-decoration: none;
+            font-size: 0.65rem;
+        }
+        .holder-ext:hover {
+            color: var(--color-brand, #3b82f6);
+        }
 
         .tab:hover:not(.active) {
             background: var(--bg-active, #e4e7eb);
@@ -2798,7 +2807,9 @@
             const chipsHtml = ids.map(id => {
                 const c = companies[id];
                 const name = c.short_name || c.name || id;
-                return `<div class="holder-chip${id === selected ? ' active' : ''}" onclick="selectHolderCompany('${id}')">${companyLink(id, name)}</div>`;
+                const url = companyMap[id]?.ir_url;
+                const extLink = url ? `<a href="${url}" target="_blank" rel="noopener" class="holder-ext" onclick="event.stopPropagation()" title="開啟官網">↗</a>` : '';
+                return `<div class="holder-chip${id === selected ? ' active' : ''}" onclick="selectHolderCompany('${id}')">${name}${extLink}</div>`;
             }).join('');
             document.getElementById('holders-company-select').innerHTML = chipsHtml;
 
