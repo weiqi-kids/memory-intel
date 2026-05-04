@@ -3085,14 +3085,14 @@
                         const arQoQ = prevQ ? qoq(q.ar, prevQ.ar) : null;
                         const invQoQ = prevQ ? qoq(q.inventory, prevQ.inventory) : null;
 
-                        // AR marker (yellow circle)
+                        // AR marker (yellow circle) — 左偏 10px
                         if (q.ar != null) {
                             const arQoQText = arQoQ !== null ? `<br>較上季：${arQoQ >= 0 ? '+' : ''}${arQoQ.toFixed(1)}%${arQoQ > 20 ? ' <span style="color:var(--hex-critical,#c93135)">⚠ 大幅增加</span>' : ''}` : '';
                             const arTooltipHtml = `<strong>● 應收帳款 (AR)</strong><br>金額：${fmtB(q.ar)}${arQoQText}<br><span style="color:#888;font-size:0.75rem">AR 大幅增加可能代表客戶付款延遲</span>`;
                             svg.append('circle')
-                                .attr('cx', x(qDate))
-                                .attr('cy', y(priceAtQ) - 12)
-                                .attr('r', 5)
+                                .attr('cx', x(qDate) - 10)
+                                .attr('cy', y(priceAtQ) - 15)
+                                .attr('r', 6)
                                 .attr('fill', '#eab308')
                                 .attr('stroke', '#a16207')
                                 .attr('stroke-width', 1)
@@ -3101,14 +3101,13 @@
                                 .on('mouseleave', hideTooltip);
                         }
 
-                        // Inventory marker (purple square)
+                        // Inventory marker (purple square) — 右偏 10px
                         if (q.inventory != null) {
                             const invQoQText = invQoQ !== null ? `<br>較上季：${invQoQ >= 0 ? '+' : ''}${invQoQ.toFixed(1)}%${invQoQ > 20 ? ' <span style="color:var(--hex-critical,#c93135)">⚠ 大幅增加</span>' : ''}` : '';
                             const invTooltipHtml = `<strong>■ 庫存 (Inventory)</strong><br>金額：${fmtB(q.inventory)}${invQoQText}<br><span style="color:#888;font-size:0.75rem">庫存大幅增加可能代表產品滯銷</span>`;
                             svg.append('rect')
-                                .attr('x', x(qDate) - 5)
-                                .attr('y', y(priceAtQ) + 7)
-                                .attr('width', 10)
+                                .attr('x', x(qDate) + 4)
+                                .attr('y', y(priceAtQ) - 20)
                                 .attr('height', 10)
                                 .attr('fill', '#a855f7')
                                 .attr('stroke', '#7e22ce')
