@@ -1977,6 +1977,15 @@
             svg.attr("width", width).attr("height", height);
             svg.selectAll("*").remove();
 
+            // Rescale x/y to use full width/height (原始值可能不到 0~1 全範圍)
+            const allX = data.companies.map(c => c.x).filter(v => v != null);
+            const allY = data.companies.map(c => c.y).filter(v => v != null);
+            const xMin = Math.min(...allX), xMax = Math.max(...allX);
+            const yMin = Math.min(...allY), yMax = Math.max(...allY);
+            const margin = 20;
+            const scaleX = x => margin + ((x - xMin) / (xMax - xMin || 1)) * (width - margin * 2);
+            const scaleY = y => margin + ((y - yMin) / (yMax - yMin || 1)) * (height - margin * 2);
+
             const layers = [
                 { name: "上游（設備/材料/EDA）", y: 0.0, height: 0.32, color: "rgba(245, 158, 11, 0.06)" },
                 { name: "中游（製造/代工/封測）", y: 0.34, height: 0.34, color: "rgba(59, 130, 246, 0.06)" },
@@ -2000,9 +2009,6 @@
 
             const linkGroup = svg.append("g").attr("class", "links");
 
-            const padLeft = 15, padRight = 50;
-            const usableWidth = width - padLeft - padRight;
-
             data.links.forEach(link => {
                 const source = data.companies.find(c => c.id === link.source);
                 const target = data.companies.find(c => c.id === link.target);
@@ -2012,10 +2018,10 @@
                     .attr("class", "link")
                     .attr("data-source", link.source)
                     .attr("data-target", link.target)
-                    .attr("x1", padLeft + source.x * usableWidth)
-                    .attr("y1", source.y * height)
-                    .attr("x2", padLeft + target.x * usableWidth)
-                    .attr("y2", target.y * height)
+                    .attr("x1", scaleX(source.x))
+                    .attr("y1", scaleY(source.y))
+                    .attr("x2", scaleX(target.x))
+                    .attr("y2", scaleY(target.y))
                     .attr("stroke-width", link.strength || 1);
             });
 
@@ -2023,11 +2029,7 @@
                 .data(data.companies)
                 .join("g")
                 .attr("class", "node")
-                .attr("transform", d => {
-                    const padLeft = 15, padRight = 50;
-                    const usableWidth = width - padLeft - padRight;
-                    return `translate(${padLeft + d.x * usableWidth}, ${d.y * height})`;
-                })
+                .attr("transform", d => `translate(${scaleX(d.x)}, ${scaleY(d.y)})`)
                 .on("click", (event, d) => {
                     event.stopPropagation();
                     selectCompany(state.selectedCompany === d.id ? null : d.id);
