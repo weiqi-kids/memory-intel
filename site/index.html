@@ -951,8 +951,7 @@
                             <div class="tab" data-view="heatmap">熱力 <span class="tab-info" data-view="heatmap">?</span></div>
                             <div class="tab" data-view="fundflow">流向 <span class="tab-info" data-view="fundflow">?</span></div>
                             <div class="tab" data-view="holders">持倉 <span class="tab-info" data-view="holders">?</span></div>
-                            <div class="tab" data-view="backtest">回測 <span class="tab-info" data-view="backtest">?</span></div>
-                            <div class="tab" data-view="distribution">分布 <span class="tab-info" data-view="distribution">?</span></div>
+                            <div class="tab" data-view="winrate">勝率 <span class="tab-info" data-view="winrate">?</span></div>
                         </div>
                         <div class="tab-bar" id="stock-range">
                         </div>
@@ -981,11 +980,8 @@
                         <div class="holders-select" id="holders-company-select"></div>
                         <div id="holders-table-container"></div>
                     </div>
-                    <div id="stock-backtest-view" style="display:none;">
-                        <div id="backtest-container"></div>
-                    </div>
-                    <div id="stock-distribution-view" style="display:none;">
-                        <div id="distribution-container"></div>
+                    <div id="stock-winrate-view" style="display:none;">
+                        <div id="winrate-container"></div>
                     </div>
                 </div>
 
@@ -1393,7 +1389,7 @@
             return maxDrawdown;
         }
 
-        function calcDistribution(companyId, lookbackMonths) {
+        function calcDistribution(companyId, lookbackMonths, holdingDays = 20) {
             const prices = data.stockPrices[companyId];
             if (!prices || prices.length === 0) return null;
             const cutoff = new Date();
@@ -1401,8 +1397,7 @@
             const si = findNearestTradingDay(prices, cutoff, 'after');
             if (si < 0) return null;
             const subset = prices.slice(si);
-            if (subset.length < 20) return null;
-            const holdingDays = 20;
+            if (subset.length < holdingDays) return null;
             const returns = [];
             for (let i = 0; i <= subset.length - holdingDays; i++) {
                 const entry = subset[i].close;
@@ -1429,7 +1424,7 @@
             };
         }
 
-        function calcRecovery(companyId, lookbackMonths) {
+        function calcRecovery(companyId, lookbackMonths, holdingDays = 20) {
             const prices = data.stockPrices[companyId];
             if (!prices || prices.length === 0) return null;
             const cutoff = new Date();
@@ -1437,8 +1432,7 @@
             const si = findNearestTradingDay(prices, cutoff, 'after');
             if (si < 0) return null;
             const subset = prices.slice(si);
-            if (subset.length < 20) return null;
-            const holdingDays = 20;
+            if (subset.length < holdingDays) return null;
             const recoveryDays = [];
             let noRecoveryCount = 0;
             let drawdownCount = 0;
@@ -1610,8 +1604,7 @@
             heatmap: '<strong>熱力圖</strong><br>顯示所有公司在目前時間範圍內的股價漲跌。<br>按供應鏈位置分三排：上游（設備/材料）、中游（製造/封測）、下游（AI/系統）。<br><br><strong>顏色：</strong>綠色 = 漲，紅色 = 跌，越深越大。<br><strong>Hover：</strong>顯示該公司漲跌% 和 vs 大盤表現（贏/輸大盤多少%）。<br><strong>點擊：</strong>切換到該公司的走勢圖。',
             fundflow: '<strong>ETF 資金流向</strong><br>SMH、SOXX、SOXQ 是追蹤半導體產業的指數型基金(ETF)，<br>它們持有本 Dashboard 上多數公司的股票。<br><br><strong>為什麼要看？</strong><br>ETF 資金流入 = 市場整體看好半導體產業，會帶動個股上漲。<br>ETF 資金流出 = 市場偏保守，個股可能承壓。<br>這是「產業整體資金動向」的觀察指標。<br><br><strong>卡片資訊：</strong>最新價格、當日漲跌、近 5 日淨流向。<br><strong>柱狀圖：</strong>綠柱 = 當日資金流入，紅柱 = 當日流出。<br><strong>點擊卡片：</strong>切換顯示不同 ETF。',
             holders: '<strong>機構持倉</strong><br>顯示各公司的機構投資人（基金、法人）持股明細。<br><br><strong>操作方式：</strong>點上方公司名稱切換。<br><strong>表格欄位：</strong>持股機構名稱、股數、佔比(%)、市值。<br><strong>折線圖：</strong>該公司機構總持股比例的歷史趨勢，<br>上升 = 法人持續買進，下降 = 法人減碼。',
-            backtest: '<strong>回測分析</strong><br>分析單一公司的股價走勢和基本面數據。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>藍色線：</strong>該公司的股價走勢（原始價格）。<br><strong>黃色圓點 ●：</strong>該季度的應收帳款(AR)金額。<br>AR 大幅增加可能代表客戶付款延遲，是風險信號。<br><strong>紫色方塊 ■：</strong>該季度的庫存金額。<br>庫存大幅增加可能代表產品滯銷。<br>Hover 圓點或方塊可看金額和較上季變化。<br><br><strong>下方數字：</strong><br>• 期間報酬率 = 這段期間股價漲跌幅（括號內是大盤 SMH ETF 同期比較）<br>• 最大回撤(MDD) = 期間內從最高點跌到最低點的幅度（越小越好）<br><strong>按鈕：</strong>1M/3M/6M/1Y 切換回顧期間。',
-            distribution: '<strong>報酬分布</strong><br>分析單一公司「任意買進持有 20 個交易日」的報酬分布。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>直方圖：</strong>所有 20 日持有期報酬的分布。<br>綠色 = 正報酬區間，紅色 = 負報酬區間。<br><strong>統計數據：</strong><br>• 中位數 = 買進後最可能的報酬<br>• 勝率 = 賺錢的機率（>50% 為綠色）<br>• 最大虧損 / 跌>10% 發生率<br>• 回撤恢復天數 = 跌了之後多久漲回來<br><strong>按鈕：</strong>6M/12M/24M 切換回顧期間。',
+            winrate: '<strong>勝率分析</strong><br>分析這檔股票「現在買進」的歷史勝率。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>上方走勢圖：</strong><br>• 藍線 = 該公司股價<br>• 灰虛線 = SMH 大盤走勢（歸一化對齊）<br>• 黃點 ● = 應收帳款(AR)季度數據<br>• 紫方 ■ = 庫存季度數據<br>• 下方顯示期間報酬率和最大回撤 vs 大盤<br><br><strong>下方分布圖：</strong><br>根據過去歷史，模擬「任意時間買進，持有 N 天」的報酬分布。<br>• 綠色 = 賺錢的情況，紅色 = 賠錢的情況<br>• 灰虛線 = 同期大盤(SMH)的分布<br>• 勝率 = 賺錢的機率（>50% 為綠色）<br><br><strong>按鈕 1M/3M/6M/1Y：</strong>同時控制走勢圖時間範圍和持有期天數。',
         };
         document.querySelectorAll('.tab-info').forEach(el => {
             el.addEventListener('mouseenter', e => {
@@ -1717,8 +1710,7 @@
             updateEventTimeline();
             const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
             if (view === 'fundflow') renderFundFlow();
-            if (view === 'backtest') renderBacktest();
-            if (view === 'distribution') renderDistribution();
+            if (view === 'winrate') renderWinRate();
         };
 
         // ===== Time Brush =====
@@ -1768,7 +1760,7 @@
             const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
             if (view === 'heatmap') renderHeatmap();
             if (view === 'fundflow') renderFundFlow();
-            if (view === 'backtest' && typeof renderBacktest === 'function') renderBacktest();
+            if (view === 'winrate' && typeof renderWinRate === 'function') renderWinRate();
             renderSupplyChainColors();
         }
 
@@ -2266,7 +2258,7 @@
                     document.querySelectorAll('#stock-tabs .tab').forEach(t => t.classList.remove('active'));
                     tab.classList.add('active');
                     const view = tab.dataset.view;
-                    ['trend', 'heatmap', 'fundflow', 'holders', 'backtest', 'distribution'].forEach(v => {
+                    ['trend', 'heatmap', 'fundflow', 'holders', 'winrate'].forEach(v => {
                         const el = document.getElementById('stock-' + v + '-view');
                         if (el) el.style.display = v === view ? 'block' : 'none';
                     });
@@ -2275,8 +2267,7 @@
                     if (view === 'trend') updateStockChartByRange();
                     if (view === 'fundflow') renderFundFlow();
                     if (view === 'holders') renderHolders();
-                    if (view === 'backtest') renderBacktest();
-                    if (view === 'distribution') renderDistribution();
+                    if (view === 'winrate') renderWinRate();
                 });
             });
 
@@ -2908,10 +2899,8 @@
             let buttons = '';
             if (view === 'trend' || view === 'heatmap') {
                 buttons = '<div class="tab" data-range="1">日</div><div class="tab" data-range="5">週</div><div class="tab active" data-range="20">月</div>';
-            } else if (view === 'backtest') {
+            } else if (view === 'winrate') {
                 buttons = '<div class="tab" data-range="20">1M</div><div class="tab active" data-range="60">3M</div><div class="tab" data-range="120">6M</div><div class="tab" data-range="250">1Y</div>';
-            } else if (view === 'distribution') {
-                buttons = '<div class="tab" data-range="6">6M</div><div class="tab active" data-range="12">12M</div><div class="tab" data-range="24">24M</div>';
             }
             container.innerHTML = buttons;
 
@@ -2922,7 +2911,7 @@
                     const range = parseInt(tab.dataset.range);
                     if (view === 'trend' || view === 'heatmap') {
                         updateStockChartByRange();
-                    } else if (view === 'backtest') {
+                    } else if (view === 'winrate') {
                         const now = state.fullTimeRange[1] || new Date();
                         const msPerDay = 24 * 60 * 60 * 1000;
                         const start = new Date(now.getTime() - range * msPerDay);
@@ -2930,17 +2919,15 @@
                         renderTimeBrush();
                         updateStockChart();
                         updateEventTimeline();
-                        renderBacktest();
+                        renderWinRate();
                         onBrushEnd();
-                    } else if (view === 'distribution') {
-                        renderDistribution();
                     }
                 });
             });
         }
 
-        async function renderBacktest() {
-            const container = document.getElementById('backtest-container');
+        async function renderWinRate() {
+            const container = document.getElementById('winrate-container');
 
             // 1. Check selectedCompany
             if (!state.selectedCompany) {
@@ -2979,64 +2966,96 @@
 
             const displayName = company?.short_name || company?.name || companyId;
 
+            // Get holdingDays from range button
+            const holdingDays = parseInt(document.querySelector('#stock-range .tab.active')?.dataset.range || '60');
+
             // Build container HTML
             container.innerHTML = `
                 <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
                     <div style="font-size:0.85rem; font-weight:600; color:var(--fg, #1e2030);">${companyLink(companyId, displayName)}</div>
                     <div style="font-size:0.7rem; color:#888;">
-                        <span style="color:#eab308">●</span> 應收帳款
+                        <span style="color:#eab308">●</span> AR
                         <span style="color:#a855f7; margin-left:6px;">■</span> 庫存
-                        <span style="margin-left:6px;">（標記在財報發布時間點，Hover 看數據）</span>
+                        <span style="color:#999; margin-left:6px;">- -</span> SMH
                     </div>
                 </div>
-                <svg id="backtest-svg"></svg>
-                <div id="backtest-summary" style="display:flex; gap:16px; justify-content:center; margin-top:6px; font-size:0.8rem;"></div>
+                <svg id="winrate-price-svg"></svg>
+                <div id="winrate-summary" style="display:flex; gap:16px; justify-content:center; margin-top:4px; font-size:0.78rem;"></div>
+                <div id="winrate-dist-wrapper" style="margin-top:6px;"></div>
+                <div id="winrate-stats" style="display:grid; grid-template-columns:1fr 1fr 1fr; gap:3px 10px; font-size:0.75rem; margin-top:6px;"></div>
             `;
 
+            // ===== PRICE CHART =====
             const chartEl = document.getElementById('stock-chart');
-            const width = chartEl.clientWidth - 30;
-            const height = 260;
+            const chartWidth = chartEl.clientWidth - 30;
+            const priceHeight = 220;
             const margin = { top: 15, right: 15, bottom: 25, left: 55 };
 
-            const svg = d3.select('#backtest-svg')
-                .attr('width', width)
-                .attr('height', height);
+            const priceSvg = d3.select('#winrate-price-svg')
+                .attr('width', chartWidth)
+                .attr('height', priceHeight);
+
+            // Compute SMH data for y-domain consideration
+            const smhPrices = data.stockPrices['etf_smh']?.filter(p => p.date >= filtered[0].date && p.date <= filtered[filtered.length - 1].date);
+            let smhNormalized = [];
+            if (smhPrices && smhPrices.length > 1) {
+                const smhBase = smhPrices[0].close;
+                const companyBase = filtered[0].close;
+                smhNormalized = smhPrices.map(d => ({ date: d.date, close: (d.close / smhBase) * companyBase }));
+            }
+
+            const allCloses = filtered.map(d => d.close).concat(smhNormalized.map(d => d.close));
 
             const x = d3.scaleTime()
                 .domain([filtered[0].date, filtered[filtered.length - 1].date])
-                .range([margin.left, width - margin.right]);
+                .range([margin.left, chartWidth - margin.right]);
 
             const y = d3.scaleLinear()
-                .domain([d3.min(filtered, d => d.close) * 0.98, d3.max(filtered, d => d.close) * 1.02])
-                .range([height - margin.bottom, margin.top]);
+                .domain([d3.min(allCloses) * 0.98, d3.max(allCloses) * 1.02])
+                .range([priceHeight - margin.bottom, margin.top]);
 
             // X axis
-            svg.append('g')
+            priceSvg.append('g')
                 .attr('class', 'axis')
-                .attr('transform', `translate(0,${height - margin.bottom})`)
+                .attr('transform', `translate(0,${priceHeight - margin.bottom})`)
                 .call(d3.axisBottom(x).ticks(6).tickFormat(d3.timeFormat('%Y/%m/%d')));
 
             // Y axis
-            svg.append('g')
+            priceSvg.append('g')
                 .attr('class', 'axis')
                 .attr('transform', `translate(${margin.left},0)`)
                 .call(d3.axisLeft(y).ticks(5));
 
-            // Price line
+            // SMH dashed line (draw first so it's behind)
+            if (smhNormalized.length > 1) {
+                const smhLine = d3.line()
+                    .x(d => x(d.date))
+                    .y(d => y(d.close))
+                    .curve(d3.curveMonotoneX);
+                priceSvg.append('path')
+                    .datum(smhNormalized)
+                    .attr('fill', 'none')
+                    .attr('stroke', '#999')
+                    .attr('stroke-width', 1.2)
+                    .attr('stroke-dasharray', '5,3')
+                    .attr('d', smhLine);
+            }
+
+            // Company price line
             const line = d3.line()
                 .x(d => x(d.date))
                 .y(d => y(d.close))
                 .curve(d3.curveMonotoneX);
 
-            svg.append('path')
+            priceSvg.append('path')
                 .datum(filtered)
                 .attr('fill', 'none')
                 .attr('stroke', 'var(--hex-brand, #3b82f6)')
                 .attr('stroke-width', 1.8)
                 .attr('d', line);
 
-            // 5. Summary: return and MDD with color coding
-            const summaryEl = document.getElementById('backtest-summary');
+            // Summary bar: return and MDD
+            const summaryEl = document.getElementById('winrate-summary');
             const retColor = ret !== null && ret >= 0 ? 'var(--hex-pass, #1e8050)' : 'var(--hex-critical, #c93135)';
             const mddColor = 'var(--hex-critical, #c93135)';
             const retText = ret !== null ? `${ret >= 0 ? '+' : ''}${ret.toFixed(2)}%` : 'N/A';
@@ -3047,22 +3066,18 @@
                 <span>最大回撤(MDD)：<strong style="color:${mddColor}">${mddText}</strong><span style="color:#888"> 大盤${smhMddStr}</span></span>
             `;
 
-            // 7. Trigger lazy load of financials history, then overlay markers
+            // Overlay fundamental markers (AR + Inventory)
             const fh = await ensureFinancialsHistory();
-
-            // 6. Overlay fundamental markers
             if (fh) {
                 const timeline = getFinancialsTimeline(companyId);
                 if (timeline && timeline.quarters && timeline.quarters.length > 1) {
                     const quarters = timeline.quarters;
 
-                    // Helper to format large numbers as xB
                     function fmtB(val) {
                         if (val == null) return 'N/A';
                         return (val / 1e9).toFixed(1) + 'B';
                     }
 
-                    // Helper to calculate QoQ%
                     function qoq(curr, prev) {
                         if (prev == null || prev === 0) return null;
                         return ((curr - prev) / Math.abs(prev)) * 100;
@@ -3070,26 +3085,22 @@
 
                     quarters.forEach((q, idx) => {
                         const qDate = new Date(q.quarter);
-                        // Only show markers within timeRange
                         if (qDate < start || qDate > end) return;
-                        // Check if this date is within chart x domain
                         if (qDate < filtered[0].date || qDate > filtered[filtered.length - 1].date) return;
 
-                        // Find nearest price for y position
                         const pi = findNearestTradingDay(prices, qDate, 'before');
                         if (pi < 0) return;
                         const priceAtQ = prices[pi].close;
 
-                        // Calculate QoQ
                         const prevQ = idx > 0 ? quarters[idx - 1] : null;
                         const arQoQ = prevQ ? qoq(q.ar, prevQ.ar) : null;
                         const invQoQ = prevQ ? qoq(q.inventory, prevQ.inventory) : null;
 
-                        // AR marker (yellow circle) — 左偏 10px
+                        // AR marker (yellow circle)
                         if (q.ar != null) {
                             const arQoQText = arQoQ !== null ? `<br>較上季：${arQoQ >= 0 ? '+' : ''}${arQoQ.toFixed(1)}%${arQoQ > 20 ? ' <span style="color:var(--hex-critical,#c93135)">⚠ 大幅增加</span>' : ''}` : '';
-                            const arTooltipHtml = `<strong>● 應收帳款 (AR)</strong><br>季度：${q.quarter}<br>金額：${fmtB(q.ar)}${arQoQText}<br><span style="color:#888;font-size:0.75rem">標記位置 = 該季財報發布時間點<br>AR 大幅增加可能代表客戶付款延遲</span>`;
-                            svg.append('circle')
+                            const arTooltipHtml = `<strong>● 應收帳款 (AR)</strong><br>季度：${q.quarter}<br>金額：${fmtB(q.ar)}${arQoQText}`;
+                            priceSvg.append('circle')
                                 .attr('cx', x(qDate) - 10)
                                 .attr('cy', y(priceAtQ) - 15)
                                 .attr('r', 6)
@@ -3101,13 +3112,14 @@
                                 .on('mouseleave', hideTooltip);
                         }
 
-                        // Inventory marker (purple square) — 右偏 10px
+                        // Inventory marker (purple square)
                         if (q.inventory != null) {
                             const invQoQText = invQoQ !== null ? `<br>較上季：${invQoQ >= 0 ? '+' : ''}${invQoQ.toFixed(1)}%${invQoQ > 20 ? ' <span style="color:var(--hex-critical,#c93135)">⚠ 大幅增加</span>' : ''}` : '';
-                            const invTooltipHtml = `<strong>■ 庫存 (Inventory)</strong><br>季度：${q.quarter}<br>金額：${fmtB(q.inventory)}${invQoQText}<br><span style="color:#888;font-size:0.75rem">標記位置 = 該季財報發布時間點<br>庫存大幅增加可能代表產品滯銷</span>`;
-                            svg.append('rect')
+                            const invTooltipHtml = `<strong>■ 庫存 (Inventory)</strong><br>季度：${q.quarter}<br>金額：${fmtB(q.inventory)}${invQoQText}`;
+                            priceSvg.append('rect')
                                 .attr('x', x(qDate) + 4)
                                 .attr('y', y(priceAtQ) - 20)
+                                .attr('width', 10)
                                 .attr('height', 10)
                                 .attr('fill', '#a855f7')
                                 .attr('stroke', '#7e22ce')
@@ -3119,97 +3131,29 @@
                     });
                 }
             }
-        }
 
-        function renderDistribution() {
-            const container = document.getElementById('distribution-container');
-            const companyId = state.selectedCompany;
-
-            // 1. No company selected
-            if (!companyId) {
-                container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">請點擊供應鏈節點或選擇公司</div>';
-                return;
-            }
-
-            // 2. Check stock price data
-            const prices = data.stockPrices[companyId];
-            if (!prices || prices.length < 20) {
-                container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">此公司無股價資料</div>';
-                return;
-            }
-
-            // 3. Get selected lookback months
-            const months = parseInt(document.querySelector('#stock-range .tab.active')?.dataset.range || '12');
-
-            // 4. Show loading indicator
-            container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">計算中...</div>';
-
-            // 5. Defer heavy computation
+            // ===== DISTRIBUTION CHART =====
             setTimeout(() => {
-                const dist = calcDistribution(companyId, months);
+                const dist = calcDistribution(companyId, 120, holdingDays);
                 if (!dist) {
-                    container.innerHTML = '<div style="color:#999; text-align:center; padding:40px;">資料不足，需至少 20 個交易日</div>';
+                    document.getElementById('winrate-dist-wrapper').innerHTML = '<div style="color:#999; text-align:center; padding:10px; font-size:0.78rem;">報酬分布資料不足</div>';
                     return;
                 }
-                const recovery = calcRecovery(companyId, months);
-                const company = data.companies.find(c => c.id === companyId);
-                const companyName = company ? (company.short_name || company.name) : companyId;
+                const recovery = calcRecovery(companyId, 120, holdingDays);
 
-                // Build HTML
-                let html = '';
+                const distWidth = chartWidth;
+                const distHeight = 180;
+                const dm = { top: 8, right: 15, bottom: 25, left: 40 };
+                const dw = distWidth - dm.left - dm.right;
+                const dh = distHeight - dm.top - dm.bottom;
 
-                // Company name with insufficient data warning
-                html += '<div style="font-size:0.8rem; color:#666; margin-bottom:6px;">';
-                html += companyLink(companyId, companyName);
-                if (dist.insufficientData) {
-                    html += ' <span style="color:#e67e22;">⚠ 資料僅 ' + dist.dataMonths + ' 個月</span>';
-                }
-                html += '</div>';
-
-                // SVG placeholder for histogram
-                html += '<div id="dist-chart-wrapper"></div>';
-
-                // Stats grid
-                html += '<div style="display:grid; grid-template-columns:1fr 1fr; gap:4px 12px; font-size:0.78rem; margin-top:8px;">';
-
-                // Row 1: 中位數, 勝率
-                html += '<div>中位數: <b>' + dist.median.toFixed(2) + '%</b></div>';
-                const winColor = dist.winRate >= 50 ? '#1e8050' : '#c93135';
-                html += '<div>勝率: <b style="color:' + winColor + ';">' + dist.winRate.toFixed(1) + '%</b></div>';
-
-                // Row 2: 最大虧損, 95th percentile
-                html += '<div>最大虧損: <b style="color:#c93135;">' + dist.maxLoss.toFixed(2) + '%</b></div>';
-                html += '<div>95th: <b>' + dist.p95.toFixed(2) + '%</b></div>';
-
-                // Row 3: 跌>10%, 漲>10%
-                html += '<div>跌&gt;10%: <b>' + dist.below10Pct.toFixed(1) + '%</b></div>';
-                html += '<div>漲&gt;10%: <b>' + dist.above10Pct.toFixed(1) + '%</b></div>';
-
-                // Row 4: Recovery stats
-                if (recovery) {
-                    html += '<div>回撤恢復: <b>' + recovery.avg + '天</b> (中位 ' + recovery.median + '天)</div>';
-                    html += '<div>未恢復: <b>' + recovery.noRecoveryPct + '%</b></div>';
-                }
-
-                html += '</div>';
-
-                container.innerHTML = html;
-
-                // Draw histogram with D3
-                const chartWidth = document.getElementById('stock-chart').clientWidth - 30;
-                const chartHeight = 200;
-                const margin = { top: 10, right: 15, bottom: 25, left: 40 };
-                const width = chartWidth - margin.left - margin.right;
-                const height = chartHeight - margin.top - margin.bottom;
-
-                const svg = d3.select('#dist-chart-wrapper')
+                const distSvg = d3.select('#winrate-dist-wrapper')
                     .append('svg')
-                    .attr('id', 'dist-svg')
-                    .attr('width', chartWidth)
-                    .attr('height', chartHeight);
+                    .attr('width', distWidth)
+                    .attr('height', distHeight);
 
-                const g = svg.append('g')
-                    .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
+                const g = distSvg.append('g')
+                    .attr('transform', `translate(${dm.left},${dm.top})`);
 
                 // Create histogram bins with 2% bin width
                 const returns = dist.returns;
@@ -3223,38 +3167,57 @@
 
                 const bins = histogram(returns);
 
-                // Scales
-                const x = d3.scaleLinear()
+                const dx = d3.scaleLinear()
                     .domain([minVal, maxVal + 2])
-                    .range([0, width]);
+                    .range([0, dw]);
 
-                const y = d3.scaleLinear()
+                const dy = d3.scaleLinear()
                     .domain([0, d3.max(bins, d => d.length)])
                     .nice()
-                    .range([height, 0]);
+                    .range([dh, 0]);
 
                 // Draw bars (green for positive, red for negative)
-                g.selectAll('rect')
+                g.selectAll('.dist-bar')
                     .data(bins)
                     .enter()
                     .append('rect')
-                    .attr('x', d => x(d.x0) + 1)
-                    .attr('y', d => y(d.length))
-                    .attr('width', d => Math.max(0, x(d.x1) - x(d.x0) - 1))
-                    .attr('height', d => height - y(d.length))
+                    .attr('class', 'dist-bar')
+                    .attr('x', d => dx(d.x0) + 1)
+                    .attr('y', d => dy(d.length))
+                    .attr('width', d => Math.max(0, dx(d.x1) - dx(d.x0) - 1))
+                    .attr('height', d => dh - dy(d.length))
                     .attr('fill', d => {
                         const midpoint = (d.x0 + d.x1) / 2;
                         return midpoint >= 0 ? '#1e8050' : '#c93135';
                     })
                     .attr('opacity', 0.8);
 
+                // SMH distribution overlay (dashed line)
+                const smhDist = calcDistribution('etf_smh', 120, holdingDays);
+                if (smhDist) {
+                    const smhBins = histogram(smhDist.returns);
+                    const smhYMax = d3.max(smhBins, d => d.length);
+                    const smhYScale = d3.scaleLinear().domain([0, smhYMax]).range([dh, 0]);
+                    const smhLine = d3.line()
+                        .x(d => dx((d.x0 + d.x1) / 2))
+                        .y(d => smhYScale(d.length))
+                        .curve(d3.curveMonotoneX);
+                    g.append('path')
+                        .datum(smhBins.filter(d => d.length > 0))
+                        .attr('fill', 'none')
+                        .attr('stroke', '#999')
+                        .attr('stroke-width', 1.5)
+                        .attr('stroke-dasharray', '5,3')
+                        .attr('d', smhLine);
+                }
+
                 // Zero line (dashed vertical)
                 if (minVal < 0 && maxVal + 2 > 0) {
                     g.append('line')
-                        .attr('x1', x(0))
-                        .attr('x2', x(0))
+                        .attr('x1', dx(0))
+                        .attr('x2', dx(0))
                         .attr('y1', 0)
-                        .attr('y2', height)
+                        .attr('y2', dh)
                         .attr('stroke', '#333')
                         .attr('stroke-width', 1)
                         .attr('stroke-dasharray', '4,3');
@@ -3269,21 +3232,20 @@
                     { p: dist.p95, label: '95th' }
                 ];
 
-                const xAxis = g.append('g')
-                    .attr('transform', 'translate(0,' + height + ')');
+                const xAxisG = g.append('g')
+                    .attr('transform', `translate(0,${dh})`);
 
-                // Draw percentile ticks
                 percentiles.forEach(pt => {
-                    const xPos = x(pt.p);
-                    if (xPos >= 0 && xPos <= width) {
-                        xAxis.append('line')
+                    const xPos = dx(pt.p);
+                    if (xPos >= 0 && xPos <= dw) {
+                        xAxisG.append('line')
                             .attr('x1', xPos)
                             .attr('x2', xPos)
                             .attr('y1', 0)
                             .attr('y2', 5)
                             .attr('stroke', '#333');
 
-                        xAxis.append('text')
+                        xAxisG.append('text')
                             .attr('x', xPos)
                             .attr('y', 16)
                             .attr('text-anchor', 'middle')
@@ -3296,10 +3258,33 @@
 
                 // Y-axis
                 g.append('g')
-                    .call(d3.axisLeft(y).ticks(4))
+                    .call(d3.axisLeft(dy).ticks(3))
                     .selectAll('text')
                     .attr('font-size', '9px');
 
+                // Holding period label
+                const holdLabel = holdingDays <= 20 ? '1M' : holdingDays <= 60 ? '3M' : holdingDays <= 120 ? '6M' : '1Y';
+                g.append('text')
+                    .attr('x', dw)
+                    .attr('y', 12)
+                    .attr('text-anchor', 'end')
+                    .attr('font-size', '10px')
+                    .attr('fill', '#888')
+                    .text(`持有 ${holdingDays} 天 (${holdLabel}) 報酬分布`);
+
+                // Stats grid
+                const statsEl = document.getElementById('winrate-stats');
+                const winColor = dist.winRate >= 50 ? '#1e8050' : '#c93135';
+                let statsHtml = '';
+                statsHtml += `<div>勝率: <b style="color:${winColor};">${dist.winRate.toFixed(1)}%</b></div>`;
+                statsHtml += `<div>中位數: <b>${dist.median.toFixed(2)}%</b></div>`;
+                statsHtml += `<div>最大虧損: <b style="color:#c93135;">${dist.maxLoss.toFixed(2)}%</b></div>`;
+                statsHtml += `<div>跌&gt;10%: <b>${dist.below10Pct.toFixed(1)}%</b></div>`;
+                statsHtml += `<div>漲&gt;10%: <b>${dist.above10Pct.toFixed(1)}%</b></div>`;
+                if (recovery) {
+                    statsHtml += `<div>回撤恢復: <b>${recovery.avg}天</b></div>`;
+                }
+                statsEl.innerHTML = statsHtml;
             }, 10);
         }
 
