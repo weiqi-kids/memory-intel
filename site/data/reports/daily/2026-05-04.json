@@ -1,0 +1,334 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T10:25:59.282767Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-05-04-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及財報"
+      ],
+      "title": "Samsung strike exposes AI-era pay divide, raises HBM supply risks",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260504VL211/samsung-labor-strike-hbm.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung-2026-05-04-020",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "Samsung pulls ahead of SK Hynix as commodity DRAM prices surge",
+      "companies": [
+        "samsung",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "dram_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260504VL202/samsung-sk-hynix-dram-hbm4-price.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-05-04-038",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Capacity constraints",
+      "companies": [
+        "tsmc",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/capacity-constraints-2026-05/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-05-04-021",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "Samsung foundry rebound gains steam as 4nm yield reportedly tops 80%",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260504VL205/samsung-4nm-hbm4-business-demand.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-05-04-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robotics push amid AI infrastructure shift",
+      "companies": [
+        "intel",
+        "meta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260504VL203/meta-acquisition-ai-humanoid-robotics-infrastructure.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 30,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 5
+      },
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "meta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "hbm",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 55,
+    "too_old": 136,
+    "gate1_blocked": 52,
+    "gate2_blocked": 36,
+    "passed": 50,
+    "pass_rate": "18.2%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "KLA Corporation Reports Fiscal 2026 Third Quarter Results",
+      "Formula 1® returns to the U.S. this weekend, streaming live on Apple TV",
+      "Your car with Google built-in is about to get smarter, thanks to Gemini",
+      "Check out the new ways to explore Route 66 on Google Maps.",
+      "Preferred Sources is now available in all languages."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為三星、輝達、英特爾相關動態：「Samsung strike exposes AI-era pay divide, raises HBM supp...」。主要關注主題為半導體/記憶體通用、財報、資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Samsung strike exposes AI-era pay divide, raises HBM supply risks（HBM、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung pulls ahead of SK Hynix as commodity DRAM prices surge（HBM、DRAM 價格、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
