@@ -1701,6 +1701,7 @@
         window.selectCompany = function(companyId) {
             state.selectedCompany = companyId;
             state.selectedEvent = null;
+            clearEventDetail();
             updateSelectedInfo();
             updateHighlight();
             updateStockChart();
@@ -2022,20 +2023,7 @@
                 .attr("transform", d => `translate(${d.x * width}, ${d.y * height})`)
                 .on("click", (event, d) => {
                     event.stopPropagation();
-                    if (state.selectedCompany === d.id) {
-                        state.selectedCompany = null;
-                    } else {
-                        state.selectedCompany = d.id;
-                    }
-                    state.selectedEvent = null;
-                    clearEventDetail();
-                    updateSelectedInfo();
-                    updateHighlight();
-                    updateStockChart();
-                    updateEventTimeline();
-                    const view = document.querySelector('#stock-tabs .tab.active')?.dataset.view;
-                    if (view === 'backtest') renderBacktest();
-                    if (view === 'distribution') renderDistribution();
+                    selectCompany(state.selectedCompany === d.id ? null : d.id);
                 })
                 .on("mouseenter", (event, d) => {
                     const relatedCount = data.links.filter(l => l.source === d.id || l.target === d.id).length;
