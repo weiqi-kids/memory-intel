@@ -1,5 +1,651 @@
 [
   {
+    "id": "asml-2026-05-05-001",
+    "date": "2026-05-05",
+    "companies": [
+      "asml"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ASML CEO Christophe Fouquet co-signed opinion piece with European technology companies",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-05-05-002",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: May 5",
+    "summary": "<p>3D-stacked near-memory LLM decoding; In-SoIC ESD protection for chiplets; thermal management for adv. packaging; quantum circuits on chiplets; agentic AI for formal verification; multilayer nanostr",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-5/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-003",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Next Phase of Europe’s Semiconductor Strategy",
+    "summary": "\n\t\t\t\t\t\t<p>Europe’s semiconductor future will hinge on aligning geopolitics and industrial strengths into a coherent, long-term strategy.</p>\n<p>The post <a href=\"https://www.eetimes.com/the-next-phase",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/the-next-phase-of-europes-semiconductor-strategy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-05-05-004",
+    "date": "2026-05-05",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla AI5 dual sourcing may not mean equal weight for Samsung",
+    "summary": "Tesla CEO Elon Musk has confirmed that the company's in-house AI5 chip has completed design tape-out and entered a critical pre-production validation stage. The move has drawn renewed attention from s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD229/tesla-chips-production-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-005",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SEMICON SEA 2026: Delta showcases AI-enabled smart manufacturing",
+    "summary": "Delta Electronics presented its latest AI-enabled smart manufacturing solutions at SEMICON Southeast Asia 2026, underscoring its efforts to advance efficiency, precision, and scalability in semiconduc",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505VL215/smart-manufacturing-delta-electronics-asia-2026-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-05-006",
+    "date": "2026-05-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea eyes memory-led AI order against Nvidia",
+    "summary": "As AI shifts from training to inference and from single-task use to multi-agent collaboration, South Korea's semiconductor industry is seeking to recast the market around memory rather than GPUs. Sout",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD226/south-korea-semiconductor-industry-hbm-nvidia-training.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-007",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ardentec's Longtan plant to start AI ASIC testing in 3Q26",
+    "summary": "Ardentec's Longtan plant is set to begin taking AI ASIC wafer-probing orders in the third quarter of 2026, as the semiconductor testing provider moves to capture spillover demand from foundry strategi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD223/ardentec-plant-testing-ai-asic-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-05-05-008",
+    "date": "2026-05-05",
+    "companies": [
+      "google",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Google's TPU push hits Nvidia's neocloud grip",
+    "summary": "<p class=\"P1\" data-start=\"351\" data-end=\"673\">Google's effort to expand its tensor processing units (TPU) beyond its own cloud is meeting resistance from some of the AI infrastructure companies best p",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505VL206/google-tpu-nvidia-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-009",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI and chips propel US back to top of Taiwan's trade chart",
+    "summary": "Trade between Taiwan and the US reached US$78.25 billion in the first quarter of 2026, driven primarily by advanced node chips and AI servers. This marks the first time in 25 years that the US has sur",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD221/taiwan-exports-2026-investment-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-010",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "AMI capacity sold out through 2028 as CCL makers race for high-end tools",
+    "summary": "<p class=\"P1\" data-start=\"335\" data-end=\"546\">The PCB industry is entering a new phase of transformation in the AI era, as rising demand for high-frequency and high-speed applications accelerates upgr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD222/ccl-pcb-capacity-high-end-2028.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-011",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "TCL reportedly in talks to sell majority stake in India display plant",
+    "summary": "China's TCL Electronics is reportedly in advanced discussions to sell a majority stake in its Indian display manufacturing business. The move underscores accelerating localization pressure on foreign ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505VL210/tcl-display-localization-plant-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-05-012",
+    "date": "2026-05-05",
+    "companies": [
+      "intel",
+      "qualcomm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Another Qualcomm exec joins Intel to lead PC and physical AI unit",
+    "summary": "Intel has announced that it has appointed Alex Katouzian as head of its Client Computing and Physical AI Division. With this hire, Intel seeks to align its consumer PC business with physical AI applic",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505VL212/intel-qualcomm-pc-business-president.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-05-013",
+    "date": "2026-05-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As Nvidia goes to zero in China, Beijing races to fill the void",
+    "summary": "Nvidia CEO Jensen Huang said the company's share of China's data-center computing market has dropped to zero. The admission underscores how US export controls are reshaping the country's AI chip secto",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505VL208/nvidia-ceo-market-jensen-huang-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-05-014",
+    "date": "2026-05-05",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Memory crunch widens Apple-Android AP divide; agentic AI eyed as next catalyst",
+    "summary": "DIGITIMES Research has released its latest forecast for smartphone application processor (AP) shipments, revealing a divergence between Apple and the Android ecosystem as the market enters a seasonal ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD220/digitimes-android-smartphone-apple-forecast.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-015",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SEMICON SEA 2026: the trillion-dollar chip era is already here",
+    "summary": "The global semiconductor industry is entering a \"multi-trillion-dollar\" growth cycle sooner than expected, SEMI President and CEO Ajit Manocha said, urging Southeast Asian countries to strengthen coop",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD225/semiconductor-industry-2026-semi-growth-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-05-016",
+    "date": "2026-05-05",
+    "companies": [
+      "intel",
+      "apple",
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple reportedly explores Intel and Samsung chip production to reshape advanced manufacturing strategy",
+    "summary": "Apple is exploring a significant shift in its semiconductor supply chain, holding early discussions with Intel and Samsung Electronics to produce the main processors used in its devices, according to ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505VL211/apple-intel-samsung-ic-manufacturing-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-017",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan networking vendors lose sync with global rebound, raising competitive and supply risks",
+    "summary": "The global broadband customer premises equipment market entered a bottoming-and-rebound phase in 2026 after a prolonged inventory correction. Still, Taiwan networking vendors are losing ground as thei",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD209/taiwan-broadband-equipment-shipments-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-018",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's TCC plots European listing as green revenues overtake home market",
+    "summary": "Taiwan Cement Corporation (TCC) Group Holdings is evaluating a listing in Europe as it expands its low-carbon cement and green energy businesses across the region. Europe already accounted for 44% of ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260505PD212/tcc-europe-demand-asia-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-019",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pexip Holding ASA (PEPXY) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898304-pexip-holding-asa-pepxy-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-020",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Petroleum Corporation (IPCO:CA) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898307-international-petroleum-corporation-ipco-ca-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-021",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Unicaja Banco, S.A. 2026 Q1 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898326-unicaja-banco-s-a-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-022",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Celestica: Hyperscaler Capex May Cool, But Revenue Momentum Still Looks Explosive",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898306-celestica-hyperscaler-capex-may-cool-but-revenue-momentum-still-looks-explosive?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-023",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Manila Electric Company 2026 Q1 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898315-manila-electric-company-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-024",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Everest Group: Q1 Points To Steady Improvement",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898255-everest-group-q1-points-to-steady-improvement?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-025",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elmos Semiconductor SE 2026 Q1 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898309-elmos-semiconductor-se-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-026",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "International Petroleum Corporation 2026 Q1 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898308-international-petroleum-corporation-2026-q1-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-027",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Budweiser Brewing Company APAC Limited (BDWBY) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4898276-budweiser-brewing-company-apac-limited-bdwby-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-05-028",
+    "date": "2026-05-05",
+    "companies": [
+      "apple",
+      "tsmc"
+    ],
+    "topics": [
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s Chip Supply Crunch Is Affecting iPhone 17 Pro Max Shipments As Customer Claims A Single Unit Couldn’t Be Found In One U.S. State",
+    "summary": "The memory shortage faced by Apple can be avoided as the company can purchase DRAM quantities in bulk for a multitude of products, but one area where the Cupertino firm may continue to struggle is chi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/iphone-17-pro-max-shipments-affected-due-to-low-chip-supply/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-029",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Remedy’s New CEO Personally Vouches for CONTROL Resonant after Franchise Crosses 6 Million Units",
+    "summary": "This morning, Finnish developer Remedy Entertainment posted its Q1 2026 financial report, which revealed, among other things, a new sales milestone for CONTROL: 6 million units sold. The year's first ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/remedy-ceo-control-resonant-franchise-6-million-units/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-05-05-030",
+    "date": "2026-05-05",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OpenAI Picks MediaTek Over Qualcomm For Its First Smartphone, Customizing The Dimensity 9600 With A Dual-NPU Architecture To Challenge The iPhone",
+    "summary": "OpenAI appears to be fast-tracking its plans for an AI-enabled smartphone, partially in a bid to bolster its IPO that might land as soon as this year. And, in its urgency, OpenAI appears to be settlin",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/openai-picks-mediatek-over-qualcomm-for-its-first-smartphone-customizing-the-dimensity-9600-with-a-dual-npu-architecture-to-challenge-the-iphone/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-05-031",
+    "date": "2026-05-05",
+    "companies": [
+      "intel",
+      "apple",
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple Quietly Courts Intel And Samsung For Its Most Critical Chips As TSMC’s Advanced Nodes Remain Choked Under AI Demand",
+    "summary": "TSMC is turning into a victim of its own success as the world's preferred chip foundry, leaving its heretofore prized customers such as Apple in a bind of sorts as they suddenly find themselves crowde",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-quietly-courts-intel-and-samsung-for-its-most-critical-chips-as-tsmcs-advanced-nodes-remain-choked-under-ai-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-05-05-032",
+    "date": "2026-05-05",
+    "companies": [
+      "arm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Arm CEO promoted to head Softbank’s international operations",
+    "summary": "<p>SoftBank has appointed Arm CEO Rene Haas (pictured) to head up its international operations as  CEO of SoftBank Group International (SBGI), which handles the group&#8217;s overseas subsidiaries. Ha",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/arm-ceo-promoted-to-head-softbanks-international-operations-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-033",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cerebras looking for $3.5bn",
+    "summary": "<p>Cerebras, the waferscale AI chip developer, has priced its upcoming IPO at $115-125. It is putting up 28 million shares for sale so is looking to raise up to $3.5 ...</p>\n<p>The post <a href=\"https",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/cerebras-looking-for-3-5bn-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-05-034",
+    "date": "2026-05-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q1 semi sales up 25% QoQ",
+    "summary": "<p>Q1 semiconductor sales of  $298.5 billion were 25% up QoQ, says the SIA. March sales of $99.5 billion were up 79.2% on the March 2025 total of $55.5  billion and ...</p>\n<p>The post <a href=\"https:",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/q1-semi-sales-up-25-qoq-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-04-001",
     "date": "2026-05-04",
     "companies": [],
@@ -722,6 +1368,446 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/capacity-constraints-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-04-039",
+    "date": "2026-05-04",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel Announces Leadership Appointments to Advance Client Computing and Enable Future Innovation",
+    "summary": "<p>NEWS HIGHLIGHTS Intel appoints Alex Katouzian as executive vice president and general manager of Client Computing &#38; Physical AI Names Pushkar Ranade chief technology officer SANTA CLARA, Calif.",
+    "sources": []
+  },
+  {
+    "id": "marvell-2026-05-04-040",
+    "date": "2026-05-04",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Marvell Technology, Inc. Announces Conference Call to Review First Quarter of Fiscal Year 2027 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-05-04-041",
+    "date": "2026-05-04",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The latest AI news we announced in April 2026",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/April_2026_AI_Recap_still.max-600x600.format-webp.webp\">Here are Google’s latest AI updates from April 2026",
+    "sources": []
+  },
+  {
+    "id": "google-2026-05-04-042",
+    "date": "2026-05-04",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Here's how Google AI is powering small business growth",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NSBW_keyword_banner_2026_1.max-600x600.format-webp.webp\">During National Small Business Week, jumpstart your growth with tools",
+    "sources": []
+  },
+  {
+    "id": "google-2026-05-04-043",
+    "date": "2026-05-04",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Celebrating America’s 250th on Google Arts & Culture",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Making_of_the_Nation_-_America_.max-600x600.format-webp.webp\">Together with the National Archives and others, we’re launching ",
+    "sources": []
+  },
+  {
+    "id": "google-2026-05-04-044",
+    "date": "2026-05-04",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Supporting startups that are shaping the future of energy",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero1.max-600x600.format-webp.webp\">The Google for Startups Accelerator offers mentorship and technical support to companies u",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-05-04-045",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Accelerator Spec Maintains Rapid Update Pace",
+    "summary": "\n\t\t\t\t\t\t<p>UALink spec 2.0 launches with in-network compute, chiplet support, and smarter management.</p>\n<p>The post <a href=\"https://www.eetimes.com/ai-accelerator-spec-maintains-rapid-update-pace/\">",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ai-accelerator-spec-maintains-rapid-update-pace/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-046",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Industrial Control Systems Manufacturer Eliminates Stockouts",
+    "summary": "\n\t\t\t\t\t\t<p>As its products grew more complex, Nexus ACS needed software to manage multi-level bills of materials and eliminate stockouts and excess inventory.</p>\n<p>The post <a href=\"https://www.eetim",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/industrial-control-systems-manufacturer-eliminates-stockouts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-047",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Manufacturing Steady in April as Inflation and Iran War Weigh In",
+    "summary": "\n\t\t\t\t\t\t<p>Manufacturing continued to expand in April despite supply chain issues and higher prices.</p>\n<p>The post <a href=\"https://www.eetimes.com/manufacturing-steady-in-april-as-inflation-and-iran",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/manufacturing-steady-in-april-as-inflation-and-iran-war-weigh-in/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-048",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GUC and Wiwynn Collaborate on Silicon-to-System Infrastructure for Next-Gen Hyperscale AI",
+    "summary": "\n\t\t\t\t\t\t<p>Collaboration unites SoC design, optical I/O, and liquid-cooled rack integration to help hyperscalers accelerate AI infrastructure.</p>\n<p>The post <a href=\"https://www.eetimes.com/guc-and-w",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/guc-and-wiwynn-collaborate-on-silicon-to-system-infrastructure-for-next-gen-hyperscale-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-049",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Get a DDR5 starter build with a Ryzen 5 7600X and ASRock B650M Pro motherboard for 23% off — $430 bundle helps avoid inflated RAM prices",
+    "summary": "\n                             Start your next gaming build with this this combo from Newegg featuring a Ryzen 5 7600X, 16GB of DDR5-6000 memory, and a Micro-ATX B650M motherboard from ASRock for just ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/get-a-ddr5-starter-build-with-a-ryzen-5-7600x-and-asrock-b650m-pro-motherboard-for-23-percent-off-usd430-bundle-helps-avoid-inflated-ram-prices",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-05-04-050",
+    "date": "2026-05-04",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Ryzen AI 5 435G APU breaks cover in early benchmarks — six-core Zen 5 chip goes head-to-head with the Ryzen 5 8600G for budget PC builders",
+    "summary": "\n                             The Ryzen AI 5 435G shows similar performance to the existing Ryzen 5 8600G in new Geekbench 6 benchmarks. \n                                                              ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-5-435g-apu-breaks-cover-in-early-benchmarks-six-core-zen-5-chip-goes-head-to-head-with-the-ryzen-5-8600g-for-budget-pc-builders",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-04-051",
+    "date": "2026-05-04",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Nvidia's exposure to Asian supply chains for components hits 90% of its production costs — marked increase from 65% could intensify as physical AI adds even more exposure",
+    "summary": "\n                             Asian suppliers now represent roughly 90% of Nvidia's production costs, up from about 65% a year earlier, according to data compiled by Bloomberg. \n                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidias-asian-supply-chain-hits-90-percent-of-production-costs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-05-04-052",
+    "date": "2026-05-04",
+    "companies": [
+      "ti",
+      "intel",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Save $1,100 on this prebuilt gaming rig with Nvidia RTX 5070 Ti, Intel 14900KF, 32GB of RAM, and 2TB of storage — AB Kaze II Aqua on deep discount",
+    "summary": "\n                             Newegg deal actually delivers. Score the ABS Kaze II Aqua with i9-14900KF and RTX 5070 Ti for $2,175 with code—over $1,100 off a powerful, ready-to-game prebuilt. \n      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/save-usd1-100-on-this-prebuilt-gaming-rig-with-nvidia-rtx-5070-ti-intel-14900kf-32gb-of-ram-and-2tb-of-storage-ab-kaze-ii-aqua-on-deep-discount",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-05-04-053",
+    "date": "2026-05-04",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Ryzen AI Max+ PRO 495 APU could arrive with 192GB of unified memory — leaked PassMark benchmarks suggest modest update over Strix Halo",
+    "summary": "\n                             The Ryzen AI Max+ PRO 495 appears to retain the same core configuration as its predecessor while adding more unified memory and slightly better performance. \n            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-ryzen-ai-max-pro-495-apu-could-arrive-with-192gb-of-unified-memory-leaked-passmark-benchmarks-suggest-modest-update-over-strix-halo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "western_digital-2026-05-04-054",
+    "date": "2026-05-04",
+    "companies": [
+      "western_digital"
+    ],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "positive",
+    "title": "Crushing shortages have pushed long-term supply agreements for SSDs and HDDs to record five years — large customers are signing large contracts",
+    "summary": "\n                             Demand for storage devices is so high that large customers are willing to sign up to five-year long-term supply agreements, according to Sandisk, Seagate, and Western Dig",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/crushing-shortages-have-pushed-long-term-supply-agreements-for-ssds-and-hdds-to-record-five-years-large-customers-are-signing-large-contracts",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-05-04-055",
+    "date": "2026-05-04",
+    "companies": [
+      "google",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analyst Warns Google’s Intel TPU Bet Hinges on a Brutal Yield Jump From 90% to 98%",
+    "summary": "As rumors suggest that Google is interested in using Intel for its next-generation tensor processing unit (TPU) chips, well known analyst Ming-Chi Kuo has shared his thoughts on the matter. The analys",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/analyst-warns-googles-intel-tpu-bet-hinges-on-a-brutal-yield-jump-from-90-to-98/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-04-056",
+    "date": "2026-05-04",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA’s Nemotron 3 Super Tops The Open-Source AI Model Chart, Beating DeepSeek & GPT-OSS",
+    "summary": "NVIDIA's Open-Source \"Nemotron 3 Super\" AI model has topped the EnterpriseOps-Gym leaderboard, showcasing NVIDIA's software prowess. NVIDIA Is Topping Both AI Hardware and Software Leaderboards With I",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-nemotron-3-super-tops-the-open-source-ai-model-chart-beating-deepseek-gpt-oss/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-04-057",
+    "date": "2026-05-04",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Atomic Heart Studio Mundfish Sidesteps NVIDIA DLSS 5 Commitment, Rejects AI Tools In Daily Production For Now",
+    "summary": "In a recent interview with Mundfish founder and CEO Robert Bagratuni about the Atomic Heart series, I inquired about the studio's opinion on NVIDIA DLSS 5, the surprise announcement at GDC 2026 that p",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/mundfish-dlss-5-ai-tools-atomic-heart-development/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-04-058",
+    "date": "2026-05-04",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Core 9 273PQE Is Reportedly Up To 9% Faster In Gaming Vs Core i9 14900K",
+    "summary": "The flagship Bartlett Lake chip can be a bit faster than the flagship Raptor Lake Refresh CPU, but this isn't the case in ever game. Bartlett Lake 12-P-Core Chip Delivers 5-9% Higher Performance in Ga",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-core-9-273pqe-is-reportedly-up-to-9-faster-in-gaming-vs-core-i9-14900k/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-05-04-059",
+    "date": "2026-05-04",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Galaxy Z Flip 8 Will Be Just A Smidge Lighter Than The Flip 7, While Managing To Kill The Display Crease",
+    "summary": "Samsung is not expected to fundamentally alter the prevailing mold when it launches the Galaxy Z Flip 8 later this summer. Even so, the South Korean tech behemoth is looking at a few iterative improve",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-galaxy-z-flip-8-will-be-just-a-smidge-lighter-than-the-flip-7-while-managing-to-kill-the-display-crease/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-04-060",
+    "date": "2026-05-04",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Feynman GPUs Push Power Semi Content To $191,000, 17 Times Increase Over Blackwell As Industry Embraces 800V DC Architectures",
+    "summary": "As compute requirements grow in AI datacenters, so do the power requirements, which are estimated to reach 17x higher with NVIDIA's Feynman. NVIDIA Feynman Racks Estimated To Feature 17x Higher Power ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-feynman-gpus-push-power-semi-content-17-times-higher-vs-blackwell/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-061",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mobile DRAM Prices Expected To Increase By ~100% Quarter-Over-Quarter, As Long-Term Agreements Now Getting Signed At Prices As High As $21/GB",
+    "summary": "The mobile DRAM market is showing no sign of retrenchment as the wider industry stares at a ~100 percent quarter-over-quarter (QoQ) price increase in Q2 2026, building upon the 58 percent - 63 percent",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/mobile-dram-prices-expected-to-increase-by-100-quarter-over-quarter-as-long-term-agreements-now-getting-signed-at-prices-as-high-as-21-gb/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-062",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Shadow IT has given way to shadow AI. Enter AI-BOMs",
+    "summary": "<h4>'If you don't have visibility, you can't understand what to protect'</h4> <p>When it comes to securing enterprise supply chains, now heavily infused with AI applications and agents, a software bil",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://go.theregister.com/feed/www.theregister.com/2026/05/04/ai_bom_supply_chain/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-04-063",
+    "date": "2026-05-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei on track to sell inference chips worth $12bn this year",
+    "summary": "<p>Huawei is expecting revenues from AI ICs to grow from $7.5bn last year to $12bn this year based on orders it has already received, reports the FT. Most of the ...</p>\n<p>The post <a href=\"https://w",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/huawei-on-track-to-sell-inference-chips-worth-12bn-thiscyear-2026-05/",
         "type": "rss"
       }
     ]

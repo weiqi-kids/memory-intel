@@ -1,0 +1,294 @@
+{
+  "date": "2026-05-05",
+  "date_range": {
+    "start": "2026-04-29",
+    "end": "2026-05-05"
+  },
+  "generated_at": "2026-05-05T10:14:03.516013Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-04-29-010",
+      "date": "2026-04-29",
+      "title": "China OSAT leader JCET expands in advanced packaging, profit climbs",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "tsmc",
+      "co_mention_count": 6,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "meta",
+      "company_b": "microsoft",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 111,
+      "last_week": 79,
+      "week_over_week_change": "+41%",
+      "sentiment_this_week": 0.04
+    },
+    "advanced_packaging": {
+      "this_week": 4,
+      "last_week": 7,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.16
+    },
+    "capacity": {
+      "this_week": 16,
+      "last_week": 17,
+      "week_over_week_change": "-6%",
+      "sentiment_this_week": 0.08
+    },
+    "earnings": {
+      "this_week": 116,
+      "last_week": 91,
+      "week_over_week_change": "+27%",
+      "sentiment_this_week": 0.05
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "ai_server": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.11
+    },
+    "ddr5": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 14,
+      "last_week": 6,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.01
+    },
+    "hbm": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 24,
+      "last_week": 11,
+      "week_over_week_change": "+118%",
+      "sentiment_this_week": -0.0
+    },
+    "inventory": {
+      "this_week": 6,
+      "last_week": 11,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": -0.08
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "intel": {
+      "event_count": 14,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "meta": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "apple": {
+      "event_count": 11,
+      "sentiment_avg": -0.04,
+      "rank": 4
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 14
+    },
+    "tsmc": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arm": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 15
+    },
+    "qualcomm": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "nvidia": {
+      "event_count": 13,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "google": {
+      "event_count": 8,
+      "sentiment_avg": 0.19,
+      "rank": 6
+    },
+    "samsung": {
+      "event_count": 19,
+      "sentiment_avg": -0.08,
+      "rank": 1
+    },
+    "powertech": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 16
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": -0.12,
+      "rank": 17
+    },
+    "microsoft": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.38,
+      "rank": 18
+    },
+    "kla": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "oracle": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "macronix": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "aws": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "silicon_motion": {
+      "event_count": 2,
+      "sentiment_avg": 0.12,
+      "rank": 13
+    },
+    "amd": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 363,
+        "last": 333,
+        "change_pct": 9.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-29",
+      "event_count": 66,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 76,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 75,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 24,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 25,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 63,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-05",
+      "event_count": 34,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-29 ~ 2026-05-05）共 363 則事件，重點為「China OSAT leader JCET expands in advanced pack...」。KLA、Supermicro表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "英特爾",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Facebook",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "蘋果",
+        "reason": "本週出現 11 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
