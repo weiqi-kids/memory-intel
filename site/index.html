@@ -1600,11 +1600,11 @@
 
         // ===== Tab Info Tooltips =====
         const tabInfoTexts = {
-            trend: '<strong>走勢圖</strong><br>顯示多檔股價的相對漲跌走勢。<br>所有股價歸一化為起始日 = 100，方便比較不同價位的股票。<br>例如：數字 142 表示從起始日到現在漲了 42%。<br><br><strong>操作方式：</strong><br>• 拖曳上方「時間範圍」調整起始日<br>• 點右側「供應鏈」節點，看該公司 vs 上下游<br>• 日/週/月 = 顯示最近 1天/5天/20天<br>• 灰色虛線 = SMH 半導體 ETF 大盤基準',
+            trend: '<strong>走勢圖</strong><br>顯示多檔股價的相對漲跌走勢。<br>所有股價歸一化為起始日 = 100，方便比較不同價位的股票。<br>例如：數字 142 表示從起始日到現在漲了 42%。<br><br><strong>操作方式：</strong><br>• 拖曳上方「時間範圍」調整起始日<br>• 點右側「供應鏈」節點，看該公司 vs 上下游<br>• 日/週/月 = 顯示最近 1天/5天/20天<br>• 橘色虛線 = SMH 半導體 ETF 大盤基準',
             heatmap: '<strong>熱力圖</strong><br>顯示所有公司在目前時間範圍內的股價漲跌。<br>按供應鏈位置分三排：上游（設備/材料）、中游（製造/封測）、下游（AI/系統）。<br><br><strong>顏色：</strong>綠色 = 漲，紅色 = 跌，越深越大。<br><strong>Hover：</strong>顯示該公司漲跌% 和 vs 大盤表現（贏/輸大盤多少%）。<br><strong>點擊：</strong>切換到該公司的走勢圖。',
             fundflow: '<strong>ETF 資金流向</strong><br>SMH、SOXX、SOXQ 是追蹤半導體產業的指數型基金(ETF)，<br>它們持有本 Dashboard 上多數公司的股票。<br><br><strong>為什麼要看？</strong><br>ETF 資金流入 = 市場整體看好半導體產業，會帶動個股上漲。<br>ETF 資金流出 = 市場偏保守，個股可能承壓。<br>這是「產業整體資金動向」的觀察指標。<br><br><strong>卡片資訊：</strong>最新價格、當日漲跌、近 5 日淨流向。<br><strong>柱狀圖：</strong>綠柱 = 當日資金流入，紅柱 = 當日流出。<br><strong>點擊卡片：</strong>切換顯示不同 ETF。',
             holders: '<strong>機構持倉</strong><br>顯示各公司的機構投資人（基金、法人）持股明細。<br><br><strong>操作方式：</strong>點上方公司名稱切換。<br><strong>表格欄位：</strong>持股機構名稱、股數、佔比(%)、市值。<br><strong>折線圖：</strong>該公司機構總持股比例的歷史趨勢，<br>上升 = 法人持續買進，下降 = 法人減碼。',
-            winrate: '<strong>勝率分析</strong><br>分析這檔股票「現在買進」的歷史勝率。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>上方走勢圖：</strong><br>• 藍線 = 該公司股價<br>• 灰虛線 = SMH 大盤走勢（歸一化對齊）<br>• 黃點 ● = 應收帳款(AR)季度數據<br>• 紫方 ■ = 庫存季度數據<br>• 下方顯示期間報酬率和最大回撤 vs 大盤<br><br><strong>下方分布圖：</strong><br>根據過去歷史，模擬「任意時間買進，持有 N 天」的報酬分布。<br>• 綠色 = 賺錢的情況，紅色 = 賠錢的情況<br>• 灰虛線 = 同期大盤(SMH)的分布<br>• 勝率 = 賺錢的機率（>50% 為綠色）<br><br><strong>按鈕 1M/3M/6M/1Y：</strong>同時控制走勢圖時間範圍和持有期天數。',
+            winrate: '<strong>勝率分析</strong><br>分析這檔股票「現在買進」的歷史勝率。<br>⚠ 需先點擊供應鏈節點選擇一家公司。<br><br><strong>上方走勢圖：</strong><br>• 藍線 = 該公司股價<br>• 橘色虛線 = SMH 大盤走勢（歸一化對齊）<br>• 黃點 ● = 應收帳款(AR)季度數據<br>• 紫方 ■ = 庫存季度數據<br>• 下方顯示期間報酬率和最大回撤 vs 大盤<br><br><strong>下方分布圖：</strong><br>根據過去歷史，模擬「任意時間買進，持有 N 天」的報酬分布。<br>• 綠色 = 賺錢的情況，紅色 = 賠錢的情況<br>• 橘色虛線 = 同期大盤(SMH)的分布<br>• 勝率 = 賺錢的機率（>50% 為綠色）<br><br><strong>按鈕 1M/3M/6M/1Y：</strong>同時控制走勢圖時間範圍和持有期天數。',
         };
         document.querySelectorAll('.tab-info').forEach(el => {
             el.addEventListener('mouseenter', e => {
@@ -1922,7 +1922,7 @@
                 svg.append("path")
                     .datum(normalized['etf_smh'])
                     .attr("fill", "none")
-                    .attr("stroke", "#999")
+                    .attr("stroke", "#e8850c")
                     .attr("stroke-width", 1.5)
                     .attr("stroke-dasharray", "4,3")
                     .attr("d", smhLine);
@@ -3034,8 +3034,8 @@
                 priceSvg.append('path')
                     .datum(smhNormalized)
                     .attr('fill', 'none')
-                    .attr('stroke', '#999')
-                    .attr('stroke-width', 1.2)
+                    .attr('stroke', '#e8850c')
+                    .attr('stroke-width', 1.5)
                     .attr('stroke-dasharray', '5,3')
                     .attr('d', smhLine);
             }
@@ -3204,7 +3204,7 @@
                     g.append('path')
                         .datum(smhBins.filter(d => d.length > 0))
                         .attr('fill', 'none')
-                        .attr('stroke', '#999')
+                        .attr('stroke', '#e8850c')
                         .attr('stroke-width', 1.5)
                         .attr('stroke-dasharray', '5,3')
                         .attr('d', smhLine);
