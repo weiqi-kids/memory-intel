@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T06:06:55.049937Z",
+  "generated_at": "2026-05-06T10:30:00.208759Z",
   "top_events": [
     {
       "rank": 1,
@@ -61,6 +61,40 @@
     },
     {
       "rank": 3,
+      "event_id": "apple-2026-05-06-044",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及價格",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "'Chipflation' hits Samsung, boosts Apple results",
+      "companies": [
+        "apple",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "dram_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260506PD232/samsung-apple-operating-profit-smartphone.html"
+    },
+    {
+      "rank": 4,
       "event_id": "amd-2026-05-06-007",
       "importance_score": 0.95,
       "importance_reasons": [
@@ -87,7 +121,7 @@
       "source_url": "https://www.digitimes.com/news/a20260506VL209/amd-earnings-ai-cpu-data-center-2026.html"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "event_id": "unknown-2026-05-06-012",
       "importance_score": 0.95,
       "importance_reasons": [
@@ -110,37 +144,12 @@
         "score": -0.25
       },
       "source_url": "https://www.digitimes.com/news/a20260506PD219/eris-tech-revenue-demand-2026-subsidiary.html"
-    },
-    {
-      "rank": 5,
-      "event_id": "unknown-2026-05-06-016",
-      "importance_score": 0.95,
-      "importance_reasons": [
-        "涉及價格",
-        "涉及財報"
-      ],
-      "title": "RichWave sees Wi-Fi 7 growth outrunning memory price pressure",
-      "companies": [],
-      "related": {
-        "customers": [],
-        "suppliers": []
-      },
-      "topics": [
-        "dram_price",
-        "earnings",
-        "industry_general"
-      ],
-      "sentiment": {
-        "label": "neutral",
-        "score": 0.17
-      },
-      "source_url": "https://www.digitimes.com/news/a20260505PD232/richwave-wi-fi-7-growth-price-2026.html"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "capacity": {
-      "today": 6,
+      "today": 7,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -150,37 +159,37 @@
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 19,
+      "today": 33,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.15,
+      "sentiment_today": 0.13,
       "sentiment_7d_avg": null
     },
     "earnings": {
-      "today": 25,
+      "today": 44,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.11,
+      "sentiment_today": 0.09,
       "sentiment_7d_avg": null
     },
     "guidance": {
-      "today": 3,
+      "today": 5,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.17,
+      "sentiment_today": 0.1,
       "sentiment_7d_avg": null
     },
     "capex": {
-      "today": 2,
+      "today": 4,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -200,48 +209,48 @@
       "sentiment_7d_avg": null
     },
     "inventory": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.5,
+      "sentiment_today": 0.25,
       "sentiment_7d_avg": null
     },
     "advanced_packaging": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.5,
+      "sentiment_today": 0.25,
       "sentiment_7d_avg": null
     },
     "dram_price": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.17,
+      "sentiment_today": 0.34,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 35,
+    "total_events": 67,
     "sentiment_distribution": {
-      "positive": 9,
-      "neutral": 23,
+      "positive": 12,
+      "neutral": 52,
       "negative": 3
     },
     "top_companies": [
       {
         "id": "intel",
-        "count": 5
+        "count": 6
       },
       {
         "id": "amd",
@@ -263,35 +272,35 @@
     "top_topics": [
       {
         "id": "earnings",
-        "count": 25
+        "count": 44
       },
       {
         "id": "industry_general",
-        "count": 19
+        "count": 33
       },
       {
         "id": "capacity",
-        "count": 6
+        "count": 7
       },
       {
         "id": "guidance",
-        "count": 3
+        "count": 5
       },
       {
-        "id": "ai_server",
-        "count": 3
+        "id": "capex",
+        "count": 4
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 329,
-    "dup_title": 52,
-    "too_old": 130,
-    "gate1_blocked": 46,
-    "gate2_blocked": 31,
-    "passed": 70,
-    "pass_rate": "25.3%",
-    "gate2_block_rate": "11.2%",
+    "total_raw": 628,
+    "dup_title": 135,
+    "too_old": 256,
+    "gate1_blocked": 71,
+    "gate2_blocked": 64,
+    "passed": 102,
+    "pass_rate": "20.7%",
+    "gate2_block_rate": "13.0%",
     "gate2_samples": [
       "KLA Corporation Reports Fiscal 2026 Third Quarter Results",
       "Intel at Computex 2026: Advancing the Next Era of AI-Driven Computing",
@@ -302,7 +311,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 35 則事件，焦點為英特爾、超微、Supermicro相關動態：「GlobalWafers prepares inventory buffer as geopolitical fa...」。整體情緒偏正面，市場信心回溫。",
+    "summary": "今日共 67 則事件，焦點為英特爾、超微、Supermicro相關動態：「GlobalWafers prepares inventory buffer as geopolitical fa...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
         "text": "GlobalWafers prepares inventory buffer as geopolitical factors push up galliu...（產能、庫存、財報、先進封裝、半導體/記憶體通用）",
@@ -313,7 +322,7 @@
         "level": "red"
       },
       {
-        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
         "level": "yellow"
       }
     ]

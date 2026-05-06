@@ -1,10 +1,10 @@
 {
   "date": "2026-05-06",
-  "total_events": 35,
+  "total_events": 67,
   "by_company": {
     "intel": {
-      "count": 5,
-      "sentiment_avg": 0.33
+      "count": 6,
+      "sentiment_avg": 0.28
     },
     "amd": {
       "count": 2,
@@ -21,27 +21,55 @@
     "adata": {
       "count": 1,
       "sentiment_avg": 0.0
+    },
+    "synopsys": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "screen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "apple": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "samsung": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "tsmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "google": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "infineon": {
+      "count": 1,
+      "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "capacity": {
-      "count": 6,
+      "count": 7,
       "sentiment_avg": 0.04
     },
     "industry_general": {
-      "count": 19,
-      "sentiment_avg": 0.15
+      "count": 33,
+      "sentiment_avg": 0.13
     },
     "earnings": {
-      "count": 25,
-      "sentiment_avg": 0.11
+      "count": 44,
+      "sentiment_avg": 0.09
     },
     "guidance": {
-      "count": 3,
-      "sentiment_avg": 0.17
+      "count": 5,
+      "sentiment_avg": 0.1
     },
     "capex": {
-      "count": 2,
+      "count": 4,
       "sentiment_avg": 0.25
     },
     "ai_server": {
@@ -49,16 +77,16 @@
       "sentiment_avg": 0.08
     },
     "inventory": {
-      "count": 1,
-      "sentiment_avg": 0.5
+      "count": 2,
+      "sentiment_avg": 0.25
     },
     "advanced_packaging": {
-      "count": 1,
-      "sentiment_avg": 0.5
+      "count": 2,
+      "sentiment_avg": 0.25
     },
     "dram_price": {
-      "count": 1,
-      "sentiment_avg": 0.17
+      "count": 2,
+      "sentiment_avg": 0.34
     }
   },
   "baselines_used": {
