@@ -1,5 +1,889 @@
 [
   {
+    "id": "unknown-2026-05-07-001",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Securing Chiplet-Based Platforms: Distributed Trust With Centralized Authority",
+    "summary": "<p>A security model where every chiplet can prove identity, boot correctly, and communicate securely without becoming the weak link.</p>\n<p>The post <a href=\"https://semiengineering.com/securing-chipl",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/securing-chiplet-based-platforms-distributed-trust-with-centralized-authority/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-002",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Powering AI At Scale: Why 3D-ICs Demand A New Approach To Power Integrity",
+    "summary": "<p>Connectivity density and power delivery complexity have made power integrity one of the most critical constraints in modern system design.</p>\n<p>The post <a href=\"https://semiengineering.com/power",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/powering-ai-at-scale-why-3d-ics-demand-a-new-approach-to-power-integrity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-003",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How OCP S.O.L.I.D. Completes The Data Center Security Picture",
+    "summary": "<p>A framework that establishes concrete device-specific security requirements upfront and verifies them at the end.</p>\n<p>The post <a href=\"https://semiengineering.com/how-ocp-s-o-l-i-d-completes-th",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/how-ocp-s-o-l-i-d-completes-the-data-center-security-picture/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-004",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Building AI Without Guardrails",
+    "summary": "<p>The semiconductor ecosystem is wrestling with fragmented standards, IP exposure, and the urgent need for runtime assurance.</p>\n<p>The post <a href=\"https://semiengineering.com/building-ai-without-",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/building-ai-without-guardrails/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-005",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2.5D + 3D = “3.5D”!",
+    "summary": "<p>Balancing performance, manufacturability, cost, and thermal efficiency in ways neither traditional planar designs nor purely vertical stacks can.</p>\n<p>The post <a href=\"https://semiengineering.co",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/2-5d-3d-3-5d/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-006",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Is Power Usage Effectiveness (PUE) In Data Centers?",
+    "summary": "<p>A common metric overlooks the energy wasted by inefficient server AC/DC power conversion. </p>\n<p>The post <a href=\"https://semiengineering.com/what-is-power-usage-effectiveness-pue-in-data-centers",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/what-is-power-usage-effectiveness-pue-in-data-centers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-05-07-007",
+    "date": "2026-05-07",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung chip workers reject $340,000 one-time bonus, demand annual payouts like SK hynix's $900,000 — workers want share of AI windfall, impending 18-day strike could cost Samsung up to $11.7 billion",
+    "summary": "\n                             Negotiations between the National Samsung Electronics Union, which represents workers in the company’s chipmaking division, and management have seemingly broken down over",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/samsung-chip-workers-reject-usd340-000-one-time-bonus-demand-annual-payouts-like-sk-hynixs-usd900-000-workers-want-share-of-ai-windfall-impending-18-day-strike-could-cost-samsung-up-to-usd11-7-billion",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-05-07-008",
+    "date": "2026-05-07",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Save nearly $300 on AMD Ryzen 7 9850X3D and Asus Prime RTX 5070 bundle, plus an 850W PSU — score the core components to a new gaming rig for only $940",
+    "summary": "\n                             Pick up a 9850X3D, RTX 5070, 850W PSU, and a copy of Capcom's Pragmata game for just $940 \n                                                                               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/save-nearly-usd300-on-amd-ryzen-7-9850x3d-and-asus-prime-rtx-5070-bundle-plus-an-850w-psu-score-the-core-components-to-a-new-gaming-rig-for-only-usd940",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-009",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "3D-printed rocket fuel successfully tested, could enable lighter missiles and faster production rates — new additive manufacturing process tested at 1,800 PSI",
+    "summary": "\n                             Chromatic 3D Materials has successfully tested 3D-printed rocket propellant capable of withstanding 1,800 PSI combustion pressures, potentially paving the way for faster ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/3d-printing/startup-successfully-tests-3d-printed-rocket-fuel-that-could-enable-lighter-missiles-and-faster-production-rates-new-additive-manufacturing-process-tested-at-1-800-psi",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-05-07-010",
+    "date": "2026-05-07",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Taiwan freezes trading in MediaTek as AI chip rally pushes valuation past US$165 billion",
+    "summary": "Taiwan's stock exchange placed MediaTek &mdash; the chip designer behind silicon used in Samsung phones, Chromebooks, and a growing share of AI hardware &mdash; under trading restrictions from May 7 t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507PD244/mediatek-market-tse-revenue-asic.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-011",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Delta Electronics expands Malaysia presence as SEA becomes semiconductor growth hub",
+    "summary": "As global supply chains continue shifting under \"China+1\" and \"Taiwan+1\" strategies, Southeast Asia has emerged as a key destination for semiconductor and electronics investment. For Taiwanese power a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507VL218/asia-delta-electronics-manufacturing-electronics-automation.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-05-07-012",
+    "date": "2026-05-07",
+    "companies": [
+      "broadcom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Singapore chip firms showcase cross-border manufacturing and testing strengths",
+    "summary": "Headquartered in Singapore, MPics Innovations is staffed by several former executives from Broadcom's isolation products division. The company has long focused on the automotive, industrial, and medic",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507PD238/singapore-semiconductor-industry-broadcom-automotive-industrial-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-013",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "WinWay April revenue hits second-highest on AI, HPC demand",
+    "summary": "WinWay said April 2026 revenue fell nearly 20% from the previous month due to its customer mix and product profile, but still rose more than 50% from a year earlier as orders for AI and high-performan",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507PD232/revenue-hpc-demand-2026-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-07-014",
+    "date": "2026-05-07",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MediaTek opens AI R&amp;D data center in Taiwan with Nvidia DGX SuperPOD",
+    "summary": "MediaTek announced the opening of a new research and development data center at the Tongluo Science Park in Miaoli, Taiwan, aimed at supporting growing demand for edge AI and cloud AI development.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507PD237/mediatek-data-center-taiwan-nvidia-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-015",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Advantech warns supply constraints will temper near-term growth despite strong order momentum",
+    "summary": "Advantech reported sharply accelerated first-quarter 2026 order momentum but cautioned that tight component supply and rising material costs will constrain its near-term outlook, even as management re",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507PD220/advantech-growth-revenue-demand-component.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-016",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese semiconductor equipment makers deepen SEA OSAT presence",
+    "summary": "Chinese semiconductor equipment makers CCtech and Nextool Technology are expanding into Southeast Asia's OSAT hubs as Malaysia and Singapore emerge as key packaging and testing centers amid global sup",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507PD235/southeast-asia-osat-packaging-testing-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-017",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Gemtek sees no end to high-end optical demand, 1.6T mass production set for 4Q26",
+    "summary": "Network equipment maker Gemtek Technology, following the launch of its 800G linear-drive pluggable optics (LPO) optical module in 2025, announced on April 6 that it has successfully developed its next",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507PD200/equipment-gemtek-demand-production-high-end.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-018",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Nuvoton BMC demand grows as per-rack chip count rises to 120",
+    "summary": "Nuvoton is seeing stronger demand for baseboard management controller (BMC) chips as AI servers drive higher requirements for remote server control and system monitoring. The company said the number o",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260506PD216/nuvoton-demand-bmc-management-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-019",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Global chip sales surge in 1Q26, signaling supply and investment shifts",
+    "summary": "Global semiconductor sales reached US$298.5 billion in the first quarter of 2026, the Semiconductor Industry Association (SIA) reported, underscoring robust worldwide demand with possible implications",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507VL213/sales-2026-investment-sia-asia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-07-020",
+    "date": "2026-05-07",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Apple expands clean energy and water investments in India as supply chain sustainability efforts accelerate",
+    "summary": "Apple said it is increasing investment in renewable energy and water sustainability projects globally, including new solar and water initiatives in India, as the company pushes toward its goal of beco",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507VL216/apple-supply-chain-renewable-energy-water-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-021",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Taiwan notebook industry, 1Q 2026: 1Q26 beats expectations, but US-Iran war clouds 2Q26 outlook",
+    "summary": "Affected by the US-Iran war and notebook price hikes, global notebook shipments are likely to increase only 4.4% quarterly in the second quarter of 2026.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507RS400/2026-war-notebook-shipments-taiwan-shipments.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-022",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SEMI reports stronger wafer shipments with global implications",
+    "summary": "The SEMI Silicon Manufacturers Group reported a 13.1% year-over-year rise in global silicon wafer shipment area to 3,275 million square inches in the first quarter of 2026, signaling stronger demand f",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507VL212/semi-shipments-wafer-demand-silicon-wafer.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-07-023",
+    "date": "2026-05-07",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SpaceX targets AI chip independence with US$119 billion Texas Terafab",
+    "summary": "Elon Musk is rapidly expanding his ambitions beyond rockets and electric vehicles (EVs), positioning SpaceX at the center of a vertically integrated artificial intelligence (AI) infrastructure strateg",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507VL209/spacex-elon-musk-fab-investment-infrastructure-texas.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-024",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea's US$344.3 million push to localize power chips",
+    "summary": "South Korea plans to provide KRW500 billion (US$344.3 million) in state funding for a large-scale research and development project aimed at localizing next-generation power semiconductors, <em>ETNews<",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260506VL226/power-semiconductors-government-demand-development-sic.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-025",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Darfon posts margin rebound as AI server MLCC demand lifts first-quarter results",
+    "summary": "Darfon Electronics reported that its first-quarter 2026 profit and gross margin improved as consolidated revenue rose 9.9% year on year to NT$6.025 billion (US$192.11 million). The company announced o",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260507PD230/darfon-2026-profit-mlcc-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-026",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Ingersoll Rand: Heavy Insider Selling And Bearish Revisions Continue To Weigh On Stock",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900073-ingersoll-rand-heavy-insider-selling-and-bearish-revisions-continue-to-weigh-on-stock-price?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-027",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Light & Wonder, Inc. (LNWO) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4899827-light-and-wonder-inc-lnwo-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-028",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Henkel AG & Co. KGaA (HENOY) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900055-henkel-ag-and-co-kgaa-henoy-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-029",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Hut 8's AI Infrastructure Pivot Is Still Undervalued",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900070-why-hut-8s-ai-infrastructure-pivot-is-still-undervalued?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-030",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Magnite, Inc. (MGNI) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900110-magnite-inc-mgni-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-031",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BioGaia AB (publ) (BIOGY) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900058-biogaia-ab-publ-biogy-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-032",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Aristotle International Equity ADR WM Q1 2026 Contributors And Detractors",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900102-aristotle-international-equity-adr-wm-q1-2026-contributors-detractors?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-033",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Root, Inc. (ROOT) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900107-root-inc-root-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-034",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vir Biotechnology, Inc. (VIR) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900106-vir-biotechnology-inc-vir-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-035",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Red Violet, Inc. (RDVT) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900104-red-violet-inc-rdvt-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-036",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Noodles & Company (NDLS) Q1 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900103-noodles-and-company-ndls-q1-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-037",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hartford Core Equity Fund Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4900034-hartford-core-equity-fund-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-07-038",
+    "date": "2026-05-07",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Aims To Expand Manufacturing Capacity In The US By 10x Through Corning Partnership, Mainly Focusing on Optical Connectivity",
+    "summary": "NVIDIA is bringing 10x manufacturing capacity and creating over 3000 high-paying jobs in the US through its partnership with Corning. U.S. Optical Connectivity Manufacturing Sees A Big Boost From NVID",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-to-expand-manufacturing-capacity-in-us-by-10x-through-corning-partnership/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-039",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PCI-SIG Pushes PCIe 8.0 to 1 TB/s and 256 GT/s by 2028, an 8x Leap Over PCIe 5.0 Built for Data Centers",
+    "summary": "PCI-SIG has released the PCIe 8.0 specification with the 0.5 draft detailing up to 1 TB/s bandwidth &#38; 256 GT/s data rates. PCIe 8.0 Standard Will Be Ready by 2028, Made For Next-Gen Data Centers W",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/pci-sig-releases-pcie-8-0-specification-1-tbps-bandwidth-256-gtps-data-rate-by-2028/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-040",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "PRAGMATA Hits 2 Million Sales While PS5 Pro Owners Get a Sharper Resolution Bump and Cleaner Ray Tracing",
+    "summary": "CAPCOM's PRAGMATA launched last month on PC and consoles after years of development. Although the long development cycle did not bode well for the company's new IP, the game turned out great, selling ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/pragmata-2-million-sales-ps5-pro-resolution-bump-ray-tracing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-041",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "PC Manufacturers To See Massive Decline In Motherboard Shipments In 2026 Due To Low Consumer Demand As Component Prices Rise",
+    "summary": "Motherboard shipments are going to see a sharp decrease in 2026 as PC component prices continue to rise, and consumer interest is at an all-time low. Motherboard Makers Will Ship Several Million Lower",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/pc-manufacturers-massive-decline-motherboard-shipments-rising-prices-low-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-07-042",
+    "date": "2026-05-07",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SEGA’s Stranger Than Heaven Drags Snoop Dogg Into a 50-Year Yakuza Saga Spanning Five Eras of Japan",
+    "summary": "During the announced Xbox Special Look broadcast, SEGA and RGG Studio revealed plenty of new details about Stranger Than Heaven, their upcoming new intellectual property. First of all, the game is tar",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sega-stranger-than-heaven-snoop-dogg-50-year-japan-saga/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-07-043",
+    "date": "2026-05-07",
+    "companies": [
+      "apple",
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Pixel’s Tensor Chips Can Easily Handle Liquid Glass, But Google’s Approach Promises One Benefit, Preventing This UI Transition",
+    "summary": "Google’s Sameer Samat, the Android chief, has already confirmed that the company’s Android 17 will not be a Liquid Glass makeover, but don’t believe that this is because those Tensor chips powering th",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/google-tensor-chips-can-run-liquid-glass-but-they-will-not-because-of-one-reason/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-07-044",
+    "date": "2026-05-07",
+    "companies": [
+      "apple",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s Exynos 2800 To Take A Giant Leap On GPU Front By Skipping Ray Tracing To Chase Apple’s M7 Chip With Full Path Tracing",
+    "summary": "Apple's MacBook Neo has popularized a trend of high-end smartphone SoCs powering low- and mid-tier laptops. And, Samsung now appears to be readying a Chromebook version of its 2028-launching Exynos 28",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsungs-exynos-2800-to-take-a-giant-leap-on-gpu-front-skipping-ray-tracing-entirely-to-chase-apples-m7-chip-with-full-path-tracing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-05-07-045",
+    "date": "2026-05-07",
+    "companies": [
+      "meta",
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Datacenter to become Arm’s biggest business ‘soon’",
+    "summary": " Someone other than Meta is buying $1bn of its new AGI chips ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/05/07/datacenter-to-become-arms-biggest-business-soon/5231612",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-046",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK AI chip startup in talks to raise $200m",
+    "summary": "<p>Fractile, the four year-old UK AI inference chip startup, is reported to be in negotiations to raise $200 million at a valuation of $1 billion. In July 2024, Fractile raised ...</p>\n<p>The post <a ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/uk-ai-chip-startup-in-talks-to-raise-200m-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-05-07-047",
+    "date": "2026-05-07",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Arm delivers record results",
+    "summary": "<p>Arm had record revenues of $1.49 billion for both its calendar Q1 (FYQ4) and for its FY2026 ending in March. Licensing revenue grew 29% YoY to $819 million and royalty ...</p>\n<p>The post <a href=\"",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/arm-delivers-record-results-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-06-001",
     "date": "2026-05-06",
     "companies": [],
@@ -1269,6 +2153,392 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/120-students-tape-out-asic-designs-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-06-068",
+    "date": "2026-05-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Spectrum-X â the Open, AI-Native Ethernet Fabric â Sets the Standard for Gigascale AI, Now With MRC",
+    "summary": "The race to build the worldâs most powerful AI factories demands networking that keeps pace with the ambitions of AI itself.Â NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefr",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-05-06-069",
+    "date": "2026-05-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "NVIDIA and Corning Announce Long-Term Partnership to Strengthen US Manufacturing for AI Infrastructure",
+    "summary": "NVIDIA (NASDAQ: NVDA) and Corning Incorporated (NYSE: GLW) today announced a multiyear commercial and technology partnership to dramatically expand U.S.-based manufacturing of the advanced optical con",
+    "sources": []
+  },
+  {
+    "id": "microsoft-2026-05-06-070",
+    "date": "2026-05-06",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xbox CEO Asha Sharma kills Copilot for Gaming — overhauls leadership with CoreAI veterans",
+    "summary": "\n                             Sharma took over as Xbox CEO in February after Phil Spencer retired following 38 years at Microsoft. \n                                                                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-06-071",
+    "date": "2026-05-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia invests $300 million in Corning to build three new US-based optical fiber plants — AI infrastructure deal would boost fiber production capacity by over 50%",
+    "summary": "\n                             Nvidia invests $300 million in Corning to help partners that deploy its hardware in the U.S. to get enough of optical fiber, grant Nvidia control over a significant chunk",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-invests-usd300-million-in-corning-to-build-three-new-us-based-optical-fiber-plants-ai-infrastructure-deal-would-boost-fiber-production-capacity-by-over-50-percent",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-072",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Survey shows that nearly half of Americans don't want new data centers built near their homes — 47% oppose the construction of new AI data centers in their neighborhood",
+    "summary": "\n                             According to a new survey conducted by Ipsos at the end of last year, almost half of all queried Americans said they would oppose an AI data center being built near their",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/survey-shows-that-nearly-half-of-americans-dont-want-new-data-centers-built-near-their-homes-47-percent-oppose-the-construction-of-new-ai-data-centers-in-their-neighborhood",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-05-06-073",
+    "date": "2026-05-06",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD to broaden and specialize EPYC CPUs, already working on Zen 7 architecture — increased customization to better address evolving AI and cloud needs",
+    "summary": "\n                             AMD plans to expand its portfolio of CPUs for data centers that will be targeted at different workloads. \n                                                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-to-broaden-and-specialize-epyc-cpus-already-working-on-zen-7-architecture-increased-customization-to-better-address-evolving-ai-and-cloud-needs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-05-06-074",
+    "date": "2026-05-06",
+    "companies": [
+      "ti"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Grab a prebuilt RTX 5060 Ti 16GB gaming PC for just $1,063 using stackable discounts — Skytech Shadow 4 Gaming PC offers superb value without breaking the bank",
+    "summary": "\n                             For just a snip over $1000, you can bag yourself an RTX 5060 Ti 16GB-powered gaming rig when you apply these stackable discounts. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-prebuilt-rtx-5060-ti-16gb-gaming-pc-for-just-usd1-063-using-stackable-discounts-skytech-shadow-4-gaming-pc-offers-superb-value-without-breaking-the-bank",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-05-06-075",
+    "date": "2026-05-06",
+    "companies": [
+      "onsemi"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX files for $55 billion semiconductor fab in rural Texas for Musk's Terafab — total chipmaking fab investment could reach $119 billion",
+    "summary": "\n                             The capital figures in this filing far exceed what was disclosed when Elon Musk announced Terafab in March, where the project carried a $20 billion price tag. \n          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/spacex-files-for-55-billion-semiconductor-fab-in-rural-texas",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-06-076",
+    "date": "2026-05-06",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple quietly axes 128GB Mac Studio amid supply constraints and local AI frenzy — highest memory capacity reduced to 96GB, two months after discontinuation of 512GB model",
+    "summary": "\n                             Apple quietly pulls high Unified Memory capacity Mac Studios and Mac minis from the Apple store as the memory crunch continues to affect consumer products. \n             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/apple-quietly-axes-128gb-mac-studio-amid-supply-constraints-and-local-ai-frenzy-highest-memory-capacity-reduced-to-96gb-two-months-after-discontinuation-of-512gb-model",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-05-06-077",
+    "date": "2026-05-06",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD posts record first-quarter results, driven by skyrocketing data center CPU demand — company expects consumer andgaming revenue to decline in Q2 over rising memory and component costs",
+    "summary": "\n                             AMD sets record data center revenue as demand for CPUs from the AI sector skyrockets and is poised to increase even further as agentic AI gains momentum. \n               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-posts-record-first-quarter-results-driven-by-skyrocketing-data-center-cpu-demand-company-expects-consumer-and-gaming-revenue-to-decline-in-q2-over-rising-memory-and-component-costs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-078",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rambus Bets on Time Division Multiplexing to Fix PCIe 7.0 for AI Workloads, As GPUs Starve for Data",
+    "summary": "Rambus wants to address ongoing AI bandwidth problems with its new PCIe 7.0 Switch IP that features Time Division Multiplexing. Rambus Introduces PCIe 7.0 Switch IP with Time Division Multiplexing for",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/rambus-bets-on-time-division-multiplexing-to-fix-pcie-7-0-for-ai-workloads/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-05-06-079",
+    "date": "2026-05-06",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Is Now A Trillion-Dollar Juggernaut, As Conventional DRAM Quietly Out-Earns The HBM Everyone Is Obsessed With",
+    "summary": "Samsung has finally entered the hallowed trillion-dollar club, courtesy of the memory-driven tailwind that continues to emanate from AI-focused data centers, going on to permeate nearly every facet of",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-is-now-a-trillion-dollar-juggernaut-as-conventional-dram-quietly-out-earns-the-hbm-everyone-is-obsessed-with/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-080",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Nintendo Stock Hits Longest Losing Streak Since 2016 as Investors Demand Switch 2 Price Hike Despite Pokopia & Mario Galaxy",
+    "summary": "Today, Bloomberg's Tech In Depth newsletter covers a thorny subject: should Nintendo raise the Switch 2 pricing in response to the current economic environment and the ongoing memory shortage? Sony di",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nintendo-stock-longest-losing-streak-2016-investors-switch-2-price-hike/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-06-081",
+    "date": "2026-05-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "SpaceXAI Gives Anthropic A Fresh Injection of 220,000 NVIDIA GPUs While Also Planning on Multi-GW “Orbital” AI Compute Capacity",
+    "summary": "SpaceXAI has announced that it will provide Anthropic access to its Colossus 1 supercomputer with 220,000 NVIDIA GPUs and is also planning orbital compute clusters. From Land To Space, SpaceXAI Has Of",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/spacexai-anthropic-fresh-injection-220000-nvidia-gpus-working-on-multi-gw-orbital-ai-compute-capacity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-05-06-082",
+    "date": "2026-05-06",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "EVE Online’s Studio Walks Away From Pearl Abyss After Record $70M Year, Reborn as Fenris Creations With Google DeepMind Backing",
+    "summary": "Following the sale of CCP Games from Pearl Abyss for $120 million in cash and non-cash elements, the Icelandic studio known mainly for the MMORPG EVE Online announced that it is rebranding and will be",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/eve-online-fenris-creations-pearl-abyss-google-deepmind/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-05-06-083",
+    "date": "2026-05-06",
+    "companies": [
+      "microsoft",
+      "nvidia",
+      "intel",
+      "amd",
+      "broadcom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "OpenAI Got The Whole AI Squad To Accelerate Large-Scale AI Training – AMD, NVIDIA, Intel, Microsoft & Broadcom All-In On MRC",
+    "summary": "It's one thing to partner with either one or two major names in the AI segment, but OpenAI got AMD, NVIDIA, Intel, Microsoft, &#38; Broadcom to accelerate large-scale AI training. OpenAI Announces Meg",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/openai-accelerates-large-scale-ai-training-amd-nvidia-intel-microsoft-broadcom-mrc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-084",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Claude hitches ride on SpaceX's datacenter capacity",
+    "summary": " Compute from Colossus leads to relaxed limits ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/05/06/claude-hitches-a-ride-on-spacexs-datacenter-capacity/5231252",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-06-085",
+    "date": "2026-05-06",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Musk has never built a wafer fab, but he wants to burn $119B on one anyway",
+    "summary": " Initial phases of SpaceX's Terafab project in rural Texas are expected to cost about 1.25 Twitters ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/05/06/spacex-plots-119b-wafer-fab-to-make-elons-orbital-ai-dream-come-true/5231202",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-05-06-086",
+    "date": "2026-05-06",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "DRAM drought to dog AMD's chips this year",
+    "summary": " Commercial PC demand expected to cushion broader slowdown ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/05/06/amd-warns-rising-memory-costs-will-hit-pc-shipments/5231063",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-06-087",
+    "date": "2026-05-06",
+    "companies": [
+      "nvidia",
+      "intel"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Portwell PSD-AN2P0-EXP expansion card for intelligent edge networking",
+    "summary": "<p>Portwell, the industrial and embedded computing specialist, has launched its SD-Branch Solutions portfolio, which features the PSD-AN2P0-EXP AI expansion card for intelligent edge networking. The P",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/portwell-psd-an2p0-exp-expansion-card-for-intelligent-edge-networking-2026-05/",
         "type": "rss"
       }
     ]
