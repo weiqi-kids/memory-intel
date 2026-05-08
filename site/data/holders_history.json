@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T10:36:52.799211+00:00",
+  "updated_at": "2026-05-08T09:51:32.335564+00:00",
   "companies": {
     "amd": [
       {
@@ -251,6 +251,32 @@
             "pct": 2.8
           }
         ]
+      },
+      {
+        "date": "2026-05-08",
+        "total_institutional_pct": 38.9,
+        "top5": [
+          {
+            "holder": "Vanguard Group Inc",
+            "pct": 9.9
+          },
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 9.5
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 4.6
+          },
+          {
+            "holder": "FMR, LLC",
+            "pct": 3.6
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.8
+          }
+        ]
       }
     ],
     "dell": [
@@ -432,6 +458,24 @@
           },
           {
             "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
+            "pct": 0.0
+          }
+        ]
+      },
+      {
+        "date": "2026-05-08",
+        "total_institutional_pct": 0.0,
+        "top5": [
+          {
+            "holder": "Essex Investment Management Co LLC",
+            "pct": 0.0
+          },
+          {
+            "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
+            "pct": 0.0
+          },
+          {
+            "holder": "Pacer Advisors, Inc.",
             "pct": 0.0
           }
         ]
@@ -943,6 +987,32 @@
             "pct": 0.0
           }
         ]
+      },
+      {
+        "date": "2026-05-08",
+        "total_institutional_pct": 0.0,
+        "top5": [
+          {
+            "holder": "Aristotle Capital Management, LLC",
+            "pct": 0.0
+          },
+          {
+            "holder": "Paradigm Asset Management Company, LLC",
+            "pct": 0.0
+          },
+          {
+            "holder": "Chickasaw Capital Management, LLC",
+            "pct": 0.0
+          },
+          {
+            "holder": "Stanley-Laman Group, Ltd.",
+            "pct": 0.0
+          },
+          {
+            "holder": "Pacer Advisors, Inc.",
+            "pct": 0.0
+          }
+        ]
       }
     ],
     "shin_etsu": [
@@ -1122,6 +1192,20 @@
           },
           {
             "holder": "Stanley-Laman Group, Ltd.",
+            "pct": 0.0
+          }
+        ]
+      },
+      {
+        "date": "2026-05-08",
+        "total_institutional_pct": 0.0,
+        "top5": [
+          {
+            "holder": "Stanley-Laman Group, Ltd.",
+            "pct": 0.0
+          },
+          {
+            "holder": "Pacer Advisors, Inc.",
             "pct": 0.0
           }
         ]
