@@ -1,0 +1,198 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:31:16.592716Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-09-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sprout Social, Inc. (SPT) Q1 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4900851-sprout-social-inc-spt-q1-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-09-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Reinsurance Group of America, Incorporated 2026 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4901916-reinsurance-group-of-america-incorporated-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "hp-2026-05-09-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Helmerich & Payne, Inc. (HP) Q2 2026 Earnings Call Transcript",
+      "companies": [
+        "hp"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4901915-helmerich-and-payne-inc-hp-q2-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-09-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ligand Pharmaceuticals Incorporated (LGND) Q1 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4901914-ligand-pharmaceuticals-incorporated-lgnd-q1-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-09-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Array Technologies, Inc. (ARRY) Q1 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4901913-array-technologies-inc-arry-q1-2026-earnings-call-transcript?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "hp",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 299,
+    "dup_title": 53,
+    "too_old": 119,
+    "gate1_blocked": 52,
+    "gate2_blocked": 31,
+    "passed": 44,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Intel at Computex 2026: Advancing the Next Era of AI-Driven Computing",
+      "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIAâs Ian Buck on the ",
+      "Apple introduces a new Pride Collection",
+      "5 helpful tools from Google to keep your accounts safe",
+      "This Teacher Appreciation Week, we’re celebrating educators who made a difference in our lives."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為惠普相關動態：「Sprout Social, Inc. (SPT) Q1 2026 Earnings Call Transcript」。主要關注主題為財報、半導體/記憶體通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Sprout Social, Inc. (SPT) Q1 2026 Earnings Call Transcript（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Reinsurance Group of America, Incorporated 2026 Q1 - Results - Earnings Call ...（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
