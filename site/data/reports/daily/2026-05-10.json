@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:49:54.899350Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-10-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BB Seguridade Participações S.A. (BBSEY) Q1 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4898791-bb-seguridade-participacoes-s-a-bbsey-q1-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "UTG: Has Evolved Into A Data Center Growth Portfolio",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4902186-utg-has-evolved-into-a-data-center-growth-portfolio?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "dell-2026-05-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dell: The Stock Is Pricey But I'm Still Dipping Into The Buys",
+      "companies": [
+        "dell"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4902182-dell-the-stock-is-pricey-but-im-still-dipping-into-the-buys?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "H&R Block: Even After The 26% Pop, This High Dividend Stock Remains Undervalued",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4902167-h-and-r-block-stock-even-after-the-26-percent-pop-this-high-dividend-stock-remains-undervalued?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-05-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung’s Desperation To Keep Galaxy S27 Component Costs Down Has Forced It To Seek A Supplier Of Inferior Quality Displays",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/galaxy-seeking-inferior-display-supplier-to-keep-galaxy-s27-component-costs-down/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "dell",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 299,
+    "dup_title": 71,
+    "too_old": 119,
+    "gate1_blocked": 55,
+    "gate2_blocked": 34,
+    "passed": 20,
+    "pass_rate": "8.8%",
+    "gate2_block_rate": "14.9%",
+    "gate2_samples": [
+      "Intel at Computex 2026: Advancing the Next Era of AI-Driven Computing",
+      "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIAâs Ian Buck on the ",
+      "Apple introduces a new Pride Collection",
+      "5 helpful tools from Google to keep your accounts safe",
+      "This Teacher Appreciation Week, we’re celebrating educators who made a difference in our lives."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為戴爾、三星相關動態：「BB Seguridade Participações S.A. (BBSEY) Q1 2026 Earnings...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BB Seguridade Participações S.A. (BBSEY) Q1 2026 Earnings Call Transcript（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "UTG: Has Evolved Into A Data Center Growth Portfolio（半導體/記憶體通用）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
