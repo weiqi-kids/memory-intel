@@ -1,0 +1,308 @@
+{
+  "date": "2026-05-12",
+  "date_range": {
+    "start": "2026-05-06",
+    "end": "2026-05-12"
+  },
+  "generated_at": "2026-05-12T10:44:05.955389Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-05-06-015",
+      "date": "2026-05-06",
+      "title": "GlobalWafers prepares inventory buffer as geopolitical factors push up gallium prices",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "skhynix",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capacity": {
+      "this_week": 16,
+      "last_week": 16,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.08
+    },
+    "industry_general": {
+      "this_week": 116,
+      "last_week": 111,
+      "week_over_week_change": "+5%",
+      "sentiment_this_week": 0.07
+    },
+    "earnings": {
+      "this_week": 123,
+      "last_week": 116,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": 0.08
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 14,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.06
+    },
+    "capex": {
+      "this_week": 12,
+      "last_week": 24,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.17
+    },
+    "ai_server": {
+      "this_week": 15,
+      "last_week": 7,
+      "week_over_week_change": "+114%",
+      "sentiment_this_week": 0.22
+    },
+    "inventory": {
+      "this_week": 13,
+      "last_week": 6,
+      "week_over_week_change": "+117%",
+      "sentiment_this_week": 0.21
+    },
+    "advanced_packaging": {
+      "this_week": 8,
+      "last_week": 4,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.19
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": -0.11
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.14
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 2,
+      "last_week": 8,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.25
+    },
+    "ddr5": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "intel": {
+      "event_count": 17,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 5
+    },
+    "winbond": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 13
+    },
+    "supermicro": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "apple": {
+      "event_count": 9,
+      "sentiment_avg": -0.03,
+      "rank": 4
+    },
+    "samsung": {
+      "event_count": 10,
+      "sentiment_avg": -0.07,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "google": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "skhynix": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "nvidia": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 8
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 9
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 20
+    },
+    "hp": {
+      "event_count": 2,
+      "sentiment_avg": -0.38,
+      "rank": 12
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 24
+    },
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 25
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 351,
+        "last": 398,
+        "change_pct": -11.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-06",
+      "event_count": 87,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-07",
+      "event_count": 67,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 50,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 27,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 19,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 56,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 45,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-06 ~ 2026-05-12）共 351 則事件，重點為「GlobalWafers prepares inventory buffer as geopo...」。惠普、Winbond情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Winbond",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "惠普",
+        "reason": "本週情緒偏負面（-0.4），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "美光",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

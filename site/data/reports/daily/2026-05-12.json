@@ -1,0 +1,352 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:44:05.866420Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-05-12-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "China's next-gen CPUs and GPUs prepare to challenge last-gen Intel and AMD in 2027 — Loongson 3B6600 and 9A1000 aim to match Intel's 12th Gen and AMD's RX 550",
+      "companies": [
+        "intel",
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/cpus/chinas-next-gen-cpus-and-gpus-prepare-to-challenge-last-gen-intel-and-amd-in-2027-loongson-3b6600-and-9a1000-aim-to-match-intels-12th-gen-and-amds-rx-550"
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-05-12-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "TSMC CoWoS shortage drives SK Hynix-Intel 2.5D push",
+      "companies": [
+        "intel",
+        "tsmc",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "shortage",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260512PD235/tsmc-packaging-sk-hynix-cowos-intel.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-05-12-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung labor dispute rattles global supply chain",
+      "companies": [
+        "samsung",
+        "apple",
+        "hp"
+      ],
+      "related": {
+        "customers": [
+          "apple",
+          "hp"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260512PD221/samsung-apple-labor-hp-supply-chain.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-12-027",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "Taiwan AI testing boom lifts KYEC, MPI, and WinWay to record 2026 revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260512VL209/taiwan-monthly-tracker-king-yuan-mpi-winway-testing-revenue-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-12-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "BTL Group ramps AI server testing as orders extend through September",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260512PD237/testing-btl-ai-server-revenue-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "ai_server",
+        "advanced_packaging",
+        "industry_general",
+        "shortage"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 30,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "tsmc",
+        "count": 5
+      },
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "apple",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "ai_server",
+        "count": 8
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "shortage",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 53,
+    "too_old": 115,
+    "gate1_blocked": 48,
+    "gate2_blocked": 33,
+    "passed": 60,
+    "pass_rate": "23.4%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Intel at Computex 2026: Advancing the Next Era of AI-Driven Computing",
+      "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIAâs Ian Buck on the ",
+      "End-to-end encrypted RCS messaging begins rolling out today in beta",
+      "Supermicro Appoints Vik Malyala as Chief Business Officer",
+      "Our new initiative to apply quantum science and AI to the life sciences"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為台積電、英特爾、蘋果相關動態：「China's next-gen CPUs and GPUs prepare to challenge last-...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China's next-gen CPUs and GPUs prepare to challenge last-gen Intel and AMD in...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "TSMC CoWoS shortage drives SK Hynix-Intel 2.5D push（AI 伺服器、缺貨、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
