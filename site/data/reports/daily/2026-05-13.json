@@ -1,0 +1,342 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:42:27.759559Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-05-13-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Intel's preliminary Apple deal puts Samsung's foundry ambitions under pressure",
+      "companies": [
+        "samsung",
+        "apple",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260512VL203/samsung-intel-semiconductor-foundry-apple-chips.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-13-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Taiwan capacitor maker Chinsan locks in Thailand AI server capacity through 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260513PD236/taiwan-chinsan-capacitor-ai-server-thailand-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-13-014",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI server tracker: ASPEED sees sustained growth as AI server demand strengthens BMC market outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260512VL207/taiwan-monthly-tracker-aspeed-ai-server-demand-market.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-13-012",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Commentary: AI server ODMs face margin squeeze as memory costs soar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260513PD237/ai-server-odm-business-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "apple-2026-05-13-036",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intel Chips Are Powering Googlebook, Tackling Apple’s MacBook Neo With A “Premium & Powerful” Laptop",
+      "companies": [
+        "apple",
+        "intel",
+        "google"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/intel-chips-powering-googlebook-tackle-apple-macbook-neo-with-premium-powerful-laptop/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "apple",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capex"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 28,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 6
+      },
+      {
+        "id": "google",
+        "count": 3
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "meta",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 19
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 54,
+    "too_old": 114,
+    "gate1_blocked": 53,
+    "gate2_blocked": 37,
+    "passed": 61,
+    "pass_rate": "23.0%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Powering the Next American Century: US Energy Secretary Chris Wright and NVIDIAâs Ian Buck on the ",
+      "Wackadoo! Join Bluey for the ultimate playdate on Apple Arcade starting May 21",
+      "End-to-end encrypted RCS messaging begins rolling out today in beta",
+      "Supermicro Appoints Vik Malyala as Chief Business Officer",
+      "Our fight against fraud: 5 ways we’re keeping you safer"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為英特爾、GCP、蘋果相關動態：「Intel's preliminary Apple deal puts Samsung's foundry amb...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Intel's preliminary Apple deal puts Samsung's foundry ambitions under pressure（資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Taiwan capacitor maker Chinsan locks in Thailand AI server capacity through 2026（產能、AI 伺服器、財報）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
