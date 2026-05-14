@@ -16,8 +16,16 @@
       "downstream": [
         "samsung",
         "skhynix",
-        "micron"
-      ]
+        "micron",
+        "tsmc",
+        "intel",
+        "kioxia",
+        "nanya",
+        "winbond",
+        "cxmt",
+        "ymtc"
+      ],
+      "fetch_mode": "http"
     },
     {
       "id": "tokyo_electron",
@@ -36,8 +44,14 @@
       "downstream": [
         "samsung",
         "skhynix",
-        "micron"
-      ]
+        "micron",
+        "tsmc",
+        "intel",
+        "kioxia",
+        "nanya",
+        "winbond"
+      ],
+      "fetch_mode": "http"
     },
     {
       "id": "lam_research",
@@ -55,8 +69,83 @@
       "downstream": [
         "samsung",
         "skhynix",
-        "micron"
-      ]
+        "micron",
+        "tsmc",
+        "intel",
+        "kioxia",
+        "western_digital"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "applied_materials",
+      "name": "Applied Materials",
+      "aliases": [
+        "應材",
+        "AMAT"
+      ],
+      "ticker": "AMAT",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "設備",
+      "description": "半導體製程設備（薄膜、離子植入）",
+      "ir_url": "https://ir.appliedmaterials.com/",
+      "downstream": [
+        "samsung",
+        "skhynix",
+        "micron",
+        "tsmc",
+        "intel",
+        "kioxia",
+        "nanya",
+        "winbond"
+      ],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://ir.appliedmaterials.com/rss/news-releases.xml"
+    },
+    {
+      "id": "kla",
+      "name": "KLA Corporation",
+      "aliases": [
+        "KLA"
+      ],
+      "ticker": "KLAC",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "設備",
+      "description": "製程檢測與量測設備",
+      "ir_url": "https://ir.kla.com/",
+      "downstream": [
+        "samsung",
+        "skhynix",
+        "micron",
+        "tsmc",
+        "intel"
+      ],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://ir.kla.com/news-events/press-releases/rss"
+    },
+    {
+      "id": "screen",
+      "name": "Screen Holdings",
+      "aliases": [],
+      "ticker": "7735.T",
+      "market": "TSE",
+      "currency": "JPY",
+      "position": "upstream",
+      "role": "設備",
+      "description": "清洗與塗佈設備",
+      "ir_url": "https://www.screen.co.jp/en/ir",
+      "downstream": [
+        "samsung",
+        "skhynix",
+        "micron",
+        "tsmc"
+      ],
+      "fetch_mode": "http",
+      "news_url": "https://www.screen.co.jp/en/news/"
     },
     {
       "id": "sumco",
@@ -66,14 +155,17 @@
       "market": "TSE",
       "currency": "JPY",
       "position": "upstream",
-      "role": "矽晶圓",
+      "role": "材料",
       "description": "矽晶圓製造商",
       "ir_url": "https://www.sumcosi.com/english/ir/",
       "downstream": [
         "samsung",
         "skhynix",
-        "micron"
-      ]
+        "micron",
+        "tsmc",
+        "intel"
+      ],
+      "fetch_mode": "http"
     },
     {
       "id": "sk_siltron",
@@ -85,12 +177,131 @@
       "market": null,
       "currency": "KRW",
       "position": "upstream",
-      "role": "矽晶圓",
+      "role": "材料",
       "description": "SK 集團矽晶圓子公司",
       "ir_url": null,
       "downstream": [
-        "skhynix"
-      ]
+        "skhynix",
+        "samsung"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "shin_etsu",
+      "name": "Shin-Etsu Chemical",
+      "aliases": [
+        "信越化學",
+        "Shin-Etsu"
+      ],
+      "ticker": "4063.T",
+      "market": "TSE",
+      "currency": "JPY",
+      "position": "upstream",
+      "role": "材料",
+      "description": "矽晶圓與光阻材料",
+      "ir_url": "https://www.shinetsu.co.jp/en/ir/",
+      "downstream": [
+        "samsung",
+        "skhynix",
+        "micron",
+        "tsmc",
+        "intel"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "entegris",
+      "name": "Entegris",
+      "aliases": [],
+      "ticker": "ENTG",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "材料",
+      "description": "製程化學材料與過濾系統",
+      "ir_url": "https://investor.entegris.com/",
+      "downstream": [
+        "samsung",
+        "skhynix",
+        "micron",
+        "tsmc",
+        "intel"
+      ],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://blog.entegris.com/rss.xml",
+      "news_url": "https://www.entegris.com/en/home/about-us/news.html"
+    },
+    {
+      "id": "synopsys",
+      "name": "Synopsys",
+      "aliases": [
+        "新思科技"
+      ],
+      "ticker": "SNPS",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "EDA",
+      "description": "EDA 工具與半導體 IP",
+      "ir_url": "https://investor.synopsys.com/",
+      "downstream": [
+        "samsung",
+        "skhynix",
+        "nvidia",
+        "amd",
+        "broadcom",
+        "qualcomm",
+        "intel"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "cadence",
+      "name": "Cadence Design Systems",
+      "aliases": [
+        "益華電腦"
+      ],
+      "ticker": "CDNS",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "EDA",
+      "description": "EDA 工具與半導體 IP",
+      "ir_url": "https://investors.cadence.com/",
+      "downstream": [
+        "samsung",
+        "skhynix",
+        "nvidia",
+        "amd",
+        "broadcom",
+        "qualcomm",
+        "intel"
+      ],
+      "fetch_mode": "playwright",
+      "news_url": "https://www.cadence.com/en_US/home/company/newsroom/press-releases.html"
+    },
+    {
+      "id": "arm",
+      "name": "Arm Holdings",
+      "aliases": [
+        "ARM",
+        "安謀"
+      ],
+      "ticker": "ARM",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "upstream",
+      "role": "IP",
+      "description": "處理器架構 IP 授權",
+      "ir_url": "https://investors.arm.com/",
+      "downstream": [
+        "nvidia",
+        "amd",
+        "apple",
+        "qualcomm",
+        "broadcom"
+      ],
+      "fetch_mode": "http"
     },
     {
       "id": "samsung",
@@ -107,18 +318,27 @@
       "role": "記憶體製造",
       "description": "全球最大記憶體製造商",
       "ir_url": "https://www.samsung.com/global/ir/",
-      "news_url": "https://news.samsung.com/global/",
+      "news_url": "https://news.samsungsemiconductor.com/global/",
       "upstream": [
         "asml",
         "tokyo_electron",
-        "sumco"
+        "applied_materials",
+        "sumco",
+        "shin_etsu"
       ],
       "downstream": [
         "nvidia",
         "amd",
         "apple",
-        "ase"
-      ]
+        "dell",
+        "hp",
+        "lenovo",
+        "supermicro",
+        "ase",
+        "amkor"
+      ],
+      "ir_rss_url": "https://news.samsungsemiconductor.com/global/feed/",
+      "fetch_mode": "rss"
     },
     {
       "id": "skhynix",
@@ -139,14 +359,19 @@
       "upstream": [
         "asml",
         "tokyo_electron",
+        "applied_materials",
         "sumco",
         "sk_siltron"
       ],
       "downstream": [
         "nvidia",
         "amd",
+        "apple",
+        "dell",
+        "supermicro",
         "powertech"
-      ]
+      ],
+      "fetch_mode": "http"
     },
     {
       "id": "micron",
@@ -166,14 +391,20 @@
         "asml",
         "tokyo_electron",
         "lam_research",
+        "applied_materials",
         "sumco"
       ],
       "downstream": [
         "nvidia",
+        "amd",
+        "apple",
+        "dell",
+        "hp",
         "aws",
         "microsoft",
         "powertech"
-      ]
+      ],
+      "fetch_mode": "http"
     },
     {
       "id": "nanya",
@@ -190,12 +421,17 @@
       "description": "台灣 DRAM 製造商",
       "ir_url": "https://www.nanya.com/tw/IR",
       "upstream": [
-        "asml"
+        "asml",
+        "applied_materials"
       ],
       "downstream": [
+        "dell",
+        "hp",
+        "lenovo",
         "ptc",
         "powertech"
-      ]
+      ],
+      "fetch_mode": "http"
     },
     {
       "id": "winbond",
@@ -212,9 +448,339 @@
       "description": "NOR Flash 與利基型 DRAM",
       "ir_url": "https://www.winbond.com/hq/about-winbond/investor-relations/",
       "upstream": [
+        "asml",
+        "applied_materials"
+      ],
+      "downstream": [
+        "dell",
+        "hp",
+        "lenovo"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "kioxia",
+      "name": "Kioxia",
+      "aliases": [
+        "鎧俠",
+        "Toshiba Memory"
+      ],
+      "ticker": "285A.T",
+      "market": "TSE",
+      "currency": "JPY",
+      "position": "midstream",
+      "role": "記憶體製造",
+      "description": "NAND Flash 主要製造商",
+      "ir_url": "https://www.kioxia.com/en-jp/ir/",
+      "upstream": [
+        "asml",
+        "tokyo_electron",
+        "lam_research"
+      ],
+      "downstream": [
+        "apple",
+        "dell",
+        "hp",
+        "lenovo"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "western_digital",
+      "name": "Western Digital",
+      "aliases": [
+        "WD",
+        "威騰電子"
+      ],
+      "ticker": "WDC",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "記憶體製造",
+      "description": "NAND Flash 與儲存裝置",
+      "ir_url": "https://investor.wdc.com/",
+      "upstream": [
+        "asml",
+        "lam_research"
+      ],
+      "downstream": [
+        "dell",
+        "hp",
+        "lenovo",
+        "aws",
+        "microsoft"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "cxmt",
+      "name": "長鑫存儲",
+      "aliases": [
+        "CXMT",
+        "ChangXin Memory"
+      ],
+      "ticker": null,
+      "market": null,
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "記憶體製造",
+      "description": "中國 DRAM 製造商",
+      "ir_url": null,
+      "downstream": [
+        "lenovo"
+      ],
+      "upstream": [
         "asml"
       ],
-      "downstream": []
+      "fetch_mode": "http"
+    },
+    {
+      "id": "ymtc",
+      "name": "長江存儲",
+      "aliases": [
+        "YMTC",
+        "Yangtze Memory"
+      ],
+      "ticker": null,
+      "market": null,
+      "currency": "CNY",
+      "position": "midstream",
+      "role": "記憶體製造",
+      "description": "中國 NAND Flash 製造商",
+      "ir_url": null,
+      "downstream": [
+        "lenovo"
+      ],
+      "upstream": [
+        "asml"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "phison",
+      "name": "Phison Electronics",
+      "aliases": [
+        "群聯電子",
+        "群聯"
+      ],
+      "ticker": "8299.TWO",
+      "market": "TPEx",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "控制IC",
+      "description": "NAND 控制 IC 龍頭",
+      "ir_url": "https://www.phison.com/en/InvestorRelations",
+      "upstream": [
+        "kioxia",
+        "western_digital",
+        "micron"
+      ],
+      "downstream": [
+        "dell",
+        "hp",
+        "lenovo"
+      ],
+      "fetch_mode": "playwright",
+      "news_url": "https://www.phison.com/en/newsroom"
+    },
+    {
+      "id": "silicon_motion",
+      "name": "Silicon Motion",
+      "aliases": [
+        "慧榮科技",
+        "慧榮"
+      ],
+      "ticker": "SIMO",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "控制IC",
+      "description": "SSD 控制器",
+      "ir_url": "https://www.siliconmotion.com/investor",
+      "upstream": [
+        "kioxia",
+        "western_digital"
+      ],
+      "downstream": [
+        "dell",
+        "hp"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "macronix",
+      "name": "Macronix",
+      "aliases": [
+        "旺宏電子",
+        "旺宏"
+      ],
+      "ticker": "2337.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "利基記憶體",
+      "description": "NOR Flash 與 ROM",
+      "ir_url": "https://www.macronix.com/en-us/IR/Pages/default.aspx",
+      "upstream": [
+        "asml"
+      ],
+      "downstream": [],
+      "fetch_mode": "playwright",
+      "news_url": "https://www.macronix.com/en-us/about/news/Pages/default.aspx"
+    },
+    {
+      "id": "elite_semi",
+      "name": "Elite Semiconductor",
+      "aliases": [
+        "晶豪科",
+        "晶豪科技"
+      ],
+      "ticker": "3006.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "利基記憶體",
+      "description": "利基型 DRAM 與 Flash 設計",
+      "ir_url": "https://www.esmt.com.tw/en/IR",
+      "upstream": [
+        "tsmc"
+      ],
+      "downstream": [],
+      "fetch_mode": "http",
+      "news_url": "https://www.esmt.com.tw/en/News"
+    },
+    {
+      "id": "adata",
+      "name": "ADATA Technology",
+      "aliases": [
+        "威剛科技",
+        "威剛"
+      ],
+      "ticker": "3260.TWO",
+      "market": "TPEx",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "記憶體模組",
+      "description": "全球前二大 DRAM 模組廠",
+      "ir_url": "https://www.adata.com/en/investor/",
+      "upstream": [
+        "samsung",
+        "skhynix",
+        "micron"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "innodisk",
+      "name": "Innodisk",
+      "aliases": [
+        "宜鼎國際",
+        "宜鼎"
+      ],
+      "ticker": "5289.TWO",
+      "market": "TPEx",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "記憶體模組",
+      "description": "工業級記憶體與儲存",
+      "ir_url": "https://www.innodisk.com/en/investor",
+      "upstream": [
+        "samsung",
+        "micron",
+        "kioxia"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "tsmc",
+      "name": "TSMC",
+      "aliases": [
+        "台積電",
+        "台灣積體電路"
+      ],
+      "ticker": "TSM",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "代工",
+      "description": "全球最大晶圓代工，CoWoS 先進封裝",
+      "ir_url": "https://investor.tsmc.com/",
+      "downstream": [
+        "nvidia",
+        "amd",
+        "apple",
+        "broadcom",
+        "qualcomm"
+      ],
+      "upstream": [
+        "asml",
+        "tokyo_electron",
+        "lam_research",
+        "applied_materials",
+        "sumco",
+        "shin_etsu",
+        "synopsys",
+        "cadence"
+      ],
+      "fetch_mode": "playwright",
+      "news_url": "https://pr.tsmc.com/english/latest-news"
+    },
+    {
+      "id": "intel",
+      "name": "Intel",
+      "aliases": [
+        "英特爾"
+      ],
+      "ticker": "INTC",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "代工",
+      "description": "IDM + 代工服務，EMIB-T 先進封裝",
+      "ir_url": "https://www.intc.com/",
+      "upstream": [
+        "asml",
+        "applied_materials",
+        "synopsys",
+        "cadence"
+      ],
+      "downstream": [
+        "dell",
+        "hp",
+        "lenovo",
+        "aws",
+        "microsoft",
+        "google"
+      ],
+      "ir_rss_url": "https://newsroom.intel.com/feed/",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "psmc",
+      "name": "Powerchip Semiconductor",
+      "aliases": [
+        "力積電"
+      ],
+      "ticker": "6770.TW",
+      "market": "TWSE",
+      "currency": "TWD",
+      "position": "midstream",
+      "role": "代工",
+      "description": "DRAM 代工，產線部分售予 Micron",
+      "ir_url": "https://www.powerchip.com/en-global/investors",
+      "upstream": [
+        "asml",
+        "applied_materials"
+      ],
+      "downstream": [
+        "nanya",
+        "winbond",
+        "phison"
+      ],
+      "fetch_mode": "http",
+      "news_url": "https://www.powerchip.com/en-global/insights/press-releases"
     },
     {
       "id": "ase",
@@ -231,12 +797,19 @@
       "description": "全球最大封測廠",
       "ir_url": "https://www.aseglobal.com/zh-tw/investor",
       "upstream": [
-        "samsung"
+        "samsung",
+        "skhynix",
+        "micron"
       ],
       "downstream": [
         "nvidia",
-        "amd"
-      ]
+        "amd",
+        "apple",
+        "broadcom",
+        "qualcomm"
+      ],
+      "fetch_mode": "http",
+      "news_url": "https://www.aseglobal.com/press-room/"
     },
     {
       "id": "powertech",
@@ -251,15 +824,18 @@
       "position": "midstream",
       "role": "封測",
       "description": "記憶體封測，HBM 封裝",
-      "ir_url": "https://www.pfreak.com.tw/investor.php",
+      "ir_url": "https://www.pti.com.tw/en/ir/news/message",
       "upstream": [
         "skhynix",
         "micron",
         "nanya"
       ],
       "downstream": [
-        "nvidia"
-      ]
+        "nvidia",
+        "amd"
+      ],
+      "fetch_mode": "playwright",
+      "news_url": "https://www.pti.com.tw/en/ir/news/message"
     },
     {
       "id": "ptc",
@@ -274,11 +850,39 @@
       "position": "midstream",
       "role": "封測",
       "description": "記憶體與驅動 IC 封測",
-      "ir_url": "https://www.chipmos.com/investor.php",
+      "ir_url": "https://www.chipmos.com/english/investor/index.aspx",
       "upstream": [
-        "nanya"
+        "nanya",
+        "winbond"
       ],
-      "downstream": []
+      "downstream": [],
+      "fetch_mode": "http",
+      "news_url": "https://www.chipmos.com/english/news/news-list.aspx?MID=1"
+    },
+    {
+      "id": "amkor",
+      "name": "Amkor Technology",
+      "aliases": [
+        "艾克爾"
+      ],
+      "ticker": "AMKR",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "midstream",
+      "role": "封測",
+      "description": "先進封裝與測試",
+      "ir_url": "https://ir.amkor.com/",
+      "upstream": [
+        "samsung",
+        "micron",
+        "tsmc"
+      ],
+      "downstream": [
+        "nvidia",
+        "apple",
+        "broadcom"
+      ],
+      "fetch_mode": "http"
     },
     {
       "id": "nvidia",
@@ -298,14 +902,22 @@
         "samsung",
         "skhynix",
         "micron",
+        "tsmc",
         "ase",
-        "powertech"
+        "powertech",
+        "amkor"
       ],
       "downstream": [
         "aws",
         "microsoft",
-        "google"
-      ]
+        "google",
+        "meta",
+        "oracle",
+        "dell",
+        "supermicro"
+      ],
+      "ir_rss_url": "https://nvidianews.nvidia.com/releases.xml",
+      "fetch_mode": "rss"
     },
     {
       "id": "amd",
@@ -323,12 +935,148 @@
       "upstream": [
         "samsung",
         "skhynix",
+        "tsmc",
+        "ase",
+        "powertech"
+      ],
+      "downstream": [
+        "aws",
+        "microsoft",
+        "dell",
+        "supermicro"
+      ],
+      "ir_rss_url": "https://ir.amd.com/rss/news-releases.xml",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "broadcom",
+      "name": "Broadcom",
+      "aliases": [
+        "博通"
+      ],
+      "ticker": "AVGO",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "AI 晶片",
+      "description": "客製化 AI 晶片（Google TPU）",
+      "ir_url": "https://investors.broadcom.com/",
+      "upstream": [
+        "tsmc",
+        "ase",
+        "amkor",
+        "skhynix"
+      ],
+      "downstream": [
+        "google",
+        "meta"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "qualcomm",
+      "name": "Qualcomm",
+      "aliases": [
+        "高通"
+      ],
+      "ticker": "QCOM",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "行動晶片",
+      "description": "行動處理器與基頻晶片",
+      "ir_url": "https://investor.qualcomm.com/",
+      "upstream": [
+        "tsmc",
+        "samsung",
+        "ase"
+      ],
+      "downstream": [
+        "apple",
+        "lenovo"
+      ],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "marvell",
+      "name": "Marvell Technology",
+      "aliases": [
+        "Marvell",
+        "美滿電子"
+      ],
+      "ticker": "MRVL",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "網通晶片",
+      "description": "資料中心網路晶片",
+      "ir_url": "https://investor.marvell.com/",
+      "upstream": [
+        "tsmc",
         "ase"
       ],
       "downstream": [
         "aws",
-        "microsoft"
-      ]
+        "microsoft",
+        "google"
+      ],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://investor.marvell.com/rss-news-feed"
+    },
+    {
+      "id": "ti",
+      "name": "Texas Instruments",
+      "aliases": [
+        "TI",
+        "德州儀器"
+      ],
+      "ticker": "TXN",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "類比IC",
+      "description": "類比 IC 龍頭",
+      "ir_url": "https://investor.ti.com/",
+      "upstream": [],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "onsemi",
+      "name": "ON Semiconductor",
+      "aliases": [
+        "ON Semi",
+        "安森美"
+      ],
+      "ticker": "ON",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "功率半導體",
+      "description": "車用與工業功率半導體",
+      "ir_url": "https://investor.onsemi.com/",
+      "upstream": [],
+      "downstream": [],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://investor.onsemi.com/rss/news-releases.xml"
+    },
+    {
+      "id": "infineon",
+      "name": "Infineon Technologies",
+      "aliases": [
+        "Infineon",
+        "英飛凌"
+      ],
+      "ticker": "IFX.DE",
+      "market": "XETRA",
+      "currency": "EUR",
+      "position": "downstream",
+      "role": "車用晶片",
+      "description": "車用 MCU 與功率半導體",
+      "ir_url": "https://www.infineon.com/cms/en/about-infineon/investor/",
+      "upstream": [],
+      "downstream": [],
+      "fetch_mode": "http"
     },
     {
       "id": "apple",
@@ -340,14 +1088,113 @@
       "market": "NASDAQ",
       "currency": "USD",
       "position": "downstream",
-      "role": "消費電子",
+      "role": "系統",
       "description": "iPhone, Mac 記憶體需求",
       "ir_url": "https://investor.apple.com/",
       "upstream": [
         "samsung",
+        "skhynix",
+        "tsmc",
+        "kioxia",
+        "amkor"
+      ],
+      "downstream": [],
+      "ir_rss_url": "https://www.apple.com/newsroom/rss-feed.rss",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "dell",
+      "name": "Dell Technologies",
+      "aliases": [
+        "戴爾"
+      ],
+      "ticker": "DELL",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "系統",
+      "description": "伺服器與 PC，AI 伺服器主要 OEM",
+      "ir_url": "https://investors.delltechnologies.com/",
+      "upstream": [
+        "nvidia",
+        "micron",
+        "intel",
+        "samsung",
         "skhynix"
       ],
-      "downstream": []
+      "downstream": [],
+      "fetch_mode": "rss",
+      "ir_rss_url": "https://investors.delltechnologies.com/rss/news-releases.xml"
+    },
+    {
+      "id": "hp",
+      "name": "HP Inc.",
+      "aliases": [
+        "惠普"
+      ],
+      "ticker": "HPQ",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "系統",
+      "description": "PC 與工作站",
+      "ir_url": "https://investor.hp.com/",
+      "upstream": [
+        "micron",
+        "intel",
+        "nanya",
+        "winbond"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "lenovo",
+      "name": "Lenovo",
+      "aliases": [
+        "聯想"
+      ],
+      "ticker": "0992.HK",
+      "market": "HKEX",
+      "currency": "HKD",
+      "position": "downstream",
+      "role": "系統",
+      "description": "全球最大 PC 廠商",
+      "ir_url": "https://investor.lenovo.com/",
+      "upstream": [
+        "micron",
+        "samsung",
+        "intel",
+        "nanya",
+        "qualcomm"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "supermicro",
+      "name": "Super Micro Computer",
+      "aliases": [
+        "Supermicro",
+        "超微電腦",
+        "Super Micro"
+      ],
+      "ticker": "SMCI",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "系統",
+      "description": "AI 伺服器主要 ODM",
+      "ir_url": "https://ir.supermicro.com/",
+      "upstream": [
+        "nvidia",
+        "micron",
+        "intel",
+        "samsung"
+      ],
+      "downstream": [],
+      "fetch_mode": "playwright",
+      "news_url": "https://www.supermicro.com/en/newsroom/pressreleases"
     },
     {
       "id": "aws",
@@ -366,9 +1213,11 @@
       "upstream": [
         "nvidia",
         "amd",
+        "intel",
         "micron"
       ],
-      "downstream": []
+      "downstream": [],
+      "fetch_mode": "http"
     },
     {
       "id": "microsoft",
@@ -387,44 +1236,131 @@
       "upstream": [
         "nvidia",
         "amd",
+        "intel",
         "micron"
       ],
-      "downstream": []
+      "downstream": [],
+      "ir_rss_url": "https://news.microsoft.com/feed/",
+      "fetch_mode": "rss"
     },
     {
       "id": "google",
       "name": "Google Cloud",
       "aliases": [
         "GCP",
-        "谷歌雲端"
+        "谷歌雲端",
+        "Alphabet"
       ],
       "ticker": "GOOGL",
       "market": "NASDAQ",
       "currency": "USD",
       "position": "downstream",
       "role": "CSP",
-      "description": "Google Cloud Platform",
+      "description": "Google Cloud Platform，TPU 自研晶片",
       "ir_url": "https://abc.xyz/investor/",
       "upstream": [
-        "nvidia"
+        "nvidia",
+        "broadcom",
+        "intel"
       ],
-      "downstream": []
+      "downstream": [],
+      "ir_rss_url": "https://blog.google/rss/",
+      "fetch_mode": "rss"
+    },
+    {
+      "id": "meta",
+      "name": "Meta Platforms",
+      "aliases": [
+        "Facebook",
+        "臉書"
+      ],
+      "ticker": "META",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "CSP",
+      "description": "AI 基礎建設大量投資",
+      "ir_url": "https://investor.fb.com/",
+      "upstream": [
+        "nvidia",
+        "broadcom",
+        "micron"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    },
+    {
+      "id": "oracle",
+      "name": "Oracle",
+      "aliases": [
+        "甲骨文"
+      ],
+      "ticker": "ORCL",
+      "market": "NYSE",
+      "currency": "USD",
+      "position": "downstream",
+      "role": "CSP",
+      "description": "OCI 雲端服務，AI 基礎建設",
+      "ir_url": "https://investor.oracle.com/",
+      "upstream": [
+        "nvidia",
+        "intel"
+      ],
+      "downstream": [],
+      "fetch_mode": "http"
+    }
+  ],
+  "etfs": [
+    {
+      "id": "smh",
+      "name": "VanEck Semiconductor ETF",
+      "ticker": "SMH",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "半導體 ETF 龍頭，前五大持倉 NVDA/TSM/AVGO/MU/ASML"
+    },
+    {
+      "id": "soxx",
+      "name": "iShares Semiconductor ETF",
+      "ticker": "SOXX",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "半導體 ETF，權重較分散"
+    },
+    {
+      "id": "soxq",
+      "name": "Invesco PHLX Semiconductor ETF",
+      "ticker": "SOXQ",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "費城半導體 ETF"
     }
   ],
   "supply_chain_positions": {
     "upstream": [
       "設備",
-      "矽晶圓",
-      "材料"
+      "材料",
+      "EDA",
+      "IP"
     ],
     "midstream": [
       "記憶體製造",
+      "控制IC",
+      "利基記憶體",
+      "記憶體模組",
+      "代工",
       "封測"
     ],
     "downstream": [
       "GPU",
       "GPU/CPU",
-      "消費電子",
+      "AI 晶片",
+      "行動晶片",
+      "網通晶片",
+      "類比IC",
+      "功率半導體",
+      "車用晶片",
+      "系統",
       "CSP"
     ]
   },

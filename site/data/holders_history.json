@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-13T10:42:28.454175+00:00",
+  "updated_at": "2026-05-14T10:32:47.518097+00:00",
   "companies": {
     "amd": [
       {
@@ -285,6 +285,32 @@
           {
             "holder": "Invesco Ltd.",
             "pct": 0.2
+          },
+          {
+            "holder": "Bank of America Corporation",
+            "pct": 0.2
+          },
+          {
+            "holder": "Coatue Management LLC",
+            "pct": 0.2
+          }
+        ]
+      },
+      {
+        "date": "2026-05-14",
+        "total_institutional_pct": 2.4,
+        "top5": [
+          {
+            "holder": "Goldman Sachs Group Inc",
+            "pct": 0.4
+          },
+          {
+            "holder": "Morgan Stanley",
+            "pct": 0.4
+          },
+          {
+            "holder": "Invesco Ltd.",
+            "pct": 0.3
           },
           {
             "holder": "Bank of America Corporation",
@@ -1773,6 +1799,32 @@
           {
             "holder": "Blackrock Inc.",
             "pct": 7.0
+          },
+          {
+            "holder": "Vanguard Capital Management LLC",
+            "pct": 5.5
+          },
+          {
+            "holder": "Vanguard Portfolio Management LLC",
+            "pct": 4.9
+          },
+          {
+            "holder": "State Street Corporation",
+            "pct": 3.7
+          },
+          {
+            "holder": "Geode Capital Management, LLC",
+            "pct": 2.3
+          }
+        ]
+      },
+      {
+        "date": "2026-05-14",
+        "total_institutional_pct": 31.9,
+        "top5": [
+          {
+            "holder": "Blackrock Inc.",
+            "pct": 6.9
           },
           {
             "holder": "Vanguard Capital Management LLC",
