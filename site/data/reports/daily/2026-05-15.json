@@ -1,0 +1,289 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:38:59.748799Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ti-2026-05-15-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Most Read – TI fabbing in-house, Sony sensors, DRAM revenues",
+      "companies": [
+        "ti",
+        "intel",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ti-fabbing-in-house-sony-sensors-dram-revenues-2026-05/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-15-001",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design couldn't be used to train Grok, so Anthropic's using it for inference instead — Musk readies unified Blackwell-only Colossus 2 for frontier training and potential IPO",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-1-ai-supercomputers-inefficient-mixed-architecture-design-couldnt-be-used-to-train-grok-so-anthropics-using-it-for-inference-instead-musk-readies-unified-blackwell-only-colossus-2-for-frontier-training-and-potential-ipo"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nippon Paint Holdings Co., Ltd. (NPPHY) Q1 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4905125-nippon-paint-holdings-co-ltd-npphy-q1-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Brown Advisory National Municipal Bond Strategy Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4905113-brown-advisory-national-municipal-bond-strategy-q1-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Public Bank Berhad 2026 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4905128-public-bank-berhad-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.22,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "tsmc",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "ti",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 60,
+    "too_old": 110,
+    "gate1_blocked": 61,
+    "gate2_blocked": 33,
+    "passed": 34,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "13.9%",
+    "gate2_samples": [
+      "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      "Wackadoo! Join Bluey for the ultimate playdate on Apple Arcade starting May 21",
+      "End-to-end encrypted RCS messaging begins rolling out today in beta",
+      "Supermicro Appoints Vik Malyala as Chief Business Officer",
+      "From policy to practice: supporting the future of AI in education"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為台積電、超微、微軟相關動態：「Most Read – TI fabbing in-house, Sony sensors, DRAM revenues」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Most Read – TI fabbing in-house, Sony sensors, DRAM revenues（資本支出、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Musk's Colossus 1 AI supercomputer's inefficient mixed-architecture design co...（AI 伺服器、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
