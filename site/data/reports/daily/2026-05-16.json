@@ -1,0 +1,238 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:53:22.801247Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-05-16-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及先進封裝"
+      ],
+      "title": "NVIDIA’s Rubin Ultra Could Hand Intel a Lifeline as UBS Flags EMIB-T Packaging for 4-Chip Variant",
+      "companies": [
+        "nvidia",
+        "tsmc",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidias-rubin-ultra-could-hand-intel-a-lifeline-as-ubs-flags-emib-t-packaging-for-4-chip-variant/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "National Grid plc (NGG) Q4 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4904712-national-grid-plc-ngg-q4-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-16-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Global X Emerging Markets Bond ETF Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4905620-global-x-emerging-markets-bond-etf-q1-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vir Biotechnology: Trading Near Cash Value With A Huge Revenue Opportunity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4905606-vir-biotechnology-trading-near-cash-value-with-a-huge-revenue-opportunity?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MKS Inc.: Robust Q1 Beat; Maintaining Buy On Advanced Logic And Memory Momentum",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4905601-mksi-robust-q1-beat-maintaining-buy-on-advanced-logic-and-memory-momentum?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "applied_materials",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 68,
+    "too_old": 111,
+    "gate1_blocked": 52,
+    "gate2_blocked": 35,
+    "passed": 32,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      "Wackadoo! Join Bluey for the ultimate playdate on Apple Arcade starting May 21",
+      "End-to-end encrypted RCS messaging begins rolling out today in beta",
+      "Supermicro Appoints Vik Malyala as Chief Business Officer",
+      "From policy to practice: supporting the future of AI in education"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為應材、三星、輝達相關動態：「NVIDIA’s Rubin Ultra Could Hand Intel a Lifeline as UBS F...」。主要關注主題為財報、半導體/記憶體通用、先進封裝，市場情緒中性。",
+    "signals": [
+      {
+        "text": "NVIDIA’s Rubin Ultra Could Hand Intel a Lifeline as UBS Flags EMIB-T Packagin...（先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "National Grid plc (NGG) Q4 2026 Earnings Call Transcript（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
