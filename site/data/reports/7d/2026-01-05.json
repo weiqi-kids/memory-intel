@@ -4,7 +4,7 @@
     "start": "2025-12-30",
     "end": "2026-01-05"
   },
-  "generated_at": "2026-04-14T02:23:40.762803Z",
+  "generated_at": "2026-05-18T13:31:47.682383Z",
   "highlights": [
     {
       "rank": 1,
@@ -44,47 +44,37 @@
     {
       "date": "2025-12-30",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2025-12-31",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-01",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-02",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-03",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-04",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-01-05",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     }
-  ],
-  "llm_analysis": {
-    "summary": "本週（2025-12-30 ~ 2026-01-05）共 1 則事件，重點為「SK hynix Showcases Next-Generation AI Memory In...」。AI 記憶體為本週焦點話題。",
-    "watchlist": [
-      {
-        "company": "SK hynix",
-        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
-      }
-    ]
-  },
-  "generated_by": "claude-cli"
+  ]
 }

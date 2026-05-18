@@ -4,7 +4,7 @@
     "start": "2026-03-21",
     "end": "2026-03-27"
   },
-  "generated_at": "2026-04-14T02:23:53.696456Z",
+  "generated_at": "2026-05-18T13:31:49.259892Z",
   "highlights": [
     {
       "rank": 1,
@@ -163,51 +163,37 @@
     {
       "date": "2026-03-21",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-22",
       "event_count": 3,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-23",
       "event_count": 6,
-      "sentiment_avg": 0
+      "sentiment_avg": -0.08
     },
     {
       "date": "2026-03-24",
       "event_count": 6,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.17
     },
     {
       "date": "2026-03-25",
       "event_count": 7,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.11
     },
     {
       "date": "2026-03-26",
       "event_count": 8,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-27",
       "event_count": 3,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     }
-  ],
-  "llm_analysis": {
-    "summary": "本週共 34 則事件，主要聚焦Intel、NVIDIA、supermicro，核心議題為AI伺服器、資本支出、DDR5。事件量較前週略減（-29%）。",
-    "watchlist": [
-      {
-        "company": "NVIDIA",
-        "reason": "本週出現 1 則負面事件，需關注後續影響。"
-      },
-      {
-        "company": "Intel",
-        "reason": "本週高度活躍（7 則事件），涉及DDR5，持續觀察動向。"
-      }
-    ]
-  },
-  "generated_by": "claude-cli"
+  ]
 }

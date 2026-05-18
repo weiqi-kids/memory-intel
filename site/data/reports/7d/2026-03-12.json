@@ -4,7 +4,7 @@
     "start": "2026-03-06",
     "end": "2026-03-12"
   },
-  "generated_at": "2026-04-14T02:23:45.155083Z",
+  "generated_at": "2026-05-18T13:31:48.220760Z",
   "highlights": [
     {
       "rank": 1,
@@ -89,51 +89,37 @@
     {
       "date": "2026-03-06",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-07",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-08",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-09",
       "event_count": 5,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-10",
       "event_count": 7,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-11",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.5
     },
     {
       "date": "2026-03-12",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     }
-  ],
-  "llm_analysis": {
-    "summary": "本週（2026-03-06 ~ 2026-03-12）共 15 則事件，重點為「HBM4E Raises The Bar For AI Memory Bandwidth」。事件量較上週增加 400%，產業動態明顯升溫，需密切關注。",
-    "watchlist": [
-      {
-        "company": "Samsung",
-        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
-      },
-      {
-        "company": "NVIDIA",
-        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
-      }
-    ]
-  },
-  "generated_by": "claude-cli"
+  ]
 }

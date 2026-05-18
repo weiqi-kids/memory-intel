@@ -4,7 +4,7 @@
     "start": "2026-03-26",
     "end": "2026-04-01"
   },
-  "generated_at": "2026-04-14T02:23:56.529054Z",
+  "generated_at": "2026-05-18T13:31:49.604209Z",
   "highlights": [
     {
       "rank": 1,
@@ -132,55 +132,37 @@
     {
       "date": "2026-03-26",
       "event_count": 8,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-27",
       "event_count": 3,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-28",
       "event_count": 6,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.08
     },
     {
       "date": "2026-03-29",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-30",
       "event_count": 5,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-31",
       "event_count": 5,
-      "sentiment_avg": 0
+      "sentiment_avg": -0.1
     },
     {
       "date": "2026-04-01",
       "event_count": 4,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     }
-  ],
-  "llm_analysis": {
-    "summary": "過去七日（2026-03-26 至 2026-04-01）記憶體供應鏈共錄得 32 則事件，NVIDIA、AMD、Supermicro為最受關注的公司。資本支出、法說會/財報、DDR5等議題聲量上升，值得持續追蹤。",
-    "watchlist": [
-      {
-        "company": "NVIDIA",
-        "reason": "過去七日出現 5 則事件，為本週最受關注公司之一"
-      },
-      {
-        "company": "AMD",
-        "reason": "過去七日出現 5 則事件，為本週最受關注公司之一"
-      },
-      {
-        "company": "資本支出",
-        "reason": "議題聲量週增+25%，趨勢上升中"
-      }
-    ]
-  },
-  "generated_by": "claude-cli"
+  ]
 }

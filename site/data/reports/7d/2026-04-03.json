@@ -4,7 +4,7 @@
     "start": "2026-03-28",
     "end": "2026-04-03"
   },
-  "generated_at": "2026-04-14T02:23:57.712053Z",
+  "generated_at": "2026-05-18T13:31:49.735806Z",
   "highlights": [
     {
       "rank": 1,
@@ -136,59 +136,37 @@
     {
       "date": "2026-03-28",
       "event_count": 6,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.08
     },
     {
       "date": "2026-03-29",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-30",
       "event_count": 5,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-31",
       "event_count": 5,
-      "sentiment_avg": 0
+      "sentiment_avg": -0.1
     },
     {
       "date": "2026-04-01",
       "event_count": 4,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-02",
       "event_count": 9,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.11
     },
     {
       "date": "2026-04-03",
       "event_count": 7,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.14
     }
-  ],
-  "llm_analysis": {
-    "summary": "過去七日（2026-03-28 至 2026-04-03）記憶體供應鏈共錄得 37 則事件，NVIDIA、AMD、Intel為最受關注的公司。缺貨、資本支出、DDR5等議題聲量上升，值得持續追蹤。",
-    "watchlist": [
-      {
-        "company": "NVIDIA",
-        "reason": "過去七日出現 8 則事件，為本週最受關注公司之一"
-      },
-      {
-        "company": "AMD",
-        "reason": "過去七日出現 7 則事件，為本週最受關注公司之一"
-      },
-      {
-        "company": "TSMC",
-        "reason": "正面情緒突出（0.75），市場反應積極"
-      },
-      {
-        "company": "缺貨",
-        "reason": "議題聲量週增+100%，趨勢上升中"
-      }
-    ]
-  },
-  "generated_by": "claude-cli"
+  ]
 }

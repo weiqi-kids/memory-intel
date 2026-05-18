@@ -4,7 +4,7 @@
     "start": "2026-03-27",
     "end": "2026-04-02"
   },
-  "generated_at": "2026-04-14T02:23:57.115213Z",
+  "generated_at": "2026-05-18T13:31:49.670846Z",
   "highlights": [
     {
       "rank": 1,
@@ -131,55 +131,37 @@
     {
       "date": "2026-03-27",
       "event_count": 3,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-28",
       "event_count": 6,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.08
     },
     {
       "date": "2026-03-29",
       "event_count": 1,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-30",
       "event_count": 5,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-03-31",
       "event_count": 5,
-      "sentiment_avg": 0
+      "sentiment_avg": -0.1
     },
     {
       "date": "2026-04-01",
       "event_count": 4,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-02",
       "event_count": 9,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.11
     }
-  ],
-  "llm_analysis": {
-    "summary": "過去七日（2026-03-27 至 2026-04-02）記憶體供應鏈共錄得 33 則事件，AMD、NVIDIA、Samsung為最受關注的公司。缺貨、DDR5、DRAM 價格等議題聲量上升，值得持續追蹤。",
-    "watchlist": [
-      {
-        "company": "AMD",
-        "reason": "過去七日出現 7 則事件，為本週最受關注公司之一"
-      },
-      {
-        "company": "NVIDIA",
-        "reason": "過去七日出現 5 則事件，為本週最受關注公司之一"
-      },
-      {
-        "company": "缺貨",
-        "reason": "議題聲量週增+300%，趨勢上升中"
-      }
-    ]
-  },
-  "generated_by": "claude-cli"
+  ]
 }
