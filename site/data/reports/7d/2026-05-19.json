@@ -1,0 +1,275 @@
+{
+  "date": "2026-05-19",
+  "date_range": {
+    "start": "2026-05-13",
+    "end": "2026-05-19"
+  },
+  "generated_at": "2026-05-19T11:33:33.982614Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung-2026-05-13-008",
+      "date": "2026-05-13",
+      "title": "Intel's preliminary Apple deal puts Samsung's foundry ambitions under pressure",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "nvidia",
+      "subject_type": "company",
+      "this_week_sentiment": -0.08,
+      "last_week_sentiment": 0.33,
+      "delta": -0.42,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "dell",
+      "company_b": "nvidia",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 109,
+      "last_week": 116,
+      "week_over_week_change": "-6%",
+      "sentiment_this_week": 0.04
+    },
+    "capacity": {
+      "this_week": 21,
+      "last_week": 16,
+      "week_over_week_change": "+31%",
+      "sentiment_this_week": 0.23
+    },
+    "earnings": {
+      "this_week": 69,
+      "last_week": 123,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": 0.05
+    },
+    "guidance": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.19
+    },
+    "capex": {
+      "this_week": 17,
+      "last_week": 12,
+      "week_over_week_change": "+42%",
+      "sentiment_this_week": 0.01
+    },
+    "ai_server": {
+      "this_week": 11,
+      "last_week": 15,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": -0.0
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.08
+    },
+    "inventory": {
+      "this_week": 8,
+      "last_week": 13,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.06
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.17
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.0
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.17
+    },
+    "advanced_packaging": {
+      "this_week": 6,
+      "last_week": 8,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.09
+    }
+  },
+  "company_7d_summary": {
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "samsung": {
+      "event_count": 14,
+      "sentiment_avg": -0.07,
+      "rank": 2
+    },
+    "apple": {
+      "event_count": 10,
+      "sentiment_avg": -0.05,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 22,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "tsmc": {
+      "event_count": 14,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "google": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "nvidia": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 6
+    },
+    "ti": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 11
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 20
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 313,
+        "last": 369,
+        "change_pct": -15.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-13",
+      "event_count": 64,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-14",
+      "event_count": 64,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-05-15",
+      "event_count": 44,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 32,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 48,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 41,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-13 ~ 2026-05-19）共 313 則事件，重點為「Intel's preliminary Apple deal puts Samsung's f...」。CXMT情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 14 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "蘋果",
+        "reason": "本週出現 10 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

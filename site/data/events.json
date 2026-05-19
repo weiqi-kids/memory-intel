@@ -1,5 +1,767 @@
 [
   {
+    "id": "google-2026-05-19-001",
+    "date": "2026-05-19",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Measuring the impact of AI on teaching and learning",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_-_2026-05-19T101454.780.max-600x600.format-webp.webp\">Two new studies in Sierra Leone and Italy demonstrate how Gemini i",
+    "sources": []
+  },
+  {
+    "id": "google-2026-05-19-002",
+    "date": "2026-05-19",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Blackstone will create a new TPU cloud in a joint venture with Google.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blackstone_Google_logo_lockup.max-600x600.format-webp.webp\">Blackstone announced a joint venture with Google to create a new T",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-05-19-003",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Research Bits: May 19",
+    "summary": "<p>Photonics: Programmable PIC; small optical features in hydrogels; on-chip UV generation.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-may-19/\">Research Bits: May 19</a> appear",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/research-bits-may-19/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-004",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: May 19",
+    "summary": "<p>Micro-transfer printing for silicon photonics; 2D electronics for CFETs; ANN thermal-aware GAA FET modeling; optical phased arrays; ferroelectric tunnel junctions for image generation; functional s",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-19/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-005",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Imec’s Patrick Vandenameele: Full-stack Innovation Is the Name of the Game",
+    "summary": "\n\t\t\t\t\t\t<p>As AI pushes semiconductors toward new limits in energy, memory, and interconnects, imec’s CEO says future progress will depend on deep co-optimization across the entire computing stack.</p>",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/imec-patrick-vandenameele-full-stack-innovation-is-the-name-of-the-game/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-19-006",
+    "date": "2026-05-19",
+    "companies": [
+      "intel",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo — leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems",
+    "summary": "\n                             Intel China has unveiled Project Firefly, which borrows a page from China's smartphone supply chain to produce budget-friendly laptops that leverage Wildcat Lake processo",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-05-19-007",
+    "date": "2026-05-19",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Researchers attack AMD's Infinity Fabric to bypass hardware security protections with 'Fabricked' — flaw lets malicious cloud hosts silently read confidential VM memory and forge attestation reports",
+    "summary": "\n                             ETH Zurich researchers disclosed “Fabricked,” a software-only attack that manipulates AMD Infinity Fabric routing during boot to undermine SEV-SNP protections on EPYC sys",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/researchers-attack-amds-infinity-fabric-to-bypass-hardware-security-protections-with-fabricked-flaw-lets-malicious-cloud-hosts-silently-read-confidential-vm-memory-and-forge-attestation-reports",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-05-19-008",
+    "date": "2026-05-19",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Fake Samsung SSD spotting comes to CrystalDiskInfo as AI crunch drives sophisticated counterfeit market — free open-source software can flag clones by checking firmware, PCI Vendor ID",
+    "summary": "\n                             CrystalDiskInfo's new feature will tell you whether your Samsung SSD is the real deal or not. \n                                                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/fake-samsung-ssd-spotting-comes-to-crystaldiskinfo-as-ai-crunch-drives-sophisticated-counterfeit-market-free-open-source-software-can-flag-clones-by-checking-firmware-pci-vendor-id",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-19-009",
+    "date": "2026-05-19",
+    "companies": [
+      "nvidia",
+      "dell"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dell AI Factory crosses 5,000 enterprise clients on Nvidia-fueled demand",
+    "summary": "Dell Technologies has added 1,000 customers over the past quarter for its AI Factory servers, which use Nvidia chips and software to power AI applications for enterprises. The hardware company has bee",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519VL218/dell-nvidia-data-hardware-software.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-010",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DB HiTek's power-chip push hits delay as stakes rise",
+    "summary": "South Korean foundry operator DB HiTek is facing a slower ramp in silicon carbide (SiC) and gallium nitride (GaN), testing its push into next-generation power semiconductors as technology barriers and",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260518VL213/gan-sic-production-market-power-semiconductors.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-011",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Foundry, test costs push PMIC price hikes toward 12-inch wafers",
+    "summary": "Rising manufacturing costs at upstream foundries and back-end packaging and testing are pushing power management IC (PMIC) makers toward price increases, with global implications for device makers and",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519PD211/12-inch-pmic-price-manufacturing-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-012",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "XPeng introduces mass-produced Robotaxi built on in-house AI chips",
+    "summary": "XPeng unveiled its first mass-produced robotaxi on Tuesday, marking a major milestone in China's rapidly accelerating race to commercialize Level 4 autonomous driving.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519VL211/xpeng-chips-testing-vehicle.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-013",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "India inaugurates Rajasthan's first semiconductor plant as local chip push expands",
+    "summary": "India inaugurated Rajasthan's first semiconductor plant on May 15, marking a significant step in the country's push to expand domestic electronics and chip manufacturing under its broader industrial p",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519PR200/plant-electronics-production-manufacturing-policy.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-19-014",
+    "date": "2026-05-19",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AEM targets semiconductor and AI markets, begins sampling anti-warpage film and PTFE materials",
+    "summary": "Flexible copper clad laminate (FCCL) manufacturer Asia Electric Material (AEM) said that its long-term investment in new product development has begun to yield results, with the company's operational ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260518PD240/fccl-materials-substrate-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-19-015",
+    "date": "2026-05-19",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "TDK expands bonding equipment investment, launches first mass production of nanocomposite materials",
+    "summary": "Japanese electronic components manufacturer TDK will make its largest-ever capital investment in fiscal 2026, running from April 2026 to March 2027, to address surging demand related to artificial int",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260518PD241/tdk-electronic-components-investment-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-016",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lens Technology's Ju Teng bid puts China's notebook supply chain in focus",
+    "summary": "<p class=\"P1\" data-start=\"982\" data-end=\"1282\">Lens Technology is seeking control of Ju Teng International Holdings in a deal that could cost as much as US$337 million, expanding the Chinese precision",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519VL212/lens-technology-ju-teng-international-component-manufacturing-supplier.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-017",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Analyzing XFusion's global server expansion: strategic supply chain routes, regional dynamics, and pricing trends",
+    "summary": "XFusion's server export value in 2025 saw a yearly growth of 30%, with three major export routes targeting the ASEAN, African, and Latin American markets.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260511RS400/digitimes-trends-expansion-huawei-manufacturing.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-05-19-018",
+    "date": "2026-05-19",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Commentary: TSMC Arizona profit tops SMIC and UMC combined, fueled by three key drivers",
+    "summary": "TSMC's Arizona fab has turned profitable, surprising the market and supply chain after years of warnings from founder Morris Chang and others that overseas fabs could lose money. Supply-chain sources ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519PD200/tsmc-arizona-fab-profit-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-019",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan backs humanoid robotics, materials innovation with fresh R&amp;D grants",
+    "summary": "Taiwan's Ministry of Economic Affairs has awarded subsidies to three research and development projects, approving NT$100 million (US$3.16 million) for Solomon's humanoid robot Vision-Language-Action t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519PD203/taiwan-robot-subsidies-development-solomon.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-020",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX listing buzz sends Taiwan's satellite suppliers into expansion mode",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"223\">As the world races to build next-generation communications networks in low-Earth orbit (LEO), signs are emerging that Elon Musk's SpaceX may finally be movi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519PD220/leo-satellite-communications-supply-chain-expansion-taiwan-spacex.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-021",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analog Devices reportedly closes in on US$1.5 billion cash bid for Empower Semiconductor",
+    "summary": "Analog Devices Inc. is in advanced talks to acquire Empower Semiconductor for about US$1.5 billion in cash, <em>Bloomberg</em> reported, citing people familiar with the matter. A formal announcement c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519VL209/analog-devices-acquisition-bloomberg-technology-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-05-19-022",
+    "date": "2026-05-19",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung narrows bonus gap as payout split threatens strike deal",
+    "summary": "Samsung Electronics and its South Korean labor union resumed talks on May 19 in a last-ditch effort to avert an 18-day strike set to begin May 21, with the two sides reportedly closing in on some diff",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519VL210/samsung-strike-labor-production-operating-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-19-023",
+    "date": "2026-05-19",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD gains Beijing spotlight: China courts Lisa Su for AI chip ties",
+    "summary": "Shortly after Nvidia CEO Jensen Huang left China following a delegation led by US President Donald Trump, Beijing officials swiftly announced a meeting with Advanced Micro Devices (AMD) CEO Lisa Su, d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519PD221/beijing-amd-ceo-ai-chip-nvidia.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-024",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rising memory costs hit China's OLED suppliers harder than Korean rivals",
+    "summary": "Rising memory prices are squeezing the smartphone OLED panel market. Chinese suppliers are feeling it more than their Korean rivals, as handset makers scale back production plans.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260519VL208/smartphone-shipments-production-panel-oled-panel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-025",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nebius Group Q1 Earnings: Margin And Unearned Revenue In Focus",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906386-nebius-group-q1-earnings-margin-and-unearned-revenue-in-focus?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-026",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JSE Limited (JSEJF) Shareholder/Analyst Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906395-jse-limited-jsejf-shareholder-analyst-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-027",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caledonia Investments Plc (CALEF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906367-caledonia-investments-plc-calef-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-028",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hartford Healthcare Fund Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906396-hartford-healthcare-fund-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-029",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lord Abbett Short Duration High Yield Fund Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906393-lord-abbett-short-duration-high-yield-fund-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-030",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Heavy Industries, Ltd. 2026 Q4 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906391-mitsubishi-heavy-industries-ltd-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-031",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Impax International Sustainable Economy Fund Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906389-impax-international-sustainable-economy-fund-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-032",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Corporación América Airports: Strong Q1 Earnings And A New Dividend Policy Offer Upside",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906366-corporacion-america-airports-strong-q1-earnings-and-a-new-dividend-policy-offer-upside?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-033",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heidelberger Druckmaschinen Aktiengesellschaft (HBGRY) Q4 2026 Press Conference Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906350-heidelberger-druckmaschinen-aktiengesellschaft-hbgry-q4-2026-press-conference-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-034",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Style Ratings For ETFs And Mutual Funds: Q2 2026",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906364-style-ratings-for-etfs-and-mutual-funds-q2-2026?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-035",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AutoZone Q3 Preview: Watching For Spring Tune Ups",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4906362-autozone-q3-preview-watching-for-spring-tune-ups?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-19-036",
+    "date": "2026-05-19",
+    "companies": [
+      "intel",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Strong-Arms PC Partners Into Buying 18A Chips, Forcing Costly Redesigns As Older Node Supply Dries Up",
+    "summary": "As it ramps up its 18A manufacturing process technology and seeks to attract external customers for the technology, Intel is purportedly aggressively selling the chips to its PC partners as well, acco",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-strong-arms-pc-partners-into-buying-18a-chips-forcing-costly-redesigns-as-older-node-supply-dries-up/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-19-037",
+    "date": "2026-05-19",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel CEO Lip-Bu Tan Calls Foundry a “National Treasure” as External Customers Knock on His Door After 18A Yield Turnaround",
+    "summary": "Intel CEO, Lip-Bu Tan, says that its Foundry Business is a National Treasure, and continues to see more customers line up for its advanced packaging and process technologies. Intel Foundry Sees Massiv",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-ceo-lip-bu-tan-calls-foundry-a-national-treasure-as-external-customers-knock-on-his-door-after-18a-yield-turnaround/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-038",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Baidu says the quiet part out loud – you can’t build AI infrastructure, so clouds can cash in",
+    "summary": " CFO says GPU rentals are ‘structurally higher margin than CPU cloud’ ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/05/19/baidu-says-the-quiet-part-out-loud-you-cant-build-ai-infrastructure-so-clouds-can-cash-in/5242344",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-05-19-039",
+    "date": "2026-05-19",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Blackstone and Google launch neo-cloud company",
+    "summary": "<p>Blackstone, the private equity company, and Google are forming a neo-cloud company to acquire, build and rent out datacentre capacity. The initial investment is $5 billion in equity from Blackstone",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/blackstone-and-google-launch-neo-cloud-company-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-05-19-040",
+    "date": "2026-05-19",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CXMT revenue up 700%",
+    "summary": "<p>ChangXin Memory Technologies (CXMT)  saw Q1 revenues rise 700% to $7.5 billion for a profit of  $1.26 billion. In Q1 2025 it made a loss. CXMT forecast an H1 revenue ...</p>\n<p>The post <a href=\"ht",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/cxmt-revenue-up-700-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-19-041",
+    "date": "2026-05-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SEMI asks US Congress for tax credit extension",
+    "summary": "<p>SEMI has written a letter to the US Congress asking for an extension of the Advanced Manufacturing Investment Credit (AMIC). AMIC allows a 35% investment tax credit to offset the ...</p>\n<p>The pos",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/semi-asks-us-congress-for-tax-credit-extension-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-18-001",
     "date": "2026-05-18",
     "companies": [],
@@ -700,6 +1462,222 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-taps-the-leadership-circus-2026-05/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-05-18-037",
+    "date": "2026-05-18",
+    "companies": [
+      "samsung",
+      "dell",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA CEO Jensen Huang at Dell Technologies World: âDemand Is Going Parabolic, Utterly Parabolicâ",
+    "summary": "Agentic AI inference at one-tenth the cost per token with NVIDIA Vera Rubin NVL72. Agent sandboxes run 50% faster on NVIDIA Vera than traditional CPUs â while enterprise data queries are up to 3x fa",
+    "sources": []
+  },
+  {
+    "id": "apple-2026-05-18-038",
+    "date": "2026-05-18",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple kicks off Worldwide Developers Conference on June 8",
+    "summary": "Apple today unveiled an exciting lineup for its annual Worldwide Developers Conference (WWDC), taking place June 8-12.",
+    "sources": []
+  },
+  {
+    "id": "meta-2026-05-18-039",
+    "date": "2026-05-18",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HW-Native, GPU Compiler for Large-scale ML Production Systems (UC San Diego, Meta)",
+    "summary": "<p>A new technical paper, &#8220;TLX: Hardware-Native, Evolvable MIMW GPU Compiler for Large-scale Production Environments,&#8221; was published by researchers at UC San Diego and Meta. Abstract &#822",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/hw-native-gpu-compiler-for-large-scale-ml-production-systems-uc-san-diego-meta/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-040",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canada Spins Off Photonics Lab",
+    "summary": "\n\t\t\t\t\t\t<p>The Canadian Photonics Fabrication Center will be commercialized to scale up its compound semiconductor and photonics capabilities.</p>\n<p>The post <a href=\"https://www.eetimes.com/canada-sp",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/canada-spins-off-photonics-lab/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-041",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Power, Memory, Interconnect, and Thermal Architectures for AI Infrastructure at Scale",
+    "summary": "\n\t\t\t\t\t\t<p>Over the last few years, AI data centers have developed novel architectures to achieve the compute performance required to train Large Language Models (LLMs).</p>\n<p>The post <a href=\"https:",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/new-power-memory-interconnect-and-thermal-architectures-for-ai-infrastructure-at-scale/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-05-18-042",
+    "date": "2026-05-18",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "College students drown out AI-praising commencement speeches with boos — 'deal with it' one speaker fires back as students heckle positive pitches for AI's role",
+    "summary": "\n                             Ex-Google CEO Eric Schmidt found himself booed and jeered as he gave the commencement address at the University of Arizona, telling the students AI will \"shape the world.",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/college-students-drown-out-ai-praising-commencement-speeches-with-boos-deal-with-it-one-speaker-fires-back-as-students-heckle-positive-pitches-for-ais-role",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adata-2026-05-18-043",
+    "date": "2026-05-18",
+    "companies": [
+      "adata"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Record-high pricing pushes SSD and memory makers to borrow $880 million just to afford buying chips — Adata, TeamGroup, and others take on substantial debt to survive shortages",
+    "summary": "\n                             Adata is the largest single borrower in the group, having completed a NT$2 billion convertible bond issuance and secured NT$12 billion in bank loans. \n                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/taiwanese-memory-module-makers-raise-880-million-to-stockpile-chips",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-044",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China says 'world's first' offshore wind-powered underwater data center has entered full operation, houses 2,000 servers — 24 megawatt subsea AI facility uses ocean water for passive cooling and offshore wind for power",
+    "summary": "\n                             China has begun full operations at a 24 MW underwater AI data center off Shanghai’s coast, using offshore wind power and seawater cooling to reduce energy consumption and",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/china-says-worlds-first-offshore-wind-powered-underwater-data-center-has-entered-full-operation-houses-2-000-servers-24-megawatt-subsea-ai-facility-uses-ocean-water-for-passive-cooling-and-offshore-wind-for-power",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-18-045",
+    "date": "2026-05-18",
+    "companies": [
+      "nvidia",
+      "oracle"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Hand-Delivers First Vera CPUs to Anthropic, OpenAI, SpaceX and Oracle as Grace’s Successor Powers the Agentic AI Era",
+    "summary": "NVIDIA has started shipping the very first Vera CPUs to major AI firms, marking the official beginning of production to accelerate Agentic AI forward. NVIDIA Vera CPUs, Purpose-Built For Agentic AI, A",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-hand-delivers-first-vera-cpus-to-anthropic-openai-spacex-oracle-agentic-ai-era/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-046",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Resourceful Owner Of A Damaged Pixel 8 Converted It Into A Playable Console With Multiple Controllers, Active Cooling & More",
+    "summary": "It’s a much simpler practice to discard an old smartphone after it develops a hardware issue or a defect that cannot be remedied by the manufacturer. Fortunately, not wanting to throw in the towel, a ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/damaged-pixel-8-turned-into-console-with-controllers-support-and-cooling/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-047",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MAGA's Mace wants to make power bills great again, calls for datacenter moratorium",
+    "summary": " Even self-described ‘Trump in high heels’ candidate warns bit barns could send power bills soaring ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/05/18/nancy-mace-wants-to-make-power-bills-great-again-with-datacenter-moratorium/5242160",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-18-048",
+    "date": "2026-05-18",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Uncle Sam's next big supercomputer might use something more exotic than GPUs",
+    "summary": " Chip startup NextSilicon's high-performance-computing-focused accelerators get Sandia National Lab's stamp of approval ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/05/18/uncle-sams-next-big-super-might-not-use-gpus/5242137",
         "type": "rss"
       }
     ]

@@ -1,0 +1,311 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T11:33:33.834568Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-05-19-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Commentary: TSMC Arizona profit tops SMIC and UMC combined, fueled by three key drivers",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260519PD200/tsmc-arizona-fab-profit-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-05-19-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacBook Neo — leverages China's smartphone manufacturing blueprint to produce affordable Wildcat Lake systems",
+      "companies": [
+        "intel",
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/laptops/intels-project-firefly-creates-sub-usd600-laptops-to-compete-with-macbook-neo-leverages-chinas-smartphone-manufacturing-blueprint-to-produce-affordable-wildcat-lake-systems"
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-05-19-036",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intel Strong-Arms PC Partners Into Buying 18A Chips, Forcing Costly Redesigns As Older Node Supply Dries Up",
+      "companies": [
+        "intel",
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/intel-strong-arms-pc-partners-into-buying-18a-chips-forcing-costly-redesigns-as-older-node-supply-dries-up/"
+    },
+    {
+      "rank": 4,
+      "event_id": "cxmt-2026-05-19-040",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "CXMT revenue up 700%",
+      "companies": [
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/cxmt-revenue-up-700-2026-05/"
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-05-19-037",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Intel CEO Lip-Bu Tan Calls Foundry a “National Treasure” as External Customers Knock on His Door After 18A Yield Turnaround",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/intel-ceo-lip-bu-tan-calls-foundry-a-national-treasure-as-external-customers-knock-on-his-door-after-18a-yield-turnaround/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.15,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "apple",
+      "to": "intel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 33,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "google",
+        "count": 3
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "capex",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "dram_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 326,
+    "dup_title": 57,
+    "too_old": 108,
+    "gate1_blocked": 67,
+    "gate2_blocked": 33,
+    "passed": 53,
+    "pass_rate": "19.7%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Molybdenum’s Role in Ultra-Fast Computing: The Metal Behind the Speed",
+      "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs",
+      "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      "Wackadoo! Join Bluey for the ultimate playdate on Apple Arcade starting May 21",
+      "Partnering with UNICEF to support innovation in education across the globe"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為英特爾、GCP、蘋果相關動態：「Commentary: TSMC Arizona profit tops SMIC and UMC combine...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Commentary: TSMC Arizona profit tops SMIC and UMC combined, fueled by three k...（資本支出、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Intel's Project Firefly creates sub-$600 laptops to compete with Apple's MacB...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
