@@ -1,0 +1,275 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T11:19:00.917163Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arm-2026-05-20-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Snapdragon X2 Elite Extreme Addresses Stuttering, Overheating Problems In x86 Laptops, Offering The Industry An Excellent Alternative",
+      "companies": [
+        "arm",
+        "qualcomm",
+        "apple",
+        "amd",
+        "intel",
+        "microsoft"
+      ],
+      "related": {
+        "customers": [
+          "apple",
+          "microsoft",
+          "amd",
+          "qualcomm"
+        ],
+        "suppliers": [
+          "intel",
+          "amd"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/snapdragon-x2-elite-extreme-is-proving-to-be-a-capable-upgrade/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-20-002",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及 HBM"
+      ],
+      "title": "Blog Review: May 20",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://semiengineering.com/blog-review-may-20-3/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-20-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BW Energy Limited 2026 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4906959-bw-energy-limited-2026-q1-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-20-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Invesco Core Plus Bond Fund Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4906932-invesco-core-plus-bond-fund-q1-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-20-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Mondelez: Profitability Normalization Creates A Major Opportunity (Rating Upgrade)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4906929-mondelez-profitability-normalization-creates-a-major-opportunity-rating-upgrade?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "arm",
+        "count": 2
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "google",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "hbm",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 296,
+    "dup_title": 58,
+    "too_old": 108,
+    "gate1_blocked": 50,
+    "gate2_blocked": 38,
+    "passed": 34,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Molybdenum’s Role in Ultra-Fast Computing: The Metal Behind the Speed",
+      "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+      "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs",
+      "Hermes Unlocks Self-Improving AI Agents, Powered by NVIDIA RTX PCs and DGX Spark",
+      "Apple Sports expands to more than 90 new countries and regions"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為ARM、英特爾、超微相關動態：「Snapdragon X2 Elite Extreme Addresses Stuttering, Overhea...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Snapdragon X2 Elite Extreme Addresses Stuttering, Overheating Problems In x86...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Blog Review: May 20（HBM、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
