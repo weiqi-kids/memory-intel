@@ -1,0 +1,400 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:38:35.284972Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-05-21-025",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "AMD commits over US$10 billion to Taiwan ecosystem to expand AI packaging and infrastructure capacity",
+      "companies": [
+        "intel",
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521PR202/amd-packaging-capacity-taiwan-infrastructure.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-05-21-026",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "How Nvidia plans to sell Vera CPUs: Four deployment models explained",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521VL220/nvidia-silicon-sales-expansion-processor.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-05-21-027",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia targets long-term ACIE dominance as enterprise AI eclipses hyperscalers",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521VL221/nvidia-industrial-data-center-market-revenue.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-05-21-049",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及價格",
+        "涉及 AI 伺服器"
+      ],
+      "title": "NVIDIA’s Vera Rubin Rack Hit With 435% Memory Price Surge, Pushing HBM4 & LPDDR5X Bill to $2M of $7.8M Total",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "dram_price",
+        "ai_server",
+        "ddr5",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidia-vera-rubin-rack-hit-with-memory-price-surge-pushing-hbm4-lpddr5x-bill-to-2m-of-7-8m-total/"
+    },
+    {
+      "rank": 5,
+      "event_id": "oracle-2026-05-21-050",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "NVIDIA To Become The Worlds Leading CPU Supplier With Vera Hitting $20 Billion Revenue This Year",
+      "companies": [
+        "oracle",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "oracle"
+        ],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://wccftech.com/nvidia-to-become-the-worlds-leading-cpu-supplier-vera-hitting-20-billion-revenue-this-year/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "capacity",
+        "industry_general",
+        "ddr5"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 60,
+    "sentiment_distribution": {
+      "positive": 13,
+      "neutral": 42,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 14
+      },
+      {
+        "id": "intel",
+        "count": 9
+      },
+      {
+        "id": "amd",
+        "count": 7
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      },
+      {
+        "id": "ti",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "ai_server",
+        "count": 5
+      },
+      {
+        "id": "ddr5",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 55,
+    "too_old": 108,
+    "gate1_blocked": 41,
+    "gate2_blocked": 34,
+    "passed": 79,
+    "pass_rate": "30.2%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Molybdenum’s Role in Ultra-Fast Computing: The Metal Behind the Speed",
+      "NVIDIA and Google Cloud Empower the Next Wave of AI Builders",
+      "Vera Arrives: NVIDIAâs First CPU Built for Agents Lands at Top AI Labs",
+      "The App Store stopped over $2.2 billion in fraudulent transactions in 2025",
+      "Apple Sports expands to more than 90 new countries and regions"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 60 則事件，焦點為輝達、英特爾、超微相關動態：「AMD commits over US$10 billion to Taiwan ecosystem to exp...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AMD commits over US$10 billion to Taiwan ecosystem to expand AI packaging and...（產能、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "How Nvidia plans to sell Vera CPUs: Four deployment models explained（產能、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

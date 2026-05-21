@@ -1,0 +1,304 @@
+{
+  "date": "2026-05-21",
+  "date_range": {
+    "start": "2026-05-15",
+    "end": "2026-05-21"
+  },
+  "generated_at": "2026-05-21T11:38:35.415474Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ti-2026-05-15-011",
+      "date": "2026-05-15",
+      "title": "Most Read – TI fabbing in-house, Sony sensors, DRAM revenues",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "nvidia",
+      "subject_type": "company",
+      "this_week_sentiment": 0.28,
+      "last_week_sentiment": -0.17,
+      "delta": 0.44,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "amd",
+      "company_b": "microsoft",
+      "co_mention_count": 3,
+      "rank": 3
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "samsung",
+      "company_b": "skhynix",
+      "co_mention_count": 3,
+      "rank": 4
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ai_server": {
+      "this_week": 9,
+      "last_week": 17,
+      "week_over_week_change": "-47%",
+      "sentiment_this_week": -0.06
+    },
+    "industry_general": {
+      "this_week": 105,
+      "last_week": 100,
+      "week_over_week_change": "+5%",
+      "sentiment_this_week": 0.03
+    },
+    "inventory": {
+      "this_week": 7,
+      "last_week": 13,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 60,
+      "last_week": 99,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": 0.06
+    },
+    "capex": {
+      "this_week": 16,
+      "last_week": 12,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.06
+    },
+    "capacity": {
+      "this_week": 17,
+      "last_week": 15,
+      "week_over_week_change": "+13%",
+      "sentiment_this_week": 0.09
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.08
+    },
+    "advanced_packaging": {
+      "this_week": 4,
+      "last_week": 8,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.12
+    },
+    "hbm": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.1
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": -0.33
+    },
+    "dram_price": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "nand_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "amd": {
+      "event_count": 13,
+      "sentiment_avg": 0.15,
+      "rank": 3
+    },
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "samsung": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ti": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "intel": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "tsmc": {
+      "event_count": 11,
+      "sentiment_avg": -0.07,
+      "rank": 5
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "nvidia": {
+      "event_count": 18,
+      "sentiment_avg": 0.28,
+      "rank": 2
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "apple": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "google": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 7
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 19
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "oracle": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 21
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 298,
+        "last": 343,
+        "change_pct": -13.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-15",
+      "event_count": 44,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-05-16",
+      "event_count": 32,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 48,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 57,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 37,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 60,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-15 ~ 2026-05-21）共 298 則事件，重點為「Most Read – TI fabbing in-house, Sony sensors, ...」。CXMT情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "超微",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "微軟",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
