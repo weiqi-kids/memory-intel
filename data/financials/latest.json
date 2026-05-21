@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T00:45:51.159609Z",
+  "updated_at": "2026-05-21T09:18:49.599559Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -246,12 +246,12 @@
       "ticker": "5289.TWO",
       "currency": "TWD",
       "ar": 3292316000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 1657196000,
+      "ar_qoq": "+99%",
       "inventory": 5385202000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
-      "alert": false,
+      "inv_prev": 2691572000,
+      "inv_qoq": "+100%",
+      "alert": true,
       "quarter_date": "2025-12-31"
     },
     {
@@ -470,12 +470,12 @@
       "ticker": "6239.TW",
       "currency": "TWD",
       "ar": 18537158000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 4570663000,
+      "ar_qoq": "+306%",
       "inventory": 6565731000,
-      "inv_prev": null,
-      "inv_qoq": "N/A",
-      "alert": false,
+      "inv_prev": 5597303000,
+      "inv_qoq": "+17%",
+      "alert": true,
       "quarter_date": "2025-12-31"
     },
     {
@@ -666,12 +666,12 @@
       "ticker": "TSM",
       "currency": "USD",
       "ar": 8071813000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar_prev": 305477496000,
+      "ar_qoq": "-97%",
       "inventory": 311453459000,
       "inv_prev": 288109500000,
       "inv_qoq": "+8%",
-      "alert": false,
+      "alert": true,
       "quarter_date": "2026-03-31"
     },
     {
