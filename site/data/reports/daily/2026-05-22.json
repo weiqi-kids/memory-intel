@@ -1,0 +1,362 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T11:02:06.079026Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-05-22-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及先進封裝"
+      ],
+      "title": "AMD's Lisa Su says memory is becoming another pressure point for AI chips",
+      "companies": [
+        "tsmc",
+        "amd"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522PD237/amd-lisa-su-cowos-packaging-memory-chips.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "qualcomm-2026-05-22-030",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Most Read – Empower Semi, FTC investigates Arm, Neuromorphic AI IP",
+      "companies": [
+        "qualcomm",
+        "google",
+        "kioxia",
+        "arm"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-empower-semi-ftc-investigates-arm-neuromorphic-ai-ip-2026-05/"
+    },
+    {
+      "rank": 3,
+      "event_id": "microsoft-2026-05-22-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Anthropic reportedly eyes Microsoft Maia chips to cut Nvidia reliance",
+      "companies": [
+        "microsoft",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "microsoft"
+        ],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522VL211/anthropic-microsoft-chips-infrastructure-nvidia.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-22-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "AIC expands analog ICs into fiber optics; orders reach 1Q27",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522PD215/aic-expansion-2026-2027-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "meta-2026-05-22-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Broadcom, Applied Materials, GlobalFoundries, Meta, and Synopsys back US$125M UCLA Semiconductor Hub",
+      "companies": [
+        "meta",
+        "onsemi",
+        "broadcom",
+        "synopsys",
+        "applied_materials"
+      ],
+      "related": {
+        "customers": [
+          "meta",
+          "broadcom"
+        ],
+        "suppliers": [
+          "broadcom"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522PR202/broadcom-applied-materials-globalfoundries-meta-synopsys-california-semiconductors.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.24,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 27,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      },
+      {
+        "id": "qualcomm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "guidance",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 72,
+    "too_old": 106,
+    "gate1_blocked": 50,
+    "gate2_blocked": 37,
+    "passed": 52,
+    "pass_rate": "21.2%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "2026.05.22Tokyo Electron to Construct New Building in KyushuTopicsProducts / ServicesIRSustainabilit",
+      "Molybdenum’s Role in Ultra-Fast Computing: The Metal Behind the Speed",
+      "Intel’s 2025 Outstanding Researcher Awards Honor 10 Academic Innovators",
+      "NVIDIA GTC Taipei at COMPUTEX: Live Updates on Whatâs Next in AI",
+      "NVIDIA and Google Cloud Empower the Next Wave of AI Builders"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為超微、英特爾、三星相關動態：「AMD's Lisa Su says memory is becoming another pressure po...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AMD's Lisa Su says memory is becoming another pressure point for AI chips（先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Most Read – Empower Semi, FTC investigates Arm, Neuromorphic AI IP（財報、展望、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

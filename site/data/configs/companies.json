@@ -301,7 +301,8 @@
         "qualcomm",
         "broadcom"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "samsung",
@@ -1265,7 +1266,8 @@
       ],
       "downstream": [],
       "ir_rss_url": "https://blog.google/rss/",
-      "fetch_mode": "rss"
+      "fetch_mode": "rss",
+      "inventory_applicable": false
     },
     {
       "id": "meta",
@@ -1287,7 +1289,8 @@
         "micron"
       ],
       "downstream": [],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "oracle",
@@ -1307,7 +1310,8 @@
         "intel"
       ],
       "downstream": [],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     }
   ],
   "etfs": [

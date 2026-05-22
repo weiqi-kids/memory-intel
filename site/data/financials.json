@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T11:38:27.993562Z",
+  "updated_at": "2026-05-22T11:02:02.127725Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -500,17 +500,17 @@
       "name": "輝達",
       "ticker": "NVDA",
       "currency": "USD",
-      "ar": 38466000000,
-      "ar_prev": 33391000000,
-      "ar_qoq": "+15%",
+      "ar": 40710000000,
+      "ar_prev": 38466000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 21403000000,
-      "inv_prev": 19784000000,
-      "inv_qoq": "+8%",
+      "inventory": 25797000000,
+      "inv_prev": 21403000000,
+      "inv_qoq": "+21%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-01-31"
+      "alert": true,
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "onsemi",
