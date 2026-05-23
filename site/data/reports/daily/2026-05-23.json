@@ -1,0 +1,297 @@
+{
+  "date": "2026-05-23",
+  "generated_at": "2026-05-23T10:05:56.523132Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-05-23-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Lenovo revenue rises 27% as AI demand helps offset PC market strain",
+      "companies": [
+        "intel",
+        "lenovo"
+      ],
+      "related": {
+        "customers": [
+          "lenovo"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522PD238/lenovo-pc-revenue-market-demand.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-05-23-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Huawei continues to erode Nvidia's market share as China remains closed despite hopes of reopening",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260521VL216/nvidia-jensen-huang-ai-chip-huawei-china.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-05-23-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Analysis: AMD bets the future of AI runs on CPUs as much as GPUs",
+      "companies": [
+        "intel",
+        "nvidia",
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522PD229/amd-ceo-lisa-su-nvidia-growth.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "apple-2026-05-23-015",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及 HBM"
+      ],
+      "title": "iPhone 20 Renders Reveal Apple’s Next-Generation Design, With Details Like Silicon-Anode Battery, A21 SoC, HBM RAM & More Mentioned",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/iphone-20-renders-in-new-leak-with-new-specification-details/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-23-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sysmex Corporation 2026 Q4 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4908250-sysmex-corporation-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "cxmt",
+        "count": 1
+      },
+      {
+        "id": "lenovo",
+        "count": 1
+      },
+      {
+        "id": "amd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 82,
+    "too_old": 106,
+    "gate1_blocked": 57,
+    "gate2_blocked": 41,
+    "passed": 31,
+    "pass_rate": "13.2%",
+    "gate2_block_rate": "17.4%",
+    "gate2_samples": [
+      "2026.05.22Tokyo Electron to Construct New Building in KyushuTopicsProducts / ServicesIRSustainabilit",
+      "Molybdenum’s Role in Ultra-Fast Computing: The Metal Behind the Speed",
+      "Intel’s 2025 Outstanding Researcher Awards Honor 10 Academic Innovators",
+      "NVIDIA GTC Taipei at COMPUTEX: Live Updates on Whatâs Next in AI",
+      "NVIDIA and Google Cloud Empower the Next Wave of AI Builders"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為英特爾、輝達、CXMT相關動態：「Lenovo revenue rises 27% as AI demand helps offset PC mar...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lenovo revenue rises 27% as AI demand helps offset PC market strain（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Huawei continues to erode Nvidia's market share as China remains closed despi...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
