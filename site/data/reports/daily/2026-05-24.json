@@ -1,0 +1,164 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T10:06:35.491905Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-24-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Airlines: A Hold Despite Better Revenue And Lower Debt",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4908352-american-airlines-a-hold-despite-better-revenue-and-lower-debt?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "apple-2026-05-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Still Looking For A M4 Mac mini? Amazon Has Some Units In Stock For The 16GB RAM & 512GB SSD Variants For $800, But You’ll Have To Be Quick",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shortage",
+        "inventory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/rare-m4-mac-mini-with-16gb-ram-and-512gb-ssd-available-for-800-on-amazon/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "apple",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "shortage",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 93,
+    "too_old": 106,
+    "gate1_blocked": 61,
+    "gate2_blocked": 39,
+    "passed": 18,
+    "pass_rate": "8.0%",
+    "gate2_block_rate": "17.4%",
+    "gate2_samples": [
+      "2026.05.22Tokyo Electron to Construct New Building in KyushuTopicsProducts / ServicesIRSustainabilit",
+      "Molybdenum’s Role in Ultra-Fast Computing: The Metal Behind the Speed",
+      "Intel’s 2025 Outstanding Researcher Awards Honor 10 Academic Innovators",
+      "NVIDIA GTC Taipei at COMPUTEX: Live Updates on Whatâs Next in AI",
+      "NVIDIA and Google Cloud Empower the Next Wave of AI Builders"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為蘋果相關動態：「American Airlines: A Hold Despite Better Revenue And Lowe...」。主要關注主題為財報、缺貨、庫存，市場情緒中性。",
+    "signals": [
+      {
+        "text": "American Airlines: A Hold Despite Better Revenue And Lower Debt（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Still Looking For A M4 Mac mini? Amazon Has Some Units In Stock For The 16GB ...（缺貨、庫存、半導體/記憶體通用）",
+        "level": "green"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

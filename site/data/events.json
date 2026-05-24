@@ -1,5 +1,45 @@
 [
   {
+    "id": "unknown-2026-05-24-001",
+    "date": "2026-05-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Airlines: A Hold Despite Better Revenue And Lower Debt",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4908352-american-airlines-a-hold-despite-better-revenue-and-lower-debt?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-24-002",
+    "date": "2026-05-24",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "shortage",
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Still Looking For A M4 Mac mini? Amazon Has Some Units In Stock For The 16GB RAM & 512GB SSD Variants For $800, But You’ll Have To Be Quick",
+    "summary": "The DRAM shortage and the ability to run AI agents on powerful and affordable computers mean Apple cannot keep up with demand, which is why the company was forced to discontinue the base M4 Mac mini t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/rare-m4-mac-mini-with-16gb-ram-and-512gb-ssd-available-for-800-on-amazon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-05-23-001",
     "date": "2026-05-23",
     "companies": [],
@@ -281,6 +321,327 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/iphone-20-renders-in-new-leak-with-new-specification-details/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-05-23-016",
+    "date": "2026-05-23",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Save almost $200 on a flagship AMD 9850X3D CPU and 9070 XT GPU with this Newegg combo bundle — AMD's Ryzen 9 9850X3D and Radeon RX 9070 XT can be yours at a great price",
+    "summary": "\n                             If you've been looking to build a 4K-ready but the prices during the AI boom has scared you off, we've got just the deal to start you off. You can grab AMD's top-tier Ryz",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/save-almost-usd200-on-a-flagship-amd-9850x3d-cpu-and-9070-xt-gpu-with-this-newegg-combo-bundle-amds-ryzen-9-9850x3d-and-radeon-rx-9070-xt-can-be-yours-at-a-great-price",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-05-23-017",
+    "date": "2026-05-23",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung's $400,000 payout for memory workers sparks revolt as other divisions get only $4,000, fueling intentional production slowdowns — internal resentment disrupts packaging operations, major AI chip project decisions to a complete halt",
+    "summary": "\n                             It’s understood that meetings are being canceled across Samsung's non-memory and shared business units. \n                                                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/samsungs-bonus-dispute-spreads-to-chip-packaging-divisions-threatening-hbm-delivery-schedules",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-05-23-018",
+    "date": "2026-05-23",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron's Virginia fab begins producing America's most advanced DRAM memory — fab expansion to quadruple output, easing DDR4 shortage for automotive and defense sectors",
+    "summary": "\n                             Micron is scaling up DDR4 production as the supply of the older memory standard has become unexpectedly tight. \n                                                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/micron-begins-producing-americas-most-advanced-dram-at-its-virginia-fab",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-019",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "$100 CPU Shootout: Comparing the Ryzen 5 5500, Core i3-14100F, and Core i3-12100F to find the top DDR4 CPU",
+    "summary": "\n                             As RAM prices continue to climb, budget CPUs are becoming more important. Here, we look at the three leading CPUs around $100 that use DDR4 memory to find which one is ri",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/100-budget-cpu-shootout-ddr4",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-020",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei develops 122TB SSD with new packaging tech to sidestep US sanctions on 3D NAND chips — Chinese firm develops proprietary tech to cram more NAND dies in a smaller footprint",
+    "summary": "\n                             Huawei developed a new die-on-board packaging, which directly mounted NAND dies on the SSD PCB, to get around the sanctions that prevented it from acquiring high-layer-co",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/huawei-introduces-122tb-ssd-without-using-sanctioned-3d-nand-chips-chinese-tech-firm-develops-proprietary-tech-to-cram-more-nand-dies-in-a-smaller-footprint",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-05-23-021",
+    "date": "2026-05-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "768GB of cheap Intel Optane DIMM memory sticks used to run 1-trillion-parameter LLM on a system with a single GPU — local Kimi K2.5 install achieved roughly 4 tokens per second",
+    "summary": "\n                             A Redditor has caused a stir by coaxing a workstation build using Optane PMem DIMMs as RAM to run a 1-trillion parameter LLM. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/enthusiast-runs-1-trillion-parameter-llm-from-768gb-of-intel-optane-dimm-memory-sticks-local-kimi-k2-5-install-achieved-roughly-4-tokens-per-second",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-05-23-022",
+    "date": "2026-05-23",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Micron starts producing most advanced US-made DRAM at Virginia fab, expands domestic memory supply",
+    "summary": "Micron Technology has begun manufacturing its 1-alpha (1&alpha;) DRAM process technology at its factory in Manassas, Virginia, marking what the company described as the most advanced memory technology",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260524PR200/micron-dram-manufacturing-fab-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-23-023",
+    "date": "2026-05-23",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jensen Huang says he uses Claude at work and his son runs AI agents at home to manage the family",
+    "summary": "Jensen Huang fielded a wide-ranging set of questions during his Taiwan visit this week, touching on China market access, rising memory costs, silicon photonics, the LPU versus GPU debate and the futur",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260523PD201/jensen-huang-taiwan-claude-nvidia-silicon.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-05-23-024",
+    "date": "2026-05-23",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Jensen Huang lands in Taiwan, calls Vera Rubin biggest product ramp in computer history",
+    "summary": "Nvidia CEO Jensen Huang arrived in Taiwan on May 23 ahead of COMPUTEX, telling reporters that the company's next-generation AI server platform &mdash; codenamed Vera Rubin &mdash; will be the most suc",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260523PD200/nvidia-taiwan-jensen-huang-rubin-ceo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-05-23-025",
+    "date": "2026-05-23",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tokens per joule: Microsoft's quiet metric for separating AI hype from reality",
+    "summary": "The AI race has no clear winner &mdash; and may never have one, a senior Microsoft executive argued on the third day of the Plug and Play May Summit in Sunnyvale.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260522VL214/microsoft-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-23-026",
+    "date": "2026-05-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Pool Corporation: Profiting From The Sunbelt's Long Term Growth Potential",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4908342-pool-corporation-profiting-from-the-sunbelts-long-term-growth-potential?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-05-23-027",
+    "date": "2026-05-23",
+    "companies": [
+      "tsmc",
+      "samsung",
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Exynos 2700 Can Brew Trouble For Both TSMC And Qualcomm Next Year, But Samsung Has To Go The Extra Mile For That To Happen",
+    "summary": "Samsung made history by introducing its first 2nm GAA chipset to the masses, Exynos 2600, with the Korean firm’s semiconductor now shifting focus and resources towards the Exynos 2700, its next SoC th",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/exynos-2700-can-brew-trouble-for-tsmc-and-qualcomm-next-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-23-028",
+    "date": "2026-05-23",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "You Won’t Look For A New Laptop After You See This 13-Inch M5 MacBook Air Deal On Amazon, Now Available For Just $900",
+    "summary": "Apple got rid of the 256GB SSD version on both of its 13-inch and 15-inch M5 MacBook Air models, giving buyers more breathing room to store data on their local storage. Fortunately, that’s not the onl",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/13-inch-m5-macbook-air-now-starts-from-900-on-amazon-best-price-so-far/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-05-23-029",
+    "date": "2026-05-23",
+    "companies": [
+      "skhynix",
+      "nvidia",
+      "samsung"
+    ],
+    "topics": [
+      "dram_price",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA CFO Teases Rivals Caught Off Guard by Memory Shortage, Says Her Firm Knew Prices Would Soar",
+    "summary": "NVIDIA CFO Collette Kress blames other firms for suffering in the ongoing memory shortage. In an interview with Tae Kim, Kress shared how her firm had ordered memory in advance as it understood that a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-cfo-teases-rivals-caught-off-guard-by-memory-shortage-says-her-firm-knew-prices-would-soar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-05-23-030",
+    "date": "2026-05-23",
+    "companies": [
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TSMC Employees Are Exploding With Rage Over Rumored Bonus Cuts Despite A 58% Profit Jump, And Are Coalescing Around Samsung-Style Strikes",
+    "summary": "The seemingly never-ending bonus-related saga at Samsung is now spurring a chain reaction across Asia's industrial heartland, with some TSMC employees now actively advocating for the tactics employed ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmc-employees-are-exploding-with-rage-over-rumored-bonus-cuts-despite-a-58-profit-jump-and-are-coalescing-around-samsung-style-strikes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-05-23-031",
+    "date": "2026-05-23",
+    "companies": [
+      "apple",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s Premium Lunar Lake Laptops Crash To $600 In China, Undercutting Budget Wildcat Lake Models They Were Meant To Sit Above",
+    "summary": "Laptops with both types of Intel chips are now at their cheapest, competing to go as low as they can in mainland China. Core Ultra 5 226V-Based Laptops Drop to $600 In China, Featuring 16 GB + 512 GB ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/budget-lunar-lake-laptops-are-continuously-seeing-price-drops-in-china/",
         "type": "rss"
       }
     ]
