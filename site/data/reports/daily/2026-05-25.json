@@ -1,0 +1,354 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T12:03:13.486620Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "micron-2026-05-25-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Micron maps out HBM roadmap with 2027 HBM4E debut and custom AI memory designs",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "capacity",
+        "capex",
+        "shortage",
+        "euv",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260525VL210/micron-hbm-dram-roadmap-2027.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-25-015",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI servers drive order growth; Weltrend's fan motor driver IC visibility strong",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260525PD212/growth-earnings-weltrend-2026-demand.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-25-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Taiwan, China wafer foundry industry, 2Q 2026: Cross-strait revenues to surge over 25%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260522RS400/2026-wafer-taiwan-demand-revenue.html?chid=2"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-05-25-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia's Vera CPU push lifts LPDDR outlook for Samsung, SK Hynix",
+      "companies": [
+        "samsung",
+        "nvidia",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung",
+          "skhynix"
+        ]
+      },
+      "topics": [
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260525VL208/nvidia-cpu-samsung-sk-hynix-outlook.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "ti-2026-05-25-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AMD’s Next-Gen Zen 7 “Grimlock” CPUs To Utilize TSMC 1.4nm Process Tech & FOPLP Packaging, Launching in 2028",
+      "companies": [
+        "ti",
+        "amd",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/amd-zen-7-grimlock-cpus-utilize-tsmc-1-4nm-process-tech-foplp-packaging-launc-2028/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.44,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.39,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 13,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "tsmc",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "euv",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 79,
+    "too_old": 106,
+    "gate1_blocked": 60,
+    "gate2_blocked": 37,
+    "passed": 35,
+    "pass_rate": "14.7%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "2026.05.22Tokyo Electron to Construct New Building in KyushuTopicsProducts / ServicesIRSustainabilit",
+      "Molybdenum’s Role in Ultra-Fast Computing: The Metal Behind the Speed",
+      "Intel’s 2025 Outstanding Researcher Awards Honor 10 Academic Innovators",
+      "NVIDIA GTC Taipei at COMPUTEX: Live Updates on Whatâs Next in AI",
+      "NVIDIA and Google Cloud Empower the Next Wave of AI Builders"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為輝達、英特爾、三星相關動態：「Micron maps out HBM roadmap with 2027 HBM4E debut and cus...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Micron maps out HBM roadmap with 2027 HBM4E debut and custom AI memory designs（HBM、AI 記憶體、產能、資本支出、缺貨、EUV、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "AI servers drive order growth; Weltrend's fan motor driver IC visibility strong（AI 伺服器、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
