@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-25T12:03:07.591270Z",
+  "updated_at": "2026-05-28T11:49:57.674084Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -75,34 +75,34 @@
       "name": "應材",
       "ticker": "AMAT",
       "currency": "USD",
-      "ar": 4977000000,
-      "ar_prev": 5185000000,
-      "ar_qoq": "-4%",
+      "ar": 6372000000,
+      "ar_prev": 4977000000,
+      "ar_qoq": "+28%",
       "ar_period": "QoQ",
-      "inventory": 5997000000,
-      "inv_prev": 5915000000,
-      "inv_qoq": "+1%",
+      "inventory": 6343000000,
+      "inv_prev": 5997000000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-01-31"
+      "alert": true,
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "arm",
       "name": "安謀",
       "ticker": "ARM",
       "currency": "USD",
-      "ar": 984000000,
-      "ar_prev": 1119000000,
-      "ar_qoq": "-12%",
+      "ar": 1300000000,
+      "ar_prev": 984000000,
+      "ar_qoq": "+32%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "inv_period": "QoQ",
       "inventory_applicable": false,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ase",

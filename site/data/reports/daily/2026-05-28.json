@@ -1,0 +1,325 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:50:03.902499Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "google-2026-05-28-031",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Pixel 11’s Gimped Tensor G6 Will Mean Another Year That Google Takes A Beating From Samsung & Apple In The U.S. Market",
+      "companies": [
+        "google",
+        "tsmc",
+        "apple",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "tsmc",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/underpowered-tensor-g6-means-pixel-11-could-underperform-in-the-us-market/"
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-05-28-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Amazon and Snowflake expand alliance amid agentic AI race",
+      "companies": [
+        "intel",
+        "aws"
+      ],
+      "related": {
+        "customers": [
+          "aws"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260528VL207/amazon-data-partnership-infrastructure-chips.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-05-28-022",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "SK Hynix turns Big Tech's memory scramble into tougher supply terms",
+      "companies": [
+        "intel",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260528VL220/sk-hynix-memory-chips-fab-capacity-samsung.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-28-006",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Chiplets, Ecosystems, and Europe’s Post-Fab Semiconductor Strategy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.eetimes.com/chiplets-ecosystems-and-europes-post-fab-semiconductor-strategy/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-28-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Salesforce Taiwan targets double-digit growth on AI applications and services",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260527PD229/growth-management-taiwan-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "skhynix",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capex"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 27,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "broadcom",
+        "count": 3
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      },
+      {
+        "id": "google",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 317,
+    "dup_title": 54,
+    "too_old": 111,
+    "gate1_blocked": 53,
+    "gate2_blocked": 32,
+    "passed": 67,
+    "pass_rate": "25.5%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "2026.05.22Tokyo Electron to Construct New Building in KyushuTopicsProducts / ServicesIRSustainabilit",
+      "2026.05.27HoldingsNotice of Changes of Officers ＜SCREEN HD＞",
+      "Intel’s 2025 Outstanding Researcher Awards Honor 10 Academic Innovators",
+      "NVIDIA GTC Taipei at COMPUTEX: Live Updates on Whatâs Next in AI",
+      "Marvell Keynote at COMPUTEX 2026: The Future of AI Scaling Depends on Connectivity"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為英特爾、三星、博通相關動態：「Pixel 11’s Gimped Tensor G6 Will Mean Another Year That G...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Pixel 11’s Gimped Tensor G6 Will Mean Another Year That Google Takes A Beatin...（財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Amazon and Snowflake expand alliance amid agentic AI race",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
