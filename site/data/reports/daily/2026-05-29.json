@@ -1,0 +1,325 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:40:59.582571Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-29-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Compal accelerates server push with Texas plant and aims for 40% non-PC revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD237/compal-ai-server-texas-plant-revenue-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "tsmc-2026-05-29-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "MediaTek weighs price hikes, reaffirms TSMC partnership",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD234/mediatek-tsmc-price-2026-outlook.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "micron-2026-05-29-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Unimicron targets record 2026 revenue with ABF and AI system-board push",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD239/unimicron-revenue-2026-demand-substrate.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "intel-2026-05-29-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Foxconn chairman sets new profit target as 2025 earnings hit record high",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD238/foxconn-profit-2025-earnings-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-29-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Xpeng swings back to loss in 1Q26 as seasonal slowdown hits deliveries",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529VL212/xpeng-vehicle-sales-loss.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.26,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 12,
+      "neutral": 17,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "silicon_motion",
+        "count": 1
+      },
+      {
+        "id": "arm",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 63,
+    "too_old": 109,
+    "gate1_blocked": 60,
+    "gate2_blocked": 35,
+    "passed": 52,
+    "pass_rate": "20.3%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "2026.05.29Summary of Results of Evaluation of the Effectiveness of Tokyo Electron's Board of Directo",
+      "2026.05.22Tokyo Electron to Construct New Building in KyushuTopicsProducts / ServicesIRSustainabilit",
+      "2026.05.27HoldingsNotice of Changes of Officers ＜SCREEN HD＞",
+      "Marvell Keynote at COMPUTEX 2026: The Future of AI Scaling Depends on Connectivity",
+      "Cherokee language learners bridge generations with iPad and Mac"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為英特爾、三星、慧榮科技相關動態：「Compal accelerates server push with Texas plant and aims ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Compal accelerates server push with Texas plant and aims for 40% non-PC revenue（AI 伺服器、財報）",
+        "level": "red"
+      },
+      {
+        "text": "MediaTek weighs price hikes, reaffirms TSMC partnership（DRAM 價格、財報、展望、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
