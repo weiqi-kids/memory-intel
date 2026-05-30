@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T11:40:54.530313Z",
+  "updated_at": "2026-05-30T10:11:54.769886Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -262,17 +262,17 @@
       "name": "惠普",
       "ticker": "HPQ",
       "currency": "USD",
-      "ar": 5332000000,
-      "ar_prev": 5692000000,
-      "ar_qoq": "-6%",
+      "ar": 6125000000,
+      "ar_prev": 5332000000,
+      "ar_qoq": "+15%",
       "ar_period": "QoQ",
-      "inventory": 8737000000,
-      "inv_prev": 8512000000,
-      "inv_qoq": "+3%",
+      "inventory": 9203000000,
+      "inv_prev": 8737000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "infineon",
@@ -415,17 +415,17 @@
       "name": "美滿電子",
       "ticker": "MRVL",
       "currency": "USD",
-      "ar": 2186600000,
-      "ar_prev": 1546300000,
-      "ar_qoq": "+41%",
+      "ar": 1871700000,
+      "ar_prev": 2186600000,
+      "ar_qoq": "-14%",
       "ar_period": "QoQ",
-      "inventory": 1388000000,
-      "inv_prev": 1014500000,
-      "inv_qoq": "+37%",
+      "inventory": 1400900000,
+      "inv_prev": 1388000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-01-31"
+      "alert": false,
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "meta",

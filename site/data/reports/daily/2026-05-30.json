@@ -1,0 +1,238 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T10:12:01.680637Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-30-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings And Semiconductors Power Markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4910264-earnings-and-semiconductors-power-markets?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Joby Aviation: Buy The Future, Not The 2026 Revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4910252-joby-aviation-buy-the-future-not-the-2026-revenue?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Autodesk, Inc. 2027 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4910263-autodesk-inc-2027-q1-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-30-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI server testing firm Wendell prepares IPO for high-power lab unit on surging rack equipment demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260527PD243/ai-server-testing-equipment-ipo-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "onsemi-2026-05-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ON Semiconductor: AI Power, Auto Recovery, And The Problem Of Price",
+      "companies": [
+        "onsemi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4910265-on-semiconductor-ai-power-auto-recovery-and-the-problem-of-price?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "onsemi",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "aws",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 78,
+    "too_old": 108,
+    "gate1_blocked": 63,
+    "gate2_blocked": 38,
+    "passed": 32,
+    "pass_rate": "13.3%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "2026.05.29Summary of Results of Evaluation of the Effectiveness of Tokyo Electron's Board of Directo",
+      "2026.05.27HoldingsNotice of Changes of Officers ＜SCREEN HD＞",
+      "Marvell Keynote at COMPUTEX 2026: The Future of AI Scaling Depends on Connectivity",
+      "Detroit’s rising developers are supported by the Apple Developer Academy",
+      "Cherokee language learners bridge generations with iPad and Mac"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為ON Semi、輝達、AWS相關動態：「Earnings And Semiconductors Power Markets」。主要關注主題為半導體/記憶體通用、財報、AI 伺服器，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Earnings And Semiconductors Power Markets（財報、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Joby Aviation: Buy The Future, Not The 2026 Revenue（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
