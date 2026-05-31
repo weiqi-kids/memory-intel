@@ -1,0 +1,273 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:27:01.356912Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-05-31-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Senao Networks projects 2026 growth as ISP expansion offsets memory shortage risks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "shortage",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD201/sercomm-2025-equipment-2026-growth.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "dell-2026-05-31-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Dell Slashes XPS 13 To $599 With Intel Wildcat Lake, Undercutting The Current $1,199 Configuration By Half",
+      "companies": [
+        "dell",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "dell"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/dell-slashes-xps-13-to-599-with-intel-wildcat-lake-undercutting-the-current-1199-configuration-by-half/"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-05-31-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Qualcomm May Once Again Command A Higher Share Of Snapdragon SoCs Found In The Galaxy S27 Series, And It’s Thanks To One Clever Strategy",
+      "companies": [
+        "samsung",
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/qualcomm-chipsets-higher-share-for-galaxy-s27-series/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI demand and transport costs fuel continued price hikes in 2Q26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shortage",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD233/demand-price-transportation-materials-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-31-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AUO sees automotive orders setting up revenue gains from 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260529PD217/auo-automotive-display-satellite-communications-revenue-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shortage": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "asml",
+        "count": 1
+      },
+      {
+        "id": "dell",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "qualcomm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "shortage",
+        "count": 3
+      },
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 80,
+    "too_old": 108,
+    "gate1_blocked": 64,
+    "gate2_blocked": 39,
+    "passed": 28,
+    "pass_rate": "11.7%",
+    "gate2_block_rate": "16.3%",
+    "gate2_samples": [
+      "2026.05.29Summary of Results of Evaluation of the Effectiveness of Tokyo Electron's Board of Directo",
+      "2026.05.27HoldingsNotice of Changes of Officers ＜SCREEN HD＞",
+      "Marvell Keynote at COMPUTEX 2026: The Future of AI Scaling Depends on Connectivity",
+      "Detroit’s rising developers are supported by the Apple Developer Academy",
+      "Cherokee language learners bridge generations with iPad and Mac"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為艾司摩爾、戴爾、英特爾相關動態：「Senao Networks projects 2026 growth as ISP expansion offs...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Senao Networks projects 2026 growth as ISP expansion offsets memory shortage ...（產能、缺貨、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Dell Slashes XPS 13 To $599 With Intel Wildcat Lake, Undercutting The Current...",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
