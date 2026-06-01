@@ -1,0 +1,338 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:52:50.569195Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-06-01-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
+      "companies": [
+        "tsmc",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-01-035",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Compeq says AI infrastructure will drive sharp revenue and profit gains in 2027 and 2028",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260528PD236/compeq-manufacturing-infrastructure-revenue-2028-profit.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-06-01-042",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Nvidia expects AI boom to keep supply tight beyond 2027",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260601PD212/nvidia-2027-growth-demand-intel.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "arm-2026-06-01-048",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "RTX Spark Gives Decent First Impression Of Its Performance In Developer Workloads Benchmark, Beats M5 By 54%, Marginally Slower Than Base M5 Pro",
+      "companies": [
+        "arm",
+        "apple",
+        "nvidia",
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "apple",
+          "nvidia",
+          "amd"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/rtx-spark-vs-m5-in-clang-54-percent-faster/"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-06-01-059",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Nvidia's Grace Blackwell superchips are officially coming to the PC with RTX Spark notebooks",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.theregister.com/systems/2026/06/01/nvidia-recasts-gb10-superchip-in-bid-for-high-end-pc-market/5249068"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.35,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 4,
+      "topics": [
+        "earnings",
+        "industry_general",
+        "ai_server",
+        "capacity"
+      ]
+    },
+    {
+      "from": "arm",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "ai_server"
+      ]
+    },
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "ai_server"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 66,
+    "sentiment_distribution": {
+      "positive": 17,
+      "neutral": 45,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 29
+      },
+      {
+        "id": "intel",
+        "count": 13
+      },
+      {
+        "id": "arm",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 3
+      },
+      {
+        "id": "microsoft",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "ai_server",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 58,
+    "too_old": 97,
+    "gate1_blocked": 45,
+    "gate2_blocked": 34,
+    "passed": 66,
+    "pass_rate": "27.3%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "2026.05.29Summary of Results of Evaluation of the Effectiveness of Tokyo Electron's Board of Directo",
+      "2026.05.27HoldingsNotice of Changes of Officers ＜SCREEN HD＞",
+      "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
+      "Marvell Keynote at COMPUTEX 2026: The Future of AI Scaling Depends on Connectivity",
+      "Detroit’s rising developers are supported by the Apple Developer Academy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 66 則事件，焦點為輝達、英特爾、ARM相關動態：「NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconduct...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufa...（資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Compeq says AI infrastructure will drive sharp revenue and profit gains in 20...（AI 伺服器、財報、半導體/記憶體通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
