@@ -1,0 +1,434 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:17:44.393331Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-06-02-021",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Samsung signals broader AI memory deployment with HBM5 roadmap and thermal tech",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260602PD239/samsung-roadmap-2026-technology-management.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-06-02-027",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "TSMC races to expand AI chip capacity while CPO and CoWoS move to center stage",
+      "companies": [
+        "nvidia",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-06-02-038",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "MediaTek Says Its Next-Gen Program Will Only Use Intel’s EMIB-T For Packaging",
+      "companies": [
+        "intel",
+        "google",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/mediatek-says-its-next-gen-program-will-only-use-intels-emib-t-for-packaging/"
+    },
+    {
+      "rank": 4,
+      "event_id": "intel-2026-06-02-042",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及先進封裝"
+      ],
+      "title": "Intel’s EMIB-T Packaging Pulls Two More Taiwanese Suppliers Into Google’s TPU Orbit as TSMC’s CoWoS Strains",
+      "companies": [
+        "intel",
+        "google",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/intels-emib-t-packaging-pulls-two-more-taiwanese-suppliers-into-googles-tpu-orbit-as-tsmcs-cowos-strains/"
+    },
+    {
+      "rank": 5,
+      "event_id": "amd-2026-06-02-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AMD ‘had to re-engineer’ the Ryzen 7 5800X3D for a re-release — 10th Anniversary Edition chip had ‘a whole body of engineering work’ put into it",
+      "companies": [
+        "amd",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/cpus/amd-had-to-re-engineer-the-ryzen-7-5800x3d-for-a-re-release-10th-anniversary-edition-chip-had-a-whole-body-of-engineering-work-put-into-it"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "google",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "advanced_packaging",
+        "capex"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "advanced_packaging",
+        "capex"
+      ]
+    },
+    {
+      "from": "google",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "advanced_packaging",
+        "capex"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 42,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 13
+      },
+      {
+        "id": "nvidia",
+        "count": 13
+      },
+      {
+        "id": "amd",
+        "count": 4
+      },
+      {
+        "id": "tsmc",
+        "count": 4
+      },
+      {
+        "id": "apple",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 72,
+    "too_old": 86,
+    "gate1_blocked": 62,
+    "gate2_blocked": 23,
+    "passed": 57,
+    "pass_rate": "25.0%",
+    "gate2_block_rate": "10.1%",
+    "gate2_samples": [
+      "2026.06.01Tokyo Electron’s Opinion on ISS’s Voting RecommendationTopicsProducts / ServicesIRSustaina",
+      "2026.05.29Summary of Results of Evaluation of the Effectiveness of Tokyo Electron's Board of Directo",
+      "2026.05.27HoldingsNotice of Changes of Officers ＜SCREEN HD＞",
+      "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intell",
+      "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為英特爾、輝達、超微相關動態：「Samsung signals broader AI memory deployment with HBM5 ro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung signals broader AI memory deployment with HBM5 roadmap and thermal tech（HBM、AI 記憶體、資本支出、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "TSMC races to expand AI chip capacity while CPO and CoWoS move to center stage（產能、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

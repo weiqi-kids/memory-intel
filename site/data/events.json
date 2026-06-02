@@ -1,5 +1,947 @@
 [
   {
+    "id": "intel-2026-06-02-001",
+    "date": "2026-06-02",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Computex 2026: An Intelligent World Built on Silicon",
+    "summary": "<p>This week at Computex, Intel CEO Lip-Bu Tan took to the keynote stage to showcase the innovations that Intel has shared with the world over the past five-plus decades.Lip-Bu noted the immense contr",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-06-02-002",
+    "date": "2026-06-02",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Announces New AI Innovations at Computex",
+    "summary": "<p>TAIPEI, Taiwan, June 2, 2026 &#8211; Today at Computex 2026, Intel unveiled new innovations that address customers&#8217; chip- to-systems-level AI needs with solutions tailored to address their sp",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-02-003",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+    "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on Jetson.Â JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-02-004",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Evolution Of UCIe",
+    "summary": "<p>How the standard matured from simple connectivity to secure data movement across multiple chiplets and packaging approaches.</p>\n<p>The post <a href=\"https://semiengineering.com/the-evolution-of-uc",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/the-evolution-of-ucie/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-005",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Jun. 2",
+    "summary": "<p>Fixed HW implementations of neural networks; LLM inference scaling; silent data corruption detection; NAND flash tunneling; HW-SW co-design benchmarks for SoCs; chiplet side-channel attacks; GPU po",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-jun-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-006",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Research Bits: Jun. 2",
+    "summary": "<p>Integrated valleytronics device; tabletop 3D EUV for research; humidity-sensitive optical data storage.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-jun-2/\">Research Bits: Jun",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/research-bits-jun-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-02-007",
+    "date": "2026-06-02",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Grab this RTX 5070 gaming PC with a 7800X3D from CyberPowerPC for under $1,960 right now — exclusive discount available on 4K-ready pre-built rig with 32GB DDR5 and 1TB SSD that knocks $210 off",
+    "summary": "\n                             Save $210 on this powerful CyberPowerPC gaming rig, powered by the AMD Ryzen 7 7800X3D and the all-impressive RTX 5070, alongside a 1TB SSD and 32GB of DDR5 RAM, all for ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/grab-this-rtx-5070-gaming-pc-with-a-7800x3d-from-cyberpowerpc-for-under-usd1-960-right-now-exclusive-discount-available-on-4k-ready-pre-built-rig-with-32gb-ddr5-and-1tb-ssd-that-knocks-usd210-off",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-06-02-008",
+    "date": "2026-06-02",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix to double memory wafer capacity within five years, chairman says — AI-driven shortage will persist until at least 2030",
+    "summary": "\n                             SK hynix will double its memory wafer capacity within five years, SK Group chairman Chey Tae-won told reporters at Computex in Taipei on June 2nd. \n                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/sk-hynix-to-double-memory-wafer-capacity-over-five-years",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-009",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang says Nvidia wants to 'reinvent the single most important tool of humanity' with RTX Spark — Nvidia CEO touts support of 'literally every computer maker in the world' for its agentic AI PC platform",
+    "summary": "\n                             In a press Q&A held at Computex 2026, Nvidia CEO Jensen Huang discussed why the company is entering the PC market now and its ambitions for the future of computing. \n    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-nvidia-wants-to-reinvent-the-single-most-important-tool-of-humanity-with-rtx-spark-nvidia-ceo-touts-support-of-literally-every-computer-maker-in-the-world-for-its-agentic-ai-pc-platform",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-010",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Take home Gigabyte's Aero X16 gaming laptop for just $1,389.99 and save $610 —  packed with 32GB of RAM and a powerful RTX 5070 GPU",
+    "summary": "\n                             Gigabyte's Aero X16 packs 32GB of RAM, a 1TB SSD, and a powerful Nvidia RTX 5070 GPU all for $1389.99 in this Best Buy deal. \n                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/take-home-gigabytes-aero-x16-gaming-laptop-for-just-usd1-389-99-and-save-usd610-packed-with-32gb-of-ram-and-a-powerful-rtx-5070-gpu",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-02-011",
+    "date": "2026-06-02",
+    "companies": [
+      "amd",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD ‘had to re-engineer’ the Ryzen 7 5800X3D for a re-release — 10th Anniversary Edition chip had ‘a whole body of engineering work’ put into it",
+    "summary": "\n                             AMD just reintroduced the Ryzen 7 5800X3D, but it wasn't as simple as spinning up the old manufacturing process, as the original bonding method TSMC used was no longer av",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-had-to-re-engineer-the-ryzen-7-5800x3d-for-a-re-release-10th-anniversary-edition-chip-had-a-whole-body-of-engineering-work-put-into-it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-012",
+    "date": "2026-06-02",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Arc G3 interview transcript — Intel's Senior Product Director talks new handheld chips, Arrow Lake Refresh, and RTX Spark",
+    "summary": "\n                             Intel's Nish Neelalojanan spoke to us at Computex 2026 about Intel's new G3 chip line, how it impacts the burgeoning handheld gaming market, and how Intel is responding t",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-arc-g3-interview-transcript-intels-senior-product-director-talks-new-handheld-chips-arrow-lake-refresh-and-rtx-spark",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-013",
+    "date": "2026-06-02",
+    "companies": [
+      "intel",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Frore System’s solid-state AirJet Mini cools Intel’s Wildcat Lake laptop reference design – 15W of sustained, fanless cooling helps MacBook Neo competitor reach a svelte 11.3 mm, remain silent",
+    "summary": "\n                             Frore has worked with Intel to feature its AirJet solid-state cooling chip inside its much-hyped Wildcat Lake reference laptop. These laptops will need to stay slim, quie",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/frore-systems-solid-state-airjet-mini-cools-intels-wildcat-lake-laptop-reference-design-15w-of-sustained-fanless-cooling-helps-macbook-neo-competitor-reach-a-svelte-11-3-mm-remain-silent",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-014",
+    "date": "2026-06-02",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel says 'something has to give' with memory prices — company says it 'will continue to make sure that there are products which can take care of older memory technologies'",
+    "summary": "\n                             Intel sat down with Tom's Hardware at Computex 2026, and the company says it recognizes the importance of Raptor Lake and DDR4 platforms as the memory crunch continues. \n",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-says-something-has-to-give-with-memory-prices-company-says-it-will-continue-to-make-sure-that-there-are-products-which-can-take-care-of-older-memory-technologies",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-015",
+    "date": "2026-06-02",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese military has been acquiring Nvidia chips, even post-Washington export controls, research claims — multiple institutions linked to the PLA asked for Nvidia AI chips, according to publicly available documents",
+    "summary": "\n                             A business-intelligence researcher said that the Chinese military has been actively acquiring Nvidia AI chips, even after the U.S. put export controls on them. Public doc",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/chinese-military-has-been-acquiring-nvidia-chips-even-post-washington-export-controls-research-claims-multiple-institutions-linked-to-the-pla-asked-for-nvidia-ai-chips-according-to-publicly-available-documents",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-016",
+    "date": "2026-06-02",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Watch Intel's Computex 2026 keynote here — CEO Lip-Bu Tan takes the stage in Taipei at 10:30pm PT on June 1",
+    "summary": "\n                             Intel CEO Lip-Bu Tan is set to take the stage at Computex 2026 for a keynote address at 10:30 pm PT on June 1 \n                                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/watch-intels-computex-2026-keynote-here-ceo-lip-bu-tan-takes-the-stage-in-taipei-at-10-30pm-pt-on-june-1",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-02-017",
+    "date": "2026-06-02",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD Radeon RX 9070 GRE review: thoroughly midrange",
+    "summary": "\n                             AMD's $549 Radeon RX 9070 GRE offers strong high-refresh-rate 1080p and 1440p gaming performance as it launches globally at Computex 2026. But a lower price tag could hav",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/amd-radeon-rx-9070-gre-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-018",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Display to semiconductor: Panel makers weaponize large glass substrates for FOPLP",
+    "summary": "Panel makers' FOPLP strategies vary, with Innolux being the most active. AUO utilizes RDL technology to develop emerging applications such as satellite antennas.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260525RS400/foplp-technology-packaging-ai-chip-panel.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-019",
+    "date": "2026-06-02",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel CEO Lip-Bu Tan anchors AI comeback on 18A, x86, and Taiwan ties at Computex 2026",
+    "summary": "Intel CEO Lip-Bu Tan used his Computex 2026 keynote in Taipei to frame Intel's AI-era reset around execution, infrastructure, and deeper ties with Taiwan's PC and semiconductor supply chain.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602VL216/intel-ceo-lip-bu-tan-ai-x86-computex-2026-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-020",
+    "date": "2026-06-02",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel CEO Lip-Bu Tan's Computex keynote: 1,000 steps up Elephant Mountain and a live demo with Perplexity's CEO",
+    "summary": "Intel CEO Lip-Bu Tan opened his Computex 2026 keynote in Taipei on June 2 with a personal note that set him apart from every Intel CEO before him.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602VL215/intel-lip-bu-tan-ceo-ai-computex-2026-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-02-021",
+    "date": "2026-06-02",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "ai_memory",
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung signals broader AI memory deployment with HBM5 roadmap and thermal tech",
+    "summary": "Samsung Electronics has used Computex 2026 to outline a broader AI memory strategy, highlighting HBM5, thermal management, and advanced packaging as it prepares for next-generation AI systems. The com",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602PD239/samsung-roadmap-2026-technology-management.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-022",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia",
+      "apple"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "AI PCs and low-end MacBooks stir weak notebook market",
+    "summary": "The global notebook market is entering a new phase of competition as AI-driven products reshape demand, even as the broader recovery has fallen short of expectations. Apple is pressuring the low end w",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602PD215/market-nvidia-rtx-apple-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-023",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Valeo builds second growth engine in AI data centers, robotics and defense as E/EA transition slows",
+    "summary": "As Europe and the US fall short of expectations for the automotive electrical/electronic architecture (E/EA) transition, traditional tier-1 suppliers are accelerating diversification efforts to offset",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602PD232/automotive-europe-valeo-growth-robotics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-024",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Agentic computing could reshape data centers, PCs, robots, and vehicles, says Nvidia CEO",
+    "summary": "Nvidia CEO Jensen Huang said the computing industry is entering an era of \"agentic computing,\" in which data centers, personal computers, autonomous vehicles, humanoid robots, and satellite systems wi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602PD237/nvidia-data-ceo-jensen-huang-rtx.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-06-02-025",
+    "date": "2026-06-02",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "South Korea cuts EUV equipment approvals to speed Samsung and SK Hynix expansion",
+    "summary": "South Korea's Ministry of Trade, Industry, and Energy announced on June 2, 2026, that it would sharply streamline domestic approval procedures for extreme ultraviolet equipment used in semiconductor f",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602PD240/equipment-euv-sk-hynix-samsung-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-026",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic files confidential paperwork for IPO, racing ahead of OpenAI",
+    "summary": "Anthropic announced that it has filed confidential paperwork to go public on June 1 to the US Securities and Exchange Commission, pulling ahead of rival OpenAI for now in the IPO race. The number of s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602VL213/anthropic-ipo-openai-spacex.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-027",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia",
+      "tsmc"
+    ],
+    "topics": [
+      "capacity",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "TSMC races to expand AI chip capacity while CPO and CoWoS move to center stage",
+    "summary": "Nvidia GTC Taipei opened on June 1 with a packed keynote by CEO Jensen Huang, who kicked off the event by unveiling the widely watched Taiwan supply chain board.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260601PD231/tsmc-capacity-nvidia-cpo-gtc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-06-02-028",
+    "date": "2026-06-02",
+    "companies": [
+      "arm",
+      "intel",
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Nvidia's N1X chip adds pressure to x86 PCs as AI demand reshapes the market",
+    "summary": "Nvidia's new N1X processor, developed with MediaTek, signals a broader shift in PC computing as AI agents gain traction worldwide. The Arm-based chip could boost supply choices, intensify competition ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602PD214/nvidia-x86-demand-market-processor.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "marvell-2026-06-02-029",
+    "date": "2026-06-02",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marvell CEO says copper wall is moving inside the rack, and co-packaged optics is the only way through",
+    "summary": "On the first day of Computex 2026 in Taipei, Marvell Technology CEO Matt Murphy made a pointed argument to an audience of industry insiders: the next major bottleneck in AI infrastructure is not compu",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602VL212/marvell-copper-cpo-data-center-server-rack-computex-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-030",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Analysis: RTX Spark expands PC ecosystem rather than rivaling it",
+    "summary": "Nvidia used GTC Taipei on June 1, 2026, to unveil RTX Spark, also known as N1X, a new AI PC system-on-chip designed for native AI agent workloads rather than mainstream Windows PCs. The chip appears d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602VL209/rtx-nvidia-pc-gtc-taipei.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-06-02-031",
+    "date": "2026-06-02",
+    "companies": [
+      "micron"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Unimicron's new chair refocuses resources on AI substrate bottleneck",
+    "summary": "Unimicron Technology has completed a full board re-election, with newly appointed chairman SC Chien formally taking charge as the IC substrate supplier prepares for a new phase of PCB demand driven by",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260601PD217/unimicron-chairman-substrate-supplier-pcb.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-032",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Power Integrations unveils 1700V GaN auxiliary PSU for AI data centers",
+    "summary": "Power Integrations (PI) has announced two ultra-thin, compact auxiliary power supply (PSU) reference designs built for 800VDC AI data centers. PI principal training engineer Jason Yan said the ultra-c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602PD225/psu-power-supply-gan-sic.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-033",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Foxconn expands AI role with token factories, robotics, and global data centers",
+    "summary": "Foxconn Technology Group used COMPUTEX 2026 to present a broader AI infrastructure push, signaling a move beyond AI server supply and into token factory services. The company highlighted its \"3+3+3\" t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260602PD231/foxconn-data-robotics-infrastructure-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-034",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Stock Market Could Crash In June",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4910915-stock-market-could-crash-in-june?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-035",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "May AAII Asset Allocation Survey: Stock Allocations Nudge Higher",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4910912-may-aaii-asset-allocation-survey-stock-allocations-nudge-higher?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-036",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chemring Group PLC (CMGMY) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4910876-chemring-group-plc-cmgmy-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-037",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AGC Inc. (ASGLY) Discusses Technology Development Strategy and Diversification in Semiconductor-Related Businesses Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4910878-agc-inc-asgly-discusses-technology-development-strategy-and-diversification-in-semiconductor?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-038",
+    "date": "2026-06-02",
+    "companies": [
+      "intel",
+      "google",
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MediaTek Says Its Next-Gen Program Will Only Use Intel’s EMIB-T For Packaging",
+    "summary": "Taiwanese fabless semiconductor firm MediaTek has made a major claim at the Goldman Sachs Taiwan Day by outlining that for its next-generation program, it plans to only use Intel's EMIB-T packaging te",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/mediatek-says-its-next-gen-program-will-only-use-intels-emib-t-for-packaging/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-06-02-039",
+    "date": "2026-06-02",
+    "companies": [
+      "qualcomm",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Qualcomm Could Give Samsung Preferential Treatment For Its Snapdragon SoCs By Lowering Prices By 16% As It Views Exynos As A Greater Threat",
+    "summary": "The Exynos 2700 is already being positioned to replace a great deal of Snapdragon chipsets next year, as a previous report stated that Samsung plans on adopting it in 50 percent of Galaxy S27 shipment",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/qualcomm-block-exynos-adoption-by-offering-samsung-lowered-snapdragon-soc-prices/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-02-040",
+    "date": "2026-06-02",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "iPhone 18 Pro To Feature A Small Battery Capacity Bump Compared To iPhone 17 Pro, But It’s Not The Only Reason Why You’ll Get Better Runtimes",
+    "summary": "Apple is slowly bumping up the battery capacities of its top-end smartphones, and earlier this year, there was a rumor doing the rounds that the iPhone 18 Pro Max would offer the largest capacity upgr",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/iphone-18-pro-battery-capacity-for-esim-and-non-esim-variants-revealed/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-041",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GIGABYTE Launches ‘AI TOP’ Desktop Ecosystem, Featuring Radeon AI PRO R9700 Workstation For Up To 405B LLMs",
+    "summary": "At its 'ENTER INFINITY' press event, GIGABYTE unveiled its AI TOP ecosystem of desktop workstations, with three new prebuilts targeting various segments of the market. 'AI TOP' 100 B850 Features Radeo",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gigabyte-launches-ai-top-desktop-ecosystem-featuring-radeon-ai-pro-r9700-workstation-for-up-to-405b-llms/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-042",
+    "date": "2026-06-02",
+    "companies": [
+      "intel",
+      "google",
+      "tsmc"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s EMIB-T Packaging Pulls Two More Taiwanese Suppliers Into Google’s TPU Orbit as TSMC’s CoWoS Strains",
+    "summary": "With aggressive AI demand burdening TSMC's packaging resources, supply chain reports from Taiwan continue to suggest that Intel's EMIB-T packaging technology is gaining traction with Google. Intel has",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intels-emib-t-packaging-pulls-two-more-taiwanese-suppliers-into-googles-tpu-orbit-as-tsmcs-cowos-strains/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-043",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "MSI Adopts Diamond-Laced Cooling, Safe 16-Pin & Resettable Fuses to Tame NVIDIA’s Next-Gen RTX GPUs",
+    "summary": "MSI has unveiled its next-generation cooling solution and power design that will be used on future NVIDIA RTX GPUs. MSI Has Some Wicked Cooling &#38; Power Innovations Ready For Next-Gen NVIDIA RTX GP",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/msi-diamond-laced-cooling-safe-16-pin-resettable-fuses-nvidias-next-gen-rtx-gpus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-044",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Claude celebrates Anthropic's stock market float with blockbuster ... outage",
+    "summary": " Chatbot has no respect for timing of its maker's financial announcement ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/02/claude-celebrates-anthropics-stock-market-float-with-blockbuster-outage/5250071",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-02-045",
+    "date": "2026-06-02",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel and pals cram 36,864 CPU cores into a 100kW rack while chasing the agentic AI dragon",
+    "summary": " Meanwhile, Intel and SambaNova's disaggregated inference blueprint lands its first customer ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/06/02/intel-and-pals-cram-36864-cpu-cores-into-a-100kw-rack-while-chasing-the-agentic-ai-dragon/5249917",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-046",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Autumn production shipments for Vera Rubin",
+    "summary": "<p>The Nvidia Vera Rubin platform will ship in production volumes in the autumn. Vera Rubin delivers five purpose-built racks operating as one AI supercomputer for agentic workloads. The platform unif",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/autumn-production-shipments-for-vera-rubin-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-06-02-047",
+    "date": "2026-06-02",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Invisix raises €20m",
+    "summary": "<p> Invisix, the semiconductor metrology company founded by ASML alumni, has raised an oversubscribed €20 million seed round. Investors  include Hitachi Ventures, Transition Ventures, imec.xpand, Doos",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/invisix-raises-e20m-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-048",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anglia signs Nanopore",
+    "summary": "<p>Anglia Components has signed a pan-European distribution agreement with the Norwegian energy-harvesting IoT specialist Nanopore Semiconductor. Nanopower’s nPZero Gen1 power management IC extends sy",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/anglia-signs-nanopore-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-02-049",
+    "date": "2026-06-02",
+    "companies": [
+      "nvidia",
+      "infineon"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Infineon joins Nvidia MGX 800VDC datacentre power architecture",
+    "summary": "<p>Infineon has joined Nvidia’s MGX AI Factory ecosystem to help transform power delivery for next-generation AI datacentres. Infineon’s power management products will support MGX architecture and 800",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/infineon-joins-nvidia-mgx-800vdc-datacentre-power-architecture-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intel-2026-06-01-001",
     "date": "2026-06-01",
     "companies": [
@@ -1131,6 +2073,162 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/silicon-motion-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-01-067",
+    "date": "2026-06-01",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC Defends Transistor Scaling Amid Huawei’s ‘Her’s Law’ Proposal",
+    "summary": "\n\t\t\t\t\t\t<p>Kevin Zhang said 3D integration is important, but transistor scaling remains the semiconductor industry's primary driver of performance and energy-efficiency gains.</p>\n<p>The post <a href=\"",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/tsmc-defends-transistor-scaling-amid-huaweis-hers-law-proposal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-068",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Early Memory Contention Checks Reduce IC Design Risks",
+    "summary": "\n\t\t\t\t\t\t<p>Automated schematic-level contention analysis detects memory bottlenecks early, improving SoC reliability, predictability, and silicon quality.</p>\n<p>The post <a href=\"https://www.eetimes.c",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/early-memory-contention-checks-reduce-ic-design-risks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-01-069",
+    "date": "2026-06-01",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Noctua announces new thermal pad for AMD chips in partnership with Carbice — product will work with processors in AM5 and AM4 sockets",
+    "summary": "\n                             Noctua has entered the thermal pad market in partnership with thermal pad maker Carbice, featuring the new NT-CP1 designed for AM5 and AM4 Ryzen CPUs. \n                  ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/thermal-paste/noctua-announces-new-thermal-pad-for-amd-chips-in-partnership-with-carbice-product-will-work-with-processors-in-am5-and-am4-sockets",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-06-01-070",
+    "date": "2026-06-01",
+    "companies": [
+      "arm",
+      "nvidia",
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA’s RTX Spark Is a Direct Shot at the PC Market, Backed by a Multi-Gen Roadmap That Past ‘Windows on Arm’ Bids Never Had",
+    "summary": "NVIDIA has announced RTX Spark, its brand-new PC platform, designed in collaboration with Microsoft, as it starts a new chapter of its client brand. NVIDIA RTX Spark May Look Like The Standard AI SoC ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/rtx-spark-a-serious-attempt-by-nvidia-to-capture-the-windows-pc-market/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-01-071",
+    "date": "2026-06-01",
+    "companies": [
+      "apple",
+      "screen",
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple’s iPhone Ultra Will Settle For Samsung’s M14 OLED And A Vapor Chamber, While The iPhone 18 Pro And Pro Max Get The Bleeding-Edge M16 Panel",
+    "summary": "Apple's first foldable, tentatively dubbed the iPhone Ultra, is now finally picking up pace when it comes to the typical pre-production calibrations, bringing with it an onslaught of juicy tidbits tha",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apples-iphone-ultra-will-settle-for-samsungs-m14-oled-and-a-vapor-chamber-while-the-iphone-18-pro-and-pro-max-get-the-bleeding-edge-m16-panel/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-01-072",
+    "date": "2026-06-01",
+    "companies": [
+      "nvidia",
+      "qualcomm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Qualcomm Executive Is “Excited” For The RTX Spark’s Arrival And Wants To Welcome It To the New Family Of SoCs That’s “Growing Outside Of x86”",
+    "summary": "NVIDIA’s announcement of the RTX Spark has caught the attention of the entire computing industry, including Qualcomm’s, which now needs to find a new way to deal with its latest rival. Then again, the",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/qualcomm-svp-wants-to-welcome-nvidia-rtx-spark-to-the-welcome/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-073",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US firms still dominate chip subsidies",
+    "summary": " China's support is greater relative to semiconductor industry revenue ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/06/01/us-firms-still-dominate-chip-subsidies/5249668",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-074",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ohio hits pause on datacenter tax breaks draining its coffers",
+    "summary": " Buckeye State found it had inadvertently joined the billion dollar losers' club  ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/06/01/ohio-hits-pause-on-datacenter-tax-breaks-draining-its-coffers/5249137",
         "type": "rss"
       }
     ]
