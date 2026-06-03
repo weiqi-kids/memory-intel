@@ -1,0 +1,308 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:52:43.206142Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-06-03-014",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SK Hynix Previews HBM4E Memory at Computex, Cramming 48GB Into a 12-Hi Stack and Pushing Bandwidth to a Record 4 TB/s",
+      "companies": [
+        "nvidia",
+        "amd",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [
+          "nvidia",
+          "amd"
+        ],
+        "suppliers": [
+          "skhynix"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://wccftech.com/sk-hynix-previews-hbm4e-memory-at-computex-48gb-12-hi-stack-4-tbps-bandwidth/"
+    },
+    {
+      "rank": 2,
+      "event_id": "cxmt-2026-06-03-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "NAND Revenue Explodes 3.5x to a Record $46 Billion in a Single Quarter as Agentic AI Starves the PC Market",
+      "companies": [
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://wccftech.com/nand-revenue-explodes-3-5x-record-46-billion-in-a-single-quarter-as-agentic-ai-starves-the-pc-market/"
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-06-03-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "ASRock Celebrates 10th Anniversary of Taichi Brand With New Intel & AMD Motherboards, High-End Displays, Dual-Pump “Aqua” AIO, & Latest GPUs",
+      "companies": [
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/asrock-celebrates-10th-anniversary-of-taichi-new-intel-amd-motherboards-high-end-displays-aio-gpus/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-03-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Allspring Ultra Short-Term Municipal Income Fund Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4911376-allspring-ultra-short-term-municipal-income-fund-q1-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-03-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Baron Global Opportunity Fund Q1 2026 Shareholder Letter",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4911389-baron-global-opportunity-fund-q1-2026-shareholder-letter?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 4
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "apple",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 71,
+    "too_old": 89,
+    "gate1_blocked": 48,
+    "gate2_blocked": 37,
+    "passed": 35,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "17.7%",
+    "gate2_samples": [
+      "2026.06.01Tokyo Electron’s Opinion on ISS’s Voting RecommendationTopicsProducts / ServicesIRSustaina",
+      "2026.05.29Summary of Results of Evaluation of the Effectiveness of Tokyo Electron's Board of Directo",
+      "2026.05.27HoldingsNotice of Changes of Officers ＜SCREEN HD＞",
+      "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to C",
+      "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intell"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為超微、英特爾、蘋果相關動態：「SK Hynix Previews HBM4E Memory at Computex, Cramming 48GB...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SK Hynix Previews HBM4E Memory at Computex, Cramming 48GB Into a 12-Hi Stack ...（HBM、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "NAND Revenue Explodes 3.5x to a Record $46 Billion in a Single Quarter as Age...（財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
