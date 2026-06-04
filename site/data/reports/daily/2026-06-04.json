@@ -1,0 +1,370 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T11:26:18.985635Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-06-04-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "TSMC shareholders clear record 2025 results, putting AI capacity roadmap in focus",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260604VL214/tsmc-capacity-demand-roadmap-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "skhynix-2026-06-04-024",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及 AI 記憶體"
+      ],
+      "title": "HBM4 supply in focus as SK's Chey meets TSMC's Wei",
+      "companies": [
+        "skhynix",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260604VL212/tsmc-hbm4-chairman-sk-group-sk-hynix.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-04-028",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Southern Taiwan Science Park January-April 2026 revenue tops NT$1 trillion on AI boom",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260603PD234/southern-taiwan-science-park-revenue-2026-semiconductor-industry-taiwan.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-06-04-034",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Foxconn & Intel Enter Strategic Partnership To Jointly Develop And Deploy AI Infrastructure And Computing Platforms To Take Advantage Of Booming Demand",
+      "companies": [
+        "nvidia",
+        "intel",
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/foxconn-and-intel-enter-into-new-agreement-to-develop-ai-infrastructure/"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-06-04-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "TSMC chairman dismisses rival cluster pushes, says Taiwan's supply chain remains unmatched",
+      "companies": [
+        "nvidia",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260604PD232/tsmc-chairman-c.-c.-wei-supply-chain-taiwan-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "apple",
+      "to": "qualcomm",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 28,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 7
+      },
+      {
+        "id": "tsmc",
+        "count": 4
+      },
+      {
+        "id": "apple",
+        "count": 4
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "microsoft",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "ddr5",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 73,
+    "too_old": 87,
+    "gate1_blocked": 63,
+    "gate2_blocked": 46,
+    "passed": 51,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "18.6%",
+    "gate2_samples": [
+      "2026.06.01Tokyo Electron’s Opinion on ISS’s Voting RecommendationTopicsProducts / ServicesIRSustaina",
+      "2026.05.29Summary of Results of Evaluation of the Effectiveness of Tokyo Electron's Board of Directo",
+      "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to C",
+      "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intell",
+      "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為輝達、台積電、蘋果相關動態：「TSMC shareholders clear record 2025 results, putting AI c...」。主要關注主題為半導體/記憶體通用、財報、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "TSMC shareholders clear record 2025 results, putting AI capacity roadmap in f...（產能、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "HBM4 supply in focus as SK's Chey meets TSMC's Wei（HBM、AI 記憶體、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
