@@ -1,0 +1,329 @@
+{
+  "date": "2026-06-05",
+  "date_range": {
+    "start": "2026-05-30",
+    "end": "2026-06-05"
+  },
+  "generated_at": "2026-06-05T11:39:15.122108Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tsmc-2026-06-01-006",
+      "date": "2026-06-01",
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "capex",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.12,
+      "last_week_sentiment": 0.42,
+      "delta": -0.54,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "arm",
+      "company_b": "nvidia",
+      "co_mention_count": 6,
+      "rank": 3
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "microsoft",
+      "company_b": "nvidia",
+      "co_mention_count": 5,
+      "rank": 4
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ai_server": {
+      "this_week": 11,
+      "last_week": 6,
+      "week_over_week_change": "+83%",
+      "sentiment_this_week": 0.07
+    },
+    "industry_general": {
+      "this_week": 122,
+      "last_week": 70,
+      "week_over_week_change": "+74%",
+      "sentiment_this_week": 0.07
+    },
+    "earnings": {
+      "this_week": 32,
+      "last_week": 35,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": 0.2
+    },
+    "inventory": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.06
+    },
+    "shortage": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.2
+    },
+    "capacity": {
+      "this_week": 20,
+      "last_week": 14,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.14
+    },
+    "capex": {
+      "this_week": 12,
+      "last_week": 6,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.12
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.33
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": -0.25
+    },
+    "ddr5": {
+      "this_week": 6,
+      "last_week": 1,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    }
+  },
+  "company_7d_summary": {
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "nvidia": {
+      "event_count": 54,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "aws": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "asml": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "dell": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 10
+    },
+    "intel": {
+      "event_count": 33,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "samsung": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 6
+    },
+    "qualcomm": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 11
+    },
+    "tsmc": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "skhynix": {
+      "event_count": 7,
+      "sentiment_avg": 0.04,
+      "rank": 7
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "arm": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 9
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 20
+    },
+    "apple": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 5
+    },
+    "amd": {
+      "event_count": 12,
+      "sentiment_avg": -0.02,
+      "rank": 3
+    },
+    "cadence": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 17
+    },
+    "silicon_motion": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "google": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 24
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 288,
+        "last": 210,
+        "change_pct": 37.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-30",
+      "event_count": 27,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-05-31",
+      "event_count": 10,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 74,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 62,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 33,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 60,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 22,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-30 ~ 2026-06-05）共 288 則事件，重點為「NVIDIA and TSMC Bring AI Into Fabs to Advance S...」。Facebook、益華電腦表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "輝達",
+        "reason": "本週出現 54 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "艾司摩爾",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "戴爾",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

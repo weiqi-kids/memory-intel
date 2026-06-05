@@ -1,0 +1,281 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:39:15.005666Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-06-05-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Postcard from Computex 2026: New Intel® Core™ Series 3 laptops for Everyday Creation and All-day Productivity",
+      "companies": [
+        "intel",
+        "dell"
+      ],
+      "related": {
+        "customers": [
+          "dell"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-05-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Gaotu Techedu: Revenue Outperformance Is Overshadowed By Earnings Miss (Rating Downgrade)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://seekingalpha.com/article/4912308-gaotu-techedu-revenue-outperformance-is-overshadowed-by-earnings-miss-rating-downgrade?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-05-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Here Group Limited 2026 Q3 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4912344-here-group-limited-2026-q3-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-05-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sekisui House, Ltd. 2027 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4912335-sekisui-house-ltd-2027-q1-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-05-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Backblaze: Operating Leverage And Revenue Explosion Incoming",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4912318-backblaze-operating-leverage-and-revenue-explosion-incoming?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 1
+      },
+      {
+        "id": "dell",
+        "count": 1
+      },
+      {
+        "id": "meta",
+        "count": 1
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 73,
+    "too_old": 87,
+    "gate1_blocked": 54,
+    "gate2_blocked": 44,
+    "passed": 42,
+    "pass_rate": "18.5%",
+    "gate2_block_rate": "19.4%",
+    "gate2_samples": [
+      "2026.06.01Tokyo Electron’s Opinion on ISS’s Voting RecommendationTopicsProducts / ServicesIRSustaina",
+      "2026.05.29Summary of Results of Evaluation of the Effectiveness of Tokyo Electron's Board of Directo",
+      "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to C",
+      "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intell",
+      "Mini Football Legends, Family Feud Pocket, and seven more hits join Apple Arcade"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為輝達、英特爾、戴爾相關動態：「Postcard from Computex 2026: New Intel® Core™ Series 3 la...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Postcard from Computex 2026: New Intel® Core™ Series 3 laptops for Everyday C...",
+        "level": "red"
+      },
+      {
+        "text": "Gaotu Techedu: Revenue Outperformance Is Overshadowed By Earnings Miss (Ratin...（財報）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
