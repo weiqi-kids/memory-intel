@@ -1,5 +1,463 @@
 [
   {
+    "id": "nvidia-2026-06-07-001",
+    "date": "2026-06-07",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA, KRAFTON, NC and Reigning âLeague of Legendsâ Champions T1 Celebrate RTX Spark at Koreaâs PC Bangs",
+    "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Je",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-06-07-002",
+    "date": "2026-06-07",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel adds iGPU-less mobile chips to Core 200H lineup — Raptor Lake-based Core 7 230H and Core 5 205H sport disabled graphics for small form factor desktop boards",
+    "summary": "\n                             Intel introduces two new Raptor Lake CPUs in its Core 200H series lineup featuring disabled integrated graphics chips. The new CPUs are likely geared towards SFF desktops",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-adds-igpu-less-mobile-chips-to-core-200h-lineup-raptor-lake-based-core-7-230h-and-core-5-205h-sport-disabled-graphics-for-small-form-factor-desktop-boards",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-003",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "South Korea data center market to hit KRW11T by 2029",
+    "summary": "South Korea's private data center market is set to expand rapidly as generative AI demand drives a global investment boom, with AI infrastructure, power supply, geographic dispersion, and data soverei",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD236/data-center-data-market-demand-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-004",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Zhen Ding posts strongest May revenue as server optical module shipments surge",
+    "summary": "Zhen Ding Technology Group reported that May consolidated revenue reached a 2026 high as robust demand for high-end AI products drove significant year-over-year growth, the company said. The firm attr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD242/zhen-ding-revenue-shipments-2026-ic-substrate.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-07-005",
+    "date": "2026-06-07",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pegatron unit ASRock Rack wins order to supply 587 GPU servers for Thailand AI data center",
+    "summary": "ASRock Rack, a subsidiary of Pegatron Group's ASRock Inc., has won an order to supply 587 GPU servers equipped with Nvidia B200 accelerators to Japan-based AI infrastructure provider Datasection Inc.,",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD233/asrock-pegatron-gpu-infrastructure-data-center.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-07-006",
+    "date": "2026-06-07",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Foundry turns to 5nm, 8nm orders as 2nm comeback takes shape",
+    "summary": "<p class=\"P1\" data-start=\"1311\" data-end=\"1547\">Samsung Electronics is pursuing a two-track foundry strategy, accelerating its 2nm push for future customers while asking partners to step up sales of i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605VL203/samsung-2nm-samsung-foundry-5nm-tesla.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-007",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JCET opens 3D packaging plant to target AI power modules, CPO demand",
+    "summary": "JCET has opened a new advanced manufacturing facility at its Chengdong production base in Jiangyin, strengthening the Chinese OSAT provider's push into advanced packaging for AI computing, power modul",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605VL204/jcet-3d-packaging-cpo-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-008",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BOE says glass-based packaging substrate pilot line has yet to reach mass-production yield",
+    "summary": "<p class=\"P1\" data-start=\"664\" data-end=\"902\">BOE Technology Group's push into glass-based packaging substrates remains short of mass production, even as the Chinese display maker expands into new mat",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605VL206/boe-packaging-display-production-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-009",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Aspeed sees 2027 demand surge as agentic AI tightens supply chain capacity",
+    "summary": "Aspeed chairman Chris Lin said on June 3 that rapid growth in agentic AI is boosting demand for AI and general-purpose servers, with the chip maker's main constraint now supply-chain capacity rather t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260604PD208/aspeed-demand-2027-capacity-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-07-010",
+    "date": "2026-06-07",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Transcend says Samsung DDR4 supply secured through 2027 as memory prices rise",
+    "summary": "<p class=\"P1\" data-start=\"800\" data-end=\"1015\">Transcend Information said revenue for April and May combined has already surpassed its first-quarter total, as tight memory supply and elevated prices c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260604PD212/transcend-revenue-ddr4-samsung-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-011",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan injects JPY150B into Rapidus to push for 2nm production by 2027",
+    "summary": "Japan's Ministry of Economy, Trade and Industry announced on June 5, 2026, that the government completed an additional JPY150 billion (US$937.9 million) capital injection into Rapidus, the national se",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD232/rapidus-government-2027-production-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-012",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sercomm posts record first five months as North America drives 2026 revenue surge",
+    "summary": "Sercomm Corporation reported May 2026 revenue of NT$6.48 billion (approx. US$205 million), up 70% year-over-year, and said cumulative revenue from January to May reached NT$30 billion, a 55.3% increas",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD225/sercomm-revenue-2026-north-america-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-07-013",
+    "date": "2026-06-07",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China&rsquo;s space-computing push draws chipmakers, satellite firms, and rocket companies",
+    "summary": "<p class=\"P1\" data-start=\"23\" data-end=\"206\">As artificial intelligence drives an insatiable demand for computing power, China is beginning to look beyond terrestrial data centers and edge computing t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD219/data-demand-infrastructure-beijing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adata-2026-06-07-014",
+    "date": "2026-06-07",
+    "companies": [
+      "adata"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ADATA goes global with data centers, eyes 1Q27 payoff",
+    "summary": "Strong demand for memory procurement from AI servers continues, and ADATA chairman Simon Chen believes the AI expansion cycle is expected to sustain strong growth for at least another four to five yea",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD216/data-center-growth-demand-2026-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-015",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Electric bus with e-paper exterior displays hits road",
+    "summary": "E-paper applications are moving beyond retail electronic shelf labels and e-readers into the smart mobility market. BMW's color-changing car that features E Ink's electrophoretic displays technology h",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD214/e-paper-retail-technology-display-e-ink.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-016",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI cooling lifts heat spreader shipments at Niching",
+    "summary": "AI-driven high-speed computing and data transmission are driving up chip performance and cooling requirements worldwide, and Niching Industrial Corp. said its acquisition of Ming June Yuan will help i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD206/cooling-data-niching-transmission-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-017",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aewin pushes two-phase direct liquid cooling for high-density AI racks and gaming",
+    "summary": "Aewin announced a push into two-phase direct liquid cooling to address rising data center thermal demands as rack power consumption moves past 100kW, with demonstrations and product plans shown at COM",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD202/2026-aewin-cooling-gaming-ai-liquid-cooling.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-018",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Taiwan Mobile and GMI Cloud sign MOU to expand AI data center services into SEA and beyond",
+    "summary": "Taiwan Mobile announced at Computex 2026 that it signed a memorandum of understanding (MOU) with GMI Cloud to expand AI data center and high-end compute services across emerging markets in Southeast A",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260605PD201/twm-cloud-aidc-asia-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ase-2026-06-07-019",
+    "date": "2026-06-07",
+    "companies": [
+      "ase"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ASE Technology: No Longer Just An OSAT, The LEAP Ramp Changes Everything",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4912674-ase-technology-no-longer-just-osat-leap-ramp-changes-everything?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-020",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "SS&C Technologies Holdings, Inc. (SSNC) Presents at 46th Annual William Blair Growth Stock Conference Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4912654-ss-and-c-technologies-holdings-inc-ssnc-presents-at-46th-annual-william-blair-growth-stock?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-07-021",
+    "date": "2026-06-07",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Asha Sharma’s New Big Xbox Call – Yank Gears of War: E-Day Off PS5 and Rebuild the Console Exclusivity Wall",
+    "summary": "Just a few hours ahead of the Xbox Games Showcase 2026, insider Jeff Grubb revealed during a Giant Bomb stream that The Coalition's Gears of War: E-Day was supposed to launch on PlayStation 5 but won'",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gears-of-war-e-day-xbox-exclusive-ps5/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-07-022",
+    "date": "2026-06-07",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "V-Color Pushes DDR5 Capacity to 2 TB With New MRDIMM Kits, While Its OLED Memory Gets Low-Profile EXPO ULL Redesign",
+    "summary": "V-Color presents its new XOT1 DDR5 memory kits that will come in super-fast speeds, and EXPO ULL \"low-latency\" optimized flavors. V-Color's Latest OLED DDR5 Memory Makes Some Changes That Lead To Slim",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/v-color-pushes-ddr5-capacity-to-2-tb-new-mrdimm-kits-oled-memory-gets-low-profile-expo-ull-redesign/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-07-023",
+    "date": "2026-06-07",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GMKtec Crams OCuLink, Wi-Fi 7 and Dual PCIe 4.0 Into the EVO-X3, With a 192GB Ryzen AI MAX+ 495 Monster Following Later This Year",
+    "summary": "GMKtec gave us a first look at their upcoming EVO-X3 Mini PC, the follow-up to its X2, with the same AMD Ryzen AI MAX+ 395 chip. AMD Ryzen AI MAX+ 395 Powers The Upgraded GMKtec EVO-X3, &#38; Will Get",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gmktec-oculink-wi-fi-7-dual-pcie-4-0-into-evo-x3-192gb-ryzen-ai-max-495-monster-later-this-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-07-024",
+    "date": "2026-06-07",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Believes Unified Memory Architectures Open Up a “World of Possibilities”, Will Shape Their Product Choices & Roadmaps In Future",
+    "summary": "UMA or Unified Memory Architectures are picking up the pace in the PC segment, and AMD believes that they have an opportunity there. We Are Only At The Beginning of Unified Memory Architectures, AMD R",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-unified-memory-architectures-open-up-a-world-of-possibilities-shape-product-roadmaps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-06-001",
     "date": "2026-06-06",
     "companies": [],
@@ -258,6 +716,205 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/legal/2026/06/05/new-york-advances-one-year-datacenter-permit-moratorium/5251911",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-06-014",
+    "date": "2026-06-06",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD B650 expansion cards hit retail starting at $199 — add four M.2 PCIe 4.0 slots and 11 USB ports to any PC with a PCIe slot",
+    "summary": "\n                             A couple of new add-in cards exemplify the trend of slapping AMD's Promontory 21 chipset onto a card for extra I/O expansion. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/chipsets/amd-b650-expansion-cards-hit-retail-starting-at-usd199-add-four-m-2-pcie-4-0-slots-and-11-usb-ports-to-any-pc-with-a-pcie-slot",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-015",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Upgrade your PC with a 2TB PCIe 4.0 SSD, 750W power supply, and 240mm AIO for $300 — hardware bundle saves you nearly $200",
+    "summary": "\n                             Even though power supplies and CPU coolers have remained unaffected by the AI boom, storage costs have skyrocketed, which makes this deal even more lucrative. You're gett",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/upgrade-your-pc-with-a-2tb-pcie-4-0-ssd-750w-power-supply-and-240mm-aio-for-usd300-hardware-bundle-saves-you-nearly-usd200",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-016",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lexar regional manager says that RAM prices are expected to double by the end of the year — 'discounts' and stabilized prices result from distributors getting rid of old stock or sourcing products from other regions",
+    "summary": "\n                             Industry insiders say that RAM prices will continue to go up in the next eight to nine months, as the memory chip crisis goes from bad to worse. While retailers make move",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ram/lexar-regional-manager-says-that-ram-prices-are-expected-to-double-by-the-end-of-the-year-discounts-and-stabilized-prices-result-from-distributors-getting-rid-of-old-stock-or-sourcing-products-from-other-regions",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-06-017",
+    "date": "2026-06-06",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "G.Skill explains how AMD EXPO ULL unlocks additional performance — expanded profiles allow memory makers to include subtiming tweaks for the first time",
+    "summary": "\n                             AMD's EXPO Ultra Low Latency program, announced at Computex 2026, aims to give users a one-click route to lower memory latencies than its existing EXPO profiles \n        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ram/g-skill-explains-how-amd-expo-ull-unlocks-additional-performance-expanded-profiles-allow-memory-makers-to-include-subtiming-tweaks-for-the-first-time",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-018",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei-led team claims it post-trained DeepSeek's 1.6-trillion-parameter model — 1,000 Ascend 910C chips used in training",
+    "summary": "\n                             A research group that includes Huawei Technologies says it completed full-parameter post-training of DeepSeek's V4-Pro, a 1.6-trillion-parameter model. \n                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-led-team-claims-it-post-trained-deepseeks-1-6-trillion-parameter-models-on-ascend-910c-chips",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-06-019",
+    "date": "2026-06-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX Spark Laptops Are Shown To Handle Intensive Titles Like PRAGMATA And Alan Wake 2 In Brief Demo, With FG Necessary For Better Fluidity",
+    "summary": "We recently went hands-on&#160;with various laptop manufacturers that will introduce their new RTX Spark&#160;lineup of products later this fall, but disappointingly, we weren’t able to get a glimpse ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/rtx-spark-laptops-shown-to-run-pragmata-and-alan-wake-2-fluidly/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-06-020",
+    "date": "2026-06-06",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Revives Raptor Lake Again With Core 7 230H And Core 5 205H, But Strips Out The Integrated Graphics Entirely",
+    "summary": "Just like AMD, Intel keeps releasing refreshed Raptor Lake CPUs, but this time, both CPUs are devoid of any integrated graphics. Intel Launches 10 Core, Core 7 230H and 8 Core, Core 5 205H \"iGPU-Less\"",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-revives-raptor-lake-again-with-core-7-230h-and-core-5-205h-but-strips-out-the-integrated-graphics-entirely/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-06-021",
+    "date": "2026-06-06",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s Next LGA 1954 Socket Gains First Q970 Workstation Board Ahead Of Nova Lake, Packing vPro And 128GB DDR5 CUDIMM",
+    "summary": "One of the upcoming chipsets for Intel Nova Lake has been leaked online, revealing the specifications in detail. Intel LGA 1954 Socket Q970 Chipset Motherboard Specs Spotted Online, Featuring Support ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/upcoming-nova-lake-s-compatible-lga-1954-motherboard-specifications-leak-ahead-of-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-06-022",
+    "date": "2026-06-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Cooler Manufacturer Doubles Down on 1000W GPUs With Twin 360mm AIO Monster, Signaling Where NVIDIA’s Rubin RTX Cards Are Headed",
+    "summary": "AURAS is showing off its 1000W TDP cooler designed for next-generation GPUs as the demand for power rises with higher performance. AURAS, A Leading Cooler Maker, Believes Next-Gen GPUs Will Come With ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cooler-manufacturer-doubles-down-on-1000w-gpus-with-twin-360mm-aio-monster/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-06-06-023",
+    "date": "2026-06-06",
+    "companies": [
+      "micron",
+      "skhynix",
+      "samsung",
+      "cxmt"
+    ],
+    "topics": [
+      "dram_price",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CXMT’s ‘Cheap’ DDR5 Is a Myth, Memory Vendors Tell us at Computex — Prices Match Samsung, SK Hynix & Micron",
+    "summary": "CXMT's DDR5 memory is apparently not as cheap to procure as reports claim, falling in the same range as DRAM from other manufacturers. CXMT DDR5 Memory Prices Are Similar To Samsung, SK Hynix &#38; Mi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-cheap-ddr5-is-a-myth-memory-vendors-tell-us-prices-match-samsung-sk-hynix-micron/",
         "type": "rss"
       }
     ]
