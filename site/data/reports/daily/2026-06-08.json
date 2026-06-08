@@ -1,0 +1,382 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:44:59.330194Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-06-08-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Nvidia and SK hynix ink multi-year memory co-development and supply agreement — seeks to address extended development cycles",
+      "companies": [
+        "nvidia",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "skhynix"
+        ]
+      },
+      "topics": [
+        "ai_memory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/dram/nvidia-and-sk-hynix-ink-multi-year-memory-co-development-and-supply-agreement-seeks-to-address-extended-development-cycles"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-06-08-030",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及價格"
+      ],
+      "title": "Bernstein Warns NVIDIA’s Vera Rubin Racks Will Hit $9.1 Million as HBM4 Prices Triple to $53 Per Gigabyte",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "dram_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/bernstein-warns-nvidias-vera-rubin-racks-will-hit-9-1-million-as-hbm4-prices-triple-to-53-per-gigabyte/"
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-06-08-041",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Nvidia tools for TSMC processes",
+      "companies": [
+        "nvidia",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/manufacturing/nvidia-tools-for-tsmc-yields-2026-06/"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-06-08-036",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "NVIDIA & SK Hynix Sign Blockbuster “Multi-Year Technology” Partnership: Will Co-Develop Next-Gen Memory For AI Factories",
+      "companies": [
+        "nvidia",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "skhynix"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidia-sk-hynix-blockbuster-multi-year-technology-partnership-co-develop-next-gen-memory-for-ai/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-08-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Microloops May revenue rises 54% as CSP cooling module shipments start",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260607PD200/taiwan-microloops-cooling-module-shipments-revenue-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "nvidia",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "ai_memory",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 34,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 8
+      },
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "microsoft",
+        "count": 3
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "capacity",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capex",
+        "count": 6
+      },
+      {
+        "id": "guidance",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 83,
+    "too_old": 88,
+    "gate1_blocked": 62,
+    "gate2_blocked": 38,
+    "passed": 49,
+    "pass_rate": "20.7%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "2026.06.01Tokyo Electron’s Opinion on ISS’s Voting RecommendationTopicsProducts / ServicesIRSustaina",
+      "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to C",
+      "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intell",
+      "AMD Commits up to £2 Billion to Accelerate AI Innovation and Research in the United Kingdom",
+      "Mini Football Legends, Family Feud Pocket, and seven more hits join Apple Arcade"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為輝達、英特爾、微軟相關動態：「Nvidia and SK hynix ink multi-year memory co-development ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nvidia and SK hynix ink multi-year memory co-development and supply agreement...（AI 記憶體、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Bernstein Warns NVIDIA’s Vera Rubin Racks Will Hit $9.1 Million as HBM4 Price...（HBM、DRAM 價格、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
