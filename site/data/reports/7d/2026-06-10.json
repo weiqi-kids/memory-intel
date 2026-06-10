@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-10",
+  "date_range": {
+    "start": "2026-06-04",
+    "end": "2026-06-10"
+  },
+  "generated_at": "2026-06-10T11:49:52.095698Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tsmc-2026-06-04-019",
+      "date": "2026-06-04",
+      "title": "TSMC shareholders clear record 2025 results, putting AI capacity roadmap in focus",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "shortage",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.34,
+      "last_week_sentiment": 0.25,
+      "delta": -0.58,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "google",
+      "company_b": "nvidia",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 136,
+      "last_week": 121,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.08
+    },
+    "shortage": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": -0.34
+    },
+    "ddr5": {
+      "this_week": 10,
+      "last_week": 4,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 10,
+      "last_week": 13,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": 0.12
+    },
+    "earnings": {
+      "this_week": 39,
+      "last_week": 47,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.2
+    },
+    "capacity": {
+      "this_week": 35,
+      "last_week": 16,
+      "week_over_week_change": "+119%",
+      "sentiment_this_week": 0.17
+    },
+    "capex": {
+      "this_week": 21,
+      "last_week": 8,
+      "week_over_week_change": "+162%",
+      "sentiment_this_week": -0.02
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 2,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.19
+    },
+    "hbm": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.08
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 10,
+      "last_week": 10,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.25
+    },
+    "advanced_packaging": {
+      "this_week": 2,
+      "last_week": 7,
+      "week_over_week_change": "-71%",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 33,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "lenovo": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hp": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "microsoft": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 7
+    },
+    "samsung": {
+      "event_count": 9,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "tsmc": {
+      "event_count": 11,
+      "sentiment_avg": 0.23,
+      "rank": 3
+    },
+    "skhynix": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "intel": {
+      "event_count": 20,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "apple": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 8
+    },
+    "qualcomm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "google": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 12
+    },
+    "amd": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "dell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 23
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "adata": {
+      "event_count": 2,
+      "sentiment_avg": 0.58,
+      "rank": 17
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "macronix": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 27
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "ti": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    },
+    "western_digital": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 29
+    },
+    "psmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 30
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 31
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 308,
+        "last": 320,
+        "change_pct": -3.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-04",
+      "event_count": 60,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 45,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 23,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 32,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 55,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 52,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 41,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-04 ~ 2026-06-10）共 308 則事件，重點為「TSMC shareholders clear record 2025 results, pu...」。群聯電子情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "群聯電子",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 33 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "聯想",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
