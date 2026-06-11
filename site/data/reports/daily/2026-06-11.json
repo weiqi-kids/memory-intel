@@ -1,0 +1,391 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:20:43.915343Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-06-11-023",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Commentary: TSMC's pricing power stays intact as AI demand keeps fabs full",
+      "companies": [
+        "samsung",
+        "google",
+        "tsmc",
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "amd",
+          "google"
+        ],
+        "suppliers": [
+          "samsung",
+          "tsmc",
+          "intel"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611PD221/tsmc-demand-price-packaging-advanced-process.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-11-024",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Sercomm posts 55% jump in January-May revenue and forecasts 2026 operating growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611PD233/revenue-2026-sercomm-growth-2025.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-11-026",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Niching Industrial sees heat spreader revenue hit record on AI server demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611PD225/2026-cooling-materials-niching-revenue-sales.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "tsmc-2026-06-11-042",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及先進封裝"
+      ],
+      "title": "NVIDIA’s Feynman AI Chip Poised to Break the CoWoS Size Barrier as TSMC Rushes CoPoS to 2028 Production – Analyst",
+      "companies": [
+        "tsmc",
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/nvidias-feynman-ai-chip-poised-to-break-the-cowos-size-barrier-as-tsmc-rushes-copos-to-2028-production-analyst/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-11-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "MSI sees CPU shortages easing as margins recover",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "shortage",
+        "inventory",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611PD229/msi-cpu-gross-margin-2026-revenue.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "applied_materials",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capacity"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "advanced_packaging",
+        "capex",
+        "capacity"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 39,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 9
+      },
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "google",
+        "count": 4
+      },
+      {
+        "id": "tsmc",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "capacity",
+        "count": 7
+      },
+      {
+        "id": "ddr5",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 79,
+    "too_old": 85,
+    "gate1_blocked": 41,
+    "gate2_blocked": 44,
+    "passed": 61,
+    "pass_rate": "26.4%",
+    "gate2_block_rate": "19.0%",
+    "gate2_samples": [
+      "New Smart City Pilot Network to Bridge Digital Divide for 50 U.S. Cities",
+      "NVIDIA Accelerates Google DeepMindâs DiffusionGemma for Local AI",
+      "AMD Commits up to £2 Billion to Accelerate AI Innovation and Research in the United Kingdom",
+      "Apple aids app development with new intelligence frameworks and advanced tools",
+      "Apple introduces Siri AI, a profoundly more capable and personal assistant"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為英特爾、輝達、GCP相關動態：「Commentary: TSMC's pricing power stays intact as AI deman...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Commentary: TSMC's pricing power stays intact as AI demand keeps fabs full（產能、資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Sercomm posts 55% jump in January-May revenue and forecasts 2026 operating gr...（產能、財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

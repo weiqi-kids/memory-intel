@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-10T11:49:45.299514Z",
-  "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
+  "updated_at": "2026-06-11T12:20:36.946145Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-02-28",
   "companies": [
     {
       "id": "adata",
@@ -160,17 +160,17 @@
       "name": "博通",
       "ticker": "AVGO",
       "currency": "USD",
-      "ar": 8460000000,
-      "ar_prev": 7145000000,
-      "ar_qoq": "+18%",
+      "ar": 10830000000,
+      "ar_prev": 8460000000,
+      "ar_qoq": "+28%",
       "ar_period": "QoQ",
-      "inventory": 2962000000,
-      "inv_prev": 2270000000,
-      "inv_qoq": "+30%",
+      "inventory": 4328000000,
+      "inv_prev": 2962000000,
+      "inv_qoq": "+46%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "cadence",
@@ -194,17 +194,17 @@
       "name": "戴爾",
       "ticker": "DELL",
       "currency": "USD",
-      "ar": 17585000000,
-      "ar_prev": 11721000000,
-      "ar_qoq": "+50%",
+      "ar": 25854000000,
+      "ar_prev": 17585000000,
+      "ar_qoq": "+47%",
       "ar_period": "QoQ",
-      "inventory": 10437000000,
-      "inv_prev": 6949000000,
-      "inv_qoq": "+50%",
+      "inventory": 15052000000,
+      "inv_prev": 10437000000,
+      "inv_qoq": "+44%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "elite_semi",
