@@ -1,0 +1,355 @@
+{
+  "date": "2026-06-12",
+  "date_range": {
+    "start": "2026-06-06",
+    "end": "2026-06-12"
+  },
+  "generated_at": "2026-06-12T11:54:52.221759Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "skhynix-2026-06-06-003",
+      "date": "2026-06-06",
+      "title": "AI demand squeezes mainstream DRAM supply as DDR5, DDR4 prices rise",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "samsung",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "samsung",
+      "company_b": "tsmc",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capacity": {
+      "this_week": 39,
+      "last_week": 20,
+      "week_over_week_change": "+95%",
+      "sentiment_this_week": 0.21
+    },
+    "industry_general": {
+      "this_week": 151,
+      "last_week": 122,
+      "week_over_week_change": "+24%",
+      "sentiment_this_week": 0.08
+    },
+    "shortage": {
+      "this_week": 10,
+      "last_week": 5,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.03
+    },
+    "hbm": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.1
+    },
+    "dram_price": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.17
+    },
+    "ddr5": {
+      "this_week": 14,
+      "last_week": 6,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 15,
+      "last_week": 8,
+      "week_over_week_change": "+88%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 48,
+      "last_week": 32,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.19
+    },
+    "ai_server": {
+      "this_week": 13,
+      "last_week": 11,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.24
+    },
+    "capex": {
+      "this_week": 22,
+      "last_week": 12,
+      "week_over_week_change": "+83%",
+      "sentiment_this_week": -0.05
+    },
+    "advanced_packaging": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 9,
+      "last_week": 3,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.25
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 21
+    },
+    "skhynix": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "samsung": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "nvidia": {
+      "event_count": 31,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "amd": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "intel": {
+      "event_count": 29,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "dell": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "lenovo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "microsoft": {
+      "event_count": 6,
+      "sentiment_avg": -0.09,
+      "rank": 8
+    },
+    "adata": {
+      "event_count": 2,
+      "sentiment_avg": 0.58,
+      "rank": 15
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "apple": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "marvell": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "google": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 7
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "macronix": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 25
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 18
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "ti": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 9
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "western_digital": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 27
+    },
+    "psmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 28
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 29
+    },
+    "amkor": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 30
+    },
+    "applied_materials": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 20
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 31
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 32
+    },
+    "shin_etsu": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 33
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 34
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 320,
+        "last": 311,
+        "change_pct": 2.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-06",
+      "event_count": 23,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 32,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 55,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 52,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 51,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 71,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 36,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-06 ~ 2026-06-12）共 320 則事件，重點為「AI demand squeezes mainstream DRAM supply as DD...」。群聯電子情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "群聯電子",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "SK海力士",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

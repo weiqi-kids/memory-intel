@@ -1,0 +1,401 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:54:52.088004Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-06-12-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Samsung's packaging gap clouds chip comeback as TSMC, Intel push ahead",
+      "companies": [
+        "tsmc",
+        "intel",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260611VL219/samsung-packaging-tsmc-intel-hbm.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "tsmc-2026-06-12-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Google weighs Samsung's role in next AI chip as TSMC capacity tightens",
+      "companies": [
+        "tsmc",
+        "intel",
+        "google",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612VL209/google-samsung-tsmc-ai-chip-capacity.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-12-021",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Sigurd revenue hits record as AI and chip demand lift operations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612PD214/sigurd-revenue-demand-capacity-chips.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-06-12-028",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "NVIDIA Pivots to CPUs to Salvage China Revenue After GPU Restrictions, As Several Customers Show Interest In Vera CPUs",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidia-pivots-to-cpus-to-salvage-china-revenue-customers-show-interest-in-vera-cpus/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-12-033",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "Q1 smartphone production down 1.7%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/q1-smartphone-production-down-1-7-2026-06/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.42,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung",
+      "to": "tsmc",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "advanced_packaging",
+        "shortage",
+        "capacity",
+        "industry_general",
+        "capex"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "advanced_packaging",
+        "industry_general",
+        "capex",
+        "capacity"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "advanced_packaging",
+        "industry_general",
+        "capex",
+        "capacity"
+      ]
+    },
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capex",
+        "shortage"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 21,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 4
+      },
+      {
+        "id": "tsmc",
+        "count": 3
+      },
+      {
+        "id": "skhynix",
+        "count": 3
+      },
+      {
+        "id": "nvidia",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "shortage",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 84,
+    "too_old": 85,
+    "gate1_blocked": 59,
+    "gate2_blocked": 36,
+    "passed": 56,
+    "pass_rate": "23.7%",
+    "gate2_block_rate": "15.3%",
+    "gate2_samples": [
+      "New Smart City Pilot Network to Bridge Digital Divide for 50 U.S. Cities",
+      "NVIDIA Accelerates Google DeepMindâs DiffusionGemma for Local AI",
+      "AMD Commits up to £2 Billion to Accelerate AI Innovation and Research in the United Kingdom",
+      "Apple aids app development with new intelligence frameworks and advanced tools",
+      "Apple introduces Siri AI, a profoundly more capable and personal assistant"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為英特爾、三星、台積電相關動態：「Samsung's packaging gap clouds chip comeback as TSMC, Int...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung's packaging gap clouds chip comeback as TSMC, Intel push ahead（資本支出、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Google weighs Samsung's role in next AI chip as TSMC capacity tightens（產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
