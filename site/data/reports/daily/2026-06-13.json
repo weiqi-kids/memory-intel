@@ -1,0 +1,284 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:40:03.999719Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-06-13-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Commentary: The cost of over-concentration&mdash;How TSMC's liquidity dominance is reshaping Taiwan's banking system",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612PD216/tsmc-capex-funding-taiwan-economy-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "skhynix-2026-06-13-010",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及 HBM"
+      ],
+      "title": "SK Hynix weighs supplier price hikes as HBM boom lifts equipment makers",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612VL214/sk-hynix-equipment-price-hbm-supplier.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-13-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Linkotech: FOPLP rollout is gaining early traction",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260612PD207/packaging-equipment-foplp-revenue-business.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-13-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SGDM: Gold Mining Companies Are Incredibly Profitable And Very Cheap",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4914751-sgdm-gold-mining-companies-incredibly-profitable-very-cheap?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-13-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Commentary: SpaceX And A Z.1 (Q1 2026)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4914744-weekly-commentary-spacex-and-a-z-1-q1-2026?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      },
+      {
+        "id": "infineon",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 97,
+    "too_old": 85,
+    "gate1_blocked": 59,
+    "gate2_blocked": 39,
+    "passed": 40,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "17.5%",
+    "gate2_samples": [
+      "New Smart City Pilot Network to Bridge Digital Divide for 50 U.S. Cities",
+      "NVIDIA Accelerates Google DeepMindâs DiffusionGemma for Local AI",
+      "AMD Commits up to £2 Billion to Accelerate AI Innovation and Research in the United Kingdom",
+      "Apple aids app development with new intelligence frameworks and advanced tools",
+      "Apple introduces Siri AI, a profoundly more capable and personal assistant"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為輝達、三星、SK海力士相關動態：「Commentary: The cost of over-concentration&mdash;How TSMC...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Commentary: The cost of over-concentration&mdash;How TSMC's liquidity dominan...（資本支出、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "SK Hynix weighs supplier price hikes as HBM boom lifts equipment makers（HBM、半導體/記憶體通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
