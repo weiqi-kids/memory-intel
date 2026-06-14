@@ -1,0 +1,257 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:58:13.283273Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "apple-2026-06-14-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "M6 MacBook Pro Could Put Apple’s iPad Sales In Jeopardy With This One Upgrade As The Revamped Lineup’s Launch Approaches Closer",
+      "companies": [
+        "apple",
+        "screen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/m6-macbook-pro-one-upgrade-that-can-harm-ipad-sales/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-14-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TAV Airports: Profitability Still Depressed, But Cycle Is Turning",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4914844-tav-airports-stock-profitability-still-depressed-but-cycle-is-turning?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-14-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Nova: Riding A Trillion‑Dollar Fab Capex Wave",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4914840-nova-riding-a-trilliondollar-fab-capex-wave?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "onsemi-2026-06-14-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "ON Semiconductor: Growth Recovery Underway With Margin Expansion",
+      "companies": [
+        "onsemi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4914833-on-semiconductor-growth-recovery-underway-with-margin-expansion?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chubb Limited: The Stock's Consistent Compounding Makes It A Strategic Gem",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4914848-chubb-limited-stock-stocks-consistent-compounding-makes-it-a-strategic-gem?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "onsemi",
+        "count": 1
+      },
+      {
+        "id": "apple",
+        "count": 1
+      },
+      {
+        "id": "screen",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 122,
+    "too_old": 85,
+    "gate1_blocked": 52,
+    "gate2_blocked": 44,
+    "passed": 17,
+    "pass_rate": "8.6%",
+    "gate2_block_rate": "22.2%",
+    "gate2_samples": [
+      "New Smart City Pilot Network to Bridge Digital Divide for 50 U.S. Cities",
+      "NVIDIA Accelerates Google DeepMindâs DiffusionGemma for Local AI",
+      "AMD Commits up to £2 Billion to Accelerate AI Innovation and Research in the United Kingdom",
+      "Apple aids app development with new intelligence frameworks and advanced tools",
+      "Apple introduces Siri AI, a profoundly more capable and personal assistant"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為ON Semi、蘋果、Screen Holdings相關動態：「M6 MacBook Pro Could Put Apple’s iPad Sales In Jeopardy W...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "M6 MacBook Pro Could Put Apple’s iPad Sales In Jeopardy With This One Upgrade...",
+        "level": "red"
+      },
+      {
+        "text": "TAV Airports: Profitability Still Depressed, But Cycle Is Turning（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

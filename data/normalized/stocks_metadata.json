@@ -108,29 +108,29 @@
     "history_complete": true
   },
   "applied_materials": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "kla": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "shin_etsu": {
-    "earliest": "2007-11-29",
+    "earliest": "2007-08-31",
     "latest": "2026-06-12",
-    "count": 4550
+    "count": 4610
   },
   "synopsys": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "cadence": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "arm": {
     "earliest": "2023-09-14",
@@ -145,24 +145,24 @@
     "history_complete": true
   },
   "western_digital": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "tsmc": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "intel": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "amkor": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "broadcom": {
     "earliest": "2009-08-06",
@@ -171,9 +171,9 @@
     "history_complete": true
   },
   "qualcomm": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "dell": {
     "earliest": "2016-08-17",
@@ -182,19 +182,19 @@
     "history_complete": true
   },
   "hp": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "lenovo": {
-    "earliest": "2007-11-29",
+    "earliest": "2007-08-31",
     "latest": "2026-06-12",
-    "count": 4567
+    "count": 4628
   },
   "supermicro": {
-    "earliest": "2007-11-27",
+    "earliest": "2007-08-29",
     "latest": "2026-06-12",
-    "count": 4665
+    "count": 4727
   },
   "meta": {
     "earliest": "2012-05-18",
@@ -203,34 +203,34 @@
     "history_complete": true
   },
   "oracle": {
+    "earliest": "2007-08-29",
+    "latest": "2026-06-12",
+    "count": 4727
+  },
+  "screen": {
+    "earliest": "2007-11-29",
+    "latest": "2026-06-12",
+    "count": 4550
+  },
+  "entegris": {
     "earliest": "2007-11-27",
     "latest": "2026-06-12",
     "count": 4665
   },
-  "screen": {
-    "earliest": "2008-02-27",
-    "latest": "2026-06-12",
-    "count": 4493
-  },
-  "entegris": {
-    "earliest": "2008-02-25",
-    "latest": "2026-06-12",
-    "count": 4605
-  },
   "silicon_motion": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-12",
-    "count": 4605
+    "count": 4665
   },
   "macronix": {
-    "earliest": "2008-03-10",
+    "earliest": "2007-12-11",
     "latest": "2026-06-12",
-    "count": 4477
+    "count": 4533
   },
   "elite_semi": {
-    "earliest": "2008-03-10",
+    "earliest": "2007-12-11",
     "latest": "2026-06-12",
-    "count": 4477
+    "count": 4533
   },
   "psmc": {
     "earliest": "2020-12-09",
@@ -239,34 +239,34 @@
     "history_complete": true
   },
   "marvell": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-12",
-    "count": 4605
+    "count": 4665
   },
   "ti": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-12",
-    "count": 4605
+    "count": 4665
   },
   "onsemi": {
-    "earliest": "2008-02-25",
+    "earliest": "2007-11-27",
     "latest": "2026-06-12",
-    "count": 4605
+    "count": 4665
   },
   "infineon": {
-    "earliest": "2008-02-20",
+    "earliest": "2007-11-22",
     "latest": "2026-06-12",
-    "count": 4650
+    "count": 4709
   },
   "phison": {
-    "earliest": "2008-03-10",
+    "earliest": "2007-12-31",
     "latest": "2026-06-12",
-    "count": 4476
+    "count": 4518
   },
   "adata": {
-    "earliest": "2008-03-10",
+    "earliest": "2007-12-31",
     "latest": "2026-06-12",
-    "count": 4476
+    "count": 4518
   },
   "innodisk": {
     "earliest": "2012-10-05",
@@ -275,14 +275,14 @@
     "history_complete": true
   },
   "etf_smh": {
-    "earliest": "2008-05-23",
+    "earliest": "2008-02-25",
     "latest": "2026-06-12",
-    "count": 4542
+    "count": 4605
   },
   "etf_soxx": {
-    "earliest": "2008-05-23",
+    "earliest": "2008-02-25",
     "latest": "2026-06-12",
-    "count": 4542
+    "count": 4605
   },
   "etf_soxq": {
     "earliest": "2021-06-11",
