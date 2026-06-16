@@ -1,0 +1,356 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T13:05:53.316681Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-06-16-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AMD’s massive SP7 socket for EPYC Venice and Intel’s gargantuan 9,324-pin socket for Diamond Rapids appear at Computex — SP7 and LGA9324-1 sockets will power the next generation of AI servers",
+      "companies": [
+        "intel",
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "ddr5",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/cpus/amds-massive-sp7-socket-for-epyc-venice-and-intels-gargantuan-9-324-pin-socket-for-diamond-rapids-appear-at-computex-sp7-and-lga9324-1-sockets-will-power-the-next-generation-of-ai-servers"
+    },
+    {
+      "rank": 2,
+      "event_id": "hp-2026-06-16-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample — Company's cancelled AI processor features 32GB of HBM2E",
+      "companies": [
+        "hp",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "hp"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e"
+    },
+    {
+      "rank": 3,
+      "event_id": "nanya-2026-06-16-017",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "AMD opens EFB front beyond CoWoS, putting Taiwan substrate trio in play",
+      "companies": [
+        "nanya",
+        "micron",
+        "amd"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260616PD224/amd-ic-substrate-demand-unimicron-kinsus-nanya-pcb-taiwan.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-16-010",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "AI chip race sends semiconductor equipment sales to record US$36.55 billion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260616VL217/ai-chip-semiconductors-equipment-investment-manufacturing-packaging.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-06-16-020",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "China AI chip hopeful Enflame nears IPO with fast revenue growth, heavy losses, and Tencent risk",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260616VL207/tencent-revenue-ai-chip-ipo-shanghai.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.42,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.62,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "ddr5",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 24,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "qualcomm",
+        "count": 4
+      },
+      {
+        "id": "tsmc",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "synopsys",
+        "count": 3
+      },
+      {
+        "id": "micron",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "ai_server",
+        "count": 5
+      },
+      {
+        "id": "ddr5",
+        "count": 3
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 82,
+    "too_old": 91,
+    "gate1_blocked": 61,
+    "gate2_blocked": 37,
+    "passed": 49,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "New Smart City Pilot Network to Bridge Digital Divide for 50 U.S. Cities",
+      "NVIDIA Accelerates Google DeepMindâs DiffusionGemma for Local AI",
+      "Google Fitbit Air is now HSA/FSA eligible in the U.S.",
+      "How we're combatting AI scams with security, legislation and more",
+      "Enhanced Local Services Ads for Home Listings bring homebuyers and local agents together."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為高通、台積電、三星相關動態：「AMD’s massive SP7 socket for EPYC Venice and Intel’s garg...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AMD’s massive SP7 socket for EPYC Venice and Intel’s gargantuan 9,324-pin soc...（AI 伺服器、DDR5、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU s...（HBM、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

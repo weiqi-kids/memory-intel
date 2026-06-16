@@ -1,5 +1,703 @@
 [
   {
+    "id": "unknown-2026-06-16-001",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: June 16",
+    "summary": "<p>Multi-GPU traffic modeling; physical neural computing; RISC-V fault injection; automotive CAN timing analysis; EUV source optimization; lithography defect detection; dual-beam EUV efficiency.</p>\n<",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-16/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-16-002",
+    "date": "2026-06-16",
+    "companies": [
+      "microsoft",
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft debuts Surface Pro and Surface Laptop with new jade green color and  Qualcomm Snapdragon X2 chips — refreshed devices start at $1,499 with 16GB of RAM",
+    "summary": "\n                             Microsoft is updating the Surface Pro and Surface Laptop using the latest Qualcomm Snapdragon X2 chips, along with haptic feedback on the Laptop's touchpad and a new jade",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/microsoft-debuts-surface-pro-and-surface-laptop-with-new-jade-green-color-and-qualcomm-snapdragon-x2-chips-refreshed-devices-start-at-usd1-499-with-16gb-of-ram",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-06-16-003",
+    "date": "2026-06-16",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm mulls taking over Jim Keller's Tenstorrent, report claims — deal for AI chipmaker would value the company at between $8 billion and $10 billion",
+    "summary": "\n                             Qualcomm is in talks to buy RISC-V-based AI accelerator and CPU developer Tenstorrent for $8 billion - $10 billion. \n                                                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-mulls-taking-over-jim-kellers-tenstorrent-report-claims-deal-for-ai-chipmaker-would-value-the-company-at-between-usd8-billion-and-usd10-billion",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-16-004",
+    "date": "2026-06-16",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "ai_server",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD’s massive SP7 socket for EPYC Venice and Intel’s gargantuan 9,324-pin socket for Diamond Rapids appear at Computex — SP7 and LGA9324-1 sockets will power the next generation of AI servers",
+    "summary": "\n                             Next-generation data center processors from AMD and Intel with 16 DDR5 memory channels are even bigger than today’s designs. \n                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amds-massive-sp7-socket-for-epyc-venice-and-intels-gargantuan-9-324-pin-socket-for-diamond-rapids-appear-at-computex-sp7-and-lga9324-1-sockets-will-power-the-next-generation-of-ai-servers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-16-005",
+    "date": "2026-06-16",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC says panel packaging won't replace CoWoS anytime soon for the largest future AI processors — wafer-level tech can scale to 58 massive dies in one package",
+    "summary": "\n                             TSMC is exploring panel-level packaging and is working on its CoPoS technology, but the company's Kevin Zhang says wafer-level packaging technologies is considerably more",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-says-panel-packaging-wont-replace-cowos-anytime-soon-for-the-largest-future-ai-processors-wafer-level-tech-can-scale-to-58-massive-dies-in-one-package",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hp-2026-06-16-006",
+    "date": "2026-06-16",
+    "companies": [
+      "hp",
+      "intel"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel's long-lost data center prototype 'Arctic Sound' Xe-HP multi-tile GPU surfaces in new engineering sample — Company's cancelled AI processor features 32GB of HBM2E",
+    "summary": "\n                             Intel's cancelled \"Arctic Sound\" AI GPU based on the original Xe-HP architecture has been pictured sporting two tiles and 32GB of HBM2E. \n                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/intels-cancelled-arctic-sound-xe-hp-multi-tile-gpu-surfaces-in-new-engineering-sample-companys-long-lost-data-center-prototype-features-32gb-of-hbm2e",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oracle-2026-06-16-007",
+    "date": "2026-06-16",
+    "companies": [
+      "oracle"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Project Jupiter AI data center build raises concerns about water usage in rural New Mexico desert — Oracle calls water usage 'negligible' for 11 million gallon one-time fill",
+    "summary": "\n                             Oracle's Project Jupiter is targeting a New Mexico desert already struggling with water consumption, but the company assures residents that the data center's water usage ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/project-jupiter-ai-data-center-build-raises-concerns-about-water-usage-in-rural-new-mexico-desert-oracle-calls-water-usage-negligible-for-11-million-gallon-one-time-fill",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-16-008",
+    "date": "2026-06-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia sells US$25 billion in bonds as investors seek foothold in AI boom",
+    "summary": "Nvidia launched a sale of US$25 billion worth of high-grade bonds on June 15, ultimately garnering up to US$85 billion in orders, or more than triple the bond's original size. This is one of several d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL218/nvidia-funding-investment-ai.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-16-009",
+    "date": "2026-06-16",
+    "companies": [
+      "tsmc",
+      "asml"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASML, TSMC, and imec move 2D transistors closer to manufacturing reality",
+    "summary": "ASML, TSMC, and imec have demonstrated a major advance in the effort to bring two-dimensional (2D) semiconductor materials from research laboratories into high-volume semiconductor manufacturing. At t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL216/tsmc-asml-imec-transistor-manufacturing-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-010",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI chip race sends semiconductor equipment sales to record US$36.55 billion",
+    "summary": "Global semiconductor manufacturing equipment sales reached a record US$36.55 billion in the first quarter of 2026, driven by AI-related investment in advanced logic, DRAM, and advanced packaging capac",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL217/ai-chip-semiconductors-equipment-investment-manufacturing-packaging.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-16-011",
+    "date": "2026-06-16",
+    "companies": [
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung reportedly moves closer to 5nm-class MRAM as TSMC advances its roadmap",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:291;114-404\">Samsung Electronics has secured key technology for a 5nm-class magnetoresistive random-access memory cell, according to Korean financial daily <em>Seda",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL214/samsung-mram-tsmc-technology-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "synopsys-2026-06-16-012",
+    "date": "2026-06-16",
+    "companies": [
+      "synopsys"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive: Synopsys CEO eyes subscription-plus-token model in AI Agentic era",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:332;124-455\">Synopsys celebrated the 35th anniversary of its Taiwan operations and the opening of its new Hsinchu office on June 15. During the event, Synopsys CEO ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616PD220/synopsys-ceo-taiwan-development-design.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "synopsys-2026-06-16-013",
+    "date": "2026-06-16",
+    "companies": [
+      "synopsys"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Synopsys celebrates 35 years in Taiwan, pledges continued investment",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:160;109-268\">On June 15, Synopsys celebrated the 35th anniversary of its Taiwan operations and officially opened its new office at Hsinchu Science Park X Software P",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616PD221/taiwan-synopsys-hsinchu-science-park-itri-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "synopsys-2026-06-16-014",
+    "date": "2026-06-16",
+    "companies": [
+      "synopsys"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Murata and Synopsys deepen simulation integration as electronics design complexity grows",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:288;126-413\">Murata Manufacturing has partnered with Synopsys to make its latest electromagnetic and thermal simulation models directly accessible through Synopsys'",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL213/murata-synopsys-design-ansys-electronics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-015",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Western Europe auto output set to fall by one-third by 2030, with Germany hit hardest",
+    "summary": "Western Europe's auto industry is facing a deeper relocation shock, with passenger car and light commercial vehicle production projected to shrink by about one-third between 2015 and 2030 under pressu",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616PD200/western-europe-production-2030-2015-forecast.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-016",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's Nexchip breaks into foundry top eight after AI demand lifts market to record numbers",
+    "summary": "AI, high-performance computing, and early pull-ins from TV, PC, and notebook supply chains pushed the global foundry market to a record high in the first quarter of 2026. China's Nexchip Semiconductor",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616PD227/nexchip-semiconductor-foundry-pc-tv-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nanya-2026-06-16-017",
+    "date": "2026-06-16",
+    "companies": [
+      "nanya",
+      "micron",
+      "amd"
+    ],
+    "topics": [
+      "capacity",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD opens EFB front beyond CoWoS, putting Taiwan substrate trio in play",
+    "summary": "The AI data center buildout is driving demand for high-performance computing (HPC) and networking chips, sending the global IC substrate industry into a new growth cycle. Order visibility now extends ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616PD224/amd-ic-substrate-demand-unimicron-kinsus-nanya-pcb-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-16-018",
+    "date": "2026-06-16",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "TSMC A16 takes center stage at VLSI 2026 as mass production targets 4Q26 ramp",
+    "summary": "Researchers and chipmakers presented new logic, memory, and device architectures at the 2026 IEEE/JSAP VLSI Technology and Circuits Symposium in Honolulu, with several results pointing toward pilot pr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL209/tsmc-production-chipmakers-design-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-06-16-019",
+    "date": "2026-06-16",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm weighs Tenstorrent deal that could reach US$10 billion",
+    "summary": "<p class=\"P1\" data-start=\"187\" data-end=\"487\">Qualcomm has been in talks to acquire Tenstorrent, an AI chip startup, <em>The Information</em> reported, citing a person with direct knowledge of the dea",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL211/qualcomm-tenstorrent-acquisition-ai-chip-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-16-020",
+    "date": "2026-06-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China AI chip hopeful Enflame nears IPO with fast revenue growth, heavy losses, and Tencent risk",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:226;106-331\">Shanghai Enflame Technology is nearing a STAR Market listing, bringing another Chinese AI chipmaker closer to public markets while losses, Tencent conc",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL207/tencent-revenue-ai-chip-ipo-shanghai.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-021",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei readies HarmonyOS desktop PCs for September enterprise launch",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:222;100-321\">Huawei is preparing to launch commercial HarmonyOS-powered desktop PCs in September, marking another step in its effort to extend its self-developed op",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL210/huawei-harmonyos-launch-desktop-commercial.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-022",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Walrus Pump sees stronger liquid cooling demand, eyes higher 2026 growth",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:352;128-479\">AI server liquid cooling is driving demand for pump makers, a shift that could boost supply-chain resilience and margins for Asia-based manufacturers a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616PD209/liquid-cooling-demand-2026-ai-server-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-023",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ByteDance in talks for Iluvatar, Baidu Kunlunxin AI chips as Doubao demand grows",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:240;108-347\">ByteDance is in talks to buy AI chips from Shanghai-based Iluvatar CoreX and is also considering using Baidu's Kunlunxin chips, as the TikTok parent ex",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616VL208/bytedance-chips-baidu-demand-gpu.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-024",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Netronix's supply-chain discipline cushions memory shortages amid rising color e-book reader demand",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:313;152-464\">Netronix said memory shortages are hitting the color e-book reader industry, but its long-built supply-chain management system and diversified producti",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260616PD208/netronix-e-book-demand-market-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-06-16-025",
+    "date": "2026-06-16",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Micron: Peak Earnings Power Meets The Cycle Clock (Rating Downgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915305-micron-peak-earnings-power-meets-the-cycle-clock-rating-downgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-026",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tower Semiconductor: Silicon Photonics Should Push Its Share Price To New Highs",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915303-tower-semiconductor-silicon-photonics-should-push-its-share-price-to-new-highs?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-027",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Trinity Capital: Continued Strength Following Q1 Earnings",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915297-trinity-capital-stock-continued-strength-following-q1-earnings?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-06-16-028",
+    "date": "2026-06-16",
+    "companies": [
+      "micron",
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gloway And KingBank Ditch Samsung, Micron, And SK Hynix, Building 48 GB DDR5 Kits From China-Made 24 Gb Chips",
+    "summary": "Memory makers are now adopting domestically produced larger size DDR5 memory chips for their DDR5 modules. Gloway Announces Longwu Yi Special Edition 48 GB DDR5 RAM Kit Using Domestically Produced 24 ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gloway-and-kingbank-ditch-samsung-micron-and-sk-hynix-building-48-gb-ddr5-kits-from-china-made-24-gb-chips/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-16-029",
+    "date": "2026-06-16",
+    "companies": [
+      "apple",
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Apple’s Siri AI To Worsen DRAM Crisis As Samsung And SK hynix Will Be Reaping The Rewards At The Industry’s Expense",
+    "summary": "The memory requirements of experiencing the entire Siri AI features suite will eventually force Apple to introduce a minimum of 12GB LPDDR5X RAM for its iPhone 18 lineup, but more importantly, is how ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-siri-ai-to-worsen-dram-crisis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-06-16-030",
+    "date": "2026-06-16",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm said to be circling AI chip biz Tenstorrent in $10B RISC-V power play",
+    "summary": " Potential takeover would represent significant commitment to the open instruction set architecture ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/06/16/qualcomm-said-to-be-circling-ai-chip-biz-tenstorrent-in-10b-risc-v-power-play/5256084",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-031",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "NESCA space accelerator backs 13 North East projects",
+    "summary": "<p>NESCA &#8211; the North East Space Communications Accelerator &#8211; is distributing £490,000 to 13 space communications and technology projects. They cover testing for atmospheric interference, u",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/finance/nesca-space-accelerator-backs-13-north-east-projects-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-06-16-032",
+    "date": "2026-06-16",
+    "companies": [
+      "kioxia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kioxia becomes the most valuable company in Japan",
+    "summary": "<p>Kioxia has become the most valuable company in Japan thanks to the memory boom. Last Friday Kioxia’s market cap hit $275 billion pushing it past Toyota to become the No.1 ...</p>\n<p>The post <a hre",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/kioxia-becomes-the-most-valuable-company-in-japan-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-033",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "PicoJool to sample first VCSELs in Q2",
+    "summary": "<p>PicoJool will sample its first product in Q2 &#8211; a 200G VCSEL with a bandwidth exceeding 37GHz &#8211; followed by quad 100G, quad 200G and 32x50G NRZ uVCSELs for slow ...</p>\n<p>The post <a hr",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/898229-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-034",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q1 server market up 30% YoY – IDC",
+    "summary": "<p>The Q1 server market was up 30.4% YoY at $122.6 billion, according to IDC’s Worldwide Quarterly Server Tracker. AI infrastructure investment from hyperscalers and CSPs is running at a scale ...</p>",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/server-market-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-035",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solid Circuits Are The Ultimate Says GWA Dummer",
+    "summary": "<p>“THE solid or integrated semiconductor circuit is the ultimate so far as we see at the moment. These are decidedly the components of the future, and Britain should be doing ...</p>\n<p>The post <a h",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/solid-circuits-are-the-ultimate-says-gwa-dummer-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-15-001",
     "date": "2026-06-15",
     "companies": [],
@@ -657,6 +1355,276 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/software/2026/06/15/flatpak-ng-sounds-like-bad-news-for-systemd-refuseniks/5254885",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-06-15-035",
+    "date": "2026-06-15",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+    "summary": "Google has announced a $1.5 billion investment for 2026 and 2027 to expand its data center campus in Jackson County, Alabama. Operating since 2019 on a repurposed former…",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-15-036",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GlobalFoundries: First Chipmaker to Support Open Standard for AI Scale Up",
+    "summary": "\n\t\t\t\t\t\t<p>GlobalFoundries leads with the first silicon to support OCI MSA, shaking up AI data centers.</p>\n<p>The post <a href=\"https://www.eetimes.com/globalfoundries-first-chipmaker-to-support-open-",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/globalfoundries-first-chipmaker-to-support-open-standard-for-ai-scale-up/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-037",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tensordyne Tapes Out LNS-Based AI Chip, Claims Huge Power Advantages",
+    "summary": "\n\t\t\t\t\t\t<p>The company said it can consume an order of magnitude less power per token versus GPU alternatives.</p>\n<p>The post <a href=\"https://www.eetimes.com/tensordyne-tapes-out-lns-based-ai-chip-cl",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/tensordyne-tapes-out-lns-based-ai-chip-claims-huge-power-advantages/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-15-038",
+    "date": "2026-06-15",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD takes over MEXT for memory tiering tech that enables flash to appear as DRAM to applications — tech to 'address growing memory constraints' in the data center",
+    "summary": "\n                             AMD acquires MEXT to get Predictive Memory Engine that offloads infrequently accessed data from DRAM to NAND storage. \n                                                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-takes-over-mext-to-address-growing-memory-constraints-in-the-data-center-memory-tiering-technology-enables-flash-to-appear-as-dram-to-applications",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-039",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Multiple small Tennessee counties pass temporary data center bans — Nashville also passed near-unanimous moratorium on first reading",
+    "summary": "\n                             Two jurisdictions in Tennessee just passed a data center moratorium as three more a set to vote on bills that delay these projects. These temporary bans have gained wides",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/multiple-small-tennessee-counties-pass-temporary-data-center-bans-nashville-also-passed-near-unanimous-moratorium-on-first-reading",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "marvell-2026-06-15-040",
+    "date": "2026-06-15",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marvell details vision of optically-interconnected data centers spanning across thousands of kilometers — new interconnects sampling later this year would allow CSPs to pool resources based on workload",
+    "summary": "\n                             Marvell shares its vision for optically connected data centers, connecting devices across hundreds of kilometers, and the company already has hardware to build them. \n   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/marvell-details-vision-of-optically-interconnected-data-centers-spanning-across-thousands-of-kilometers-new-interconnects-sampling-later-this-year-would-allow-csps-to-pool-resources-based-on-workload",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-15-041",
+    "date": "2026-06-15",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xbox Layoffs Will be “Significant” and a “Bloodbath,” it’s Claimed, More Signs Point to Compulsion Games Shuttering",
+    "summary": "Ever since Bloomberg's report that there would be layoffs at Xbox at the end of the month, the entire video game industry has been on high alert. Waiting in horror to see how bad the layoffs would be ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-layoffs-significant-bloodbath-compulsion-games-south-of-midnight/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-06-15-042",
+    "date": "2026-06-15",
+    "companies": [
+      "micron",
+      "skhynix",
+      "samsung",
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Aletheia Warns HBM Prices Will Double in 2027 as Memory Becomes AI’s Most Critical Component",
+    "summary": "Memory manufacturer Micron could benefit from high DRAM and HBM prices in 2026 and 2027, believes financial firm Aletheia Capital. Micron, like SK hynix and Samsung, has benefited from the strong dema",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/aletheia-warns-hbm-prices-will-double-in-2027-as-memory-becomes-ais-most-critical-component/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-06-15-043",
+    "date": "2026-06-15",
+    "companies": [
+      "broadcom",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tensordyne’s 3nm Napier AI Chip Promises 13x Higher Token Throughput Than Blackwell & Blazes Past Rubin With 1000 Tokens/s In Multi-Trillion Parameter Models",
+    "summary": "US-based AI company, Tensordyne, has announced the successful tape-out of its Napier chip, which it claims to demolish NVIDIA's Blackwell &#38; Rubin chips with leading token throughput and efficiency",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tensordyne-3nm-napier-ai-chip-13x-higher-token-throughput-blackwell-blazes-past-rubin/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-044",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Low Latency Wide DRAM Adopts HBM’s Integrated Design To Enable On-Device AI In Smartphones; 1.5 Times Higher Bandwidth With Lower Temperatures Promised",
+    "summary": "The compact space inside smartphones makes it difficult to adopt High Bandwidth Memory (HBM), not to mention the thermal problem, but a rumor claims that Chinese smartphone brands have a custom-made L",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/low-latency-wide-dram-adopts-hbm-design-to-bring-on-device-ai-in-smartphones/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-06-15-045",
+    "date": "2026-06-15",
+    "companies": [
+      "google",
+      "nvidia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Datacenters Are Outstripping the Power Grid, Forcing NVIDIA and Google Into a Radical 800V DC Overhaul by Q3 2026",
+    "summary": "The datacenter segment is preparing for the first wave of next-gen 800V HDVC systems that will power NVIDIA &#38; Google infrastructure this year. The Next-Generation of Power-Semis Is Coming Online T",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/datacenters-outstripping-power-grid-forcing-nvidia-google-into-a-radical-800v-dc-overhaul/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-15-046",
+    "date": "2026-06-15",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s Serpent Lake SoCs With NVIDIA RTX GPU Tiles Reportedly Arrive In Q1 2028",
+    "summary": "Intel's Serpent Lake SoCs featuring NVIDIA's RTX GPU tiles as integrated graphics are expected to roll out by Q1 2028. Intel &#38; NVIDIA's Co-Developed Serpent Lake SoCs Featuring Next-Gen CPU &#38; ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-serpent-lake-socs-with-nvidia-rtx-gpu-tiles-reportedly-arrive-in-q1-2028/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-047",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak, says researcher",
+    "summary": " According to the one person who actually read the research paper ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-048",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Feds snooze as US datacenter law set to lapse with no replacement in site",
+    "summary": " Federal Data Center Enhancement Act (FDCEA) of 2023 covers standards including security and sustainability ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/public-sector/2026/06/15/feds-snooze-as-us-datacenter-law-set-to-lapse-with-no-replacement-in-site/5255679",
         "type": "rss"
       }
     ]
