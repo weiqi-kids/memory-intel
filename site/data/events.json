@@ -1,5 +1,656 @@
 [
   {
+    "id": "samsung-2026-06-17-001",
+    "date": "2026-06-17",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Breaking Through the Limits of Horizontal Scaling with Vertical Innovation",
+    "summary": "Samsung Semiconductor R&#38;D Center Demonstrates Industry’s First42nm Gate-Pitch 3D-Stacked Transistor Selected as the Best Paper from over 1,000...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-17-002",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Signoff Of Synthesis-Optimized Registers",
+    "summary": "<p>When is a complex chip design ready to be shipped to manufacturing?</p>\n<p>The post <a href=\"https://semiengineering.com/signoff-of-synthesis-optimized-registers/\">Signoff Of Synthesis-Optimized Re",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/signoff-of-synthesis-optimized-registers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-003",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Designing Chips That Can Explain Themselves",
+    "summary": "<p>On-die monitors, localized analytics, and lifecycle data are giving architects new ways to close the gap between design intent and silicon behavior.</p>\n<p>The post <a href=\"https://semiengineering",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/designing-chips-that-can-explain-themselves/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-004",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blog Review: June 17",
+    "summary": "<p>NVMe on-controller memory; SSN datapaths; Git-based chip workflows; low-light image enhancement; testing AI networks.</p>\n<p>The post <a href=\"https://semiengineering.com/blog-review-june-17-3/\">Bl",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/blog-review-june-17-3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-06-17-005",
+    "date": "2026-06-17",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Commentary: US delays DeepSeek blacklist, exposing AI export-control dilemma",
+    "summary": "The US has held back from adding Chinese AI startup DeepSeek, memory chipmaker CXMT, and more than 100 other entities to a key trade blacklist, underscoring Washington's struggle to balance national s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617VL216/deepseek-cxmt-entity-list-security-usa.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-17-006",
+    "date": "2026-06-17",
+    "companies": [
+      "samsung",
+      "nvidia",
+      "apple"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Nvidia Vera CPU strains LPDDR supply as AI servers tap phone memory",
+    "summary": "<p class=\"P1\" data-start=\"686\" data-end=\"929\">Nvidia is expected to surpass Apple and Samsung Electronics' mobile division to become the world's top buyer of LPDDR, as AI servers and AI PCs pull low-p",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617VL219/nvidia-cpu-apple-capacity-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-06-17-007",
+    "date": "2026-06-17",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, SK Hynix suppliers seek war-cost payback after US-Iran shock drains chip materials inventory",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:299;157-455\">Semiconductor materials suppliers are moving to rebuild depleted inventories and recover sharply higher costs from Samsung Electronics, SK Hynix and ot",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617PD213/materials-sk-hynix-samsung-inventory-war.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-06-17-008",
+    "date": "2026-06-17",
+    "companies": [
+      "google",
+      "amd",
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip supply chains shift: TSMC's capacity crunch reportedly pushes Google, Tesla, BYD toward Samsung",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:282;147-428\">Global chip buyers, including BYD, Google, AMD, and Tesla, are turning to Samsung Electronics as TSMC's advanced production lines remain fully booked, ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617VL215/samsung-tsmc-google-byd-tesla.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-009",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "BOE starts production at China's first 8.6G AMOLED line",
+    "summary": "BOE Technology Group has begun mass production at its Chengdu high-tech zone facility, a move that could reshape the supply of OLED displays for notebooks and tablets, while intensifying competition i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617PD223/boe-chengdu-production-investment-amoled.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-010",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "WinWay buys California property to support US expansion in AI and HPC",
+    "summary": "WinWay Technologies has bought real estate in California for US$2.28 million to create a local manufacturing and office base, a move that underscores how Asian suppliers are expanding closer to US cus",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617PD222/california-hpc-2025-manufacturing-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-17-011",
+    "date": "2026-06-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Bull and Foxconn to build Nvidia's latest AI servers in Europe",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:251;105-355\">Bull, the French computing company, and Foxconn announced Tuesday that they will manufacture systems based on Nvidia's Vera Rubin NVL72 platform in Eur",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617VL214/foxconn-europe-rubin-partnership-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-012",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tong Yang sees steadier auto parts demand as tariff and conflict risks ease",
+    "summary": "Tong Yang Group said global auto parts demand could stabilize in the second half of 2026 as tariff uncertainty eases and Middle East tensions cool, a shift that may help restore order timing and suppo",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617PD217/demand-tyg-automotive-tong-yang-group-recovery.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-013",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Ta Tun Electric Wire and Cable opens Arizona office to target US chip and AI demand",
+    "summary": "Ta Tun Electric Wire and Cable is expanding into North America as semiconductor factories and AI data centers drive stronger demand for high-capacity power infrastructure worldwide. The company said i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617PD218/demand-arizona-certification-cables-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-014",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Li Auto's new automotive chip and what it says about China's EV market",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:273;106-378\">Li Auto announced details of its new Mach M100 chip, a self-developed 5nm chip focused on autonomous driving, on June 15. This development marks the la",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617VL213/li-auto-market-automotive-chip-chips-5nm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-015",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Shihlin Electric plans North America-focused plant as five business lines drive double-digit growth",
+    "summary": "Shihlin Electric said on June 17 that it expected double-digit revenue and profit growth for 2026, driven by momentum across five business lines: Taiwan Power grid resilience projects, energy transiti",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617PD216/shihlin-growth-business-taiwan-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-17-016",
+    "date": "2026-06-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alibaba moves Qwen AI into robotics with first embodied intelligence suite",
+    "summary": "Alibaba Group has unveiled its first suite of artificial intelligence (AI) models for robots, taking its Qwen family beyond chatbots and software agents into machines that can navigate, simulate, and ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617VL204/alibaba-qwen-robot-robotics-software.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-017",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China PCB maker DSBJ bets US$1.2 billion on AI optical modules",
+    "summary": "Suzhou Dongshan Precision Manufacturing (DSBJ) will invest US$1.2 billion to expand optical chip and optical module capacity at Source Photonics, accelerating its shift from PCB manufacturing into AI ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617VL207/dongshan-precision-pcb-capacity-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-018",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kaynes' Japan push signals India's bid to become an alternative chip packaging hub",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:319;124-442\">India-based Kaynes Technology is seeking outsourced automotive semiconductor orders in Japan, a move that could help establish a foothold for Indian ba",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617VL203/kaynes-technology-packaging-automotive-manufacturing-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-06-17-019",
+    "date": "2026-06-17",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "InnoScience wins GaN patent battle against Infineon in China",
+    "summary": "InnoScience Technology, a leading China-based integrated device manufacturer (IDM) in gallium nitride (GaN), has won a sweeping victory in the latest patent ruling against global power component leade",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260617PD208/innoscience-infineon-gan-patent-legal.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-020",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Royal Gold: A Record Quarter, A Derisked Portfolio, And A Cheaper Stock",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915629-royal-gold-a-record-quarter-a-derisked-portfolio-and-a-cheaper-stock?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-021",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Lionsgate Studios: With No Deal On The Table, This Stock Looks Expensive",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915586-lionsgate-studios-with-no-deal-this-stock-looks-expensive?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-022",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Invesco Short Term Municipal Fund Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915627-invesco-short-term-municipal-fund-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-17-023",
+    "date": "2026-06-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Coherent’s New Texas Plant Replaces Copper With Light, Powering NVIDIA’s 576-GPU Vera Rubin Data Centers & The Silicon Photonics Era",
+    "summary": "Coherent, a key supplier of NVIDIA's AI stack, broke ground on its Texas facility, delivering the next generation of Optical solutions. Coherent's Expanded Texas Facility Will Scale Production of InP ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/coherent-texas-plant-replaces-copper-with-light-powering-nvidia-576-gpu-vera-rubin-silicon-photonics-era/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-024",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bungie Faces Rumored 50% Layoffs This Summer Even as Destiny 2 Climbs Back Into Steam’s Top 3 by Revenue",
+    "summary": "Just yesterday, we reported a rumor from French journalist Sylvain Trinel (BFM TV) that even PlayStation Studios would be affected by the latest wave of layoffs in the games industry, and now he has s",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/bungie-rumored-layoffs-destiny-2-steam-top-3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-17-025",
+    "date": "2026-06-17",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Bets On Unmanned Fabs By 2030 To Break Its Union’s Leverage After A Costly Bonus War",
+    "summary": "Samsung's semiconductor workers might have won their bonus-related battle but are now apparently headed towards losing the proverbial war, especially as Samsung doubles down on automation to extricate",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-bets-on-unmanned-fabs-by-2030-to-break-its-unions-leverage-after-a-costly-bonus-war/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-17-026",
+    "date": "2026-06-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel starts cooking up enhanced 18A-P silicon for would-be foundry customers",
+    "summary": " Chipzilla claims 9% speed bump without extra power draw but is compatible with designs for 18A ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/06/17/intel-starts-cooking-up-enhanced-18a-p-silicon-for-would-be-foundry-customers/5257487",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-06-17-027",
+    "date": "2026-06-17",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Brit competition cops order Google to make search rankings less mysterious",
+    "summary": " New rules cover organic rankings, AI Overviews, and user-approved search data sharing ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/06/17/brit-competition-cops-order-google-to-make-search-rankings-less-mysterious/5257506",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-17-028",
+    "date": "2026-06-17",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Windows update leaves third-party Office document launches in limbo",
+    "summary": " Microsoft won the OLE vs OpenDoc wars. Now it's saying OLE dependencies don't matter ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/06/17/windows-update-leaves-third-party-office-document-launches-in-limbo/5257425",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-17-029",
+    "date": "2026-06-17",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD's Mext buy shows how AI could solve the RAM shortage it created",
+    "summary": " Running low on memory, can't afford more? The House of Zen's latest acquisition puts an AI spin on flash-based memory expansion ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/06/16/amds-mext-buy-shows-how-ai-could-solve-the-ram-shortage-it-created/5257352",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-030",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "E6 and Orbray establish process for 3-inch diamond wafers",
+    "summary": "<p>Element Six (E6) of Oxford and Orbray of Tokyo have established a reproducible process for 3-inch wafer-scale single crystal (WSC) diamond, representing a significant step change in size, uniformit",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/elem-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-031",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Power SiC market growing at 20% CAGR 2025-31 to $11bn",
+    "summary": "<p>The power SiC market is forecast to be worth $11 billion by 2031 growing at 20% CAGR between 2025 and 2031, fuelled by AI datacentres, 800V EVs, and renewable energy ...</p>\n<p>The post <a href=\"ht",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/power-sic-market-growing-at-20-cagr-2025-31-to-11bn-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-032",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FRAM scaled to 22nm",
+    "summary": "<p>FRAM has been scaled to the 22nm manufacturing node using an innovative 3D capacitor architecture. By vertically integrating ferroelectric capacitors made from hafnium zirconium oxide (HZO) thin fi",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/fram-scaled-to-22nm-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-033",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VPI Technology joins Morse Micro Design Partner Program",
+    "summary": "<p>VPI Technology has joined Morse Micro’s Design Partner Program, bringing its full-stack Wi-Fi HaLow design and manufacturing expertise. The partnership marks a continued expansion of the Wi-Fi HaLo",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/vpi-technology-joins-morse-micro-design-partner-program-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenovo-2026-06-17-034",
+    "date": "2026-06-17",
+    "companies": [
+      "lenovo",
+      "hp",
+      "dell",
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Top Ten (less 4) PC Companies",
+    "summary": "<p>Thanks to Gartner for this one &#8211; the top six PC companies with their market shares: Lenovo: 26.5% HP: 19.3% Dell: 16.5% Apple: 10.6%  ASUS: 6.7% Acer: 6.4%</p>\n<p>The post <a href=\"https://ww",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-pc-companies-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-16-001",
     "date": "2026-06-16",
     "companies": [],
@@ -693,6 +1344,224 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/solid-circuits-are-the-ultimate-says-gwa-dummer-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-16-036",
+    "date": "2026-06-16",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Foundry Details Process Milestones and Future Innovation at VLSI Symposium",
+    "summary": "<p>Santa Clara, California, June 16, 2026 &#8211; At the 2026 VLSI Symposium, Intel Foundry provided an update on its process roadmap and long-term innovation investments. It shared that Intel 18A&#82",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-16-037",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AIâs Optical Backbone",
+    "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas.Â The company makes the lasers, optical c",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-16-038",
+    "date": "2026-06-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+    "summary": "Enterprises are moving agentic AI from proof of concept to production â and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, ",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-06-16-039",
+    "date": "2026-06-16",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+    "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build a",
+    "sources": []
+  },
+  {
+    "id": "google-2026-06-16-040",
+    "date": "2026-06-16",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Expanding our U.S. digital wellbeing fund",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Teachers.max-600x600.format-webp.webp\">Google.org announces it’s expanding its digital wellbeing fund.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-16-041",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EE Times Magazine – June 2026",
+    "summary": "\n\t\t\t\t\t\t<p>The June 2026 edition of EE Times Magazine explores autonomous aerospace and defense systems—from orbital data centers to AI-enabled drones.</p>\n<p>The post <a href=\"https://www.eetimes.com/",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ee-times-magazine-june-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-042",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SiMa Launches Agentic Development Environment for Physical AI",
+    "summary": "\n\t\t\t\t\t\t<p>Edge AI chip company said it can speed up engineer productivity when transferring to its hardware from months to hours.</p>\n<p>The post <a href=\"https://www.eetimes.com/sima-launches-agentic",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/sima-launches-agentic-development-environment-for-physical-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-16-043",
+    "date": "2026-06-16",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Snaps MEXT to Break the Memory Wall",
+    "summary": "\n\t\t\t\t\t\t<p>AMD acquires MEXT to slash AI memory costs and break the memory wall.</p>\n<p>The post <a href=\"https://www.eetimes.com/amd-snaps-mext-to-break-the-memory-wall/\">AMD Snaps MEXT to Break the M",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/amd-snaps-mext-to-break-the-memory-wall/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-16-044",
+    "date": "2026-06-16",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s 18A-P Debuts Power Boost, an Industry-First Dual-Contact Transistor That Squeezes More Frequency From the Same Chip Footprint",
+    "summary": "Intel is sharing more details of its 18A-P process technology, which is expected to see some major customer momentum. Intel's 18A-P Process Tech Is Just As Key To Its Foundry Business As 14A, And Chip",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-18a-p-debuts-power-boost-industry-first-dual-contact-transistor-more-frequency-same-chip-footprint/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-16-045",
+    "date": "2026-06-16",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Microsoft Risks Trump’s Ire By Abandoning The Costly OpenAI And Anthropic Models For China-Based DeepSeek’s V4 Model For Enterprise Workloads",
+    "summary": "In a possible development that is almost guaranteed to raise a lot of hackles in Washington, Microsoft is considering the use of a self-hosted version of DeepSeek's V4 model for Copilot Cowork, as Ope",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/microsoft-risks-trumps-ire-by-abandoning-the-costly-openai-and-anthropic-models-for-china-based-deepseeks-v4-model-for-enterprise-workloads/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-046",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Fable Devs Defend Demo After Fans Spot Clueless Guards and Suspiciously Fast 18K Gold Payout: It Was Set on Easy",
+    "summary": "After the release date announcement at the Xbox Games Showcase 2026, Playground Games also shared 30 minutes of new Fable gameplay footage a few days ago. The video was dedicated to demonstrating the ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/fable-devs-defend-demo-easy-mode/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-16-047",
+    "date": "2026-06-16",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel-born networking tech resurfaces as InfiniBand alternative for DoE supers",
+    "summary": " Omni-Path lights up Lawrence Livermore system at 400 Gbps ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/hpc/2026/06/16/intel-born-networking-tech-resurfaces-as-infiniband-alternative-for-doe-supers/5256535",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-16-048",
+    "date": "2026-06-16",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Microsoft faces down sueball, capacity problems in series of challenges",
+    "summary": " Misleading statements about Copilot and AI? Surely not! ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/06/16/microsoft-faces-down-sueball-capacity-problems-in-series-of-challenges/5256175",
         "type": "rss"
       }
     ]

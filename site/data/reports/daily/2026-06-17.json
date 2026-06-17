@@ -1,0 +1,315 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:28:02.222182Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-06-17-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Nvidia Vera CPU strains LPDDR supply as AI servers tap phone memory",
+      "companies": [
+        "samsung",
+        "nvidia",
+        "apple"
+      ],
+      "related": {
+        "customers": [
+          "nvidia",
+          "apple"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260617VL219/nvidia-cpu-apple-capacity-samsung.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "google-2026-06-17-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Chip supply chains shift: TSMC's capacity crunch reportedly pushes Google, Tesla, BYD toward Samsung",
+      "companies": [
+        "google",
+        "amd",
+        "tsmc",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260617VL215/samsung-tsmc-google-byd-tesla.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-17-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Shihlin Electric plans North America-focused plant as five business lines drive double-digit growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260617PD216/shihlin-growth-business-taiwan-plant.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-17-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Invesco Short Term Municipal Fund Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4915627-invesco-short-term-municipal-fund-q1-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-17-024",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bungie Faces Rumored 50% Layoffs This Summer Even as Destiny 2 Climbs Back Into Steam’s Top 3 by Revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/bungie-rumored-layoffs-destiny-2-steam-top-3/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 24,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 5
+      },
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "google",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "capacity",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 77,
+    "too_old": 89,
+    "gate1_blocked": 57,
+    "gate2_blocked": 30,
+    "passed": 47,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "13.5%",
+    "gate2_samples": [
+      "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "NVIDIA Accelerates Google DeepMindâs DiffusionGemma for Local AI",
+      "Scaling the UK government’s AI vision",
+      "Wear OS 7 helps your smartwatch keep up with you",
+      "New expanded Android parental controls to support families around the world"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為三星、輝達、蘋果相關動態：「Nvidia Vera CPU strains LPDDR supply as AI servers tap ph...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nvidia Vera CPU strains LPDDR supply as AI servers tap phone memory（AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Chip supply chains shift: TSMC's capacity crunch reportedly pushes Google, Te...（產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
