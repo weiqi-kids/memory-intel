@@ -1,0 +1,317 @@
+{
+  "date": "2026-06-18",
+  "date_range": {
+    "start": "2026-06-12",
+    "end": "2026-06-18"
+  },
+  "generated_at": "2026-06-18T11:59:59.813918Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tsmc-2026-06-12-007",
+      "date": "2026-06-12",
+      "title": "Samsung's packaging gap clouds chip comeback as TSMC, Intel push ahead",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "shortage",
+      "subject_type": "topic",
+      "this_week_sentiment": 0.25,
+      "last_week_sentiment": -0.28,
+      "delta": 0.53,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 130,
+      "last_week": 138,
+      "week_over_week_change": "-6%",
+      "sentiment_this_week": 0.13
+    },
+    "ddr5": {
+      "this_week": 7,
+      "last_week": 13,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": 0.22
+    },
+    "capacity": {
+      "this_week": 24,
+      "last_week": 36,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.23
+    },
+    "shortage": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.25
+    },
+    "capex": {
+      "this_week": 15,
+      "last_week": 20,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.12
+    },
+    "advanced_packaging": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.2
+    },
+    "earnings": {
+      "this_week": 34,
+      "last_week": 43,
+      "week_over_week_change": "-21%",
+      "sentiment_this_week": 0.15
+    },
+    "ai_server": {
+      "this_week": 12,
+      "last_week": 11,
+      "week_over_week_change": "+9%",
+      "sentiment_this_week": 0.19
+    },
+    "guidance": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.07
+    },
+    "inventory": {
+      "this_week": 7,
+      "last_week": 14,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.14
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.12
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 15
+    },
+    "microsoft": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "shin_etsu": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "tsmc": {
+      "event_count": 11,
+      "sentiment_avg": 0.18,
+      "rank": 3
+    },
+    "intel": {
+      "event_count": 11,
+      "sentiment_avg": -0.05,
+      "rank": 4
+    },
+    "samsung": {
+      "event_count": 21,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "skhynix": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 6
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 16
+    },
+    "google": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nvidia": {
+      "event_count": 14,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "amd": {
+      "event_count": 11,
+      "sentiment_avg": 0.11,
+      "rank": 5
+    },
+    "dell": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 11
+    },
+    "infineon": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 12
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "apple": {
+      "event_count": 8,
+      "sentiment_avg": 0.19,
+      "rank": 7
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "micron": {
+      "event_count": 5,
+      "sentiment_avg": 0.05,
+      "rank": 8
+    },
+    "qualcomm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "hp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "oracle": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 22
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "synopsys": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 14
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.25,
+      "rank": 24
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "cxmt": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 18
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 262,
+        "last": 329,
+        "change_pct": -20.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-12",
+      "event_count": 57,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 29,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 12,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 48,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 48,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 46,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 22,
+      "sentiment_avg": -0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-12 ~ 2026-06-18）共 262 則事件，重點為「Samsung's packaging gap clouds chip comeback as...」。Infineon、CXMT情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Infineon",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "甲骨文",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

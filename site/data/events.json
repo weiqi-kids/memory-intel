@@ -1,5 +1,417 @@
 [
   {
+    "id": "nvidia-2026-06-18-001",
+    "date": "2026-06-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "France Advances Europeâs AI Future With NVIDIA Technologies",
+    "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI â from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, tha",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-18-002",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scaling ADAS To 10+ Cameras",
+    "summary": "<p>A robust OBGA packaging solution for automotive-grade reliability.</p>\n<p>The post <a href=\"https://semiengineering.com/scaling-adas-to-10-cameras/\">Scaling ADAS To 10+ Cameras</a> appeared first o",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/scaling-adas-to-10-cameras/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-003",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Accelerating GAA Logic Yield Optimization With Digital Twins",
+    "summary": "<p>Overcoming manufacturing variation at advanced nodes.</p>\n<p>The post <a href=\"https://semiengineering.com/accelerating-gaa-logic-yield-optimization-with-digital-twins-2/\">Accelerating GAA Logic Yi",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/accelerating-gaa-logic-yield-optimization-with-digital-twins-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-004",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data",
+    "summary": "<p>Demand for better pattern fidelity and the adoption of ILT are increasing pressure to shift to curvilinear mask technology.</p>\n<p>The post <a href=\"https://semiengineering.com/a-new-fracture-engin",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-005",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Randomizing Wafers To Zero In On Process Problems Much Faster",
+    "summary": "<p>Get the advantages of wafer randomization without extra equipment, cost or slowdown</p>\n<p>The post <a href=\"https://semiengineering.com/randomizing-wafers-to-zero-in-on-process-problems-much-faste",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/randomizing-wafers-to-zero-in-on-process-problems-much-faster/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-006",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How to Create Efficient Bump and TSV Plans for Multi-Die Designs",
+    "summary": "<p>How to automate bump and TSV planning, visualization, and analysis, and also manage millions of interconnects while improving productivity.</p>\n<p>The post <a href=\"https://semiengineering.com/how-",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/how-to-create-efficient-bump-and-tsv-plans-for-multi-die-designs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-007",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Automated 310mm Panel-Level Packaging to Accelerate AI Innovation: Tech Brief",
+    "summary": "<p>Supports higher throughput, reduced cycle time, and lower cost per package, while enabling integration of increasingly complex multi-die architectures. </p>\n<p>The post <a href=\"https://semienginee",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/automated-310mm-panel-level-packaging-to-accelerate-ai-innovation-tech-brief/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-008",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GaN Power Devices Go Vertical",
+    "summary": "<p>Why new designs and process flows could help overcome manufacturing challenges.</p>\n<p>The post <a href=\"https://semiengineering.com/gan-power-devices-go-vertical/\">GaN Power Devices Go Vertical</a",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/gan-power-devices-go-vertical/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-009",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Making On-Chip Photonics Manufacturable",
+    "summary": "<p>Key Takeaways: System-level energy and bandwidth pressures are pulling optics into the package faster than the manufacturing flow can mature. Photonics combines front-end fabrication, materials, th",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/making-on-chip-photonics-manufacturable/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-010",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Catalonia’s Distributed Semiconductor Network Deliver?",
+    "summary": "\n\t\t\t\t\t\t<p>Catalonia is unifying its fragmented tech ecosystem into a coordinated semiconductor cluster spanning photonics, packaging, AI, and chip research.</p>\n<p>The post <a href=\"https://www.eetime",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/can-catalonia-deliver-on-its-distributed-semiconductor-network/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-011",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesco PLC (TSCDY) Q1 2027 Sales/Trading Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915983-tesco-plc-tscdy-q1-2027-sales-trading-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-012",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "2 Dividend Stocks I Want So Badly It's Almost Painful",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915659-2-dividend-stocks-i-want-so-badly-its-almost-painful?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-013",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Whitbread plc (WTBDY) Q1 2027 Sales/Trading Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4915958-whitbread-plc-wtbdy-q1-2027-sales-trading-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-014",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSI Expects Another Price Hike For Handhelds As It Says 2026 Will Be A Difficult Year For The Company And Gamers",
+    "summary": "MSI explains why its newest gaming handheld is so expensive and what to expect in the coming years. MSI Says it Tried Everything to Get Memory and Storage At Lower Cost, but It Will Still be a Difficu",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/msi-expects-another-price-hike-for-handhelds-as-it-says-2026-will-be-a-difficult-year-for-the-company-and-gamers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-18-015",
+    "date": "2026-06-18",
+    "companies": [
+      "apple",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple To Design & Build Chips At Intel on American Soil, US President Confirms",
+    "summary": "Intel's deal with Apple is now confirmed by the US President himself, with Chipzilla all set to build and design chips on American soil. Intel Will Design &#38; Build Chips For Apple As US Moves Chip ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-to-design-build-chips-at-intel-on-american-soil-us-president-confirms/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-18-016",
+    "date": "2026-06-18",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "shortage",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "iPhone 18 Pro’s Price Hike Estimate From A Research Firm To Retain Apple’s Margins Is A Steep Figure That’ll Make Anyone Uncomfortable",
+    "summary": "Apple and CEO Tim Cook have sounded the alarm concerning the iPhone 18 price hike, with upcoming models expected to become more expensive due to the ongoing DRAM shortage. In short, the trillion-dolla",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/iphone-18-pro-price-hike-figure-from-research-firm-too-high/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-18-017",
+    "date": "2026-06-18",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xbox’s $7.5 billion ZeniMax Bet Turns Brutal as Deep Cuts May Threaten Arkane Lyon, MachineGames, and even id Software",
+    "summary": "We've heard increasingly loud rumblings about mass layoffs at Xbox for a couple of weeks now, and now, it seems like the turn of ZeniMax has arrived. This past Monday, several sources pointed to Compu",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-zenimax-deep-cuts-threaten-arkane-lyon-machinegames-id-software/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-06-18-018",
+    "date": "2026-06-18",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix Samples HBM4E With 48 GB Capacity and 16 Gbps as AI Chip Demand Forces DRAM Makers Into Overdrive",
+    "summary": "SK Hynix has commenced sampling of its next-gen HBM4E memory, offering up to 16 Gbps speeds and 48 GB capacities. SK Hynix Races Samsung In Sampling First HBM4E DRAM Modules For Next-Gen AI Solutions ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sk-hynix-samples-hbm4e-memory-48-gb-capacity-16-gbps-speeds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-06-18-019",
+    "date": "2026-06-18",
+    "companies": [
+      "cxmt",
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Wild Rumor Linked To Sundar Pichai Suggests Google Is “Evaluating” The Procurement Of Memory Chips From China’s CXMT",
+    "summary": "That memory chips are scarce at the moment is hardly news that raises eyebrows these days. Even so, there appears to be a bit of desperation in the air that was not an elemental presence as recently a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/a-wild-rumor-linked-to-sundar-pichai-suggests-google-is-evaluating-the-procurement-of-memory-chips-from-chinas-cxmt/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-020",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taoglas buys Sure Antennas",
+    "summary": "<p>Taoglas, the San Diego antenna supplier, has bought Wirral, UK-based Sure Antennas, a specialist in advanced vehicle communications systems for emergency services, public safety and mission-critica",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/taoglas-buys-sure-antennas-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-06-18-021",
+    "date": "2026-06-18",
+    "companies": [
+      "dell"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "6G to improve RAN economics",
+    "summary": "<p>6G will be an evolutionary technology that builds on Massive MIMO, the existing site grid, and wider channel bandwidths to deliver step-change improvements in RAN economics, believes Dell’Oro. &#82",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/6g-to-improve-ran-economics-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "synopsys-2026-06-18-022",
+    "date": "2026-06-18",
+    "companies": [
+      "synopsys"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Synopsys, Ansys launch Multiphysics  Fusion products",
+    "summary": "<p>Synopsys has announced availability of its first Multiphysics Fusion product for customer deployment. As chip complexity increases, physics-related challenges including signal integrity, power inte",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/898332-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung-2026-06-17-001",
     "date": "2026-06-17",
     "companies": [
@@ -646,6 +1058,228 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-4-pc-companies-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-17-035",
+    "date": "2026-06-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "CEO Letter: 2025-26 Intel Corporate Responsibility Report",
+    "summary": "<p>Over the past year, we have laid the foundation for a new Intel. I have spent time with customers, industry peers, employees, and government leaders, and the message is clear: the world needs Intel",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-06-17-036",
+    "date": "2026-06-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Intel Advances Responsible Business Practices and AI-Driven Growth in 2025–2026 Corporate Responsibility Report",
+    "summary": "<p>Intel today released its 2025&#8211;2026 Corporate Responsibility Report, providing an update on performance, priorities, and progress across its operations and value chain as demand for AI-driven ",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-17-037",
+    "date": "2026-06-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "shortage",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Built-In Memory. Built-In Confidence.",
+    "summary": "\n\t\t\t\t\t\t<p>Memory shortages put edge AI at risk. NVIDIA Jetson™ integrates validated LPDDR5 DRAM on-module—giving teams a faster, confident path to production. </p>\n<p>The post <a href=\"https://www.eet",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/built-in-memory-built-in-confidence/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-06-17-038",
+    "date": "2026-06-17",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beyond Chiplets, CMOS 2.0 Moves Scaling into the Circuit",
+    "summary": "\n\t\t\t\t\t\t<p>Imec’s Zsolt Tokei and Arm’s Mohamed Awad explain why CMOS 2.0 could redefine semiconductor scaling beyond chiplets.</p>\n<p>The post <a href=\"https://www.eetimes.com/beyond-chiplets-cmos-2-0",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/beyond-chiplets-cmos-2-0-moves-scaling-into-the-circuit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-17-039",
+    "date": "2026-06-17",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Apple’s Tim Cook Cries Out That Memory Prices Have Become “Unsustainable,” Warns That “Unavoidable” Price Hikes Are Coming",
+    "summary": "Apple was, until recently, the last bastion of price stability, even as a tsunami of memory-induced price hikes has continued to sweep across wide swathes of the global consumer electronics sphere. Al",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apples-tim-cook-cries-out-that-memory-prices-have-become-unsustainable-warns-that-unavoidable-price-hikes-are-coming/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-17-040",
+    "date": "2026-06-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lip-Bu Tan Nearly Walked Away From Semiconductors, But One Plea to ‘Save Intel’ Pulled Him Back as CEO, Now Hiring Top CPU/GPU Architects",
+    "summary": "Intel CEO, Lip-Bu Tan was about to retire from the semiconductor industry, but was asked to do one more thing: save Intel. Lip-Bu Tan was on the Intel Candidate List Back in 2021, But Made The Final D",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/lip-bu-tan-was-asked-to-save-intel-before-he-retired-now-aims-for-success-by-hiring-top-gpu-cpu-architects/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-06-17-041",
+    "date": "2026-06-17",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "euv"
+    ],
+    "impact": "neutral",
+    "title": "The Future Of EUV: ASML’s Plans For The Hyperscale Era",
+    "summary": "By now, everyone and their grandmother is familiar with ASML, the sole provider of EUV (Extreme Ultraviolet) capable lithography machines in the world. As hyperscalers continue to aggressively build o",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/the-future-of-euv-asml-plans-for-the-hyperscale-era/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-042",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "SanDisk’s Latest PS5 SSD With Up To 8 TB Capacity Costs 3x As Much As The Console Itself",
+    "summary": "SanDisk has introduced its new Optimus GX PRO 850P NVMe SSDs for Sony PS5 consoles, offering up to 8 TB capacities, but they come at a massive price tag. Paying For SanDisk's New 8 TB SSD Feels Like B",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sandisk-ps5-ssd-with-up-to-8-tb-capacity-costs-3x-as-much-as-the-console-itself/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-17-043",
+    "date": "2026-06-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia-backed optics vendor to boost wafer output by 4x to meet AI interconnect demand",
+    "summary": " Jensen can't risk semiconductor supply chains derailing the AI hype train ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/networks/2026/06/17/nvidia-backed-optics-vendor-to-boost-wafer-output-by-4x-to-meet-ai-interconnect-demand/5257909",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-06-17-044",
+    "date": "2026-06-17",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Uncle Sam bets $500M that Alphabet spinoff's AI can dig up new semiconductor materials",
+    "summary": " AI drug discovery is so last year, even though it hasn't accomplished much yet ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/06/17/uncle-sam-bets-500m-that-alphabet-spinoffs-ai-can-dig-up-new-semiconductor-materials/5257854",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-045",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Only half of US datacenter capacity planned for 2026 is actually  under construction",
+    "summary": " Another fun example of AI hype and reality colliding ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/06/17/only-half-of-us-datacenter-capacity-planned-for-2026-is-actually-under-construction/5257781",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-046",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Smartphone market to shrink 15 percent this year due to memory crisis",
+    "summary": " Buyers put off by rising prices expected to turn to second-hand phones instead  ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/06/17/smartphone-market-to-shrink-15-percent-this-year-due-to-memory-crisis/5257652",
         "type": "rss"
       }
     ]
