@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:42:21.642623Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-20-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NOV: Dim Earnings Expected To Change With Robust Backlog Execution In 2026 (Hold)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4916437-nov-dim-earnings-expected-to-change-with-robust-backlog-execution-in-2026-hold?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "tsmc-2026-06-20-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "FPGA firm Efinix lines up TSMC Japan fab as edge AI business grows",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260620VL200/fpga-tsmc-business-startup-2012.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "China unveils man-portable anti-drone laser that can burn through a drone 1,600 feet away in four seconds — backpack-sized 2-kilowatt weapon uses AI for targeting, weighs 55 pounds, and can be carried by a single soldier",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/china-shows-off-a-backpack-sized-anti-drone-laser-that-one-soldier-can-carry"
+    },
+    {
+      "rank": 4,
+      "event_id": "asml-2026-06-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US raises alarm over possible EUV machine in China, putting ASML on the defensive",
+      "companies": [
+        "asml"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "euv",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260620VL201/asml-euv-bloomberg-dutch-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-06-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Samsung weighs Boston Dynamics stake as humanoid AI race heats up",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260618PD217/samsung-boston-dynamics-robotics-hyundai-robot.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "asml",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "euv",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 97,
+    "too_old": 95,
+    "gate1_blocked": 65,
+    "gate2_blocked": 35,
+    "passed": 28,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "Powering the world’s first AI arts museum",
+      "Introducing Ask Ad Manager, the AI agent that will help you get more done",
+      "Splash Canvas: Create abstract art (with an attitude)",
+      "How universities are preparing students for an AI-powered future"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為艾司摩爾、三星、台積電相關動態：「NOV: Dim Earnings Expected To Change With Robust Backlog ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "NOV: Dim Earnings Expected To Change With Robust Backlog Execution In 2026 (H...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "FPGA firm Efinix lines up TSMC Japan fab as edge AI business grows（資本支出、半導體/記憶體通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
