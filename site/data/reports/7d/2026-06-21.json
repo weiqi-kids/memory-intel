@@ -1,0 +1,287 @@
+{
+  "date": "2026-06-21",
+  "date_range": {
+    "start": "2026-06-15",
+    "end": "2026-06-21"
+  },
+  "generated_at": "2026-06-21T11:26:45.352236Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung-2026-06-15-015",
+      "date": "2026-06-15",
+      "title": "South Korea's chip equipment players ride the HBM4 wave",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 116,
+      "last_week": 138,
+      "week_over_week_change": "-16%",
+      "sentiment_this_week": 0.09
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 11,
+      "week_over_week_change": "-55%",
+      "sentiment_this_week": 0.3
+    },
+    "capex": {
+      "this_week": 12,
+      "last_week": 24,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.15
+    },
+    "earnings": {
+      "this_week": 30,
+      "last_week": 46,
+      "week_over_week_change": "-35%",
+      "sentiment_this_week": 0.12
+    },
+    "advanced_packaging": {
+      "this_week": 7,
+      "last_week": 5,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.18
+    },
+    "shortage": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 19,
+      "last_week": 36,
+      "week_over_week_change": "-47%",
+      "sentiment_this_week": 0.15
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.08
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.08
+    },
+    "ai_server": {
+      "this_week": 8,
+      "last_week": 13,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.16
+    },
+    "inventory": {
+      "this_week": 6,
+      "last_week": 15,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.42
+    }
+  },
+  "company_7d_summary": {
+    "infineon": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 11
+    },
+    "intel": {
+      "event_count": 10,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": 0.18,
+      "rank": 6
+    },
+    "samsung": {
+      "event_count": 17,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "nvidia": {
+      "event_count": 9,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "skhynix": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 7
+    },
+    "micron": {
+      "event_count": 6,
+      "sentiment_avg": 0.21,
+      "rank": 8
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 19
+    },
+    "apple": {
+      "event_count": 10,
+      "sentiment_avg": 0.2,
+      "rank": 3
+    },
+    "tsmc": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 5
+    },
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "qualcomm": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 9
+    },
+    "hp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "oracle": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 20
+    },
+    "asml": {
+      "event_count": 3,
+      "sentiment_avg": -0.08,
+      "rank": 13
+    },
+    "synopsys": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 10
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.25,
+      "rank": 21
+    },
+    "kioxia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cxmt": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 17
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "dell": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 18
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 251,
+        "last": 327,
+        "change_pct": -23.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-15",
+      "event_count": 48,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 48,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 46,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 36,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 45,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 22,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 6,
+      "sentiment_avg": 0.33
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-15 ~ 2026-06-21）共 251 則事件，重點為「South Korea's chip equipment players ride the H...」。Infineon、CXMT情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Infineon",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "甲骨文",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

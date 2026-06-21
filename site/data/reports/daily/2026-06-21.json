@@ -1,0 +1,229 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:26:45.218290Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "micron-2026-06-21-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Micron's Stock May Be Heading For Another Post-Earnings Plunge",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://seekingalpha.com/article/4916523-micron-stock-may-be-heading-for-another-post-earnings-plunge?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-21-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "QLD: Q2 Tech Earnings Are Going To Be So... So Good For This 20-Year-Old Leveraged ETF",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4916522-qld-q2-tech-earnings-are-going-to-be-so-so-good-for-this-20-year-old-leveraged-etf?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-21-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BRW: Improved Earnings But Uncertain Outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4916511-brw-improved-earnings-but-uncertain-outlook?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kevin Warsh And The End Of The Fed's 'Forward Guidance'",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4916535-kevin-warsh-and-end-of-feds-forward-guidance?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3M Company: AI Infrastructure Buildout Demand Remains Wait-And-See",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4916512-3m-company-ai-infrastructure-buildout-demand-remains-wait-and-see?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "micron",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 108,
+    "too_old": 95,
+    "gate1_blocked": 62,
+    "gate2_blocked": 34,
+    "passed": 21,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "Powering the world’s first AI arts museum",
+      "Introducing Ask Ad Manager, the AI agent that will help you get more done",
+      "Splash Canvas: Create abstract art (with an attitude)",
+      "How universities are preparing students for an AI-powered future"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為美光相關動態：「Micron's Stock May Be Heading For Another Post-Earnings P...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Micron's Stock May Be Heading For Another Post-Earnings Plunge（庫存、財報）",
+        "level": "red"
+      },
+      {
+        "text": "QLD: Q2 Tech Earnings Are Going To Be So... So Good For This 20-Year-Old Leve...（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
