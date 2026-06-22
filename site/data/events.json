@@ -1,5 +1,950 @@
 [
   {
+    "id": "nvidia-2026-06-22-001",
+    "date": "2026-06-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+    "summary": "JUPITER, Europeâs first exascale supercomputer at Germanyâs Forschungszentrum JÃ¼lich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking â and itâs had a bus",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-06-22-002",
+    "date": "2026-06-22",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+    "summary": "For the past two years, the U.S. National Science Foundationâs National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 pr",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-22-003",
+    "date": "2026-06-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+    "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. Â As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and p",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-22-004",
+    "date": "2026-06-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Vera Rubin Delivers World-Class Supercomputers for Science",
+    "summary": "ISC High Performance 2026 -- NVIDIA today announced the NVIDIA Vera Rubin platform delivers world-class supercomputers for science, combining native double-precision (FP64) performance, NVIDIA CUDA-Xâ",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-22-005",
+    "date": "2026-06-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
+    "summary": "ISC High Performance 2026 -- NVIDIA today announced that a record 35 NVIDIA AI HPC supercomputers are in development across Europe â equipping more than 3 million researchers with next-generation in",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-22-006",
+    "date": "2026-06-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Announces Halos for Robotics, the Industryâs First Full-Stack Safety System for Physical AI",
+    "summary": "NVIDIA today announced NVIDIA Halos for Robotics, the industryâs first full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-22-007",
+    "date": "2026-06-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "Hotter Than a Hot Tub: The 45Â°C Breakthrough to Cool AIâs Biggest Machines",
+    "summary": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIAâs newest AI servers can run their cooling liquid even hotter â up to 45 degr",
+    "sources": []
+  },
+  {
+    "id": "supermicro-2026-06-22-008",
+    "date": "2026-06-22",
+    "companies": [
+      "supermicro",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Supermicro Delivers NVIDIA Vera Rubin NVL4 End-to-End DCBBS Blueprint with Native FP64 Performance for Converged HPC and AI Infrastructure",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-22-009",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Will Your Chip’s Memory Work As Expected?",
+    "summary": "<p>How to ensure that memory is fully tested and repaired.</p>\n<p>The post <a href=\"https://semiengineering.com/will-your-chips-memory-work-as-expected/\">Will Your Chip&#8217;s Memory Work As Expected",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/will-your-chips-memory-work-as-expected/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-010",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mask Economics Shape High-NA EUV Adoption",
+    "summary": "<p>Rising mask costs, tighter high-NA requirements, and new materials challenges are forcing chipmakers to weigh litho choices against volume, design strategy, and total process cost.</p>\n<p>The post ",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/mask-economics-shape-high-na-euv-adoption/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-011",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Event-Driven RL Targets Long-Horizon Fab Control",
+    "summary": "<p>Researchers from Politecnico di Milano and STMicroelectronics published a technical paper titled “Event-Driven Reinforcement Learning Enables Long-Horizon Control in Semiconductor Fabrication.” The",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/event-driven-rl-targets-long-horizon-fab-control/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-012",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "One of the best-looking gaming chairs of 2026 is less than half price ahead of Prime Day — Porsche-inspired Thermaltake Argent E700 is only $620, but stock is low",
+    "summary": "\n                             Made in collaboration with Studio F.A. Porsche, the Thermaltake Argent E700 combines genuine leather upholstery, polished aluminum accents, solid construction. \n         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/one-of-the-best-looking-gaming-chairs-of-2026-is-more-than-half-price-ahead-of-prime-day-porsche-inspired-thermaltake-argent-e700-is-only-usd620-but-stock-is-low",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-22-013",
+    "date": "2026-06-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Powerhouse AMD Ryzen 7 9800X3D hits record-low price at Amazon UK, now just £339.99 — get one of our favourite gaming CPUs with its game-changing AMD 3D V-cache technology",
+    "summary": "\n                             The AMD Ryzen 7 9800X3D has hit a record low Amazon UK price of £339.99, making it a must-buy option for any gaming PC build or upgrade. \n                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/powerhouse-amd-ryzen-7-9800x3d-hits-record-low-price-at-amazon-uk-now-just-gbp339-99-get-one-of-our-favourite-gaming-cpus-with-its-game-changing-amd-3d-v-cache-technology",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-014",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Nintendo Switch 2 is $399 at Woot for new customers, $419 for returning customers with code — save up to $100 on gaming handheld while stocks last",
+    "summary": "\n                             Get a brand new Nintendo Switch 2 for less. \n                                                                                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/handheld-gaming/nintendo-switch-2-is-usd399-at-woot-for-new-customers-usd419-for-returning-customers-with-code-save-up-to-usd100-on-gaming-handheld-while-stocks-last",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-22-015",
+    "date": "2026-06-22",
+    "companies": [
+      "intel",
+      "skhynix"
+    ],
+    "topics": [
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel CEO doubles down on advanced packaging with former SK Hynix chief's return",
+    "summary": "Former SK Hynix CEO Lee Seok-Hee is set to return to Intel as executive vice president (EVP) of Intel's foundry business, strengthening Intel's push into advanced packaging technologies. The appointme",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD226/intel-sk-hynix-ceo-packaging.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-22-016",
+    "date": "2026-06-22",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix overtakes Samsung as HBM boom reshapes Korea's chip industry",
+    "summary": "<p class=\"P1\" data-start=\"1335\" data-end=\"1595\">SK Hynix briefly overtook Samsung Electronics on June 22 to claim the top spot by common-share market capitalization on South Korea's KOSPI exchange, a ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622VL210/sk-hynix-samsung-hbm-market-capitalization.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-017",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Soaring contract prices put memory's big three on course for blockbuster 2026 profits",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:507;145-651\">The memory industry is entering a super cycle as prices keep soaring, with industry sources saying third-quarter 2026 contract price gains show no sign",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD223/2026-market-apple-samsung-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-018",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "China launches 2026 NEV rural promotion campaign to accelerate EV expansion into county-level markets",
+    "summary": "China's Ministry of Industry and Information Technology (MIIT), Ministry of Commerce, and three other government departments announced on June 18 the launch of a new round of the 2026 New Energy Vehic",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD227/china-miit-nev-vehicle-2026.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-019",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MW-level flash charging competition escalates as BYD, Geely, CATL compete for industry influence",
+    "summary": "In China's new energy vehicle (NEV) market, industry leader BYD introduced megawatt-level (MW) flash charging technology more than a year ago and further enhanced its fast-charging capabilities with t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD206/byd-geely-catl-fast-charging-competition.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-22-020",
+    "date": "2026-06-22",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC glass substrate rollout unlikely before 2030",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:364;102-465\">The race to commercialize glass core substrates in advanced semiconductor packaging is heating up &mdash; but the technology is moving faster in headli",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD214/tsmc-digitimes-glass-substrate-2030-intel.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-021",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic joins US$915 million Frontier push to scale carbon removal",
+    "summary": "Anthropic joined Frontier, the carbon removal procurement coalition, becoming the first AI startup to participate as surging power demand from AI data centers made corporate climate pledges harder to ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD203/anthropic-demand-startup-data-funding.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-022",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Taiwan auto parts makers forecast 2H26 recovery as tariff and geopolitical risks ease",
+    "summary": "Major Taiwan auto parts makers said they expected market conditions to improve in the second half of 2026 as tariff and geopolitical uncertainties eased, executives announced during annual shareholder",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD201/taiwan-recovery-2026-market-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-06-22-023",
+    "date": "2026-06-22",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google loses Gemini co-lead as engineering VP joins OpenAI to research model building",
+    "summary": "Google Vice President of Engineering and Gemini model co-lead Noam Shazeer has left the company to join OpenAI, where he will focus on research into model-building methods, executives announced. The m",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD200/google-gemini-openai-technology-2017.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-22-024",
+    "date": "2026-06-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Groq CEO sees GPU and LPU as complementary as AI compute demand grows",
+    "summary": "Nvidia's planned US$20 billion strategic deal with Groq is built on a simple logic: as compute gets cheaper, demand keeps expanding. In a recent interview, Groq co-founder and CEO Jonathan Ross explai",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD220/groq-gpu-nvidia-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-025",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "AI server supply chain expansion accelerates across Southeast Asia",
+    "summary": "AI server orders are surging, and suppliers across the global supply chain are rapidly expanding capacity in Southeast Asia. Thailand, Malaysia, and Vietnam have emerged as the main hubs, with manufac",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD205/ai-server-supply-chain-expansion-asia-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-026",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla files Megapod trademark in modular AI data center push",
+    "summary": "<p class=\"P1\" data-path-to-node=\"0\">According to a trademark application filed with the United States Patent and Trademark Office (USPTO), Tesla has submitted an intent-to-use application for a new pr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622VL208/tesla-data-center-hardware-nvidia-training.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-027",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Panjit upgrades hot swap tech to drive 2H26 growth",
+    "summary": "AI data centers are driving growth in demand for power management and power semiconductor components. Hot swap products, in particular, require a wide safe operating area (SOA) to prevent excessive su",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD215/growth-data-demand-management-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-22-028",
+    "date": "2026-06-22",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "China opens STAR Market pathway for AI model firms amid funding race",
+    "summary": "China's artificial intelligence (AI) industry has received another major policy boost. At the 2026 Lujiazui Forum in Shanghai, China Securities Regulatory Commission (CSRC) Chairman Wu Qing announced ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD211/2026-china-stock-market-ai-llm-funding.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-22-029",
+    "date": "2026-06-22",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global suppliers race accelerates: TSMC's first CoPoS demo tools enter validation",
+    "summary": "TSMC is accelerating its CoPoS rollout, replacing traditional round wafers with larger rectangular glass panels to support packaging demand for AI GPUs and HPC chips over the next several years. Suppl",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD219/tsmc-copos-packaging-equipment-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-22-030",
+    "date": "2026-06-22",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Memory costs push Samsung Galaxy A37 pricier as S26 holds steady",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:318;117-434\">AI-driven memory price spikes are presenting a challenge for Samsung's smartphone business, with rising component prices eroding the affordability of i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622PD216/samsung-price-galaxy-sales-smartphone.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-06-22-031",
+    "date": "2026-06-22",
+    "companies": [
+      "onsemi"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Toto reportedly bets bigger on semiconductor materials as AI pushes industry toward 1nm era",
+    "summary": "<p class=\"P1\" data-start=\"98\" data-end=\"622\">Japanese bathroom fixture maker Toto is deepening its commitment to the semiconductor industry, unveiling plans to invest JPY80 billion (approx. US$495.3 m",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260622VL206/materials-1nm-semiconductor-industry-manufacturing-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-032",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PGIM Short-Term Corporate Bond Fund Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4916697-pgim-short-term-corporate-bond-fund-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lam_research-2026-06-22-033",
+    "date": "2026-06-22",
+    "companies": [
+      "lam_research"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lam Research: A Strong Buy Built On Memory, Packaging And AI Complexity",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4916696-lam-research-strong-buy-built-on-memory-packaging-and-ai-complexity?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-034",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nothing Stands In The Way Of Earnings Growth",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4916695-nothing-stands-in-the-way-of-earnings-growth?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-035",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Forgent Power Solutions: This AI Infrastructure Stock Can Fall 30%",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4916694-forgent-power-solutions-this-ai-infrastructure-stock-can-fall-30-percent?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-036",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Remitly: Now A Profitable Business With Numerous Growth Accelerators",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4916693-remitly-now-a-profitable-business-with-numerous-growth-accelerators?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-06-22-037",
+    "date": "2026-06-22",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Unlocking the Snapdragon 8 Elite Gen 6 Pro’s Real Performance Will Require Pairing The SoC With The Fastest RAM Available",
+    "summary": "The two versions&#160;of the Snapdragon 8 Elite Gen 6 Pro will be separated by the memory standard they support, with the top-end variant able to get paired with LPDDR6. Qualcomm is also offering the ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/snapdragon-8-elite-gen-6-pro-paired-with-fastest-ram-to-unlock-true-performance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-22-038",
+    "date": "2026-06-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "PlayStation 6 Delay Fears May Be Overblown, As Known Leaker Silently Pushes Back Against Latest Reports",
+    "summary": "Although we are getting closer to 2027, Sony has yet to make any official announcement about the PlayStation 6. Despite the silence on the matter, especially amidst the rising costs of components, a r",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/playstation-6-delay-fears-overblown-leaker-pushes-back/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-22-039",
+    "date": "2026-06-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Ryzen 7 9800X3D Dies Silently On ASUS X870, But No Invoice Leaves Owner With A $500 Keychain",
+    "summary": "Not everyone can RMA their CPUs, and this user thought a keychain would be an appropriate usage of his $500 processor. User Reports Dead AMD Ryzen 7 9800X3D on ASUS Strix X870-A; Turns the CPU Into a ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-ryzen-7-9800x3d-dies-silently-on-asus-x870-but-no-invoice-leaves-owner-with-a-500-keychain/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-22-040",
+    "date": "2026-06-22",
+    "companies": [
+      "samsung",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "iPhone Fold To Feature 3D Printed Hinge To Lower Costs, But Rattling Problems Risk Launch Timeline As Samsung Begins M16 OLED Manufacturing",
+    "summary": "Apple has reportedly given Samsung the green light to begin OLED manufacturing of the iPhone Fold, with the exclusive deal churning out 3 million units for this year’s initial supply. Some of the most",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/iphone-fold-3d-printed-hinge-problems-to-cause-potential-launch-delay/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-22-041",
+    "date": "2026-06-22",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "China’s OLED Failures Give Korean Firms A Massive Edge In Forming Exclusive Apple Deals, With iPhone 18 Displays And More Entering Mass Production",
+    "summary": "A truckload of Apple products is expected to launch later this year, with the iPhone 18 Pro and iPhone 18 Pro Max&#160;undoubtedly picking up the highest volume, giving the company’s suppliers a treme",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/korean-firms-set-exclusive-apple-deals-for-oled-orders-after-china-failure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-22-042",
+    "date": "2026-06-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD Reportedly Enables FSR 4 On RDNA 3 GPUs Through Valve Proton Experimental",
+    "summary": "AMD's latest upscaling technology won't just be exclusive to RDNA 4 GPUs as we know, and the latest update includes Linux as well. Valve Proton Experimental Reportedly Brings FSR 4 Support to AMD RDNA",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-reportedly-enables-fsr-4-on-rdna-3-gpus-through-valve-proton-experimental/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-043",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Naughty Dog’s The Last of Us Online Died Years Ago, but a PC Modder is Rebuilding Factions in Part II",
+    "summary": "The Last of Us Online might have died once Naughty Dog realized it would have to support it for a long time, but a modder is currently making a multiplayer mod for The Last of Us Part II, aiming to re",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/the-last-of-us-online-died-pc-modder-rebuilding-factions-part-ii/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-044",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "MediaTek’s Dimensity 9600 Pro Can Cost Over $216 In What Is Now Being Billed As A ‘Structural’ Price Hike",
+    "summary": "Virtually every facet of the consumer electronics sphere is reeling right now from the relentless cost pressures that seem to be emanating from nearly each stage of the production process. Against thi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/mediateks-dimensity-9600-pro-can-cost-over-216-in-what-is-now-being-billed-as-a-structural-price-hike/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-22-045",
+    "date": "2026-06-22",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft accidentally kills epic Outlook email threads",
+    "summary": " Redmond manages to break replying to an email on Outlook for macOS, one of the most basic functions ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/06/22/microsoft-accidentally-kills-epic-outlook-email-threads/5259388",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-06-22-046",
+    "date": "2026-06-22",
+    "companies": [
+      "broadcom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lessons from the VMwars – nothing virtual about the Broadcom vs Tesco slugfest",
+    "summary": " Never get involved in a land war in Asia. Also, don't pick a contract fight with a monster of the art ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/virtualization/2026/06/22/lessons-from-the-vmwars-nothing-virtual-about-the-broadcom-vs-tesco-slugfest/5259005",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-047",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dream Chip maps out its ISP upgrades",
+    "summary": "<p>German chip designer, Dream Chip has updated its X Series ISP (image signal processor) offering with the X4 series. The ISP-X418 is the latest in the X Series of real-time ...</p>\n<p>The post <a hr",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/dream-chip-maps-out-its-isp-upgrades-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-22-048",
+    "date": "2026-06-22",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "M31 collaborates with TSMC to continue design IP ecosystem",
+    "summary": "<p>Taiwanese silicon IP provider, M31 Technology (M31), has taken another step in its advanced-node interface IP introduction roadmap, with the tapeout of its eUSB2V2 interface IP on TSMC’s N2P proces",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/micros/m31-collaborates-with-tsmc-to-continue-design-ip-ecosystem-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-06-22-049",
+    "date": "2026-06-22",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "euv"
+    ],
+    "impact": "neutral",
+    "title": "US DoC accuses ASML of shipping EUV-compatible components to China",
+    "summary": "<p>US commerce Secretary Howard Lutnick has told ASML that China has an EUV machine contrary to US export restrictions, reports Bloomberg. ASML says that none of its EUV machines are ...</p>\n<p>The po",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/us-accuses-asml-of-shipping-euv-compatible-components-to-china-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-050",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Architect Labs aims to transform AI chip design",
+    "summary": "<p>Architect Labs, a Palo Alto startup, has raised $24 million to speed up custom AI chip design. &#8220;We are building the AI system that explores, designs and provably verifies chips ...</p>\n<p>The",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/architect-labs-aims-to-transform-ai-chipdesign-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-051",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Metrology and Inspection equipment market tops $18bn",
+    "summary": "<p>The Metrology and Inspection equipment market exceeds $18 billion as AI, HBM, and advanced packaging drive demand for process control, says Yole Group. The market grew 15% in 2025 and ...</p>\n<p>Th",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/metrology-and-inspection-equipment-market-tops-18bn-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-052",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Imec pushes ferroelectric memory research towards AI integration",
+    "summary": "<p>Two advances in ferroelectric memory research by Imec push ferroelectric capacitors and ferroelectric field-effect transistors towards becoming enablers for  low-voltage operation and high-density ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/imec-pushes-ferroelectric-memory-research-towards-ai-integration-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-21-001",
     "date": "2026-06-21",
     "companies": [],
@@ -107,6 +1052,187 @@
       {
         "name": "seeking_alpha",
         "url": "https://seekingalpha.com/article/4916511-brw-improved-earnings-but-uncertain-outlook?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-21-007",
+    "date": "2026-06-21",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cooler Master NR2 Pro mini-ITX system packing an RTX 5080 is $400 off in Newegg deal — grab a compact yet powerful liquid cooled gaming PC for $2,799.99",
+    "summary": "\n                             The Cooler Master NR2 Pro combines a Gigabyte RTX 5080, Intel Core Ultra 7 265F, 2TB Gen 4.0 SSD, and the NR200P Max chassis into a compact gaming machine that can tackle",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cooler-master-nr2-pro-mini-itx-system-packing-an-rtx-5080-is-usd400-off-in-newegg-deal-grab-a-compact-yet-powerful-liquid-cooled-gaming-pc-for-usd2-799-99",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-21-008",
+    "date": "2026-06-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ubisoft co-founder Claude Guillemot dies in plane crash —  French publisher established in 1986 became one of the biggest entertainment companies in the world",
+    "summary": "\n                             Ubisoft co-founder Claude Guillemot was killed when his twin-engine private plane crashed enroute to an airshow. Aside from building the French gaming empire, Guillemot w",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash-french-publisher-established-in-1986-became-one-of-the-biggest-entertainment-companies-in-the-world",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-21-009",
+    "date": "2026-06-21",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dramatically redesigned GMKtec EVO-X3 shown bearing Lisa Su’s signature of approval — flagship AI mini PC workstation is built around AMD’s Ryzen AI Max+ 395 'Strix Halo' processor, again",
+    "summary": "\n                             GMKtec's dramatically redesigned EVO-X3 'Strix Halo' Mini PC gets Lisa Su’s signature of approval. \n                                                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/mini-pcs/dramatically-redesigned-gmktec-evo-x3-shown-bearing-lisa-sus-signature-of-approval-flagship-ai-mini-pc-workstation-is-built-around-amds-ryzen-ai-max-395-strix-halo-processor-again",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-21-010",
+    "date": "2026-06-21",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung and SK hynix bonuses for chip workers flagged as a national inflation risk — Bank of Korea projects full-year inflation significantly above its 2% target",
+    "summary": "\n                             The Bank of Korea has named performance bonuses at Samsung Electronics and SK hynix as a risk to the country's inflationary stability. \n                                  ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/bank-of-korea-flags-samsung-and-sk-hynix-chip-bonuses-as-a-national-inflation-risk",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-21-011",
+    "date": "2026-06-21",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SanDisk Bets on Stacking NAND and Compute on One Chip as HBM Shortages Choke the AI Boom",
+    "summary": "SanDisk is looking for more innovative solutions to address memory limitations, such as stacking NAND Flash within chips. Memory Limitations Push DRAM/NAND Maker To Get More Innovative, SanDisk Propos",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sandisk-bets-on-stacking-nand-and-compute-on-one-chip/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-06-21-012",
+    "date": "2026-06-21",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm Quietly Preps Snapdragon X2 CPU Refresh With Three Dies, Stalling X3 As Memory Shortages Bite",
+    "summary": "Qualcomm is working on a new refresh of its existing Snapdragon X2 CPU family, which will feature various options. Snapdragon X2 Refresh Might Be Coming Before Next-Gen X3 Series, As Qualcomm Starts L",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/qualcomm-preps-snapdragon-x2-cpu-refresh-stalling-x3-as-memory-shortages-bite/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-21-013",
+    "date": "2026-06-21",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Prepares For Next-Gen GPU Architectures As “Blackwell-Next” Spotted In Linux 7.2 Kernel Patch",
+    "summary": "The Linux 7.2 Kernel Patches have seen the addition of a next-gen NVIDIA GPU architecture, cleverly listed as \"Blackwell-Next\". NVIDIA Ramps Up Support For Next-Gen GPU Architectures, Including Blackw",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-prepares-next-gen-gpu-architectures-blackwell-next-spotted-in-linux-7-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-21-014",
+    "date": "2026-06-21",
+    "companies": [
+      "samsung",
+      "arm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s Mobile Division Faces Ultimate Purgatory, Set To Earn Just 1% Of What Its Semiconductor Arm Will Pocket This Quarter",
+    "summary": "The growing disparity in the relative strength of Samsung's various divisions is now becoming quite extreme, with its mobile division continuing to languish in ultimate purgatory, even as its semicond",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsungs-mobile-division-faces-ultimate-purgatory-set-to-earn-just-1-of-what-its-semiconductor-arm-will-pocket-this-quarter/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-21-015",
+    "date": "2026-06-21",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s Incoming CEO, John Ternus, Has A Herculean Task On His Hands As Report Says The Company’s Fragmented Design Culture Needs Rebuilding",
+    "summary": "The operational efficiency and the ability to generate billion-dollar profits every quarter are a gift that makes Apple the sight of envy for its competitors, but a report states that the company has ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-ceo-john-ternus-has-to-rebuild-company-design-culture/",
         "type": "rss"
       }
     ]
