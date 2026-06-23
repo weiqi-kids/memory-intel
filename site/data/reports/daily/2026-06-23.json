@@ -1,0 +1,345 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T11:30:04.180483Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "skhynix-2026-06-23-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "情緒極端"
+      ],
+      "title": "SK hynix passes Samsung as South Korea's most valuable company — memory company surpasses valuation milestone on the back of HBM",
+      "companies": [
+        "skhynix",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/sk-hynix-passes-samsung-as-south-koreas-most-valuable-company-on-hbm-demand"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung-2026-06-23-022",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Samsung Electro-Mechanics rides Qualcomm's data center push into servers",
+      "companies": [
+        "samsung",
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260623VL211/semco-qualcomm-data-center-fc-bga-production.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-23-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Fulltech sees low DK2 shipments rising, starts M9 quartz cloth certification",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260623PD223/fulltech-fiberglass-yarn-fiberglass-cloth-certification-quartz-shipments-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "infineon-2026-06-23-040",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Accelerated MCU evaluation for automotive systems",
+      "companies": [
+        "infineon",
+        "aws"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/accelerated-mcu-evaluation-2026-06/"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-06-23-036",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung’s New UFS 5.0 Doubles Read Speeds To 10.8 GB/s, And Qualcomm’s Snapdragon 8 Elite Gen 6 Has Already Locked In Support",
+      "companies": [
+        "samsung",
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsungs-ufs-5-0-doubles-read-speeds-to-10-8-gb-s-and-qualcomms-snapdragon-8-elite-gen-6-has-already-locked-in-support/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "qualcomm",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "ai_server"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 32,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 7
+      },
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "aws",
+        "count": 2
+      },
+      {
+        "id": "infineon",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 320,
+    "dup_title": 77,
+    "too_old": 86,
+    "gate1_blocked": 57,
+    "gate2_blocked": 43,
+    "passed": 57,
+    "pass_rate": "23.5%",
+    "gate2_block_rate": "17.7%",
+    "gate2_samples": [
+      "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Disco",
+      "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "Expanding financial advertiser verification across Europe"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為三星、輝達、蘋果相關動態：「SK hynix passes Samsung as South Korea's most valuable co...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SK hynix passes Samsung as South Korea's most valuable company — memory compa...（HBM、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung Electro-Mechanics rides Qualcomm's data center push into servers（AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
