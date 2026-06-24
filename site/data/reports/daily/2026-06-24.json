@@ -1,0 +1,315 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T11:02:41.571309Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amd-2026-06-24-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Get 32GB of Corsair DDR5 RAM for just $214 right now, thanks to these Newegg bundles — AMD and Intel gaming PC build kits massively undercut $350 market prices",
+      "companies": [
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/get-32gb-of-corsair-ddr5-ram-for-just-usd214-right-now-thanks-to-these-newegg-bundles-amd-and-intel-gaming-pc-build-kits-massively-undercut-usd350-market-prices"
+    },
+    {
+      "rank": 2,
+      "event_id": "skhynix-2026-06-24-019",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "Samsung, SK Hynix weigh new Korean chip belt as concerns mount for Yongin cluster",
+      "companies": [
+        "skhynix",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624VL213/samsung-sk-hynix-ic-manufacturing-investment-government.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "ymtc-2026-06-24-035",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "China supplying 23% of domestic semi equipment needs and rising",
+      "companies": [
+        "ymtc",
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/china-supplying-23-of-domestic-semi-equipment-needs-and-rising-2026-06/"
+    },
+    {
+      "rank": 4,
+      "event_id": "synopsys-2026-06-24-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Synopsys: Ansys, AI And The Case For A Higher Earnings Base",
+      "companies": [
+        "synopsys"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4917259-synopsys-ansys-ai-and-the-case-for-a-higher-earnings-base?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-24-023",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BlackRock Health Sciences Term Trust Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4917255-blackrock-health-sciences-term-trust-q1-2026-commentary?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 26,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "aws",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 77,
+    "too_old": 87,
+    "gate1_blocked": 65,
+    "gate2_blocked": 38,
+    "passed": 54,
+    "pass_rate": "22.1%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Disco",
+      "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "Supermicro Broadens AI at the Edge Solutions Portfolio with Intel-Powered Platforms Optimized for Lo",
+      "Towards a world where no one is surprised by a natural disaster"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為輝達、英特爾、SK海力士相關動態：「Get 32GB of Corsair DDR5 RAM for just $214 right now, tha...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Get 32GB of Corsair DDR5 RAM for just $214 right now, thanks to these Newegg ...（DDR5）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung, SK Hynix weigh new Korean chip belt as concerns mount for Yongin clu...（資本支出、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

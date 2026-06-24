@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T11:29:55.806743Z",
+  "updated_at": "2026-06-24T11:02:34.960569Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-02-28",
   "companies": [
     {
@@ -483,17 +483,17 @@
       "name": "南亞科",
       "ticker": "2408.TW",
       "currency": "TWD",
-      "ar": 16558481000,
-      "ar_prev": 5950011000,
-      "ar_qoq": "+178%",
+      "ar": 25247069000,
+      "ar_prev": 16558481000,
+      "ar_qoq": "+52%",
       "ar_period": "QoQ",
-      "inventory": 27287519000,
-      "inv_prev": 35528632000,
-      "inv_qoq": "-23%",
+      "inventory": 24330735000,
+      "inv_prev": 27287519000,
+      "inv_qoq": "-11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "nvidia",
@@ -534,9 +534,9 @@
       "name": "甲骨文",
       "ticker": "ORCL",
       "currency": "USD",
-      "ar": 10719000000,
-      "ar_prev": 9440000000,
-      "ar_qoq": "+14%",
+      "ar": 10385000000,
+      "ar_prev": 10719000000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -544,7 +544,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-02-28"
+      "quarter_date": "2026-05-31"
     },
     {
       "id": "phison",
@@ -568,34 +568,34 @@
       "name": "力成",
       "ticker": "6239.TW",
       "currency": "TWD",
-      "ar": 18537158000,
-      "ar_prev": 4570663000,
-      "ar_qoq": "+306%",
+      "ar": 19456988000,
+      "ar_prev": 18537158000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 6565731000,
-      "inv_prev": 5597303000,
-      "inv_qoq": "+17%",
+      "inventory": 6857251000,
+      "inv_prev": 6565731000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "psmc",
       "name": "力積電",
       "ticker": "6770.TW",
       "currency": "TWD",
-      "ar": 6549582000,
-      "ar_prev": 6263668000,
-      "ar_qoq": "+5%",
+      "ar": 6807374000,
+      "ar_prev": 6549582000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 9291111000,
-      "inv_prev": 8880606000,
-      "inv_qoq": "+5%",
+      "inventory": 9915897000,
+      "inv_prev": 9291111000,
+      "inv_qoq": "+7%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ptc",

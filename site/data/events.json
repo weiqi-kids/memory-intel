@@ -1,5 +1,670 @@
 [
   {
+    "id": "nvidia-2026-06-24-001",
+    "date": "2026-06-24",
+    "companies": [
+      "nvidia",
+      "aws"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+    "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-24-002",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Far Left Can You Shift?",
+    "summary": "<p>Complex chips require much more work earlier in the flow.</p>\n<p>The post <a href=\"https://semiengineering.com/how-far-left-can-you-shift/\">How Far Left Can You Shift?</a> appeared first on <a href",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/how-far-left-can-you-shift/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-003",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Continuous Physics Reasoning: Definition, Minimum Criteria, and the Role of Foundation Models for Physics",
+    "summary": "<p>A general-purpose system that reasons natively over physical structure with deterministic, solver-grade, out-of-the-box generality at manufacturing resolution.</p>\n<p>The post <a href=\"https://semi",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/continuous-physics-reasoning-definition-minimum-criteria-and-the-role-of-foundation-models-for-physics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-004",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UCIe vs. BoW: Practical Insights For Choosing The Right Chiplet Standards",
+    "summary": "<p>An application-oriented perspective on chiplet interconnect standards and their implications for next-gen system design.</p>\n<p>The post <a href=\"https://semiengineering.com/ucie-vs-bow-practical-i",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/ucie-vs-bow-practical-insights-for-choosing-the-right-chiplet-standards/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-005",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Optimizing Curvilinear OPC: Vector- Based Site and Anchor Decoupling",
+    "summary": "<p>An advanced framework that independently and dynamically controls OPC fragmentation and optimization. </p>\n<p>The post <a href=\"https://semiengineering.com/optimizing-curvilinear-opc-vector-based-s",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/optimizing-curvilinear-opc-vector-based-site-and-anchor-decoupling/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-006",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Silicon Saxony Shows Promise, Limits of Europe’s Chips Act",
+    "summary": "\n\t\t\t\t\t\t<p>At Silicon Saxony Days 2026, Frank Bösenberg said Dresden illustrates “what is possible” under Europe’s first Chips Act.</p>\n<p>The post <a href=\"https://www.eetimes.com/silicon-saxony-shows",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/silicon-saxony-shows-promise-limits-of-europes-chips-act/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-24-007",
+    "date": "2026-06-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "China black market Nvidia prices rocket in wake of smuggling crackdown and customs freeze — five-year-old A100 servers triple in price, now fetching up to $82,000",
+    "summary": "\n                             Chinese companies are paying as much as $82,000 for servers built around Nvidia's five-year-old A100 accelerator \n                                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpu-drivers/five-year-old-nvidia-a100-servers-triple-in-price-in-china",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-24-008",
+    "date": "2026-06-24",
+    "companies": [
+      "amd",
+      "intel"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Get 32GB of Corsair DDR5 RAM for just $214 right now, thanks to these Newegg bundles — AMD and Intel gaming PC build kits massively undercut $350 market prices",
+    "summary": "\n                             Score 32GB DDR5 RAM from Corsair for as low as $214 in these two Newegg RAM combo deals with Gigabyte motherboards right now. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/get-32gb-of-corsair-ddr5-ram-for-just-usd214-right-now-thanks-to-these-newegg-bundles-amd-and-intel-gaming-pc-build-kits-massively-undercut-usd350-market-prices",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-06-24-009",
+    "date": "2026-06-24",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SK Hynix to issue $29 billion in new shares for Nasdaq ADR listing on July 10",
+    "summary": "SK Hynix disclosed in regulatory filings to South Korea's Financial Supervisory Service and the Korea Exchange on June 24 that its board has approved the issuance of new shares worth 45,453,450,000,00",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624VL222/sk-hynix-funding-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-24-010",
+    "date": "2026-06-24",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Imoo overtakes Samsung to become No. 4 smartwatch brand",
+    "summary": "Imoo beat Samsung Electronics, Oppo, and Garmin to rank as the world's No. 4 smartwatch brand in global smartwatch sales in the first quarter of 2026. In fact, imoo's global smartwatch shipments have ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624PD236/smartwatch-brand-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-06-24-011",
+    "date": "2026-06-24",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank to build domestic AI server base as Japan pushes for sovereign compute",
+    "summary": "SoftBank, the telecom arm of SoftBank Group (SBG), is moving to localize a larger part of Japan's AI infrastructure stack, with plans to begin domestic AI server production in fiscal 2027 at the forme",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624PD230/softbank-ai-server-data-center-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-012",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Asia's AI data center boom turns green power into supply chain stress test",
+    "summary": "Asia's AI infrastructure buildout is turning electricity into a new supply chain constraint. As demand for data storage, compute power, high-performance memory, servers, and advanced semiconductor man",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260623VL210/asia-data-center-power-supply-infrastructure-electricity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-013",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global market for advanced chip packaging set for rapid expansion",
+    "summary": "The market for fan-out panel-level packaging(FOPLP) and glass substrate packaging is set to grow sharply as chipmakers race to support AI and high-performance computing. For global readers, the shift ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624PR202/packaging-glass-substrate-foplp-market-2030.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-06-24-014",
+    "date": "2026-06-24",
+    "companies": [
+      "qualcomm",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm, ByteDance talks signal new phase in China AI chip diversification",
+    "summary": "Qualcomm's reported talks to provide custom chip-design services to TikTok owner ByteDance show how China's AI chip supply chain is moving beyond a simple Nvidia replacement story.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624PD235/qualcomm-bytedance-ai-chip-nvidia-design.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-015",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IBM targets Anderon venture to anchor quantum wafer supply",
+    "summary": "IBM is building a foundry to produce silicon wafers used in quantum-computing processors, seeking to become an indispensable part of the quantum economy under development. Called Anderon, the independ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624VL214/ibm-quantum-computing-silicon-development-subsidiary.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-06-24-016",
+    "date": "2026-06-24",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MediaTek-Global Unichip tie-up talk puts TSMC's AI ASIC ecosystem on watch",
+    "summary": "Cloud service providers are accelerating in-house AI chip development, lifting demand for application-specific integrated circuits, or ASICs, and reshaping collaboration across the semiconductor suppl",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624PD209/mediatek-guc-ai-asic-cloud-tsmc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-24-017",
+    "date": "2026-06-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CATL's HIMA exclusivity fades in China EV battery shake-up",
+    "summary": "Harmony Intelligent Mobility Alliance (HIMA) is reducing its reliance on CATL and broadening its EV battery supply chain, a pragmatic reset driven by cost pressure, delivery targets, and supply risk i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624VL212/catl-harmony-ev-battery-gotion-cost.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-018",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI supply chain boom fuels Taiwan's investment, exports as GDP growth tops 10% outlook",
+    "summary": "Taiwan's economy is expected to maintain strong momentum through the second half of 2026, supported by accelerating AI-related investment, resilient exports, and robust demand across the semiconductor",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624PD228/taiwan-growth-investment-exports-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-06-24-019",
+    "date": "2026-06-24",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung, SK Hynix weigh new Korean chip belt as concerns mount for Yongin cluster",
+    "summary": "<p class=\"P1\" data-start=\"355\" data-end=\"712\">South Korea's government is in talks with Samsung Electronics and SK Hynix over a potential new phase of large-scale semiconductor investments, as the two",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624VL213/samsung-sk-hynix-ic-manufacturing-investment-government.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-020",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "capex",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former SMIC CEO targets China photomask IPO after 12-inch wafer bet",
+    "summary": "Former SMIC CEO Tzu-yin Chiu is extending his semiconductor materials strategy into photomasks, one of the most critical upstream links in chip manufacturing. Guangzhou Xinrui Photomask Technology, al",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624PD213/china-photomask-ipo-wafer-smic.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-06-24-021",
+    "date": "2026-06-24",
+    "companies": [
+      "meta"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Meta and EssilorLuxottica launch budget AI glasses line as smart eyewear portfolio expands to four products",
+    "summary": "Meta and EssilorLuxottica announced on June 23 the launch of Meta Glasses, a new co-branded AI glasses collection starting at $299, positioned as the more accessible entry point in a portfolio that no",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260624VL211/meta-smart-glasses-wearable-display-launch.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "synopsys-2026-06-24-022",
+    "date": "2026-06-24",
+    "companies": [
+      "synopsys"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Synopsys: Ansys, AI And The Case For A Higher Earnings Base",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4917259-synopsys-ansys-ai-and-the-case-for-a-higher-earnings-base?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-023",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock Health Sciences Term Trust Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4917255-blackrock-health-sciences-term-trust-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-024",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Semiconductor: The AI Toll Road Keeps Widening",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4917251-taiwan-semiconductor-the-ai-toll-road-keeps-widening?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-025",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gabelli Utility Trust Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4917247-gabelli-utility-trust-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-026",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SMHC: Investing In China's Parallel Semiconductor Ecosystem",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4917256-smhc-investing-in-china-parallel-semiconductor-ecosystem?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-027",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "negative",
+    "title": "You Won’t Turn Your Back On This 4TB Acer Predator GM7 SSD Deal During Amazon Prime Day 2026, as The High-Capacity Drive Can Be Yours For $470",
+    "summary": "Just when we thought that high-speed 4TB solid-state drives were out of reach for the majority of the masses, Amazon’s Prime Day 2026 sale drops another banger in the form of Acer’s Predator GM7 PCIe ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/acer-predator-gm7-4tb-ssd-now-470-on-amazon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-06-24-028",
+    "date": "2026-06-24",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rockstar Prices GTA VI at $80, Defusing Fears of a $100 Standard Edition just Hours Before Pre-Orders Open",
+    "summary": "Rockstar Games has just confirmed that GTA VI will be priced at $80, thus putting to rest long-held fears of a higher price. The studio also shared gorgeous new Grand Theft Auto VI screenshots and key",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gta-vi-price-80-dollars-rockstar-pre-orders/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-029",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "PlayStation 6 Frame Generation Research May Help Deliver 4K@120 Gameplay While Keeping Costs Down Amidst Crippling Price Increases",
+    "summary": "Amidst surging component prices that are driving up the cost of gaming hardware - both for systems already available and those launching very soon like Valve's new Steam Machine - Sony is facing multi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/playstation-6-frame-generation-deliver-4k-120-fps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-24-030",
+    "date": "2026-06-24",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Unlocked & Renewed Premium Versions Of The iPhone 17 Pro Can Be Yours At Up To A Whopping $250 Off During Prime Day 2026 Sale",
+    "summary": "The Renewed Premium store belonging to Amazon has your favorite iPhone 17 Pro stocked, and if you’re worried about getting a lemon, don’t worry, because each unit is individually inspected for serious",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/iphone-17-pro-unlocked-and-renewed-premium-models-are-up-to-250-off-on-amazon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-24-031",
+    "date": "2026-06-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China Fails To Stop Tech Firms From Using NVIDIA Chips, As Banned DGX & RTX “Blackwell” GPUs Hit 2x Price on Black Market",
+    "summary": "China has failed tremendously in stopping its tech firms from using banned NVIDIA Blackwell GPUs that are being sold on the black market for double the price. The US Banned NVIDIA Blackwell GPUs Becau",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/china-fails-to-stop-tech-firms-from-using-nvidia-chips-banned-blackwell-gpus-hit-2x-price-on-black-market/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-032",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "ASUS Signals That The PC Price Storm Has Passed As It Expects Single-Digit Price Bumps In Q3 2026",
+    "summary": "ASUS says that PC price bumps will gradually decline in the coming quarters and expects just single-digit hikes by Q3 2026. ASUS Claims That PC Prices Won't See Double-Digit Spikes By The End of This ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/asus-says-pc-price-storm-has-passed-expects-single-digit-price-bumps-q3-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-24-033",
+    "date": "2026-06-24",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ordering a trip back to 2009, with a side of nostalgia",
+    "summary": " A time when Windows 7 was Microsoft's latest and greatest ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/06/24/ordering-a-trip-back-to-2009-with-a-side-of-nostalgia/5259669",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-034",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AlpSemi raises €17m",
+    "summary": "<p>AlpSemi has completed a €17 million funding round led by Yotta Capital (France) with participation from SE Ventures (Global), Navitas Semiconductor (USA) and Cycle Group (Luxembourg). This financin",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/circuit-breakers-go-mainstream-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ymtc-2026-06-24-035",
+    "date": "2026-06-24",
+    "companies": [
+      "ymtc",
+      "cxmt"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China supplying 23% of domestic semi equipment needs and rising",
+    "summary": "<p>China remains the world’s largest semiconductor equipment market, supported by AI demand, memory expansion, and continued fab investments. The synchronized expansion of memory leaders CXMT and YMTC",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/china-supplying-23-of-domestic-semi-equipment-needs-and-rising-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [],
@@ -749,6 +1414,350 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/anglia-signs-linear-systems-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-23-042",
+    "date": "2026-06-23",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Announces BioNeMo Agent Toolkit â Tools for Agents to Accelerate Scientific Discovery",
+    "summary": "NVIDIA today announced NVIDIA BioNeMo Agent Toolkit, which provides domain-specific tools and skills for the agentic life sciences era.",
+    "sources": []
+  },
+  {
+    "id": "google-2026-06-23-043",
+    "date": "2026-06-23",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cannes Lions 2026: Strengthen creative campaigns with new tools from YouTube",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT_Illustration.max-600x600.format-webp.webp\">YouTube announces new insights tools to support creator partnerships and strengt",
+    "sources": []
+  },
+  {
+    "id": "meta-2026-06-23-044",
+    "date": "2026-06-23",
+    "companies": [
+      "meta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "We’re Partnering With EssilorLuxottica to Launch Meta Glasses",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "synopsys-2026-06-23-045",
+    "date": "2026-06-23",
+    "companies": [
+      "synopsys"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SNUG India 2026: Synopsys Unveils First Multiphysics Fusion Tools Since Ansys Deal",
+    "summary": "\n\t\t\t\t\t\t<p>Synopsys debuts Multiphysics Fusion tools post-Ansys, unifying EDA and physics for advanced node and 3DIC designs.</p>\n<p>The post <a href=\"https://www.eetimes.com/snug-india-2026-synopsys-u",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/snug-india-2026-synopsys-unveils-first-multiphysics-fusion-tools-since-ansys-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenovo-2026-06-23-046",
+    "date": "2026-06-23",
+    "companies": [
+      "lenovo"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save almost $1,500 instantly on an RTX 5080 gaming PC — Legion Tower 7i Gen 10 packs Core Ultra 7 265K and 32GB DDR5",
+    "summary": "\n                             Lenovo temporarily puts the Legion Tower 7i Gen 10 on sale for $2,899.99, 33% off its regular price tag. \n                                                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-almost-usd1-500-instantly-on-an-rtx-5080-gaming-pc-legion-tower-7i-gen-10-packs-core-ultra-7-265k-and-32gb-ddr5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-047",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The best Prime Day soldering iron deals for hobbyists and makers right now — take advantage of these limited-time sale discounts on digital irons, premium solder, heat-proof accessories, and more",
+    "summary": "\n                             Grab a new soldiering iron or accessories during this Amazon Prime Day sales week, with the best recommendations included here. \n                                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/maker-stem/soldering-irons/the-best-prime-day-soldering-iron-deals-for-hobbyists-and-makers-right-now-take-advantage-of-these-limited-time-sale-discounts-on-digital-irons-premium-solder-heat-proof-accessories-and-more",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-06-23-048",
+    "date": "2026-06-23",
+    "companies": [
+      "dell"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Best Amazon Prime Day gaming laptop PC deals 2026 — epic discounts on Dell, Alienware, MSI, ROG, and others",
+    "summary": "\n                             Here are the best gaming laptop deals during Amazon Prime Day 2026. We're constantly updating this list with the best deals still available across all of the major retail",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/best-gaming-laptop-deals-discount",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-23-049",
+    "date": "2026-06-23",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Get a 4TB Samsung 9100 Pro SSD for just $459 in blockbuster Prime Day sale — remarkable deal shaves $900 off PCIe 5.0 NVMe drive to bring it below MSRP [Updated]",
+    "summary": "\n                             Samsung's 4TB 9100 Pro PCIe 5.0 NVMe SSD is on sale for a remarkable price, bringing its $1,360 MSRP down to just $460. \n                                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/save-an-amazing-usd900-off-a-4tb-samsung-9100-pro-ssd-in-blockbuster-prime-day-deal-remarkable-sale-brings-pcie-5-0-nvme-drive-from-usd1-360-down-to-just-usd459",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-23-050",
+    "date": "2026-06-23",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Save $250 on the cheapest RTX 5080 around this Prime Day — Gigabyte Gaming OC GeForce RTX 5080 at stellar pricing on Newegg",
+    "summary": "\n                             The Gigabyte Gaming OC GeForce RTX 5080 pairs factory overclocking, triple-fan cooling, and support for DLSS 4.5 with a $250 discount, bringing one of Nvidia's fastest ga",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/save-usd250-on-the-cheapest-rtx-5080-around-this-prime-day-gigabyte-gaming-oc-geforce-rtx-5080-at-stellar-pricing-on-newegg",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-051",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Swiss army knife of USB DVD drives is on sale, also features a built-in M.2 SSD slot, USB hub, and SATA hard drive dock — $26 for DVD writer and hub, $39 gets an added SATA or M.2 SSD dock",
+    "summary": "\n                             Portable DVD writers with flash media reading and SATA drive docking abilities are on sale at Amazon Prime Day 2026. \n                                                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/storage/the-swiss-army-knife-of-usb-dvd-drives-is-on-sale-also-features-a-built-in-m-2-ssd-slot-usb-hub-and-sata-hard-drive-dock-usd26-for-dvd-writer-and-hub-usd39-gets-an-added-sata-or-m-2-ssd-dock",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-23-052",
+    "date": "2026-06-23",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASRock X870E Challenger WIFI White Motherboard Review: More Features, More VRMs, Great Support For $229",
+    "summary": "It's been three years since the AMD AM5 motherboard platform and the 600-series motherboards launched. Since its launch, the platform has seen the launch of several CPUs in the Ryzen 7000, Ryzen 8000,",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/review/asrock-x870e-challenger-wifi-white-motherboard-review/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-053",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Lords of the Fallen 2 Delayed to Q1 2027 as Another Game Escapes GTA 6 and 2026’s Jam-Packed Schedule",
+    "summary": "Lords of the Fallen 2 has officially been delayed out of 2026, developer CI Games has confirmed via a statement from the studio's chief executive officer Marek Tyminski posted to his personal X (forme",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/lords-of-the-fallen-2-delayed-q1-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-06-23-054",
+    "date": "2026-06-23",
+    "companies": [
+      "broadcom",
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google Taps MediaTek to Build TPUv9 “Triggerfish,” Fusing CPU and Compute Die in One Package for Agentic AI",
+    "summary": "Google is working with MediaTek to bring its next-generation TPUv9 chip, codenamed Triggerfish, to the Agentic AI market. MediaTek-Developed Google TPUv9 \"Triggerfish\" Packs A CPU That Should Accelera",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/google-mediatek-build-tpuv9-triggerfish-cpu-compute-die-one-package-agentic-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-06-23-055",
+    "date": "2026-06-23",
+    "companies": [
+      "skhynix",
+      "samsung",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Report: TSMC Follows Samsung and SK Hynix Into Price Surge, Catching Its Own Customers Off Guard With 7nm Hikes",
+    "summary": "Taiwanese contract chip manufacturing giant is raising prices for most of its manufacturing process technology nodes, according to a report from Culpium. The price hikes have come in response to the m",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/report-tsmc-follows-samsung-and-sk-hynix-into-price-surge-catching-its-own-customers-off-guard-with-7nm-hikes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-23-056",
+    "date": "2026-06-23",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "earnings",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple Is In For A Sticker Shock In Q3, With LPDDR5X DRAM Costs Surging By $68.8 In A Single Quarter, As Operating Profit Margin For General-Purpose DRAM To Hit 90% Within The Year",
+    "summary": "With an ecosystem of over 1.5 billion devices worldwide, Apple has historically enjoyed a heretofore unprecedented leverage with its supply chain partners. Yet, as the ongoing DRAM squeeze shows no si",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-is-in-for-a-sticker-shock-in-q3-with-lpddr5x-dram-costs-surging-by-68-8-in-a-single-quarter-as-operating-profit-margin-for-general-purpose-dram-to-hit-90-within-the-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-057",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mythos discovers 'Squidbleed,' a memory leak that's gone undetected since Clinton era",
+    "summary": " Plus more blasts from the past: NetWare, FTP, and HTTP ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/06/23/mythos-discovers-squidbleed-a-memory-leak-thats-gone-undetected-since-clinton-era/5260367",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-058",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "euv"
+    ],
+    "impact": "positive",
+    "title": "Space Force goes to (pretend) orbital war following record-fast Rocket Lab launch",
+    "summary": " Less than 17 hours after receiving orders, Rocket Lab put Pioneer in orbit for close-range maneuvers with True Anomaly's Jackal satellite ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/06/23/space-force-goes-to-pretend-orbital-war-following-record-fast-rocket-lab-launch/5260277",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-23-059",
+    "date": "2026-06-23",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Valve opens Steam Machine pre-orders with queue lottery and hefty prices amid AI squeeze",
+    "summary": " Alternatively, you can install SteamOS 3.8 on your own AMD-powered hardware ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/06/23/valve-opens-steam-machine-pre-orders-with-queue-lottery-and-hefty-prices-amid-ai-squeeze/5260242",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oracle-2026-06-23-060",
+    "date": "2026-06-23",
+    "companies": [
+      "oracle"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "21,000 Oracle jobs vanish amid Big Red's big bets on AI",
+    "summary": " Annual report reveals workforce fell from 162,000 to 141,000 in a year as company pours billions into datacenter expansion ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/databases/2026/06/23/21000-oracle-jobs-vanish-amid-big-reds-big-bets-on-ai/5260086",
         "type": "rss"
       }
     ]
