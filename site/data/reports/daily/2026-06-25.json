@@ -1,0 +1,336 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:54:00.519641Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "qualcomm-2026-06-25-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerators — touts 6x higher bandwidth-per-watt compared to HBM, 200x capacity compared to on-chip SRAM",
+      "companies": [
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-reveals-hbc-near-memory-ai-architecture-ai250-and-ai350-accelerators-touts-6x-higher-bandwidth-per-watt-compared-to-hbm-200x-capacity-compared-to-on-chip-sram"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung-2026-06-25-017",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及財報"
+      ],
+      "title": "Samsung chairman reviews HBM4 supply as revenue tops US$1 billion",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624VL220/samsung-hbm-chairman-revenue-hbm4.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-25-021",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Sigurd expands AI testing capacity as demand keeps facilities full",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624PD217/sigurd-capacity-testing-demand-revenue.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "qualcomm-2026-06-25-010",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions",
+      "companies": [
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.eetimes.com/qualcomm-forecasts-billions-in-additional-revenue-from-new-data-center-solutions/"
+    },
+    {
+      "rank": 5,
+      "event_id": "micron-2026-06-25-042",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "Micron locks in historically high memory prices for five years",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.01,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 36,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "qualcomm",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "screen",
+        "count": 2
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "micron",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "capacity",
+        "count": 9
+      },
+      {
+        "id": "hbm",
+        "count": 3
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 77,
+    "too_old": 91,
+    "gate1_blocked": 62,
+    "gate2_blocked": 24,
+    "passed": 67,
+    "pass_rate": "27.5%",
+    "gate2_block_rate": "9.8%",
+    "gate2_samples": [
+      "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Disco",
+      "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "Supermicro Broadens AI at the Edge Solutions Portfolio with Intel-Powered Platforms Optimized for Lo",
+      "Google Wallet makes TSA PreCheck Touchless ID available for more travelers"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為高通、英特爾、Screen Holdings相關動態：「Qualcomm reveals HBC near-memory AI architecture, AI250 a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Qualcomm reveals HBC near-memory AI architecture, AI250 and AI350 accelerator...（HBM、產能、AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung chairman reviews HBM4 supply as revenue tops US$1 billion（HBM、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

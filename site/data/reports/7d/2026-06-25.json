@@ -1,0 +1,318 @@
+{
+  "date": "2026-06-25",
+  "date_range": {
+    "start": "2026-06-19",
+    "end": "2026-06-25"
+  },
+  "generated_at": "2026-06-25T10:54:00.663357Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "asml-2026-06-19-030",
+      "date": "2026-06-19",
+      "title": "Post-silicon era gets closer as industry giants crack the 2D transistor scaling bottleneck with breakthrough tech — imec, ASML, and TSMC fab complementary 2D-material transistors at 50nm pitch on a 300mm wafer",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "qualcomm",
+      "company_b": "samsung",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 126,
+      "last_week": 130,
+      "week_over_week_change": "-3%",
+      "sentiment_this_week": 0.08
+    },
+    "hbm": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.07
+    },
+    "capacity": {
+      "this_week": 22,
+      "last_week": 24,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.11
+    },
+    "ai_server": {
+      "this_week": 13,
+      "last_week": 12,
+      "week_over_week_change": "+8%",
+      "sentiment_this_week": 0.27
+    },
+    "capex": {
+      "this_week": 11,
+      "last_week": 15,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 45,
+      "last_week": 34,
+      "week_over_week_change": "+32%",
+      "sentiment_this_week": 0.08
+    },
+    "euv": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": -0.05
+    },
+    "guidance": {
+      "this_week": 9,
+      "last_week": 7,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.11
+    },
+    "inventory": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.15
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 9,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 2,
+      "last_week": 7,
+      "week_over_week_change": "-71%",
+      "sentiment_this_week": -0.38
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": -0.11
+    },
+    "nand_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "skhynix": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 6
+    },
+    "samsung": {
+      "event_count": 15,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "apple": {
+      "event_count": 10,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 12,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "nvidia": {
+      "event_count": 18,
+      "sentiment_avg": 0.25,
+      "rank": 1
+    },
+    "kioxia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "asml": {
+      "event_count": 3,
+      "sentiment_avg": -0.08,
+      "rank": 9
+    },
+    "tsmc": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 7
+    },
+    "qualcomm": {
+      "event_count": 8,
+      "sentiment_avg": 0.03,
+      "rank": 5
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "micron": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 10
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "amd": {
+      "event_count": 6,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "google": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 22
+    },
+    "aws": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "infineon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 23
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "screen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 312,
+        "last": 276,
+        "change_pct": 13.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-19",
+      "event_count": 45,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-20",
+      "event_count": 22,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-21",
+      "event_count": 15,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-06-22",
+      "event_count": 68,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 61,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 55,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 46,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-19 ~ 2026-06-25）共 312 則事件，重點為「Post-silicon era gets closer as industry giants...」。超微情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "超微",
+        "reason": "本週情緒偏負面（-0.2），共 6 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "SK海力士",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
