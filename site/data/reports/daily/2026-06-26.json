@@ -1,0 +1,379 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T11:01:58.371307Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "qualcomm-2026-06-26-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM"
+      ],
+      "title": "Qualcomm HBC takes aim at HBM costs in AI data centers",
+      "companies": [
+        "qualcomm",
+        "amd",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260626PD219/qualcomm-hbm-data-data-center-technology.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "micron-2026-06-26-029",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及價格",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Lenovo Warns High Memory Prices Are The “New Normal” Through 2030, As DRAM And NAND May Never Return To Early-2025 Levels",
+      "companies": [
+        "micron",
+        "lenovo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "micron"
+        ]
+      },
+      "topics": [
+        "dram_price",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/lenovo-warns-high-memory-prices-are-the-new-normal/"
+    },
+    {
+      "rank": 3,
+      "event_id": "micron-2026-06-26-030",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "Micron Signs Up 16 “Strategic Customer Agreements” For Memory In A 5-Year Plan That Cannot Be Cancelled After Earning As Much Revenue As Much of The Company’s Entire History",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "dram_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/micron-signs-up-16-strategic-customer-agreements-for-memory-in-a-5-year-plan/"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-06-26-031",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及先進封裝"
+      ],
+      "title": "AMD’s EPYC Venice To Outpace NVIDIA’s Vera CPUs With 6.75M Units by 2027, Morgan Stanley Says, as Zen 6 Eclipses a 5.75M Rival",
+      "companies": [
+        "nvidia",
+        "amd",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "amd",
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/amd-epyc-venice-to-outpace-nvidia-vera-cpus-2027/"
+    },
+    {
+      "rank": 5,
+      "event_id": "micron-2026-06-26-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Exclusive: SK Hynix races to build Yongin memory megasite as supply crunch deepens",
+      "companies": [
+        "micron",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260626PD209/sk-hynix-memory-chips-fab-capacity-demand.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "industry_general",
+        "advanced_packaging"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 25,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "skhynix",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 3
+      },
+      {
+        "id": "micron",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 301,
+    "dup_title": 86,
+    "too_old": 85,
+    "gate1_blocked": 48,
+    "gate2_blocked": 26,
+    "passed": 56,
+    "pass_rate": "26.0%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Samsung Electronics Releases 2026 Sustainability Report… Expanding Water Replenishment Efforts",
+      "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Disco",
+      "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "Supermicro Broadens AI at the Edge Solutions Portfolio with Intel-Powered Platforms Optimized for Lo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為輝達、三星、SK海力士相關動態：「Qualcomm HBC takes aim at HBM costs in AI data centers」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Qualcomm HBC takes aim at HBM costs in AI data centers（HBM、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Lenovo Warns High Memory Prices Are The “New Normal” Through 2030, As DRAM An...（DRAM 價格、缺貨、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

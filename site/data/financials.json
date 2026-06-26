@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-25T10:53:54.827024Z",
-  "quarter": "2025-09-30, 2025-12-31, 2026-02-28",
+  "updated_at": "2026-06-26T11:01:52.575587Z",
+  "quarter": "2025-09-30, 2025-12-31, 2026-03-31",
   "companies": [
     {
       "id": "adata",
@@ -449,17 +449,17 @@
       "name": "美光",
       "ticker": "MU",
       "currency": "USD",
-      "ar": 15389000000,
-      "ar_prev": 8009000000,
-      "ar_qoq": "+92%",
+      "ar": 26894000000,
+      "ar_prev": 15389000000,
+      "ar_qoq": "+75%",
       "ar_period": "QoQ",
-      "inventory": 8267000000,
-      "inv_prev": 8205000000,
-      "inv_qoq": "+1%",
+      "inventory": 8567000000,
+      "inv_prev": 8267000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-02-28"
+      "quarter_date": "2026-05-31"
     },
     {
       "id": "microsoft",
@@ -653,17 +653,17 @@
       "name": "Screen Holdings",
       "ticker": "7735.T",
       "currency": "JPY",
-      "ar": 85843000000,
-      "ar_prev": 90791000000,
-      "ar_qoq": "-5%",
+      "ar": 100702000000,
+      "ar_prev": 85843000000,
+      "ar_qoq": "+17%",
       "ar_period": "QoQ",
-      "inventory": 173406000000,
-      "inv_prev": 168660000000,
-      "inv_qoq": "+3%",
+      "inventory": 158637000000,
+      "inv_prev": 173406000000,
+      "inv_qoq": "-9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-09-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "shin_etsu",
