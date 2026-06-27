@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-27",
+  "generated_at": "2026-06-27T10:21:46.638912Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-27-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "JCET's US$1.1bn expansion shows where China's AI chip crunch is moving",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260626VL206/ai-chip-packaging-jcet-expansion-testing.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-06-27-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "NVIDIA Quietly Claims Top Spot In The Datacenter Ethernet Switching Market As The Segment Balloons to $15.4b in Q1 2026",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://wccftech.com/nvidia-quietly-claims-top-spot-in-the-datacenter-ethernet-switch-market/"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-06-27-014",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Apple Is Now Begging The Trump Administration For Access To Blacklisted DRAM From CXMT, As iPhone 18 Pro’s Memory Costs Threaten To Triple",
+      "companies": [
+        "samsung",
+        "cxmt",
+        "micron",
+        "apple",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "samsung",
+          "skhynix"
+        ]
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/apple-is-now-begging-the-trump-administration-for-access-to-blacklisted-dram-from-cxmt-as-iphone-18-pros-memory-costs-threaten-to-triple/"
+    },
+    {
+      "rank": 4,
+      "event_id": "marvell-2026-06-27-015",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Marvell’s Structera CXL Accelerators Compress Data By Up To 3.64x To Make Every Gigabyte Count As Memory Shortages Intensify",
+      "companies": [
+        "marvell"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/marvell-structera-compression-makes-every-gigabyte-count-as-memory-shortages-intensify/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-27-004",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Hanmi targets advanced packaging market with FC Bonder 3.5",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260626VL211/packaging-hanmi-equipment-market-hbm.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "apple",
+        "count": 3
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "cxmt",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 3
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 105,
+    "too_old": 84,
+    "gate1_blocked": 56,
+    "gate2_blocked": 35,
+    "passed": 41,
+    "pass_rate": "19.0%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Samsung Electronics Releases 2026 Sustainability Report… Expanding Water Replenishment Efforts",
+      "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Disco",
+      "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "Supermicro Broadens AI at the Edge Solutions Portfolio with Intel-Powered Platforms Optimized for Lo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為蘋果、台積電、輝達相關動態：「JCET's US$1.1bn expansion shows where China's AI chip cru...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "JCET's US$1.1bn expansion shows where China's AI chip crunch is moving（HBM、產能、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "NVIDIA Quietly Claims Top Spot In The Datacenter Ethernet Switching Market As...（AI 伺服器、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
