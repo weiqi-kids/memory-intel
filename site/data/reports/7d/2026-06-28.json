@@ -1,0 +1,342 @@
+{
+  "date": "2026-06-28",
+  "date_range": {
+    "start": "2026-06-22",
+    "end": "2026-06-28"
+  },
+  "generated_at": "2026-06-28T10:37:05.698627Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intel-2026-06-22-015",
+      "date": "2026-06-22",
+      "title": "Intel CEO doubles down on advanced packaging with former SK Hynix chief's return",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "inventory",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.03,
+      "last_week_sentiment": 0.42,
+      "delta": -0.45,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "qualcomm",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 144,
+      "last_week": 116,
+      "week_over_week_change": "+24%",
+      "sentiment_this_week": 0.06
+    },
+    "ai_server": {
+      "this_week": 16,
+      "last_week": 8,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.16
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 12,
+      "last_week": 12,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.07
+    },
+    "inventory": {
+      "this_week": 15,
+      "last_week": 6,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": -0.03
+    },
+    "advanced_packaging": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.05
+    },
+    "earnings": {
+      "this_week": 50,
+      "last_week": 30,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.04
+    },
+    "capacity": {
+      "this_week": 29,
+      "last_week": 19,
+      "week_over_week_change": "+53%",
+      "sentiment_this_week": 0.1
+    },
+    "guidance": {
+      "this_week": 10,
+      "last_week": 6,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.08
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.06
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.02
+    },
+    "nand_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 22,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "intel": {
+      "event_count": 14,
+      "sentiment_avg": 0.13,
+      "rank": 3
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "amd": {
+      "event_count": 9,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "skhynix": {
+      "event_count": 10,
+      "sentiment_avg": -0.0,
+      "rank": 5
+    },
+    "samsung": {
+      "event_count": 18,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 8
+    },
+    "google": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 15
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "qualcomm": {
+      "event_count": 9,
+      "sentiment_avg": 0.03,
+      "rank": 7
+    },
+    "apple": {
+      "event_count": 13,
+      "sentiment_avg": -0.03,
+      "rank": 4
+    },
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 23
+    },
+    "aws": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "infineon": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 17
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 24
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "screen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "cxmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 29
+    },
+    "micron": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 30
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 31
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 351,
+        "last": 260,
+        "change_pct": 35.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-22",
+      "event_count": 68,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-23",
+      "event_count": 61,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 55,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 67,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 61,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 20,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 19,
+      "sentiment_avg": 0.15
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-22 ~ 2026-06-28）共 351 則事件，重點為「Intel CEO doubles down on advanced packaging wi...」。ARM、東京威力科創情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "ARM",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "東京威力科創",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

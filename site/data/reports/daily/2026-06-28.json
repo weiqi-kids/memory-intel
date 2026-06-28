@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:37:05.551100Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "apple-2026-06-28-017",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Apple Being Forced To Drop 2nm Process After Just Two Generations Because Of AI, As Race To Secure 1.4nm Supply Takes Paramount Importance",
+      "companies": [
+        "apple",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/apple-to-move-to-1-4nm-process-soon-to-secure-adequate-chip-supply/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-28-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Trusval reports record 2025 profit, eyes global growth in 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.33
+      },
+      "source_url": "https://www.digitimes.com/news/a20260624PD215/trusval-profit-revenue-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-28-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BlackRock Advantage SMID Cap Fund Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4918304-blackrock-advantage-smid-cap-fund-q1-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-28-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Gamco Natural Resources, Gold & Income Trust Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4918302-gamco-natural-resources-gold-and-income-trust-q1-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-28-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Franklin Mutual Quest Fund Q1 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4918299-franklin-mutual-quest-fund-q1-2026-commentary?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.31,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "apple",
+        "count": 3
+      },
+      {
+        "id": "marvell",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 122,
+    "too_old": 84,
+    "gate1_blocked": 58,
+    "gate2_blocked": 33,
+    "passed": 24,
+    "pass_rate": "12.1%",
+    "gate2_block_rate": "16.6%",
+    "gate2_samples": [
+      "Samsung Electronics Releases 2026 Sustainability Report… Expanding Water Replenishment Efforts",
+      "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Disco",
+      "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "Supermicro Broadens AI at the Edge Solutions Portfolio with Intel-Powered Platforms Optimized for Lo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為英特爾、蘋果、Marvell相關動態：「Apple Being Forced To Drop 2nm Process After Just Two Gen...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Apple Being Forced To Drop 2nm Process After Just Two Generations Because Of ...（資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Trusval reports record 2025 profit, eyes global growth in 2026（資本支出、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
