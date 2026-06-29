@@ -1,0 +1,336 @@
+{
+  "date": "2026-06-29",
+  "date_range": {
+    "start": "2026-06-23",
+    "end": "2026-06-29"
+  },
+  "generated_at": "2026-06-29T12:45:24.756980Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "skhynix-2026-06-23-006",
+      "date": "2026-06-23",
+      "title": "SK hynix passes Samsung as South Korea's most valuable company — memory company surpasses valuation milestone on the back of HBM",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "cxmt",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "micron",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 13,
+      "last_week": 9,
+      "week_over_week_change": "+44%",
+      "sentiment_this_week": -0.04
+    },
+    "industry_general": {
+      "this_week": 141,
+      "last_week": 122,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.06
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 9,
+      "last_week": 5,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": 0.11
+    },
+    "capacity": {
+      "this_week": 27,
+      "last_week": 18,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.09
+    },
+    "ai_server": {
+      "this_week": 14,
+      "last_week": 11,
+      "week_over_week_change": "+27%",
+      "sentiment_this_week": 0.07
+    },
+    "earnings": {
+      "this_week": 52,
+      "last_week": 28,
+      "week_over_week_change": "+86%",
+      "sentiment_this_week": 0.02
+    },
+    "shortage": {
+      "this_week": 9,
+      "last_week": 3,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 5,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": 0.04
+    },
+    "nand_price": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "capex": {
+      "this_week": 13,
+      "last_week": 11,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.11
+    },
+    "dram_price": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 5,
+      "last_week": 7,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung": {
+      "event_count": 21,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "nvidia": {
+      "event_count": 13,
+      "sentiment_avg": -0.04,
+      "rank": 3
+    },
+    "skhynix": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "apple": {
+      "event_count": 16,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "microsoft": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "intel": {
+      "event_count": 13,
+      "sentiment_avg": 0.13,
+      "rank": 5
+    },
+    "aws": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "infineon": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "qualcomm": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "amd": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 15
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 10
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "screen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "cxmt": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "micron": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 26
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 29
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 322,
+        "last": 280,
+        "change_pct": 15.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-23",
+      "event_count": 61,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-24",
+      "event_count": 55,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-25",
+      "event_count": 67,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 61,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 20,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 25,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 33,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-23 ~ 2026-06-29）共 322 則事件，重點為「SK hynix passes Samsung as South Korea's most v...」。ARM、東京威力科創情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "ARM",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "東京威力科創",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

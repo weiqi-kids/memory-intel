@@ -1,0 +1,452 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:45:24.618771Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-29-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "AI demand drives Foundry 2.0 market revenue up 23% in 1Q26, says Counterpoint",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "ai_server",
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260629VL207/semiconductor-industry-advanced-packaging-ic-testing-demand.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "skhynix-2026-06-29-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及財報"
+      ],
+      "title": "Samsung could become HBM market share leader in 2027",
+      "companies": [
+        "skhynix",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260629PD215/samsung-hbm-hbm4-market-share-2027.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-06-29-021",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "CXMT Can Witness Explosive Growth By Becoming Apple’s DRAM Supplier For Several Years As Just A Single Deal Represents A Promising Future For The Chinese Firm",
+      "companies": [
+        "samsung",
+        "micron",
+        "cxmt",
+        "apple",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "skhynix",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/cxmt-inked-3-billion-deal-from-one-customer-has-potential-to-secure-apple-orders/"
+    },
+    {
+      "rank": 4,
+      "event_id": "skhynix-2026-06-29-028",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及價格",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung, SK hynix, And Micron Now Face A US Federal Class-Action Lawsuit For Colluding To Bring About A “RAMpocalypse”",
+      "companies": [
+        "skhynix",
+        "samsung",
+        "apple",
+        "micron"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "skhynix",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "dram_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-sk-hynix-and-micron-now-face-a-us-federal-class-action-lawsuit-for-colluding-to-bring-about-a-rampocalypse/"
+    },
+    {
+      "rank": 5,
+      "event_id": "cxmt-2026-06-29-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Apple reportedly seeks CXMT approval to secure DRAM supply amid memory crunch",
+      "companies": [
+        "cxmt",
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260629PD223/dram-apple-cxmt-nand-data.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "earnings",
+        "shortage",
+        "industry_general",
+        "dram_price",
+        "hbm",
+        "capex"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "cxmt",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "micron",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "shortage",
+        "industry_general",
+        "dram_price",
+        "hbm"
+      ]
+    },
+    {
+      "from": "micron",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "shortage",
+        "industry_general",
+        "dram_price",
+        "hbm"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "dram_price",
+        "industry_general",
+        "hbm"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "micron",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "dram_price",
+        "industry_general",
+        "hbm"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "dram_price",
+        "industry_general",
+        "hbm"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 27,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 6
+      },
+      {
+        "id": "cxmt",
+        "count": 5
+      },
+      {
+        "id": "apple",
+        "count": 5
+      },
+      {
+        "id": "skhynix",
+        "count": 5
+      },
+      {
+        "id": "micron",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "hbm",
+        "count": 2
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 321,
+    "dup_title": 100,
+    "too_old": 83,
+    "gate1_blocked": 65,
+    "gate2_blocked": 34,
+    "passed": 39,
+    "pass_rate": "17.6%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Samsung Electronics Releases 2026 Sustainability Report… Expanding Water Replenishment Efforts",
+      "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+      "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Disco",
+      "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為三星、CXMT、蘋果相關動態：「AI demand drives Foundry 2.0 market revenue up 23% in 1Q2...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AI demand drives Foundry 2.0 market revenue up 23% in 1Q26, says Counterpoint（資本支出、AI 伺服器、財報、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung could become HBM market share leader in 2027（HBM、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

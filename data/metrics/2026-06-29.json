@@ -1,0 +1,291 @@
+{
+  "date": "2026-06-29",
+  "total_events": 33,
+  "by_company": {
+    "hp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "cxmt": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "intel": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "samsung": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "onsemi": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "apple": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "skhynix": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "micron": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "microsoft": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "amd": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "qualcomm": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 28,
+      "sentiment_avg": 0.05
+    },
+    "ddr5": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "inventory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_memory": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "ai_server": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.21
+    },
+    "advanced_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "hbm": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "shortage": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "dram_price": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {
+      "samsung": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "nvidia": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "asml": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "google": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "amd": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "skhynix": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "tokyo_electron": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      }
+    },
+    "topics": {
+      "earnings": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "hbm": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ai_memory": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ddr5": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "guidance": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      }
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 5,
+      "topics": [
+        "earnings",
+        "shortage",
+        "industry_general",
+        "dram_price",
+        "hbm",
+        "capex"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "cxmt",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "micron",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "shortage",
+        "industry_general",
+        "dram_price",
+        "hbm"
+      ]
+    },
+    {
+      "from": "micron",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "shortage",
+        "industry_general",
+        "dram_price",
+        "hbm"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "dram_price",
+        "industry_general",
+        "hbm"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "micron",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "dram_price",
+        "industry_general",
+        "hbm"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "earnings",
+        "dram_price",
+        "industry_general",
+        "hbm"
+      ]
+    }
+  ]
+}
