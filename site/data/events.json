@@ -1,5 +1,334 @@
 [
   {
+    "id": "unknown-2026-06-30-001",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "2026.06.30(Corrections) Issuing of Stock Options for Stock-Based Compensation (Share Subscription Rights)TopicsProducts / ServicesIRSustainabilityEventDisasterNotice",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "tokyo_electron-2026-06-30-002",
+    "date": "2026-06-30",
+    "companies": [
+      "tokyo_electron"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "2026.06.30Merger of Tokyo Electron America, Inc. and TEL Technology Center, America, LLCTopicsProducts / ServicesIRSustainabilityEventDisasterNotice",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-30-003",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: June 30",
+    "summary": "<p>Processing-using-DRAM interference; atomic-scale plasma processing; gallium oxide phase instability; event-driven reinforcement learning for fab control; microarchitectural timing leaks in embedded",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-23/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-004",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cargo thieves target AI data center supplies in $1.3 million heists — $300,000 worth of copper wire and $1 million worth of equipment recovered outside Chicago",
+    "summary": "\n                             Authorities recover $1.3 million worth of data center supplies and equipment in a truck stop near Chicago. Equipment like this is a prime target for theft rings given its",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/cargo-thieves-target-ai-data-center-supplies-in-usd1-3-million-heists-usd300-000-worth-of-copper-wire-and-usd1-million-worth-of-equipment-recovered-outside-chicago",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-30-005",
+    "date": "2026-06-30",
+    "companies": [
+      "amd",
+      "meta"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Meta fights soaring hardware costs by reusing old DDR4 server memory in new DDR5-only servers — custom CXL 2.0 chip marries legacy DDR4-2400 with cutting-edge DDR5-6400",
+    "summary": "\n                             Meta develops its custom Vistara CXL memory expander to use DDR4 memory with new servers running AMD EPYC 'Turin' processors. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/meta-fights-soaring-hardware-costs-by-reusing-old-ddr4-server-memory-in-new-ddr5-only-servers-custom-cxl-2-0-chip-marries-legacy-ddr4-2400-with-cutting-edge-ddr5-6400",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-006",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Designer turns discontinued E-Ink dev board into a 60Hz Game Boy handheld — dual-core chip runs at 100% to power handheld, 960x540 display employs ultra-low-cost ESP32-S3 microcontroller",
+    "summary": "\n                             The hardware is discontinued and the experience isn't perfect, but the fact that the emulator exists at all is a true technical achievement. \n                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/retro-gaming/designer-turns-niche-e-ink-dev-board-into-a-60hz-game-boy-handheld-960x540-display-powered-by-ultra-low-cost-esp32-s3-microcontroller",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-007",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Franklin U.S. Focused Growth SMA Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4918783-franklin-us-focused-growth-sma-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-008",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Harbor Diversified International All Cap Fund Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4918803-harbor-diversified-international-all-cap-fund-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-009",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "10%+ Yielding Stocks Too Cheap To Ignore",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4918723-10-percent-plus-yielding-stocks-too-cheap-to-ignore?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-010",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TCW Corporate Bond ETF Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4918777-tcw-corporate-bond-etf-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-011",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TCW Senior Loan ETF Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4918796-tcw-senior-loan-etf-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-012",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock Technology Opportunities Fund Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4918793-blackrock-technology-opportunities-fund-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-013",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "DigitalOcean: Great Disruptive Stock, But Now The Price Is Too High",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4918769-digitalocean-great-disruptive-stock-but-now-the-price-is-too-high?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-30-014",
+    "date": "2026-06-30",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Xbox Layoffs Could Become Gaming’s Largest Ever, and even Undead Labs May Face the Axe Despite State of Decay 3",
+    "summary": "It's hard to believe, but it seems like even State of Decay 3 developer Undead Labs may be in danger of being closed by Microsoft in the imminent round of Xbox layoffs. The studio recently kicked off ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-layoffs-largest-ever-undead-labs-state-of-decay-3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-30-015",
+    "date": "2026-06-30",
+    "companies": [
+      "apple",
+      "samsung",
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung Could Aid Apple’s Rapid 1.4nm Transition, As Foundry Giant Reportedly Restarting Commercialization Of Next-Generation Lithography",
+    "summary": "To keep pace with TSMC, Samsung’s 1.4nm process was originally targeted for mass production in 2027, but the Korean giant changed priorities, reportedly believing that stabilizing 2nm yields took prec",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-beginning-commercialization-of-1-4nm-process-could-aid-apple/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-016",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why moisture is the quiet killer of AI chips",
+    "summary": "<p>Moisture is an often-ignored threat to electronics. Ajay Sekar suggests some ways to reduce its impact. Figure 1: Chip package cross-section — moisture ingress pathways. Vertical cross-section of a",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/why-moisture-is-the-quiet-killer-of-ai-chips-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-017",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China phone companies drop 2026 shipment forecasts",
+    "summary": "<p>Xiaomi, Oppo and Vivo have told suppliers they will again cut shipment targets by up to 30% because of memory costs and shortages, reports the Nikkei. Xiaomi was looking to ...</p>\n<p>The post <a h",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/china-phone-companies-drop-2026-shipment-forecasts-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-018",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "capex",
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nexchip to raise $890m in Hong Kong",
+    "summary": "<p>China&#8217;s third largest silicon foundry, Nexchip Semiconductor, is to raise $890 million on the Hong Kong stock exchange. Nexchip ranks third, after SMIC and Hua Hong, in China’s foundry indust",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/nexchip-to-raise-890m-in-hong-kong-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-29-001",
     "date": "2026-06-29",
     "companies": [],
@@ -660,6 +989,279 @@
     ]
   },
   {
+    "id": "intel-2026-06-29-034",
+    "date": "2026-06-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "America 250: At a Pivotal Moment for the Nation, Intel is Advancing U.S. Innovation, AI, and Manufacturing",
+    "summary": "<p>NEWS HIGHLIGHTS: The U.S. is at an inflection point. Artificial intelligence is reshaping global competition and increasing the need for secure, domestic semiconductor production. U.S. leadership i",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-29-035",
+    "date": "2026-06-29",
+    "companies": [
+      "nvidia",
+      "microsoft"
+    ],
+    "topics": [
+      "capex",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Claude Meets Blackwell Ultra: Anthropicâs Models Now Run on NVIDIA GB300 in Azure",
+    "summary": "Anthropicâs Claude models in Microsoft Foundry â hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs â are now generally available, giving Azure-native enterprises a power",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-06-29-036",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HW Fingerprinting Technique for Silicon Photonic ICs Using Photonic Crystal-based Density-Controlled Patterns (U. of Florida)",
+    "summary": "<p>Researchers from University of Florida published a technical paper titled “Enhancing Co-packaging Optics Enabled Silicon Photonics Security Assurance Hardware Fingerprinting.” Abstract Excerpt: The",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/photonic-crystal-fingerprints-target-silicon-photonics-supply-chain-security/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-037",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna)",
+    "summary": "<p>Researchers from ETH Zurich, lowRISC, and University of Bologna published a technical paper titled “Croc: Training the Next Generation Chip Designers on Domain-Specific End-to-End Open Source Silic",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-29-038",
+    "date": "2026-06-29",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD EXPO ULL RAM drops at jaw-dropping $1,099 despite promises of it being 'effectively the same price' — DDR5-6000 C26 32GB kit sports 80% ULL tax",
+    "summary": "\n                             Newegg has started selling G.Skill’s Trident Z5 NeoX memory kits featuring AMD ULL technology, and the prices are already high. \n                                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ram/amd-expo-ull-ram-drops-at-jaw-dropping-usd1-099-despite-promises-of-it-being-effectively-the-same-price-ddr5-6000-c26-32gb-kit-sports-80-percent-ull-tax",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-29-039",
+    "date": "2026-06-29",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Legacy Nvidia RTX 3060 12GB returns to retail five years after original launch, priced at $339 — resurrected GPU strategy that Jensen called a 'good idea' apparently comes to fruition",
+    "summary": "\n                             After Nvidia CEO Jensen Huang said that \"it's a good idea\" to consider re-introducing older GPUs made on trailing process nodes, the five-year-old RTX 3060 is back on e-t",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/legacy-nvidia-rtx-3060-12gb-returns-to-retail-five-years-after-original-launch-priced-at-usd339-resurrected-gpu-strategy-that-jensen-called-a-good-idea-apparently-comes-to-fruition",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-29-040",
+    "date": "2026-06-29",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "South Korea unveils $520 billion investment plan with Samsung and SK Hynix to expand memory chip dominance — plan includes four new fabs and HBM facilities, amid strong government support",
+    "summary": "\n                             President Lee unveiled an 800 trillion won ($520B) public-private plan for four new Samsung and SK Hynix fabs, dwarfing the US CHIPS Act tenfold. \n                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/south-korea-unveils-usd520-billion-investment-plan-with-samsung-and-sk-hynix-to-expand-memory-chip-dominance-plan-includes-four-new-fabs-and-hbm-facilities-amid-strong-government-support",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-041",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Steamroller becomes first prebuilt gaming PC to ship with SteamOS — Ryzen 9600X, Radeon RX 7600, 16GB DDR5 RAM system available for preorder at $1,299",
+    "summary": "\n                             Steamroller is the first commercially available prebuilt gaming PC running SteamOS, pairing standard desktop components with future upgradeability. \n                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/steamroller-becomes-first-prebuilt-gaming-pc-to-ship-with-steamos-ryzen-9600x-radeon-rx-7600-16gb-ddr5-ram-system-available-for-preorder-at-usd1-299",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-06-29-042",
+    "date": "2026-06-29",
+    "companies": [
+      "micron",
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung, SK hynix, and Micron sued over alleged DRAM price fixing amid record memory costs — lawsuit claims coordinated HBM shift was cover to curtail DDR3 and DDR4 production",
+    "summary": "\n                             Samsung, SK hynix, and Micron were sued on June 25th in the U.S. District Court for the Northern District of California. \n                                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/samsung-sk-hynix-and-micron-sued-over-alleged-dram-price-fixing-amid-record-memory-costs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-29-043",
+    "date": "2026-06-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Imec's 2026 roadmap details 0.3nm nodes by 2038, CFET transistors become viable at 0.7nm — company redefines Moore's Law as cell sizes gain importance for density",
+    "summary": "\n                             As CPP shrinking stalls, chipmakers find a new way to increase transistor density. Imec foresees 0.3nm in 2038, CFET insertion in 2038, HLSI era. \n                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/imecs-2026-roadmap-details-0-3nm-nodes-by-2038-cfet-transistors-become-viable-at-0-7nm-company-redefines-moores-law-as-cell-sizes-gain-importance-for-density",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-29-044",
+    "date": "2026-06-29",
+    "companies": [
+      "microsoft",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA’s Blackwell Ultra GB300 Now Powers Anthropic’s Claude Models on Microsoft Azure, Targeting Autonomous Enterprise Agents",
+    "summary": "Anthropic has announced the general availability of its Claude AI models on Microsoft Azure, powered by NVIDIA's Blackwell Ultra GPUs. Anthropic &#38; NVIDIA Bring Claude AI Models to Microsoft Azure ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-blackwell-ultra-powers-anthropic-claude-models-in-microsoft-azure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-29-045",
+    "date": "2026-06-29",
+    "companies": [
+      "apple",
+      "cxmt"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s Bid to Source Memory From China’s CXMT May Collapse as Beijing Prioritizes its Own Chip-Starved Firms",
+    "summary": "Korea's Korea Investment &#38; Securities (KIS) believes that China's CXMT will be unable to make a definitive impact on the global memory market. The memory shortage, spurred by high demand from AI c",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apples-bid-to-source-memory-from-chinas-cxmt-may-collapse-as-beijing-prioritizes-its-own-chip-starved-firms/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-29-046",
+    "date": "2026-06-29",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The CWA and 3,500+ Unionized Xbox Employees Are Ready to Fight Back Against Xbox’s Reported Imminent Mass Layoffs",
+    "summary": "When Xbox was looking to complete its purchase of Activision Blizzard King, one of the factors that helped get it over the line was agreeing to a neutrality framework with the Communications Workers o",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cwa-xbox-unionized-employees-ready-to-fight-back-against-mass-layoffs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-06-29-047",
+    "date": "2026-06-29",
+    "companies": [
+      "apple",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s A20 Pro Borrows Samsung’s Side-by-Side DRAM Trick, And Places A Vapor Chamber On The Die, Echoing Exynos 2700’s Heat Path Block Strategy",
+    "summary": "Apple has thoroughly established itself as a leader when it comes to designing its custom silicon. Even so, it's not above emulating innovative ideas, as it appears to be doing with the upcoming A20 P",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apples-a20-pro-borrows-samsungs-side-by-side-dram-trick-and-places-a-vapor-chamber-on-the-die-echoing-exynos-2700s-heat-path-block-strategy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intel-2026-06-28-001",
     "date": "2026-06-28",
     "companies": [
@@ -1132,6 +1734,25 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/samsung-9100-pro-up-to-8tb-and-49-percent-off-on-amazon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-28-026",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corsair's Vengeance 32GB DDR5-5600 RAM becomes the cheapest 2x16GB kit— DDR5 kit gets a $111 discount",
+    "summary": "\n                             This 32GB DDR5 memory kit won't impress enthusiasts with its timings or design, but its aggressive price makes it difficult to overlook. \n                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/pnys-performance-32gb-ddr5-5600-ram-becomes-the-cheapest-2x16gb-kit-ddr5-kit-gets-a-usd70-discount",
         "type": "rss"
       }
     ]
