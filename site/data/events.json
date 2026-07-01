@@ -1,5 +1,740 @@
 [
   {
+    "id": "unknown-2026-07-01-001",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Securing the Software Defined Vehicle: How Rambus and Telechips Enable Safe, Scalable Automotive SoC",
+    "summary": "<p>Scalable, heterogeneous SoC platforms with built-in, system-level security, including the hardware-based Root of Trust.</p>\n<p>The post <a href=\"https://semiengineering.com/securing-the-software-de",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/securing-the-software-defined-vehicle-how-rambus-and-telechips-enable-safe-scalable-automotive-soc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-002",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Observability Is A Missing Layer In AI-Era Chiplet Design",
+    "summary": "<p>In next-generation silicon, AI can interpret system behavior at scale, but only if observability is designed into the fabric as a first-class architectural capability.</p>\n<p>The post <a href=\"http",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/observability-is-a-missing-layer-in-ai-era-chiplet-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cadence-2026-07-01-003",
+    "date": "2026-07-01",
+    "companies": [
+      "cadence",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cadence Reality Digital Twin Platform and NVIDIA Omniverse Integration",
+    "summary": "<p>Accelerating data center design and optimization for the AI Era.</p>\n<p>The post <a href=\"https://semiengineering.com/cadence-reality-digital-twin-platform-and-nvidia-omniverse-integration/\">Cadenc",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/cadence-reality-digital-twin-platform-and-nvidia-omniverse-integration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-004",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Build Your Device Security Test Lab",
+    "summary": "<p>Design your lab based on your needs, target, and security goals, using a modular combination of HW, SW, and expert training for embedded systems, chips, and secure elements.</p>\n<p>The post <a href",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/build-your-device-security-test-lab/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-005",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Solid-State Circuit Breakers From A System Perspective",
+    "summary": "<p>How SSCBs can improve protection, efficiency, and reliability in next-gen electrical systems while addressing key design and implementation tradeoffs.</p>\n<p>The post <a href=\"https://semiengineeri",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/solid-state-circuit-breakers-from-a-system-perspective/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-006",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "HyperLane: GPU Virtualization with Imagination",
+    "summary": "<p>Stronger isolation, improved resource utilization, and the flexibility to integrate more SW features onto the same HW platform while still meeting rigorous safety and performance requirements.</p>\n",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/hyperlane-gpu-virtualization-with-imagination/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-007",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU Chips Act 2: Award-Winning Sequel or Straight to Video?",
+    "summary": "\n\t\t\t\t\t\t<p>EU Chips Act 2.0 gets the plot right: Fabs aren’t enough. Europe needs design-layer muscle and multi-foundry freedom. </p>\n<p>The post <a href=\"https://www.eetimes.com/eu-chips-act-2-award-w",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/eu-chips-act-2-award-winning-sequel-or-straight-to-video/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-008",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic restores Claude Fable 5 as US lifts export controls — single filter now blocks prompt that could identify software vulnerabilities and write code to exploit them",
+    "summary": "\n                             Anthropic has restored global access to Claude Fable 5, a day after the U.S. Department of Commerce withdrew the export controls. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-restores-claude-fable-5-as-us-lifts-export-controls",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-07-01-009",
+    "date": "2026-07-01",
+    "companies": [
+      "arm",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The bifurcated laptop landscape of Computex 2026 – MacBook Neo competitors with 8GB of RAM, and expensive Nvidia laptops promising an agentic-focused future of Windows on Arm",
+    "summary": "\n                             With no new GPUs or major mobile CPU platform launches surrounding the show, the laptop announcements at Computex this year fell into two disparate categories, appealing ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/the-bifurcated-laptop-landscape-of-computex-2026-macbook-neo-competitors-with-8gb-of-ram-and-expensive-nvidia-laptops-promising-an-agentic-focused-future-of-windows-on-arm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-010",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Philippine town closes all 'Pisonet' computer rental shops in wake of school shooting — incident blamed on violent video games, shops closed 'for the safety of the youth'",
+    "summary": "\n                             A town in northern Philippines closed down all computer rental shops, with the mayor saying that these establishments distracted students from their studies and led to ab",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/philippine-town-closes-all-pisonet-computer-rental-shops-in-wake-of-school-shooting-incident-blamed-on-violent-video-games-shops-closed-for-the-safety-of-the-youth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-011",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Virginia county asks all employees, including schools, to conserve power due to AI-driven electricity price hikes — state's 400-plus data centers steadily increasing demand, grid expansion, and pricing",
+    "summary": "\n                             Virginia county asks all employees including schools to save power, due to AI-driven power requirements— state's 400-plus datacenters steadily increasing demand, grid exp",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/virginia-county-asks-all-employees-including-schools-to-save-power-due-to-ai-driven-electricity-price-hikes-states-400-plus-data-centers-steadily-increasing-demand-grid-expansion-and-pricing",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-012",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New PC purchases see sharpest drop in nearly three years as memory and storage prices bite — shipments fall by 7%, analysts forecast 14% contraction that will hit budget laptops hard",
+    "summary": "\n                             A research firm says that PC deliveries for the first quarter of 2026 fell by 7%, with the entire industry expected to ship 14.4% less units for the entire year. \n       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/new-pc-purchases-see-sharpest-drop-in-nearly-three-years-as-memory-and-storage-prices-bite-shipments-fall-by-7-percent-analysts-forecast-14-percent-contraction-that-will-hit-budget-laptops-hard",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-013",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "32GB Corsair Vengeance DDR5 is $314 in this Woot sale — the lowest standalone RAM price in months, thanks to $125 discount",
+    "summary": "\n                             Get Corsair Vengeance DDR5 for just $314 at Woot. \n                                                                                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/32gb-corsair-vengeance-ddr5-is-usd314-in-this-woot-sale-the-lowest-standalone-ram-price-in-months-thanks-to-usd125-discount",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-07-01-014",
+    "date": "2026-07-01",
+    "companies": [
+      "broadcom",
+      "nvidia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia GPU-network ecosystem tops data center Ethernet switches",
+    "summary": "According to IDC's latest data, Nvidia's networking business has surged to the top, with the company becoming the revenue leader in the global data center Ethernet switch market for the first time in ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701PD224/nvidia-data-center-ethernet-idc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-01-015",
+    "date": "2026-07-01",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysis: Apple isn't a victim of memory price surge; it's the biggest winner",
+    "summary": "Every major consumer electronics company has raised prices this year. The reason, in almost every case, is the same: memory costs have surged, driven by AI data center demand that has overwhelmed glob",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701VL218/apple-memory-chips-price-electronics-iphone-macbook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-016",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yageo chairman takes control of Anpec board",
+    "summary": "After Yageo confirmed its stake in Taiwanese power management IC maker Anpec, attention has turned to whether the group will deepen its involvement in Anpec's operations as part of a broader consolida",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701PD222/yageo-anpec-ic-management.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-017",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "TMY Technology clears Taiwan listing review, satellite and defense businesses drive turnaround",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:249;143-391\">The Taiwan Stock Exchange (TWSE) Listing Review Committee approved TMY Technology Inc.'s application to list on the Taiwan Innovation Board (TIB) on Ju",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701PD221/tse-revenue-loss-taiwan-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-01-018",
+    "date": "2026-07-01",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, SK Hynix southwest fab plans put Gwangju's silicon photonics ambitions in focus",
+    "summary": "Samsung Electronics' and SK Hynix's planned memory investments in South Korea's southwest have mostly been viewed as a push to balance regional development and tap into local renewable energy.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701PD218/samsung-sk-hynix-siph-fab-region.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-07-01-019",
+    "date": "2026-07-01",
+    "companies": [
+      "qualcomm",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tenstorrent's Jim Keller says startup will outpace Cerebras as AI chip competition intensifies",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:333;148-480\">AI chip competition is widening beyond raw performance, a shift that matters for global cloud providers, device makers, and investors. Tenstorrent chie",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701PD205/ai-chip-tenstorrent-competition-cerebras-startup.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-01-020",
+    "date": "2026-07-01",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla taps Intel 18A veteran to lead Terafab chip project in Texas",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:256;99-354\">Tesla has hired Gary Jiang, a nearly 18-year Intel manufacturing veteran, as director of its Terafab chip project in Texas, marking the first publicly i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701VL211/tesla-intel-texas-manufacturing-fab.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-01-021",
+    "date": "2026-07-01",
+    "companies": [
+      "nvidia",
+      "supermicro"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Supermicro smuggling probes reportedly push Nvidia to tighten AI server checks further",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:669;185-853\">As the US tightens controls on advanced AI chip exports, smuggling schemes are surfacing across the AI server supply chain, driven by soaring Chinese d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701PD217/nvidia-ai-server-supermicro-exports-ai-chip.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-01-022",
+    "date": "2026-07-01",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Samsung Display to expand OLED capacity as foldable demand builds",
+    "summary": "Samsung Display (SDC) is preparing to expand 6th-generation OLED capacity at its A4 plant in Asan, South Chungcheong Province, marking its first new capacity move since the 8.6-generation IT OLED inve",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701VL214/sdc-oled-panel-foldable-smartphone-capacity-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-023",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kinpo expects 2H revenue to exceed 1H amid plant ramp",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:357;121-477\">Kinpo Electronics said its core operations remained stable despite a first-quarter revenue drop, with global demand patterns, customer model changes, a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701PD214/kinpo-revenue-materials-2026-gross-margin.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-01-024",
+    "date": "2026-07-01",
+    "companies": [
+      "nvidia",
+      "supermicro"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Albatron GM detained in Nvidia-linked Supermicro smuggling probe as firm moves to install acting chief",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:315;133-447\">Taiwan's Keelung prosecutors detained Albatron Technology general manager Kevin Lu on Tuesday on suspicion of smuggling Supermicro AI servers to restri",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701VL215/taiwan-supermicro-albatron-revenue-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-025",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Gus Technology names Hota Group president as chairman",
+    "summary": "Gus Technology has named Hota Group president Kuo-jung Shen as chairman after a June 30 shareholders' meeting, underscoring a deeper push into batteries, electric mobility, and energy systems. The mov",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701PD213/hota-management-automotive-lto-battery.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-026",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China's chip material makers riding the AI boom close in on Japan",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:251;193-443\">Chinese semiconductor material manufacturers are accelerating investments in advanced products as Beijing pushes for greater self-sufficiency, challeng",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260701VL208/materials-demand-production-market-beijing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-027",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hess Midstream LP: Transitioning From Growth Spending To Shareholder Return",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4919130-hess-midstream-lp-transitioning-from-growth-spending-to-shareholder-return?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-028",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rockhopper Exploration plc (RCKHF) Shareholder/Analyst Call - Slideshow",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4919143-rockhopper-exploration-plc-rckhf-shareholder-analyst-call-slideshow?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-029",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "3 All-American Dividend Stocks For America's 250th",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4918978-3-all-american-dividend-stocks-for-americas-250th?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-030",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Harbor Osmosis Emerging Markets Resource Efficient ETF Q1 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4919098-harbor-osmosis-emerging-markets-resource-efficient-etf-q1-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-031",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Shell plc (SHEL) Discusses Global LNG Trends, Market Developments, and Outlook - Slideshow",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4919139-shell-plc-shel-discusses-global-lng-trends-market-developments-and-outlook-slideshow?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-01-032",
+    "date": "2026-07-01",
+    "companies": [
+      "apple",
+      "micron"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron CEO Takes Another Jab At Apple In Latest Interview, Saying “Certain Customers Drove Pricing Significantly Down,” Impacting Its Investment Capability",
+    "summary": "In the years before the AI boom, Micron was viewed as nothing more than a commodity memory manufacturer, but times have witnessed a monumental change, and the company has now joined the trillion-dolla",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/micron-ceo-interview-implying-apple-drove-pricing-down-harming-investment-capability/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-033",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former Indonesian minister and startup hero jailed for Chromebook buys",
+    "summary": " Nadiem Makarim vows to appeal sentence given he was found not to have profited from $600 million laptops-for-schools program ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/legal/2026/07/01/former-indonesian-minister-and-startup-hero-jailed-for-chromebook-buys/5264779",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-034",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Non-AI lead times normalising",
+    "summary": "<p>The semiconductor market divide between AI-driven infrastructure demand and traditional end markets is growing, says Counterpoint’s Q2 Lead Times report. While the market, in general, is experienci",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/lead-times-3-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-01-035",
+    "date": "2026-07-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI transforming optical receiver market",
+    "summary": "<p>The optical transceiver market is expected to grow to more than $112 billion by 2031, driven primarily by AI infrastructure deployments, says Yole Group. AI is reshaping the competitive landscape, ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/ai-transforming-optical-receiver-market-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-07-01-036",
+    "date": "2026-07-01",
+    "companies": [
+      "dell"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI will enhance the RAN but won’t expand RAN market",
+    "summary": "<p>Cumulative AI RAN revenue is projected to reach $35 billion over the next five years (2026-2030) is not expected to expand the overall RAN market, says Dell’Oro. “AI RAN is ...</p>\n<p>The post <a h",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/ai-ran-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ptc-2026-07-01-037",
+    "date": "2026-07-01",
+    "companies": [
+      "ptc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Vishay adds to polymer PTC thermistors",
+    "summary": "<p>Vishay has extended its overcurrent protection portfolio with the introduction of six new surface-mount polymer positive temperature coefficient (PTC) thermistors. The devices provide resettable ov",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/vishay-adds-to-polymer-ptc-thermistors-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-01-038",
+    "date": "2026-07-01",
+    "companies": [
+      "samsung",
+      "infineon",
+      "micron",
+      "ti",
+      "skhynix",
+      "intel"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Ten IDMs",
+    "summary": "<p>Thanks to the Motley Fool for this one &#8211; the top ten IDMs in Q1: Samsung  Intel  SK Hynix  Micron  Infineon  TI ST NXP Sony Semiconductor  Murata </p>\n<p>The post <a href=\"https://www.electro",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-idms-3-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-30-001",
     "date": "2026-06-30",
     "companies": [],
@@ -324,6 +1059,400 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/nexchip-to-raise-890m-in-hong-kong-2026-06/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-30-019",
+    "date": "2026-06-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intel to Report Second-Quarter 2026 Financial Results",
+    "summary": "<p>SANTA CLARA, Calif., June 30, 2026 &#8212; Intel Corporation today announced that it will report second-quarter financial results on Thursday, July 23, 2026, promptly after close of market. Intel w",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-06-30-020",
+    "date": "2026-06-30",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How NVIDIAâs Inference Software Stack Powers the Lowest Token Cost",
+    "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per doll",
+    "sources": []
+  },
+  {
+    "id": "google-2026-06-30-021",
+    "date": "2026-06-30",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Gemini Spark updates: macOS launch, connected apps and more",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp\">The latest Gemini Spark updates brings Spark to the macOS app, connects with your favorite",
+    "sources": []
+  },
+  {
+    "id": "google-2026-06-30-022",
+    "date": "2026-06-30",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.max-600x600.format-webp.webp\">Scale your ideas with Nano Banana 2 Lite, our fastest, most cost-efficie",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-06-30-023",
+    "date": "2026-06-30",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD confirms low-power CPU cores in Linux kernel patch — Zen 6 chips could follow in Intel's footsteps with new core type for background tasks",
+    "summary": "\n                             AMD confirms plans to incorporate low-power CPU cores into next-generation heterogeneous CPUs to lower power consumption and improve energy efficiency. \n                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-confirms-low-power-cpu-cores-in-linux-kernel-patch-zen-6-chips-could-follow-in-intels-footsteps-with-new-core-type-for-background-tasks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-30-024",
+    "date": "2026-06-30",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft's flagship Windows PC lineup will drop reportedly drop budget options — firm prunes Surface Go and Surface Laptop Go",
+    "summary": "\n                             Microsoft is further pruning its Surface line, with the Surface Laptop Go 3 and Surface Go 4 going out of stock without clear follow-ups. \n                               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/microsofts-flagship-windows-pc-lineup-will-drop-reportedly-drop-budget-options-firm-prunes-surface-go-and-surface-laptop-go",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-30-025",
+    "date": "2026-06-30",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Nvidia reportedly cancels quad-die Rubin Ultra GPU in favor of dual-GPU design, report claims — complex design purportedly scrapped over 'manufacturing execution concerns'",
+    "summary": "\n                             Nvidia reportedly abandons quad-dire Rubin Ultra GPUs in favor of dual-die Rubin Ultra due to 'manufacturing execution concerns.' \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-reportedly-cancels-quad-die-rubin-ultra-gpu-in-favor-of-dual-gpu-design-report-claims-complex-design-purportedly-scrapped-over-manufacturing-execution-concerns",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-026",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Chinese Z.ai's latest model tops AI ranking charts amid Anthropic Fable 5 ban — blacklisted China firm's popular open-weight GLM-5.2 AI model powered by Huawei silicon",
+    "summary": "\n                             Within a week of Fable's ban, GLM-5.2 had climbed to the top of the openly available leaderboards. \n                                                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/z-ai-free-glm-5-2-tops-the-open-weight-ai-rankings-on-all-huawei-silicon",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-30-027",
+    "date": "2026-06-30",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA GeForce RTX 5090D Becomes The First Blackwell GPU To Hit 4 GHz Overclock In A Spectacular Showcase By Team OGS Using GALAX HOC OC Lab Variant",
+    "summary": "NVIDIA's GeForce RTX 5090D from GALAX (HOF OC LAB) has become the first Blackwell GPU to hit an overclock of 4 GHz. Team OGS Pushes NVIDIA's \"GALAX HOF OC LAB\" RTX 5090D To A Record 4 GHz Overclock It",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-geforce-rtx-5090d-becomes-the-first-blackwell-gpu-to-hit-4-ghz-overclock/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-30-028",
+    "date": "2026-06-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Musk’s Terafab Scores 18 Year Intel Veteran As Foundry Manager For $55 Billion Chip Manufacturing Project",
+    "summary": "Tesla's Terafab project, through which Elon Musk aims to support his space AI and robotic chip needs, has managed to bring an Intel veteran on board. Intel is Tesla's partner for the Terafab project a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/musks-terafab-scores-18-year-intel-veteran-as-foundry-manager-for-55-billion-chip-manufacturing-project/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-06-30-029",
+    "date": "2026-06-30",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "hbm",
+      "shortage",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HBM Shortages Push AMD To Roll Out Its First Memory On-Package SoC, Meet Versal Gen 2 With 60% Less Board Footprint, 10x Compute & PCIe6 Support",
+    "summary": "AMD is releasing its first-ever SoCs with an on-package memory solution, the Versal Gen 2, which offers 10x compute uplift. AMD Versal Gen 2 Ditches HBM For LPDDR5X On-Package Memory, 15-Year Lifecycl",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/hbm-shortages-push-amd-to-roll-out-its-first-memory-on-package-soc-versal-gen-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-30-030",
+    "date": "2026-06-30",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "The CWA and Unionized Xbox Devs Have Been Fighting for Layoff Protections for Months, as Microsoft Drags its Feet on Negotiations: “The Uncertainty is Maddening”",
+    "summary": "Yesterday, with reports of mass layoffs at Xbox looming and set to happen late this week, the Communications Workers of America (CWA) hosted a press conference, where current employees at studios unde",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-cwa-unions-fight-layoffs-microsoft/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-06-30-031",
+    "date": "2026-06-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel Breaks Ground On New Manufacturing Facility In Santa Clara, As Foundry Business Brings Back Semiconductor Leadership Right In The Heart of Silicon Valley",
+    "summary": "Intel Foundry is expanding its manufacturing capabilities with state-of-the-art facilities in the heart of Silicon Valley in Santa Clara, US. Intel Foundry Expanding Its Manufacturing Strength on US S",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-foundry-breaks-ground-on-new-manufacturing-facility-in-santa-clara-silicon-valley/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-06-30-032",
+    "date": "2026-06-30",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Prepares To Kill Its Galaxy Z Flip Line The Way It Buried The Note, As A Rollable Phone Gears Up To Hog The Spotlight",
+    "summary": "Samsung appears ready to bid adieu to the Galaxy Z Flip line, especially as the passport-sized Galaxy Z Fold 8 is now ready to cater to the compact-sized foldable space, and as Samsung appears to be w",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-prepares-to-kill-its-galaxy-z-flip-line-the-way-it-buried-the-note-as-a-rollable-phone-gears-up-to-hog-the-spotlight/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-033",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Cloud Gaming Worth It In 2026? Pros, Cons, Trade-Offs & Why It Still Can’t Replace Gaming PCs",
+    "summary": "It seems that cloud gaming is making headlines once again. A recent viral post from LaurieWired argued that cloud gaming is “obviously more economically efficient than consumer-owned hardware\". The lo",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/is-cloud-gaming-worth-it-in-2026-pros-cons-trade-offs-why-it-still-cant-replace-gaming-pcs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-06-30-034",
+    "date": "2026-06-30",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Slashes DeepSeek v4 Token Costs By Up To 5x Just One Month After Launch, Through Pure Blackwell Software Tuning",
+    "summary": "NVIDIA Blackwell GPUs continue to see massive optimizations, leading to a 5x drop in token cost in DeepSeek v4 AI models. NVIDIA Cost Per Token Narrative Sees Massive Gain In DeepSeek V4 As AI Model S",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-slashes-deepseek-v4-token-costs-by-up-to-5x-one-month-after-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-06-30-035",
+    "date": "2026-06-30",
+    "companies": [
+      "broadcom",
+      "nvidia",
+      "skhynix",
+      "google",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Etched Pulls 400+ Engineers From NVIDIA, TSMC & More to Build a New Frontier Inference Cluster For AI Which Is Already Worth $1B in Demand",
+    "summary": "Etched, a new startup with a team of 400+ engineers, has announced its latest AI solution, the Frontier Inference Clusters. Etched Comes Out of Stealth To Unveil Its Frontier Inference Clusters, Achie",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/etched-pulls-400-engineers-nvidia-tsmc-build-new-frontier-inference-cluster-for-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-06-30-036",
+    "date": "2026-06-30",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "“Talent, Not Tech,” is Gaming’s Most Important Resource, and More Mass Layoffs Will Leave Xbox and Others Behind, “Both Short-Staffed and Short-Sighted,” Says Analyst",
+    "summary": "Once again, the video game industry is caught in a limbo state, waiting for the hammer of more mass layoffs to fall, and once again, it's Xbox and Microsoft bringing its gavel down. While Asha Sharma ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-mass-layoffs-put-them-behind-short-staffed-short-sighted-says-analyst/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-06-30-037",
+    "date": "2026-06-30",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm's proposed solution to catch up in AI infra: Bury the compute under the DRAM",
+    "summary": " With its next-gen AI accelerators, the SoC vendor aims to fly high above the memory wall ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/06/30/qualcomms-proposed-solution-to-catch-up-in-ai-infra-bury-the-compute-under-the-dram/5264071",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-06-30-038",
+    "date": "2026-06-30",
+    "companies": [
+      "meta"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Meta's non-surgical mind reading machine improves on prior projects, but still isn't great",
+    "summary": " 61% word accuracy is progress, but the system still relies on users typing and can't yet support real-time communication. Implanted BCIs remain well ahead ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/06/30/metas-non-surgical-mind-reading-machine-improves-on-prior-projects-but-still-isnt-great/5264500",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-30-039",
+    "date": "2026-06-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What the OCI MSA didn't solve for AI scaling",
+    "summary": " PARTNER CONTENT: The OCI MSA settled the architecture for optical scale-up. How fast bandwidth scales is a manufacturing question, not an architectural one ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/hpc/2026/06/30/what-the-oci-msa-didnt-solve-for-ai-scaling/5262624",
         "type": "rss"
       }
     ]
