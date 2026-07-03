@@ -1,0 +1,347 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T10:50:15.610895Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "onsemi-2026-07-03-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "[Infographic] Teamwork Behind Cutting-Edge Chip Manufacturing: How Samsung Foundry’s SAFE™ Ecosystem Powers Next-Generation Semiconductor Innovation",
+      "companies": [
+        "onsemi",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "tsmc-2026-07-03-011",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "Intel takes aim at TSMC's CoWoS lead with EMIB-T",
+      "companies": [
+        "tsmc",
+        "marvell",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "ai_server",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260703VL207/intel-transistor-tsmc-cowos-packaging.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-07-03-021",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Apple’s Dual-Foundry Approach To Reach Fruition Much Faster Than Anticipated, As Company Plans To Adopt Intel’s 18A Process For The Base iPhone 18’s A20",
+      "companies": [
+        "tsmc",
+        "apple",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/base-iphone-18-with-a20-soc-to-be-made-using-intel-18a-process/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-07-03-020",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "Samsung Is Increasing LPDDR And Commodity DRAM Prices By Over 20% In Q3 After Hiking By 90% In Q1 And 50-60% In Q2",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-is-increasing-lpddr-and-commodity-dram-prices-by-over-20-in-q3-after-hiking-by-90-in-q1-and-50-60-in-q2/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-03-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Taiwan's Turvo confirms full management authority, reaffirms robotics expansion plans",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260702PD230/management-expansion-turvo-international-robot-earnings.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "capex",
+        "industry_general",
+        "advanced_packaging",
+        "ai_server"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 16,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "tsmc",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "onsemi",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      },
+      {
+        "id": "dram_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 88,
+    "too_old": 94,
+    "gate1_blocked": 59,
+    "gate2_blocked": 34,
+    "passed": 38,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "Samsung Electronics Releases 2026 Sustainability Report… Expanding Water Replenishment Efforts",
+      "Three ways Intel and MSI co-engineered the world’s first Arc G3 handheld",
+      "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and F",
+      "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為三星、台積電、英特爾相關動態：「[Infographic] Teamwork Behind Cutting-Edge Chip Manufactu...」。主要關注主題為半導體/記憶體通用、財報、資本支出，市場情緒中性。",
+    "signals": [
+      {
+        "text": "[Infographic] Teamwork Behind Cutting-Edge Chip Manufacturing: How Samsung Fo...（資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intel takes aim at TSMC's CoWoS lead with EMIB-T（AI 伺服器、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
