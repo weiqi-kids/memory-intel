@@ -1,0 +1,197 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:24:17.293312Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-04-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cohu: AI Test Exposure Can Still Pull Earnings Higher",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4919806-cohu-ai-test-exposure-can-still-pull-earnings-higher?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-04-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及價格"
+      ],
+      "title": "AI Could Wipe Out Budget Smartphones In 2027, As Experts Warn DRAM Chip Supply For AI Hardware To Account For More Than 60% Of Annual Supply",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/budget-smartphone-vanishing-in-2027-ai-hardware-accounting-for-60-percent-dram-supply/"
+    },
+    {
+      "rank": 3,
+      "event_id": "infineon-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Infineon wins fourth German patent ruling against Innoscience, as GaN fight flares in Shanghai",
+      "companies": [
+        "infineon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260704VL200.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "intel-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intel: AI Efficiency Could Counter Semiconductor Demand",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4919808-intel-ai-efficiency-could-counter-semiconductor-demand?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "infineon",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "dram_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 102,
+    "too_old": 95,
+    "gate1_blocked": 61,
+    "gate2_blocked": 29,
+    "passed": 26,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "13.7%",
+    "gate2_samples": [
+      "Three ways Intel and MSI co-engineered the world’s first Arc G3 handheld",
+      "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and F",
+      "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+      "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Infineon、英特爾相關動態：「Cohu: AI Test Exposure Can Still Pull Earnings Higher」。主要關注主題為半導體/記憶體通用、財報、DRAM 價格，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Cohu: AI Test Exposure Can Still Pull Earnings Higher（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "AI Could Wipe Out Budget Smartphones In 2027, As Experts Warn DRAM Chip Suppl...（DRAM 價格、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

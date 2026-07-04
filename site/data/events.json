@@ -1,5 +1,82 @@
 [
   {
+    "id": "infineon-2026-07-04-001",
+    "date": "2026-07-04",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Infineon wins fourth German patent ruling against Innoscience, as GaN fight flares in Shanghai",
+    "summary": "Germany's District Court Munich I ruled on July 3 that Innoscience infringed Infineon Technologies' gallium nitride (GaN) patents, barring the Chinese chipmaker from importing, selling, or marketing t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260704VL200.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-04-002",
+    "date": "2026-07-04",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel: AI Efficiency Could Counter Semiconductor Demand",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4919808-intel-ai-efficiency-could-counter-semiconductor-demand?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-04-003",
+    "date": "2026-07-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cohu: AI Test Exposure Can Still Pull Earnings Higher",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4919806-cohu-ai-test-exposure-can-still-pull-earnings-higher?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-04-004",
+    "date": "2026-07-04",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Could Wipe Out Budget Smartphones In 2027, As Experts Warn DRAM Chip Supply For AI Hardware To Account For More Than 60% Of Annual Supply",
+    "summary": "The DRAM supply situation is predicted to worsen for consumer electronics next year, with multiple industry watchers believing that a grim future for budget handsets could materialize in 2027. Thanks ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/budget-smartphone-vanishing-in-2027-ai-hardware-accounting-for-60-percent-dram-supply/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "onsemi-2026-07-03-001",
     "date": "2026-07-03",
     "companies": [
@@ -422,6 +499,451 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/on-prem/2026/07/03/eu-appears-to-find-datacenter-emissions-easier-to-offset-than-lobbyists/5265814",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-03-023",
+    "date": "2026-07-03",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "We're investing $1 million in Africa's indie game developers.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/indiegamesfund_socialshare.max-600x600.format-webp.webp\">Sub-Saharan Africa is home to incredible storytelling, which fuels th",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-07-03-024",
+    "date": "2026-07-03",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and Memory Access (Notre Dame, Georgia Tech, Villanova)",
+    "summary": "<p>Researchers from University of Notre Dame, Georgia Institute of Technology, and Villanova University published a technical paper titled “Probabilistic Memory for Trustworthy Edge Intelligence.” Sum",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/probabilistic-memory-architecture-that-bridges-the-gap-between-rng-sampling-and-memory-access-notre-dame-georgia-tech-villanova/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-03-025",
+    "date": "2026-07-03",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SK hynix Plans $713B Domestic Investment",
+    "summary": "\n\t\t\t\t\t\t<p>SK hynix is set to invest $713 billion to expand its semiconductor manufacturing capacity in South Korea and plans a Nasdaq listing.</p>\n<p>The post <a href=\"https://www.eetimes.com/sk-hynix",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/sk-hynix-plans-713b-domestic-investment/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-03-026",
+    "date": "2026-07-03",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Intel confirms price hikes on select consumer and server CPUs citing supply costs and demand — select Xeon processors now over $1,000 more expensive",
+    "summary": "\n                             Intel confirms price increases for Core Ultra 200S Plus, Xeon 6 processors, cites market dynamics, rising costs, soaring demand. \n                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-price-hikes-on-select-consumer-and-server-cpus-citing-supply-costs-and-demand-select-xeon-processors-now-over-usd1-000-more-expensive",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-03-027",
+    "date": "2026-07-03",
+    "companies": [
+      "skhynix",
+      "samsung",
+      "micron"
+    ],
+    "topics": [
+      "hbm",
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside the history of DRAM price-fixing lawsuits — how HBM allocations could make a difference after two decades of failed cases",
+    "summary": "\n                             17 plaintiffs sued Samsung, SK hynix, and Micron in the U.S. District Court for the Northern District of California in late June. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/samsung-sk-hynix-and-micron-face-a-third-dram-price-fixing-lawsuit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-028",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blackstone-owned QTS abandons planned world’s largest data center campus after years of lawsuits — 2,100-acre Virginia Digital Gateway project dies over a newspaper-notice technicality",
+    "summary": "\n                             Blackstone-owned QTS has withdrawn its final appeal for Virginia’s 22-million-square-foot Digital Gateway campus, ending the massive data center project. \n               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/blackstone-owned-qts-abandons-planned-worlds-largest-data-center-campus-after-years-of-lawsuits-2-100-acre-virginia-digital-gateway-project-dies-over-a-newspaper-notice-technicality",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-03-029",
+    "date": "2026-07-03",
+    "companies": [
+      "skhynix",
+      "samsung",
+      "micron"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix, Samsung, Micron among semiconductor industry group lobbying against government intervention on domestic memory chip supply — says move would worsen situation, suggests tax deductions on consumer electronics instead",
+    "summary": "\n                             A lawmaker suggested to the administration that it should prioritize American manufacturers when it comes to memory chip supplies, but the SEMI industry group is pushing ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/sk-hynix-samsung-micron-among-semiconductor-industry-group-lobbying-against-government-intervention-on-domestic-memory-chip-supply-says-move-would-worsen-situation-suggests-tax-deductions-on-consumer-electronics-instead",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-07-03-030",
+    "date": "2026-07-03",
+    "companies": [
+      "dell"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Save up to 47% on Dell and Alienware gaming PCs and laptops in this July 4th flash sale — big sale discounts on pricey kit including gaming chairs and monitors for a limited time only",
+    "summary": "\n                             Grab a bargain on these Dell and Alienware PCs, laptops, and monitors over the July 4th holiday weekend. \n                                                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-47-percent-on-dell-and-alienware-gaming-pcs-and-laptops-in-this-july-4th-flash-sale-big-sale-discounts-on-pricey-kit-including-gaming-chairs-and-monitors-for-a-limited-time-only",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-03-031",
+    "date": "2026-07-03",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel 18A wafer-to-wafer yield issues fixed, report claims — says production up to 15,000 wafers per month at both sites",
+    "summary": "\n                             Intel reportedly solves one of the key issues that plagued its 18A process technology, but others may still be there. \n                                                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-18a-wafer-to-wafer-yield-issues-fixed-report-claims-says-production-up-to-15-000-wafers-per-month-at-both-sites",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-032",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "earnings",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Machvision's June revenue hits another record due to AI demand",
+    "summary": "Machvision posted another record monthly revenue in June 2026, as surging demand for AI servers, high-performance computing (HPC), and advanced packaging continued to lift orders for the semiconductor",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260702PD231/machvision-pcb-ic-inspection-ai-server-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "phison-2026-07-03-033",
+    "date": "2026-07-03",
+    "companies": [
+      "phison",
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC's median pay trails four smaller IC design houses, filings show",
+    "summary": "<p class=\"P1\" data-sourcepos=\"4:1-4:335;135-469\">Fabless chip designers dominate the upper ranks of Taiwan's newly disclosed non-managerial employee pay data for fiscal year 2025, with only two capita",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260703VL221/taiwan-ic-design-salary-data-tsmc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-034",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's CR Micro raises power chip prices as Chinese suppliers push fresh hikes",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:252;133-384\">China Resources Microelectronics (CR Micro), a Chinese power semiconductor integrated device manufacturer, has notified customers and partners that it ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260703PD233/cr-micro-china-resources-price-materials-cost.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-03-035",
+    "date": "2026-07-03",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung and SK Hynix seek substrate price cuts for the second half of 2026",
+    "summary": "Samsung Electronics and SK Hynix are reportedly pressing South Korean semiconductor substrate suppliers to lower prices for the second half of 2026, even as memory demand remains in a Super Cycle. Acc",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260703PD232/samsung-sk-hynix-substrate-2026-copper.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-03-036",
+    "date": "2026-07-03",
+    "companies": [
+      "skhynix",
+      "samsung",
+      "micron",
+      "apple"
+    ],
+    "topics": [
+      "dram_price",
+      "capacity",
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Commentary: Korea's KRW800tn chip bet risks US fab pressure while Apple profits from memory shock",
+    "summary": "South Korean President Lee Jae-myung, Samsung Electronics, and SK Hynix have announced the country's largest-ever semiconductor expansion plan, while soaring memory prices have opened a separate fight",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260703PD224/apple-samsung-sk-hynix-memory-chips-price-fab.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-03-037",
+    "date": "2026-07-03",
+    "companies": [
+      "intel",
+      "apple"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s Shot At Fabricating Apple’s A20 Chip For The Base iPhone 18 Collapses As A Credible Leaker Calls The Original Source A ‘Blowhard’",
+    "summary": "Well, this particular Intel- and Apple iPhone 18-focused rumor proved to be unusually ephemeral, not even managing to survive a full turning of the clock. A much more credible source has just demolish",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intels-shot-at-fabricating-apples-a20-chip-for-the-base-iphone-18-collapses-as-a-credible-leaker-calls-the-original-source-a-blowhard/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-038",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "shortage",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "UBS doubles its DRAM price forecast as memory demand outpaces supply by 17 points through 2027",
+    "summary": "Investment bank UBS believes that there is plenty of room for DRAM prices to increase in the third quarter. In a note, the bank outlined that it expects the DRAM memory market to be constrained until ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/ubs-doubles-its-dram-price-forecast-as-memory-demand-outpaces-supply-by-17-points-through-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-03-039",
+    "date": "2026-07-03",
+    "companies": [
+      "samsung",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Exynos 2700 To Shy Away From On-Package Memory, With New Design Intends To Double Down On Thermal Performance By Keeping RAM & SoC Separate",
+    "summary": "Samsung is expected to adopt even higher cooling standards for its upcoming Exynos 2700, with its efforts exceeding those it made with the Exynos 2600. According to one rumor, this will happen by chan",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/exynos-2700-to-witness-better-thermal-performance-by-keeping-ram-separate/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-03-040",
+    "date": "2026-07-03",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel Cites Rising Supply Chain Costs As The Reason For Raising Prices Of Intel Core Ultra 200S Plus Processors",
+    "summary": "So, it's true that Intel increased the prices of these processors, but they didn't disclose the reason publicly. Intel Confirms Price Hike for Core Ultra 200S Plus Series by $30-$50; Says, \"Rising Sup",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-cites-rising-supply-chain-costs-as-the-reason-for-raising-prices-of-intel-core-ultra-200s-plus-processors/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-041",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PlayStation’s Disc Death Was A Long Time in the Making, Ex-Boss Says, as 95% Digital Revenue Sealed the Fate",
+    "summary": "PlayStation's decision to end production of game discs in 2028 has quickly become one of the most hated decisions ever made by a gaming company, and not only by those that still purchase retail releas",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/playstations-disc-death-long-time-in-the-making-digital-revenue/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-03-042",
+    "date": "2026-07-03",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple Reportedly Freezes Its Camera-Equipped AirPods Pro That Were Supposed To “Change The World”",
+    "summary": "Apple was aiming to \"change the world\" with its upcoming camera-equipped AirPods Pro. Yet, this supposedly revolutionary product has apparently again fallen foul of that near-constant bane of Apple's ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-reportedly-ices-its-camera-equipped-airpods-pro-that-were-supposed-to-change-the-world/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-03-043",
+    "date": "2026-07-03",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GMKtec Launches EVO-X3, Powered By AMD Ryzen AI Max+ 395 With Up To 126 TOPS Of AI Power, Starting At $3600",
+    "summary": "GMKtec has launched another powerful machine for local AI workloads, but it does more than that. GMKtec Debuts EVO-X3 Mini PC, Featuring Slim Design; Hosts 16-Core/32-Thread Zen 5-Based Ryzen AI Max+ ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gmktec-launches-evo-x3-powered-by-amd-ryzen-ai-max-395-with-up-to-126-tops-of-ai-power-starting-at-3600/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-03-044",
+    "date": "2026-07-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Startup targets datacenters with 3D-printed nuclear reactor module",
+    "summary": " Fancy a thorium microreactor capable of delivering up to 30 MWe of juice for up to 30 years? ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/07/03/startup-targets-datacenters-with-3d-printed-nuclear-reactor-module/5266480",
         "type": "rss"
       }
     ]
