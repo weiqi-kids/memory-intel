@@ -1,0 +1,319 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:29:24.470490Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "apple-2026-07-05-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Component inflation weighs on manufacturing momentum as Taiwan PMI growth moderates",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260701PD232/taiwan-expansion-electronics-price-component.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "applied_materials-2026-07-05-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及先進封裝"
+      ],
+      "title": "Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging scale-up",
+      "companies": [
+        "applied_materials"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260701PD231/applied-materials-hbm-equipment-production-bandwidth.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-05-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AI, HPC test interface demand drives CHPT June revenue to new monthly high",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260703PD234/revenue-chpt-demand-supplier-test-interface.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "intel-2026-07-05-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AI Forced Apple To Abandon Its Older, Slower Packaging, With The Upgrades Arriving To A20 Pro Making It Suitable To Handle Larger Data Volumes",
+      "companies": [
+        "intel",
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/ai-forced-apple-to-drop-older-packaging-a20-pro-brings-numerous-upgrades/"
+    },
+    {
+      "rank": 5,
+      "event_id": "apple-2026-07-05-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Apple Can Only Feasibly Use CXMT’s Low-Spec LPDDR5X Chips Within The iPhone 18e, But Bank Of America Thinks Apple’s Main Target Is To Increase Its Bargaining Power",
+      "companies": [
+        "apple",
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/apple-can-only-feasibly-use-cxmts-low-spec-lpddr5x-chips-within-the-iphone-18e-but-bank-of-america-thinks-apples-main-target-is-to-increase-its-bargaining-power/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 4,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "apple",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "applied_materials",
+        "count": 1
+      },
+      {
+        "id": "phison",
+        "count": 1
+      },
+      {
+        "id": "micron",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "hbm",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 323,
+    "dup_title": 107,
+    "too_old": 95,
+    "gate1_blocked": 62,
+    "gate2_blocked": 28,
+    "passed": 31,
+    "pass_rate": "14.4%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Three ways Intel and MSI co-engineered the world’s first Arc G3 handheld",
+      "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and F",
+      "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+      "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為蘋果、英特爾、應材相關動態：「Component inflation weighs on manufacturing momentum as T...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Component inflation weighs on manufacturing momentum as Taiwan PMI growth mod...（HBM、AI 伺服器、缺貨、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Applied Materials unveils integrated tools for HBM, chiplet, and 3D packaging...（HBM、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
