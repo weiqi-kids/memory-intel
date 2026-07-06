@@ -7,8 +7,8 @@
   },
   "tokyo_electron": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-03",
-    "count": 6613,
+    "latest": "2026-07-06",
+    "count": 6614,
     "history_complete": true
   },
   "lam_research": {
@@ -19,20 +19,20 @@
   },
   "sumco": {
     "earliest": "2003-08-15",
-    "latest": "2026-07-03",
-    "count": 5670,
+    "latest": "2026-07-06",
+    "count": 5671,
     "history_complete": true
   },
   "samsung": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-03",
-    "count": 6625,
+    "latest": "2026-07-06",
+    "count": 6626,
     "history_complete": true
   },
   "skhynix": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-03",
-    "count": 6625,
+    "latest": "2026-07-06",
+    "count": 6626,
     "history_complete": true
   },
   "micron": {
@@ -43,32 +43,32 @@
   },
   "nanya": {
     "earliest": "2000-08-18",
-    "latest": "2026-07-03",
-    "count": 6425,
+    "latest": "2026-07-06",
+    "count": 6426,
     "history_complete": true
   },
   "winbond": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-03",
-    "count": 6588,
+    "latest": "2026-07-06",
+    "count": 6589,
     "history_complete": true
   },
   "ase": {
     "earliest": "2000-01-04",
-    "latest": "2026-07-03",
-    "count": 6588,
+    "latest": "2026-07-06",
+    "count": 6589,
     "history_complete": true
   },
   "powertech": {
     "earliest": "2004-11-08",
-    "latest": "2026-07-03",
-    "count": 5324,
+    "latest": "2026-07-06",
+    "count": 5325,
     "history_complete": true
   },
   "ptc": {
     "earliest": "2013-04-19",
-    "latest": "2026-07-03",
-    "count": 3220,
+    "latest": "2026-07-06",
+    "count": 3221,
     "history_complete": true
   },
   "nvidia": {
@@ -108,29 +108,29 @@
     "history_complete": true
   },
   "applied_materials": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "kla": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "shin_etsu": {
-    "earliest": "2002-07-08",
-    "latest": "2026-07-03",
-    "count": 5959
+    "earliest": "2002-04-09",
+    "latest": "2026-07-06",
+    "count": 6024
   },
   "synopsys": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "cadence": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "arm": {
     "earliest": "2023-09-14",
@@ -140,29 +140,29 @@
   },
   "kioxia": {
     "earliest": "2024-12-18",
-    "latest": "2026-07-03",
-    "count": 374,
+    "latest": "2026-07-06",
+    "count": 375,
     "history_complete": true
   },
   "western_digital": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "tsmc": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "intel": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "amkor": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "broadcom": {
     "earliest": "2009-08-06",
@@ -171,9 +171,9 @@
     "history_complete": true
   },
   "qualcomm": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "dell": {
     "earliest": "2016-08-17",
@@ -182,14 +182,14 @@
     "history_complete": true
   },
   "hp": {
-    "earliest": "2002-07-05",
+    "earliest": "2002-04-08",
     "latest": "2026-07-02",
-    "count": 6037
+    "count": 6099
   },
   "lenovo": {
-    "earliest": "2002-07-08",
-    "latest": "2026-07-03",
-    "count": 5949
+    "earliest": "2002-04-09",
+    "latest": "2026-07-06",
+    "count": 6014
   },
   "supermicro": {
     "earliest": "2007-03-29",
@@ -204,19 +204,19 @@
     "history_complete": true
   },
   "oracle": {
+    "earliest": "2002-04-08",
+    "latest": "2026-07-02",
+    "count": 6099
+  },
+  "screen": {
+    "earliest": "2002-07-08",
+    "latest": "2026-07-06",
+    "count": 5960
+  },
+  "entegris": {
     "earliest": "2002-07-05",
     "latest": "2026-07-02",
     "count": 6037
-  },
-  "screen": {
-    "earliest": "2002-10-04",
-    "latest": "2026-07-03",
-    "count": 5895
-  },
-  "entegris": {
-    "earliest": "2002-10-02",
-    "latest": "2026-07-02",
-    "count": 5975
   },
   "silicon_motion": {
     "earliest": "2005-06-30",
@@ -225,68 +225,68 @@
     "history_complete": true
   },
   "macronix": {
-    "earliest": "2002-10-16",
-    "latest": "2026-07-03",
-    "count": 5862
+    "earliest": "2002-07-18",
+    "latest": "2026-07-06",
+    "count": 5927
   },
   "elite_semi": {
-    "earliest": "2002-10-16",
-    "latest": "2026-07-03",
-    "count": 5862
+    "earliest": "2002-07-18",
+    "latest": "2026-07-06",
+    "count": 5927
   },
   "psmc": {
     "earliest": "2020-12-09",
-    "latest": "2026-07-03",
-    "count": 1348,
+    "latest": "2026-07-06",
+    "count": 1349,
     "history_complete": true
   },
   "marvell": {
-    "earliest": "2002-10-02",
+    "earliest": "2002-07-05",
     "latest": "2026-07-02",
-    "count": 5975
+    "count": 6037
   },
   "ti": {
-    "earliest": "2002-10-02",
+    "earliest": "2002-07-05",
     "latest": "2026-07-02",
-    "count": 5975
+    "count": 6037
   },
   "onsemi": {
-    "earliest": "2002-10-02",
+    "earliest": "2002-07-05",
     "latest": "2026-07-02",
-    "count": 5975
+    "count": 6037
   },
   "infineon": {
-    "earliest": "2002-09-30",
-    "latest": "2026-07-03",
-    "count": 6057
+    "earliest": "2002-07-02",
+    "latest": "2026-07-06",
+    "count": 6122
   },
   "phison": {
     "earliest": "2007-12-31",
-    "latest": "2026-07-03",
-    "count": 4532,
+    "latest": "2026-07-06",
+    "count": 4533,
     "history_complete": true
   },
   "adata": {
     "earliest": "2007-12-31",
-    "latest": "2026-07-03",
-    "count": 4532,
+    "latest": "2026-07-06",
+    "count": 4533,
     "history_complete": true
   },
   "innodisk": {
     "earliest": "2012-10-05",
-    "latest": "2026-07-03",
-    "count": 3347,
+    "latest": "2026-07-06",
+    "count": 3348,
     "history_complete": true
   },
   "etf_smh": {
-    "earliest": "2002-12-31",
+    "earliest": "2002-10-02",
     "latest": "2026-07-02",
-    "count": 5913
+    "count": 5975
   },
   "etf_soxx": {
-    "earliest": "2002-12-31",
+    "earliest": "2002-10-02",
     "latest": "2026-07-02",
-    "count": 5913
+    "count": 5975
   },
   "etf_soxq": {
     "earliest": "2021-06-11",

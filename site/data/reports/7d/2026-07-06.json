@@ -1,0 +1,330 @@
+{
+  "date": "2026-07-06",
+  "date_range": {
+    "start": "2026-06-30",
+    "end": "2026-07-06"
+  },
+  "generated_at": "2026-07-06T12:15:48.889485Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "apple-2026-06-30-015",
+      "date": "2026-06-30",
+      "title": "Samsung Could Aid Apple’s Rapid 1.4nm Transition, As Foundry Giant Reportedly Restarting Commercialization Of Next-Generation Lithography",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "tsmc",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "intel",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 15,
+      "last_week": 13,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.05
+    },
+    "capex": {
+      "this_week": 17,
+      "last_week": 13,
+      "week_over_week_change": "+31%",
+      "sentiment_this_week": 0.06
+    },
+    "industry_general": {
+      "this_week": 105,
+      "last_week": 141,
+      "week_over_week_change": "-26%",
+      "sentiment_this_week": 0.05
+    },
+    "ddr5": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.25
+    },
+    "earnings": {
+      "this_week": 36,
+      "last_week": 52,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.13
+    },
+    "advanced_packaging": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "shortage": {
+      "this_week": 6,
+      "last_week": 9,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.08
+    },
+    "guidance": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": -0.03
+    },
+    "capacity": {
+      "this_week": 15,
+      "last_week": 27,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": 0.25
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.12
+    },
+    "ai_server": {
+      "this_week": 11,
+      "last_week": 14,
+      "week_over_week_change": "-21%",
+      "sentiment_this_week": 0.09
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "nand_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "amd": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 12
+    },
+    "meta": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 11
+    },
+    "microsoft": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "apple": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "samsung": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "tsmc": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "nvidia": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": -0.12,
+      "rank": 13
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "skhynix": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 7
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "intel": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "supermicro": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "micron": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "ptc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "infineon": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 8
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 24
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 27
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 28
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 29
+    },
+    "amkor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 281,
+        "last": 337,
+        "change_pct": -16.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-30",
+      "event_count": 39,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 62,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-02",
+      "event_count": 52,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 53,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 16,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 21,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 38,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-30 ~ 2026-07-06）共 281 則事件，重點為「Samsung Could Aid Apple’s Rapid 1.4nm Transitio...」。Marvell、群聯電子情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Marvell",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "群聯電子",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Facebook",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
