@@ -1,0 +1,381 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T11:20:30.136183Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-07-07-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung chip division's single-year profits beat its past 40 years of profits, combined, due to increased memory and storage prices — Samsung passes Nvidia to become most profitable company in the world, notches 19x quarterly increase in profit",
+      "companies": [
+        "nvidia",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/samsungs-chip-division-expects-to-out-earn-its-entire-40-year-history-in-2026"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-07-020",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Taiwan wireless specialist Climax Technology set for mainboard listing as US, Europe orders drive record 1H26 revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260707PD223/revenue-taiwan-europe-wireless-communications.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-07-025",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Adlink posts record 2Q revenue on rising edge AI demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260707PD219/adlink-revenue-demand-market-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "adata-2026-07-07-037",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及價格",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "ADATA Chairman Warns DRAM Prices Jump 30% and NAND 40% in Q3 2026 as AI Starves Consumer Supply",
+      "companies": [
+        "adata",
+        "intel",
+        "lenovo",
+        "amd"
+      ],
+      "related": {
+        "customers": [
+          "lenovo"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "dram_price",
+        "nand_price",
+        "shortage",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/adata-warns-30-percent-memory-40-percent-nand-price-hike-q3-2026/"
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-07-07-042",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Intel’s XBM Memory Takes Aim At HBM4, Promising 32 GT/s Speeds And Lower Costs Through UCIe Links",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/intel-xbm-memory-takes-aim-at-hbm4-32-gt-s-speeds-lower-costs-through-ucie-links/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.36,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.44,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "nand_price",
+        "dram_price",
+        "shortage",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 13,
+      "neutral": 35,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 9
+      },
+      {
+        "id": "samsung",
+        "count": 5
+      },
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "microsoft",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "guidance",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "shortage",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 323,
+    "dup_title": 92,
+    "too_old": 98,
+    "gate1_blocked": 51,
+    "gate2_blocked": 18,
+    "passed": 64,
+    "pass_rate": "27.7%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Three ways Intel and MSI co-engineered the world’s first Arc G3 handheld",
+      "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "How Open Models Are Driving AI Research",
+      "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and F"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為英特爾、三星、輝達相關動態：「Samsung chip division's single-year profits beat its past...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung chip division's single-year profits beat its past 40 years of profits...（財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Taiwan wireless specialist Climax Technology set for mainboard listing as US,...（產能、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-07",
+  "total_events": 51,
+  "by_company": {
+    "screen": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "intel": {
+      "count": 9,
+      "sentiment_avg": 0.11
+    },
+    "kioxia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nvidia": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "infineon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "microsoft": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "micron": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "onsemi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "adata": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "lenovo": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "amd": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "apple": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "broadcom": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 34,
+      "sentiment_avg": 0.05
+    },
+    "earnings": {
+      "count": 16,
+      "sentiment_avg": 0.36
+    },
+    "guidance": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "advanced_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 4,
+      "sentiment_avg": 0.44
+    },
+    "hbm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 3,
+      "sentiment_avg": 0.08
+    },
+    "shortage": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "inventory": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "dram_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "nand_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {
+      "samsung": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "nvidia": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "asml": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "google": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "amd": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "skhynix": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "tokyo_electron": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      }
+    },
+    "topics": {
+      "earnings": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "hbm": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ai_memory": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ddr5": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "guidance": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      }
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "nand_price",
+        "dram_price",
+        "shortage",
+        "earnings"
+      ]
+    }
+  ]
+}
