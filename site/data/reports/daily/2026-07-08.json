@@ -1,0 +1,386 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:31:20.746242Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-08-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI server maker MiTAC gears up for stronger 2H26 with new capacity after 44.8% revenue jump",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260708PD247/mitac-ai-server-growth-production-2026-revenue.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung-2026-07-08-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Samsung widens Nvidia Vera Rubin memory play with PCIe 6.0 eSSD",
+      "companies": [
+        "samsung",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260708VL220/samsung-pcie-ssd-nvidia-rubin-production.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-07-08-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Samsung's HBM4 comeback hinges on one chip-level advantage",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260708VL216/samsung-hbm4-hbm-packaging-sk-hynix.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-07-08-026",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Samsung Mass Produces Its First PCIe 6.0 SSD, Hitting 28.4 GB/s To Feed NVIDIA’s Vera Rubin AI Servers",
+      "companies": [
+        "samsung",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/samsung-mass-produces-first-pcie-6-0-ssd-to-feed-nvidia-vera-rubin/"
+    },
+    {
+      "rank": 5,
+      "event_id": "apple-2026-07-08-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Apple tests CXMT DRAM, thrusting China's memory champion into AI spotlight",
+      "companies": [
+        "apple",
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260708VL221/cxmt-dram-apple-testing-beijing.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.27,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.28,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.62,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "nvidia",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "ai_server",
+        "ai_memory",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "cxmt",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 14,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 5
+      },
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "apple",
+        "count": 4
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      },
+      {
+        "id": "cxmt",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "ai_server",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 323,
+    "dup_title": 89,
+    "too_old": 96,
+    "gate1_blocked": 62,
+    "gate2_blocked": 25,
+    "passed": 51,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
+      "AI Innovators Adopt NVIDIA Vera â Why Max Single-Threaded CPU at Scale Matters",
+      "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "How Open Models Are Driving AI Research",
+      "How governments and organizations are leveraging Google’s AI breakthroughs for crisis resilience"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為三星、輝達、蘋果相關動態：「AI server maker MiTAC gears up for stronger 2H26 with new...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AI server maker MiTAC gears up for stronger 2H26 with new capacity after 44.8...（產能、AI 伺服器、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung widens Nvidia Vera Rubin memory play with PCIe 6.0 eSSD（HBM、AI 記憶體、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,326 @@
+{
+  "date": "2026-07-08",
+  "date_range": {
+    "start": "2026-07-02",
+    "end": "2026-07-08"
+  },
+  "generated_at": "2026-07-08T10:31:20.891366Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung-2026-07-02-012",
+      "date": "2026-07-02",
+      "title": "Analysis: How long can memory's AI-driven boom last?",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "lenovo",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 130,
+      "last_week": 133,
+      "week_over_week_change": "-2%",
+      "sentiment_this_week": 0.08
+    },
+    "capacity": {
+      "this_week": 19,
+      "last_week": 24,
+      "week_over_week_change": "-21%",
+      "sentiment_this_week": 0.32
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "inventory": {
+      "this_week": 12,
+      "last_week": 16,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.15
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.2
+    },
+    "earnings": {
+      "this_week": 45,
+      "last_week": 50,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.24
+    },
+    "ai_server": {
+      "this_week": 16,
+      "last_week": 10,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": 0.2
+    },
+    "nand_price": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "guidance": {
+      "this_week": 13,
+      "last_week": 8,
+      "week_over_week_change": "+62%",
+      "sentiment_this_week": 0.06
+    },
+    "capex": {
+      "this_week": 13,
+      "last_week": 17,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.08
+    },
+    "shortage": {
+      "this_week": 10,
+      "last_week": 8,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.1
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    },
+    "advanced_packaging": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.08
+    },
+    "hbm": {
+      "this_week": 8,
+      "last_week": 8,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.19
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.62
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 11,
+      "sentiment_avg": 0.24,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "google": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "samsung": {
+      "event_count": 21,
+      "sentiment_avg": 0.09,
+      "rank": 2
+    },
+    "micron": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "skhynix": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 8
+    },
+    "supermicro": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 19
+    },
+    "tsmc": {
+      "event_count": 7,
+      "sentiment_avg": -0.22,
+      "rank": 6
+    },
+    "infineon": {
+      "event_count": 6,
+      "sentiment_avg": 0.21,
+      "rank": 7
+    },
+    "amd": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 10
+    },
+    "onsemi": {
+      "event_count": 3,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "apple": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 20
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 9
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 22
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 23
+    },
+    "cxmt": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 12
+    },
+    "kioxia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "amkor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 25
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    },
+    "broadcom": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 18
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 295,
+        "last": 322,
+        "change_pct": -8.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-02",
+      "event_count": 52,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-07-03",
+      "event_count": 53,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 16,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 21,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 51,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 71,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 31,
+      "sentiment_avg": 0.28
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-02 ~ 2026-07-08）共 295 則事件，重點為「Analysis: How long can memory's AI-driven boom ...」。台積電、ARM情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "ARM",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "台積電",
+        "reason": "本週情緒偏負面（-0.2），共 7 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Marvell",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,607 @@
 [
   {
+    "id": "samsung-2026-07-08-001",
+    "date": "2026-07-08",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung Begins Mass Production of PM1763 SSD Optimized for Next-Generation AI Infrastructure",
+    "summary": "PCIe 6.0-based enterprise SSD delivers outstanding performance and enhanced power efficiencyfor AI and HPC servers 9th-generation V-NAND, 4nm controller and...",
+    "sources": []
+  },
+  {
+    "id": "apple-2026-07-08-002",
+    "date": "2026-07-08",
+    "companies": [
+      "apple",
+      "broadcom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+    "summary": "Apple announced a new six-year commitment with Broadcom to design and produce custom silicon components and cutting-edge wireless connectivity technologies.",
+    "sources": []
+  },
+  {
+    "id": "google-2026-07-08-003",
+    "date": "2026-07-08",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A fresh look at Albania, Montenegro, North Macedonia and Serbia on Street View",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png\">Street View returns to Albania, Montenegro, North Macedonia and Se",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-07-08-004",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Field Guide to DDR Signal Integrity Analysis",
+    "summary": "<p>Catch every DDR5 compliance failure in simulation, not on the bench.</p>\n<p>The post <a href=\"https://semiengineering.com/field-guide-to-ddr-signal-integrity-analysis/\">Field Guide to DDR Signal In",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/field-guide-to-ddr-signal-integrity-analysis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-005",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PCIe 7.0 in Practice: Design Considerations for Storage, Networking, and AI",
+    "summary": "<p>Overcoming data bottlenecks and meeting the rapidly growing demands for performance and reliability.</p>\n<p>The post <a href=\"https://semiengineering.com/pcie-7-0-in-practice-design-considerations-",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/pcie-7-0-in-practice-design-considerations-for-storage-networking-and-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-006",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Novatek beats second-quarter revenue guidance on strong customer stockpiling",
+    "summary": "Novatek reported June revenue of NT$10.023 billion, up 6.48% from the previous month and 18.96% from a year earlier, pushing second-quarter revenue to NT$28.66 billion. The chip designer's second-quar",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260707PD242/revenue-novatek-display-forecast-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-007",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ELAN revenue hit the top of forecast as notebook and AI products gained traction",
+    "summary": "ELAN reported June 2026 revenue of NT$1.059 billion, up 5.48% from the prior month and 7.13% from a year earlier. The Taiwanese chip maker said second-quarter 2026 revenue reached NT$3.368 billion, up",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260707PD241/revenue-2026-forecast-production-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-008",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "HVDC power to ramp up in 2H26, as Delta eyes momentum in AI power systems",
+    "summary": "US cloud service providers (CSPs) are continuing to expand AI-related capex, which has in turn driven up data center server rack specifications and power architectures. As a result of the continued ri",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260707PD228/delta-electronics-capex-data-center-design-2026-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-009",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "France-Taiwan tech ties move from talks to factory floor",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:315;100-414\">France's push into Taiwan's tech ecosystem has entered a new phase. After three years of cultural outreach and research exchanges, cooperation is now s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708VL224/france-taiwan-foxconn-europe-data-center.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-010",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI memory boom turns price hikes into antitrust flashpoint across supply chain",
+    "summary": "As AI demand drives record price increases in the memory market, the aftermath of such volatility is weighing on the wider supply chain, rippling into downstream industries where manufacturers are alr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260707VL208/dram-price-supply-chain-antitrust-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-07-08-011",
+    "date": "2026-07-08",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "shortage",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC earnings call could signal how long the AI boom can keep lifting its outlook",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:375;135-509\">TSMC's July 16 earnings call is likely to test how far the chipmaker can extend its already upbeat guidance, as investors look for signs that AI demand",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD226/tsmc-earnings-outlook-demand-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-012",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI server maker MiTAC gears up for stronger 2H26 with new capacity after 44.8% revenue jump",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"298\">MiTAC is set to enter a new phase of growth in the second half of 2026 as new production facilities begin mass production, providing a meaningful boost to o",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD247/mitac-ai-server-growth-production-2026-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-07-08-013",
+    "date": "2026-07-08",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Netherlands presses China talks on Nexperia and ASML trade frictions",
+    "summary": "The Netherlands used a trade mission to Beijing this week to reopen economic ties with China while semiconductor tensions remained at the center of the agenda. Dutch trade officials met Chinese counte",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD248/netherlands-asml-nexperia-dutch-beijing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-07-08-014",
+    "date": "2026-07-08",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "National Center for Instrumentation Research  helps academia break 2D materials bottleneck",
+    "summary": "As AI infrastructure chip orders flood in and TSMC runs near nonstop, academia has found it difficult to carry out industry-academia collaboration with the world's top foundry house. Taiwan's governme",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD222/materials-academia-infrastructure-tsmc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-08-015",
+    "date": "2026-07-08",
+    "companies": [
+      "samsung",
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung widens Nvidia Vera Rubin memory play with PCIe 6.0 eSSD",
+    "summary": "<p class=\"P1\" data-start=\"186\" data-end=\"467\">Samsung Electronics has started mass production of its PM1763 enterprise SSD, a PCIe 6.0-based drive built for AI infrastructure and slated for Nvidia's n",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708VL220/samsung-pcie-ssd-nvidia-rubin-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-016",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Wistron chair: AI demand remains strong as sovereign AI broadens global market",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:331;136-466\">AI demand is expanding beyond the US as sovereign AI projects gain traction in more countries, Wistron chairman Simon Lin said, arguing that the indust",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD213/demand-wistron-chairman-market-adoption.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-08-017",
+    "date": "2026-07-08",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CPUs return to AI spotlight as agentic workloads reshape data center demand; Perplexity plans to adopt Nvidia's Vera",
+    "summary": "As AI workloads pivot toward emerging needs for systems that can perform tasks with a coordinated balance between speed and control, the hardware race is moving beyond GPUs. While the critical role GP",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708VL209/ai-cpu-data-center-demand-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-08-018",
+    "date": "2026-07-08",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung's HBM4 comeback hinges on one chip-level advantage",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:223;92-314\">Samsung Electronics is using HBM4 to test whether its memory, logic, foundry, and advanced packaging businesses can finally work as one AI semiconductor",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708VL216/samsung-hbm4-hbm-packaging-sk-hynix.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-08-019",
+    "date": "2026-07-08",
+    "companies": [
+      "apple",
+      "cxmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple tests CXMT DRAM, thrusting China's memory champion into AI spotlight",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:272;114-385\">China's CXMT has moved from a little-known state-backed DRAM maker to one of the most closely watched companies in the global memory chip race, with Ap",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708VL221/cxmt-dram-apple-testing-beijing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-020",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fossil Group: Take Profit",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920538-fossil-group-take-profit?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-021",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Bumble: The Market Is Too Focused On Payer Declines To Notice The Margin Expansion",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920531-bumble-the-market-is-too-focused-on-payer-declines-to-notice-the-margin-expansion?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-022",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Ubisoft Chased Trends With Shadows And Lost, But Assassin’s Creed Black Flag Resynced is Quietly Outselling It 5.39x on Steam",
+    "summary": "Being the remake of one of the most beloved entries in the series, there's little doubt that Assassin's Creed Black Flag Resynced is going to be a smashing success when it launches on PC, PlayStation ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/ubisoft-trends-with-shadows-lost-assassin-s-creed-black-flag-resynced-outselling/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-08-023",
+    "date": "2026-07-08",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DeepSeek Is Reportedly Building Its Own Inference Chip to Break Free From Both NVIDIA and Huawei",
+    "summary": "China's premier AI firm, DeepSeek, is reportedly working on its own AI chip, which will primarily be an inference accelerator. Step Aside NVIDIA &#38; Huawei, China's DeepSeek Prepares Its Own AI Infe",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/deepseek-building-its-own-inference-chip-to-break-free-from-nvidia-huawei/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-08-024",
+    "date": "2026-07-08",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Perplexity Bets on NVIDIA’s Vera CPU, Calling The Max Single-Threaded Chip a “Dead-On” Fit After It Ran 1.5x Faster in Agentic Coding",
+    "summary": "NVIDIA's Vera CPUs are seeing increased demand as their single-threaded &#38; inference-optimized design makes them ideal for firms such as Perplexity. Perplexity Bets on NVIDIA's Vera As The Chip Pro",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/perplexity-bets-on-nvidia-vera-cpu-calling-max-single-threaded-chip-a-dead-on-fit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-08-025",
+    "date": "2026-07-08",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "A20 Pro Won’t Break Apple’s Long-Held Tradition; No LPDDR6 RAM Support, But Faster Six-Channel Memory With Increased Bandwidth For AI Workloads",
+    "summary": "The LPDDR6 memory standard might be supported by competing shipments like the Snapdragon 8 Elite Gen 6 Pro, but Apple isn’t about to turn away from its tradition of adopting technological standards mu",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/a20-pro-will-not-feature-lpddr6-ram-but-six-channel-memory-for-increased-bandwidth/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-08-026",
+    "date": "2026-07-08",
+    "companies": [
+      "samsung",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "Samsung Mass Produces Its First PCIe 6.0 SSD, Hitting 28.4 GB/s To Feed NVIDIA’s Vera Rubin AI Servers",
+    "summary": "Samsung has announced the mass production of the PM1763 PCIe 6.0 SSD, which is optimized for next-gen AI servers such as NVIDIA's Vera Rubin. The Rise In AI Requires Next-Gen Storage Solutions Such as",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-mass-produces-first-pcie-6-0-ssd-to-feed-nvidia-vera-rubin/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-08-027",
+    "date": "2026-07-08",
+    "companies": [
+      "skhynix",
+      "samsung",
+      "apple",
+      "cxmt",
+      "micron"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple Begins Testing CXMT DRAM Ahead Of A Possible Negotiation Power Play With Samsung, SK hynix, And Micron",
+    "summary": "In a major development that suggests things are moving ahead at a fairly rapid pace, Apple has apparently begun testing DRAM from CXMT ahead of a possible inclusion in its expansive product portfolio.",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-begins-testing-cxmt-dram-ahead-of-a-possible-negotiation-power-play-with-samsung-sk-hynix-and-micron/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-028",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AOS’s 80V power conversion MOSFET features DFN6x5 AmpStack packaging",
+    "summary": "<p>Alpha and Omega Semiconductor (AOS) is releasing its AOPL66801 80V MOSFET. It is in a half-bridge configuration available in a DFN6x5 AmpStack MOSFET package. The company highlights the packaging t",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/power-supplies/aoss-80v-power-conversion-mosfet-features-dfn6x5-ampstack-packaging-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-07-08-029",
+    "date": "2026-07-08",
+    "companies": [
+      "infineon",
+      "onsemi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Growth, competition and change in power devices",
+    "summary": "<p>The power device market is expected to exceed $41 billion by 2031, driven by electrification, AI infrastructure, and renewable energy, says Yole. Infineon, onsemi and ST, remain dominant, while Chi",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/growth-competition-and-change-for-power-devices-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-030",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Photon Bridge and Phix take TOSA module to market",
+    "summary": "<p>Photon Bridge, the Dutch photonics specialist, will use Phix, the photonics packaging house, to put Photon Bridge&#8217;s DWDM external laser source Transmit Optical Sub-Assembly (TOSA) (pictured) ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/photon-bridge-and-phix-take-tosa-module-to-market-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-031",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ardian Semiconductor invests in Vsora",
+    "summary": "<p>Ardian Semiconductor, a private equity company dedicated to semiconductor company investment, has made its fourth investment &#8211; a minority stake in Vsora, a French designer of AI inference acc",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/ardian-semiconductor-invests-in-vsora-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "screen-2026-07-07-001",
     "date": "2026-07-07",
     "companies": [
@@ -980,6 +1582,379 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/samsung-expects-18x-increase-in-q2-profits-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-07-052",
+    "date": "2026-07-07",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Three new satellites join the fight against wildfires.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FireSat_satellites.max-600x600.format-webp.webp\">Three new FireSat satellites have launched, expanding a network that uses Goo",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-07-07-053",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Optimizing Electromechanical Hardware for Extreme Defense Environments",
+    "summary": "\n\t\t\t\t\t\t<p>Commercial parts die fast in combat. See how advanced composites, coatings and MIL testing keep defense hardware alive under brutal stress.</p>\n<p>The post <a href=\"https://www.eetimes.com/o",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/optimizing-electromechanical-hardware-for-extreme-defense-environments/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-054",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Manufacturing Expands in June Amid Global Unrest",
+    "summary": "\n\t\t\t\t\t\t<p>U.S. manufacturing expanded in June, but Middle East conflict impacted raw materials.</p>\n<p>The post <a href=\"https://www.eetimes.com/manufacturing-expands-in-june-amid-global-unrest/\">Manu",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/manufacturing-expands-in-june-amid-global-unrest/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-07-055",
+    "date": "2026-07-07",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Unannounced Nvidia RTX 50 Super GPUs appear in Seasonic PSU calculator — unreleased graphics cards shown with 10-17% higher TGP over original models",
+    "summary": "\n                             Total graphics power figures for Nvidia's unanounced, unreleased RTX 50 Super-series graphics cards have appeared in Seasonic's PSU capacity calculator, revealing potenti",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/unannounced-nvidia-rtx-50-super-gpus-appear-in-seasonic-psu-calculator-unreleased-graphics-cards-shown-with-10-17-percent-higher-tgp-over-original-models",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-07-07-056",
+    "date": "2026-07-07",
+    "companies": [
+      "onsemi"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea's $880 billion chip and AI plan faces big power and water challenges — a single megacluster requires a quarter of Seoul's total power demand",
+    "summary": "\n                             The ₩1,350 trillion total combines a $520 billion semiconductor program with AI data center and robotics spending, mostly made up of corporate capex. \n                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/power-and-water-lag-the-fabs-in-south-koreas-880-billion-chip-and-ai-plan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-057",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chinese memory and storage firm expected to post more than 60,000% jump in profits due to exploding demand — Lexar owner Longsys forecasts nearly $1.5 billion profit for 1H26 compared to $2.1 million last year",
+    "summary": "\n                             Chinese memory and storage manufacturer Longsys expects to post a massive increase in profits due to the AI-driven chip shortage. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/chinese-memory-and-storage-firm-expected-to-post-more-than-60-000-percent-jump-in-profits-due-to-exploding-demand-lexar-owner-longsys-forecasts-nearly-usd1-5-billion-profit-for-1h26-compared-to-usd2-1-million-last-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenovo-2026-07-07-058",
+    "date": "2026-07-07",
+    "companies": [
+      "lenovo",
+      "intel"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save nearly $2,000 on this RTX 5090 OLED gaming laptop right now — massive discount on powerhouse 16-inch Lenovo rig with 240Hz refresh rate, 32GB DDR5 RAM, 2TB SSD, and a 24-core Intel CPU, all for $3,199",
+    "summary": "\n                             Grab this Lenovo Legion Pro 7i gaming laptop with an RTX 5090 for just $3,199 right now at B&H Photo, saving you $1,800. \n                                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/save-nearly-usd2-000-on-this-rtx-5090-oled-gaming-laptop-right-now-massive-discount-on-powerhouse-16-inch-lenovo-rig-with-240hz-refresh-rate-32gb-ddr5-ram-2tb-ssd-and-a-24-core-intel-cpu-all-for-usd3-199",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-059",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK gives data centers option to apply for 'national importance' status that overrides local regulations, cuts timeline by a year — eligible projects to bypass local councils, save more than a billion dollars in NIMBY fights",
+    "summary": "\n                             The British government ruled that nationally significant infrastructure projects, which include data centers, can bypass local council approvals. This move is expected to",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/uk-gives-data-centers-option-to-apply-for-national-importance-status-that-overrides-local-regulations-cuts-timeline-by-a-year-eligible-projects-to-bypass-local-councils-save-more-than-a-billion-dollars-in-nimby-fights",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-060",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Snag 32GB of DDR5 memory, Ryzen 7 9800X3D, and Gigabyte X870E motherboard for $233 off — deal includes 'free' AIO in a four-item combo from Newegg",
+    "summary": "\n                             Missed Prime Day? You can still soften the blow of buying PC parts with this three-item AM5 Newegg combo - 32GB of DDR5, 9800X3D, Gigabyte X870E motherboard, and a free A",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/snag-32gb-of-ddr5-memory-ryzen-7-9800x3d-and-gigabyte-x870e-motherboard-for-usd233-off-deal-includes-free-aio-in-a-four-item-combo-from-newegg",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-061",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dev ports Linux to Atari's notorious Jaguar console from 1993 — the first 64-bit console features 2MB of RAM, 13.3 MHz CPU, and Tom and Jerry co-processors; the Jag was notoriously difficult to program and flopped",
+    "summary": "\n                             A developer has ported Linux to the Atari Jaguar console. To succeed at the task, they had to overcome severe memory limits, the lack of an MMU, and face off against a ha",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/software/linux/dev-ports-linux-to-ataris-notorious-jaguar-console-from-1993-the-first-64-bit-console-features-2mb-of-ram-13-3-mhz-cpu-and-tom-and-jerry-co-processors-the-jag-was-notoriously-difficult-to-program-and-flopped",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-062",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "GTA Trilogy Dev Finally Admits Fans Were Right, Yet Says the Disaster Wasn’t Entirely the Remaster’s Fault",
+    "summary": "When GTA Trilogy: The Definitive Edition launched in November 2021, it was supposed to be a glossy return to three of the most beloved games in Rockstar's history (GTA 3, GTA Vice City, and GTA San An",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gta-trilogy-dev-admits-fans-were-right/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cadence-2026-07-07-063",
+    "date": "2026-07-07",
+    "companies": [
+      "cadence"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SpaceX Asks The FCC For Permission To Launch 100,000 Gen3 Satellites That Sport Advanced Phased-Array Beamforming And Electronic Beam Steering Capabilities",
+    "summary": "SpaceX is now putting its cash-rich coffers to good use by significantly ramping up the planned launch cadence for its Gen3 (alternatively called the V3) constellation of satellites, as evidenced by a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/spacex-asks-the-fcc-for-permission-to-launch-100000-gen3-satellites-that-sport-advanced-phased-array-beamforming-and-electronic-beam-steering-capabilities/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-07-064",
+    "date": "2026-07-07",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "IO Interactive Doubles Down on Project Fantasy Funding Alone After Xbox Bails, Shuttering Its Istanbul Office to Survive",
+    "summary": "Last week, IO Interactive announced that it was forced to cut some of its staff after Xbox abandoned funding for the Project Fantasy IP, first revealed over three years ago. Today, the developer has c",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/io-interactive-project-fantasy-funding-alone-xbox-bails-istanbul-office/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-07-065",
+    "date": "2026-07-07",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google Pixel 11 Bumps Up Base Storage To 256GB, Replete With The Now-Customary Hefty Price Hikes [Update: August 12 Launch]",
+    "summary": "With the new Google Pixel 11 series presumably all set for a debut as soon as this August, the supply chain-sourced leaks are picking up their pace, as is typical for the pre-launch stage. A new repor",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/google-pixel-11-bumps-up-base-storage-to-256gb-replete-with-the-now-customary-hefty-price-hikes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-066",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Granblue Fantasy: Relink – Endless Ragnarok Review – A Solid Expansion Well Worth Its Price",
+    "summary": "Once the Monster Hunter series finally made it big in North America and Europe with Monster Hunter: World, a few other development studios attempted to create games based on a similar gameplay loop, b",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/review/granblue-fantasy-relink-endless-ragnarok-review-an-solid-expansion-well-worth-its-price/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-07-07-067",
+    "date": "2026-07-07",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSI Unlocks China’s CXMT Memory On AM5 Boards, Pushing Domestic DDR5 From 6800 To 8200 MT/s",
+    "summary": "MSI has enabled CXMT memory support on its China-specific AM5 motherboard driver, enabling up to DDR5-8200 speeds. MSI's China-Specific AM5 Motherboard BIOS Available For Download, Unlocks CXMT DDR5 M",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/msi-unlocks-china-cxmt-memory-on-am5-boards-pushing-ddr5-from-6800-to-8200-mtps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-07-068",
+    "date": "2026-07-07",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "DeepSeek Looks To Sidestep Huawei As It Begins In-House AI Chip Journey While Dodging Development Complications, Trade Sanctions, Delays & More",
+    "summary": "AI chips from Huawei and NVIDIA are currently being leveraged to train and run DeepSeek’s popular models, but the days of this arrangement could be numbered as the Chinese startup has plans in motion ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/deepseek-developing-custom-ai-chip-to-reduce-dependency-on-huawei-and-nvidia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-069",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korean chip startup FuriosaAI invades European datacenters",
+    "summary": " RNGD accelerators land in Equinix's Lisbon DCs ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/07/south-korean-chip-startup-furiosaai-invades-european-datacenters/5267884",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-070",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DRAM prices are killing the cheap smartphone",
+    "summary": " Now eats 60% of a sub-$400 handset's bill of materials and it's only getting worse ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/07/07/dram-prices-are-killing-the-cheap-smartphone/5267643",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-071",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nexperia’s 1200 V SiC MOSFETs in QDPAK packaging",
+    "summary": "<p>Nexperia is releasing 1200 V silicon carbide (SiC) MOSFETs in QDPAK packaging, as part of its wide-bandgap (WBG) portfolio. They feature a top-side cooled surface-mount package optimised for high-p",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/power-supplies/nexperias-1200-v-sic-mosfets-in-qdpak-packaging-2026-07/",
         "type": "rss"
       }
     ]
