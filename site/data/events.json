@@ -1,5 +1,825 @@
 [
   {
+    "id": "screen-2026-07-09-001",
+    "date": "2026-07-09",
+    "companies": [
+      "screen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "2026.07.09Semiconductor SolutionsSCREEN Joins IBM’s Sub-1 nm Chip Ecosystem",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-07-09-002",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Architecture Decisions Behind A Production-Ready EDA AI Agent",
+    "summary": "<p>Building an AI agent that works in semiconductor and PCB design requires solving problems that generic agentic frameworks were never designed to handle. </p>\n<p>The post <a href=\"https://semiengine",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-003",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Expansion Of LPDDR Into Edge AI Platforms",
+    "summary": "<p>Characteristics once primarily associated with extending smartphone battery life map directly onto the needs of real-time on-device inference.</p>\n<p>The post <a href=\"https://semiengineering.com/t",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/the-expansion-of-lpddr-into-edge-ai-platforms/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-004",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Is Rewriting The IP Playbook",
+    "summary": "<p>As the semiconductor ecosystem pivots to AI, it is transforming how IP is created, verified, managed, and sold.</p>\n<p>The post <a href=\"https://semiengineering.com/ai-is-rewriting-the-ip-playbook/",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/ai-is-rewriting-the-ip-playbook/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-005",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Where Does Quantum Computing Stand?",
+    "summary": "<p>It's slowly emerging from research and heading toward high-volume production. </p>\n<p>The post <a href=\"https://semiengineering.com/where-does-quantum-computing-stand/\">Where Does Quantum Computing",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/where-does-quantum-computing-stand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-006",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Host Node To Heterogeneous Rack: Rethinking The AI CPU",
+    "summary": "<p>As AI infrastructure fragments into specialized tiers, CPUs are becoming the orchestration layer for agentic workloads.</p>\n<p>The post <a href=\"https://semiengineering.com/from-host-node-to-hetero",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/from-host-node-to-heterogeneous-rack-rethinking-the-ai-cpu/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-007",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As AI Moves from Training to Inference, Optics Moves Closer to the Chip",
+    "summary": "\n\t\t\t\t\t\t<p>Imec researchers argue that co-packaged optics will not be enough for future AI systems, pushing the industry toward 2.5D and eventually 3D optical I/O.</p>\n<p>The post <a href=\"https://www.",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/as-ai-moves-from-training-to-inference-optics-moves-closer-to-the-chip/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-09-008",
+    "date": "2026-07-09",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD EXPO ULL shows middling performance gains in initial tests despite eye-watering price increase — first benchmarks show up to a 4% improvement with DDR5-6000 CL36",
+    "summary": "\n                             The first independent benchmarks for AMD's EXPO ULL memory are available, showing just up to a 4% improvement despite an increase in price. \n                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ram/amd-expo-ull-shows-middling-performance-gains-in-initial-tests-despite-price-increase-first-benchmarks-show-up-to-a-4-percent-improvement-with-ddr5-6000-cl36",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-009",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI servers will consume more power than all conventional data center hardware combined by 2027 — global data center electricity consumption set to grow by 26% this year, Gartner forecasts",
+    "summary": "\n                             Global data center electricity consumption will grow 26% in 2026 to reach 565 TWh, up from 447 TWh in 2025. \n                                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-servers-will-consume-more-power-than-conventional-data-center-hardware-by-2027-gartner-forecasts",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "phison-2026-07-09-010",
+    "date": "2026-07-09",
+    "companies": [
+      "phison"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Phison 1H26 revenue tops NT$100B as AI orders extend to 1H27",
+    "summary": "Phison Electronics, a NAND controller maker, said first-half consolidated revenue in 2026 surpassed NT$100 billion (US$3.1 billion) for the first time. CEO Khein-Seng Pua said June mobile controller s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260709PD230/phison-revenue-shipments-2026-nand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-011",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Delta Electronics 1H revenue up 41% as AI power, cooling demand accelerates",
+    "summary": "Delta Electronics posted stronger June 2026 sales as demand for AI servers, power systems and infrastructure products continued to climb. The Taiwanese electronics supplier reported consolidated reven",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260709PD244/delta-electronics-revenue-demand-2026-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-07-09-012",
+    "date": "2026-07-09",
+    "companies": [
+      "onsemi"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "HIWIN and Hiwin Mikrosystem post record June sales on semiconductor and robotics demand",
+    "summary": "HIWIN and its subsidiary Hiwin Mikrosystem posted record June 2026 revenue as demand from semiconductors, industrial automation and robotics stayed strong. The Taiwan-based motion control supplier sai",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260709PD245/revenue-robotics-demand-2026-subsidiary.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-07-09-013",
+    "date": "2026-07-09",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "hbm",
+      "ai_server",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT seeks US$4.1bn in China's biggest 2026 IPO for DDR5, HBM",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:225;95-319\">CXMT has launched a CNY29.5 billion (approx. US$4.1 billion) STAR Market IPO, giving China's top DRAM maker fresh capital to upgrade 17nm production, ex",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260709VL214/cxmt-ipo-ddr5-hbm-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-09-014",
+    "date": "2026-07-09",
+    "companies": [
+      "skhynix",
+      "micron",
+      "samsung",
+      "cxmt"
+    ],
+    "topics": [
+      "hbm",
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CXMT IPO leaves HBM off the funding list, tempering China AI memory hype",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:306;112-417\">CXMT's STAR Market IPO suggests China's largest DRAM maker is prioritizing commodity memory over an aggressive near-term push into high-bandwidth memor",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-015",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese Rockchip expects 1H26 revenue and profit to rise on AIoT demand",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:225;123-347\">Rockchip Electronics has forecast strong growth in revenue and profit for the first half of 2026, citing sustained demand for its AIoT chip platforms d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708VL203/profit-revenue-demand-rockchip-forecast.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-09-016",
+    "date": "2026-07-09",
+    "companies": [
+      "apple",
+      "broadcom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple's Broadcom deal extension shows wireless independence remains a distant dream",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:380;179-558\">Apple's decision to extend its wireless transmission and RF chip supply agreement with Broadcom through 2031 signals that its shift to fully in-house c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD224/apple-wireless-broadcom-chips-transmission.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-017",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rebellions' IPO plan tests market appetite for inference chips",
+    "summary": "South Korean AI chip startup Rebellions is preparing for a domestic listing in the first half of 2027, offering a test of whether investor enthusiasm for inference chips can move from private funding ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260709VL219/rebellions-ai-chip-startup-ipo-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-018",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "GlobalWafers says wafer demand is improving as chip cycle heals",
+    "summary": "GlobalWafers reported a rebound in second-quarter revenue as semiconductor demand improved across advanced and mature nodes, a sign that recovery trends in the global chip market could matter for manu",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD220/globalwafers-wafer-demand-revenue-recovery.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-019",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Planet Technology reports June revenue growth as it expands cybersecurity lineup",
+    "summary": "Planet Technology's latest sales update points to continued demand in networking hardware, cybersecurity, and AI-ready infrastructure, themes with implications for banks, factories, utilities, and tra",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD218/planet-technology-networking-ic-cybersecurity-demand-revenue-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-020",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shanghai Fudan Microelectronics forecasts sharp rise in 1H26 profit",
+    "summary": "Shanghai Fudan Microelectronics Group said its first-half earnings will rise sharply, reflecting stronger chip demand and a recovery in the sector that may matter to global electronics and industrial ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708VL218/shanghai-profit-demand-earnings-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-021",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Wistron and Wiwynn post record-high revenue in 1H26 on strong AI server, networking shipments",
+    "summary": "Wistron reported June 2026 revenue of NT$321.82 billion (approx. US$10.04 billion), up 10.9% from the previous month and 53.9% from a year earlier, marking the company's second-highest single-month re",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD254/wistron-ai-server-shipments-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-022",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Inventec expects server shipments to rise quarterly as component shortages loom",
+    "summary": "Inventec reported June 2026 revenue of NT$102.26 billion (approx. US$3.19 billion), up 23.5% from the previous month and 61.6% from a year earlier, reaching record highs for both the same period and a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260708PD255/inventec-revenue-server-shipments-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-023",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynas signs long-term partnership with JS Link for Malaysia magnet factory",
+    "summary": "Lynas Rare Earths has agreed to a long-term partnership with JS Link to develop a rare earth permanent magnet factory in Kuantan, Malaysia, a move that could reshape supply chains for electric vehicle",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260709PR200/rare-earth-materials-partnership-malaysia-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-024",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "shortage",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Memory costs slash low-end phone output and pressure PA shipments",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:363;116-478\">The 2026 smartphone market is facing a dark outlook as memory prices rise and shortages tighten supply, weighing on low- and mid-range handsets and hit",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260709PD227/2026-shipments-market-smartphone-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-025",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "THD: The Shining Star Of The ASEAN ETF Pack Faces A Tricky Outlook",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920827-thd-shining-star-of-the-asean-etf-pack-faces-a-tricky-outlook-reiterate-hold?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-026",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Wall Street Breakfast Podcast: Levi's Frayed Forecast",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920829-wall-street-breakfast-podcast-levis-frayed-forecast?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-027",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Why Investors Shouldn't Count Out Consumer Stocks",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920808-why-investors-shouldnt-count-out-consumer-stocks?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-028",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bonheur ASA (BNHUF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920814-bonheur-asa-bnhuf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-029",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "St. James Investment Company Value Investor's Q2 2026 Letter",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920837-st-james-investment-company-value-investors-q2-2026-letter?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-030",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Argan: Growth Outlook Remains Solid",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920819-argan-growth-outlook-remains-solid?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-031",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Palantir: MilTech Cash Printer Overshadowed By AI Infrastructure",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4920769-palantir-miltech-cash-printer-overshadowed-by-ai-infrastructure?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-09-032",
+    "date": "2026-07-09",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD Revives Zen 2 With The Ryzen 7 4700LE, An 8-Core Chip That Drops Integrated Graphics",
+    "summary": "The team Red isn't stopping, and has been continuously expanding its existing Ryzen lineups with newer processors. AMD Quietly Launches Zen 2-Based Ryzen 7 4700LE Processor With Up To 4.2 GHz Boost Cl",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-revives-zen-2-with-the-ryzen-7-4700le/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-09-033",
+    "date": "2026-07-09",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "iPhone 18 Pro Max’s Battery Will Make It Weigh As Much As Apple’s Older Stainless Steel Models, But The Runtime Could Make You Ignore The Trade-Off",
+    "summary": "Apple will introduce one of the biggest battery upgrades to the iPhone 18 Pro Max, but in the world of consumer electronics, if you’re getting something, then you’re giving up something in return. Acc",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/iphone-18-pro-max-battery-will-make-it-weigh-as-much-as-stainless-steel-models/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-09-034",
+    "date": "2026-07-09",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA’s Rubin Ultra Rack Estimated To Cost $21 Million, With HBM4e Memory Alone Swelling To $1.5 Million Per Unit",
+    "summary": "NVIDIA's Rubin &#38; Rubin Ultra servers are going to be super expensive, with a large portion of the costs going towards memory alone. HBM &#38; DRAM Costs Push NVIDIA's Next-Gen Rubin \"Oberon\" &#38;",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-rubin-ultra-rack-estimated-to-cost-21-million-hbm4e-swelling-to-1-5m-per-unit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-07-09-035",
+    "date": "2026-07-09",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSI Brings Optimized “CXMT” DDR5 Memory Support To Its AM5 800 & 600 Series Motherboards In Latest BIOS, Also Enables TSME",
+    "summary": "MSI is rolling out its latest BIOS for AM5 800 and 600 series motherboards, offering optimized support for CXMT DDR5 memory. MSI Offers Optimized Support For CXMT's DDR5 Memory On Its AM5 800 &#38; 60",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/msi-optimized-cxmt-ddr5-memory-support-am5-800-600-motherboards-latest-bios/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-09-036",
+    "date": "2026-07-09",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "shortage",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Global PC Market Declined By 4.9% Versus Last Year As Memory Shortages Intensify, But MacBook Neo’s Success Shows That x86 Rivals Need To Do More",
+    "summary": "The worldwide PC market declined by 4.9% in Q2 2026, showing how memory shortages have disrupted the segment. Apple Defies A Brutal PC Slump, Growing Shipments 10.1% While Every x86 Rival Bleeds Under",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/global-pc-market-declined-4-9-percent-as-memory-shortages-intensify/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-037",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Elder Scrolls Online’s Season One Is Out Now, But the Game’s Promising Future Is Now in Jeopardy Following 213 Firings",
+    "summary": "Today, ZeniMax Online Studios announced that Season One for The Elder Scrolls Online is now live on PC, PlayStation 5, and Xbox Series S and X. Earlier this year, the studio announced a move away from",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/elder-scrolls-online-season-one-out-now-future-jeopardy-after-213-firings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-09-038",
+    "date": "2026-07-09",
+    "companies": [
+      "skhynix",
+      "micron",
+      "samsung",
+      "cxmt"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASUS Demos Chinese “CXMT” DDR5 Memory Clocking Up To 8400 MT/s On Its AM5 Boards, 48 GB & 32 GB Kits From Kingbank & Lexar",
+    "summary": "ASUS has now demoed its AM5 boards running Chinese DDR5 memory from CXMT, offering up to 8400 MT/s speeds across various kits. Chinese DDR5 Memory Based on CXMT DRAM Offers Up To 8400 MT/s Speeds on A",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/asus-demos-chinese-cxmt-ddr5-memory-clocking-up-to-8400-mtps-on-its-am5-boards/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-07-09-039",
+    "date": "2026-07-09",
+    "companies": [
+      "qualcomm",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Going Full Throttle With Exynos SoC Development, As Company Has Three Generations Of Releases Planned To Rid Itself Of Qualcomm",
+    "summary": "The Exynos 2600&#160;was just a sneak preview of what’s to come from Samsung’s side as far as future smartphone chipsets are concerned. According to the latest leak, the Korean giant is adamant to red",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-has-three-exynos-chipsets-planned-according-to-rumor/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-040",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bullish Yole semi forecast at odds with Future Horizons",
+    "summary": "<p>According to Yole Group the semiconductor market is projected to reach $1.6 trillion in revenue, in 2026, before approaching $2 trillion shortly thereafter. Yole&#8217;s projections are very much a",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/bullish-yole-semi-forecast-at-odds-with-future-horizons-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-041",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Q1 WiFi CPE market continues four year fall",
+    "summary": "<p>The Wi-Fi CPE market declined by 6% YoY in Q1 2026, according to Counterpoint Research. This follows the 4th consecutive year of market decline in 2025, with a nearly 34% ...</p>\n<p>The post <a hre",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/899622-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-042",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Hellish Dilemma",
+    "summary": "<p>The total value of the SOX is $16 trillion &#8211; up from $2 trillion in 2022, notes Bloomberg, so 30 chip companies are valued at half US GDP ($32bn) and ...</p>\n<p>The post <a href=\"https://www.",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/a-hellish-dilemma-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung-2026-07-08-001",
     "date": "2026-07-08",
     "companies": [
@@ -597,6 +1417,330 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/ardian-semiconductor-invests-in-vsora-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lam_research-2026-07-08-032",
+    "date": "2026-07-08",
+    "companies": [
+      "lam_research"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lam Research Corporation Announces June Quarter Financial Conference Call",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "amd-2026-07-08-033",
+    "date": "2026-07-08",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD to Report Fiscal Second Quarter 2026 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "meta-2026-07-08-034",
+    "date": "2026-07-08",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Breaking Ground on Meta’s First Data Center in Canada",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-07-08-035",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: July 8",
+    "summary": "<p>Schottky barriers at Si/metal interfaces; agentic HLS;  probabilistic memory for edge; agentic HW design automation as repository-level code evolution; HW fingerprinting for photonic ICs;  function",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-8-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-036",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unifying Software And Semiconductor Development",
+    "summary": "<p>Redefining IP lifecycle management by uniting silicon and software to deliver traceability, automation, and AI-ready design flows.</p>\n<p>The post <a href=\"https://semiengineering.com/unifying-soft",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/unifying-software-and-semiconductor-development/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-037",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rise of the AI Data Center – Why Infrastructure Strategy Is Now a Board-Level Issue",
+    "summary": "\n\t\t\t\t\t\t<p>This white paper describes the critical engineering and strategic pain points behind today&#8217;s AI data center infrastructure gap and offers practical frameworks for resolving them. Wheth",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/rise-of-the-ai-data-center-why-infrastructure-strategy-is-now-a-board-level-issue/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-038",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MEMS Heralds an Overdue Step Change in Switching Technology",
+    "summary": "\n\t\t\t\t\t\t<p>Ditch creaky relays: MEMS switches slash heat, power draw and bulk for AI data centers and automation.</p>\n<p>The post <a href=\"https://www.eetimes.com/mems-heralds-an-overdue-step-change-in",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/mems-heralds-an-overdue-step-change-in-switching-technology/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-039",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rapidus fab roadmap examined — first new leading-edge chipmaker in decades has one Hokkaido fab, a 2027 deadline, and 60 potential customers",
+    "summary": "\n                             Rapidus is building Japan's entire return to leading-edge logic on one fab in Chitose, Hokkaido. \n                                                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/rapidus-fab-roadmap-examined",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-040",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "ai_memory",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Budget smartphone market collapses under the weight of memory shortages, sales expected to drop 22% — memory alone now comprises up to 64% of the total cost of lower-tier smartphones",
+    "summary": "\n                             The global AI memory squeeze is pricing cheap phones out of existence and forcing mid-range devices to compromise on hardware. \n                                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/phones/budget-smartphone-market-collapses-under-the-weight-of-memory-shortages-sales-expected-to-drop-22-percent-memory-alone-now-comprises-up-to-64-percent-of-the-total-cost-of-lower-tier-smartphones",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-041",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "ai_memory",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs — Narrow 512-bit interface enables dropping expensive interposers for organic substrates",
+    "summary": "\n                             SPHBM4 promises HBM4-class bandwidth without usage of silicon interposer and CoWoS-like packaging. \n                                                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-042",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Global consumer Wi-Fi router shipments fell 6% in Q1 2026, down 34% from 2021 peak — mesh systems and gaming routers still prove popular",
+    "summary": "\n                             Global consumer Wi-Fi router shipments have declined 34 percent from their peak in 2021 \n                                                                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/networking/routers/global-consumer-wi-fi-router-shipments-fell-6-percent-in-q1-2026-mesh-systems-and-gaming-routers-still-prove-popular",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-043",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Power company hikes data center bills by 30%, cuts residential electricity costs by 1.3% — Oregon approves change through POWER Act, pushes developments using more than 20 Megawatts of power to pay their fair share",
+    "summary": "\n                             Oregon approves the 29.7% price hike that Portland General Electric (PGE), the state's largest power provider, will impose on users that consume 20MW or more. This move i",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/power-company-hikes-data-center-bills-by-30-percent-cuts-residential-electricity-costs-by-1-3-percent-oregon-approves-change-through-power-act-pushes-developments-using-more-than-20-megawatts-of-power-to-pay-their-fair-share",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-08-044",
+    "date": "2026-07-08",
+    "companies": [
+      "intel",
+      "ti"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save $527 on this 1440p gaming PC from Newegg with a 16GB RTX 5060 Ti right now — huge discount for high-end performance rig with an Intel Core i7-14700F, 32GB DDR5, and a 1TB SSD",
+    "summary": "\n                             This great value gaming PC from Newegg's ABS brand features a 16GB RTX 5060 Ti GPU and 32GB of DDR5-6400 RAM, giving you a rig ready for 1440p gaming. \n                  ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/peripherals/gaming-mice/save-usd527-on-this-1440p-gaming-pc-from-newegg-with-a-16gb-rtx-5060-ti-right-now-huge-discount-for-high-end-performance-rig-with-an-intel-core-i7-14700f-32gb-ddr5-and-a-1tb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-08-045",
+    "date": "2026-07-08",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China Weighs Reversing Its Own NVIDIA Ban, May Let Alibaba, ByteDance & Others Buy 200,000 H200 Chips",
+    "summary": "After US-China geopolitical tensions led to the Chinese government banning local firms from buying NVIDIA's China-specific H200 GPUs, a report from The Information claims that the Chinese government i",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/china-weighs-reversing-its-own-nvidia-ban-may-let-alibaba-bytedance-others-buy-200000-h200-chips/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-08-046",
+    "date": "2026-07-08",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "An M5 Max MacBook Pro Price Observer Noticed That Apple Hiked An Additional $1,000 On The Top-End Configuration After Its Gut-Wrenching Announcement",
+    "summary": "Apple dropped a massive bomb on consumers when it was forced to raise the prices&#160;of several of its hardware, including Macs, as the company tried its level best to keep the rising RAM and storage",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-made-m5-max-macbook-pro-1000-more-expensive-even-after-hike-says-observer/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-08-047",
+    "date": "2026-07-08",
+    "companies": [
+      "apple",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple Kills The Vision Pro Air’s Micro-OLED Panels, But Samsung Won’t Let The Ultra-High-Density Silicon Display Tech Die",
+    "summary": "With Apple seemingly focusing on its upcoming slew of AI-enabled smart glasses, jettisoning the bulky Vision Pro headsets in the process, Samsung is now reportedly taking over all of the joint display",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-kills-the-vision-pro-airs-micro-oled-panels-but-samsung-wont-let-the-ultra-high-density-silicon-display-tech-die/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-07-08-048",
+    "date": "2026-07-08",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Xbox Chased Netflix’s Playbook for Gaming, but $80+ Billion Later Game Pass Growth Has Gone Into Reverse",
+    "summary": "Following the umpteenth destructive wave of layoffs at Xbox, which this time also led to four (possibly five) studio divestitures and thousands more job cuts at historic studios like Bethesda, Obsidia",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-netflix-playbook-game-pass-reverse/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-049",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Ten (less 5) NAND Suppliers In Q1",
+    "summary": "<p>Thanks to TrendForce for this one &#8211; the top five NAND suppliers in Q1: &#160; &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-s",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-suppliers-in-q1-2026-07/",
         "type": "rss"
       }
     ]

@@ -1,0 +1,426 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T11:19:01.214213Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cxmt-2026-07-09-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 伺服器"
+      ],
+      "title": "CXMT seeks US$4.1bn in China's biggest 2026 IPO for DDR5, HBM",
+      "companies": [
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "ddr5",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709VL214/cxmt-ipo-ddr5-hbm-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "skhynix-2026-07-09-014",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及 AI 記憶體"
+      ],
+      "title": "CXMT IPO leaves HBM off the funding list, tempering China AI memory hype",
+      "companies": [
+        "skhynix",
+        "micron",
+        "samsung",
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709VL216/cxmt-hbm-ipo-dram-funding.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-09-021",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Wistron and Wiwynn post record-high revenue in 1H26 on strong AI server, networking shipments",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260708PD254/wistron-ai-server-shipments-revenue-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-07-09-034",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 伺服器"
+      ],
+      "title": "NVIDIA’s Rubin Ultra Rack Estimated To Cost $21 Million, With HBM4e Memory Alone Swelling To $1.5 Million Per Unit",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidia-rubin-ultra-rack-estimated-to-cost-21-million-hbm4e-swelling-to-1-5m-per-unit/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-09-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Delta Electronics 1H revenue up 41% as AI power, cooling demand accelerates",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD244/delta-electronics-revenue-demand-2026-infrastructure.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "micron",
+      "to": "skhynix",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "industry_general",
+        "ddr5",
+        "ai_memory"
+      ]
+    },
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "industry_general",
+        "ddr5",
+        "ai_memory"
+      ]
+    },
+    {
+      "from": "cxmt",
+      "to": "skhynix",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "industry_general",
+        "ddr5",
+        "ai_memory"
+      ]
+    },
+    {
+      "from": "micron",
+      "to": "samsung",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "industry_general",
+        "ddr5",
+        "ai_memory"
+      ]
+    },
+    {
+      "from": "cxmt",
+      "to": "micron",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "industry_general",
+        "ddr5",
+        "ai_memory"
+      ]
+    },
+    {
+      "from": "cxmt",
+      "to": "samsung",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "industry_general",
+        "ddr5",
+        "ai_memory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 29,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "cxmt",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "apple",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "guidance",
+        "count": 9
+      },
+      {
+        "id": "ai_server",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 83,
+    "too_old": 89,
+    "gate1_blocked": 49,
+    "gate2_blocked": 21,
+    "passed": 60,
+    "pass_rate": "27.4%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
+      "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "AI Innovators Adopt NVIDIA Vera â Why Max Single-Threaded CPU at Scale Matters",
+      "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "How Open Models Are Driving AI Research"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為CXMT、三星、蘋果相關動態：「CXMT seeks US$4.1bn in China's biggest 2026 IPO for DDR5,...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CXMT seeks US$4.1bn in China's biggest 2026 IPO for DDR5, HBM（HBM、AI 伺服器、DDR5、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "CXMT IPO leaves HBM off the funding list, tempering China AI memory hype（HBM、AI 記憶體、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

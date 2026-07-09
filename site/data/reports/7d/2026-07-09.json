@@ -1,0 +1,321 @@
+{
+  "date": "2026-07-09",
+  "date_range": {
+    "start": "2026-07-03",
+    "end": "2026-07-09"
+  },
+  "generated_at": "2026-07-09T11:19:01.337443Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "onsemi-2026-07-03-001",
+      "date": "2026-07-03",
+      "title": "[Infographic] Teamwork Behind Cutting-Edge Chip Manufacturing: How Samsung Foundry’s SAFE™ Ecosystem Powers Next-Generation Semiconductor Innovation",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "lenovo",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capex": {
+      "this_week": 10,
+      "last_week": 19,
+      "week_over_week_change": "-47%",
+      "sentiment_this_week": 0.1
+    },
+    "industry_general": {
+      "this_week": 138,
+      "last_week": 124,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.09
+    },
+    "shortage": {
+      "this_week": 13,
+      "last_week": 7,
+      "week_over_week_change": "+86%",
+      "sentiment_this_week": 0.11
+    },
+    "dram_price": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "capacity": {
+      "this_week": 19,
+      "last_week": 19,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.24
+    },
+    "earnings": {
+      "this_week": 53,
+      "last_week": 42,
+      "week_over_week_change": "+26%",
+      "sentiment_this_week": 0.22
+    },
+    "inventory": {
+      "this_week": 9,
+      "last_week": 19,
+      "week_over_week_change": "-53%",
+      "sentiment_this_week": 0.22
+    },
+    "ai_server": {
+      "this_week": 17,
+      "last_week": 11,
+      "week_over_week_change": "+55%",
+      "sentiment_this_week": 0.31
+    },
+    "advanced_packaging": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.07
+    },
+    "hbm": {
+      "this_week": 11,
+      "last_week": 5,
+      "week_over_week_change": "+120%",
+      "sentiment_this_week": 0.14
+    },
+    "guidance": {
+      "this_week": 18,
+      "last_week": 10,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": 0.14
+    },
+    "ddr5": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.21
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "nand_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "onsemi": {
+      "event_count": 4,
+      "sentiment_avg": 0.44,
+      "rank": 10
+    },
+    "samsung": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "infineon": {
+      "event_count": 4,
+      "sentiment_avg": 0.19,
+      "rank": 11
+    },
+    "apple": {
+      "event_count": 16,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "skhynix": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 7
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 8
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 19
+    },
+    "intel": {
+      "event_count": 17,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 9
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 21
+    },
+    "phison": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 14
+    },
+    "micron": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 5
+    },
+    "cxmt": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 6
+    },
+    "kioxia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "amkor": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "nvidia": {
+      "event_count": 10,
+      "sentiment_avg": 0.27,
+      "rank": 4
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 22
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 23
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 12
+    },
+    "broadcom": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 13
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 303,
+        "last": 307,
+        "change_pct": -1.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-03",
+      "event_count": 53,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-04",
+      "event_count": 16,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-07-05",
+      "event_count": 21,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-06",
+      "event_count": 51,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-07-07",
+      "event_count": 71,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-08",
+      "event_count": 49,
+      "sentiment_avg": 0.22
+    },
+    {
+      "date": "2026-07-09",
+      "event_count": 42,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-03 ~ 2026-07-09）共 303 則事件，重點為「[Infographic] Teamwork Behind Cutting-Edge Chip...」。群聯電子、Marvell情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Marvell",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "群聯電子",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ON Semi",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
