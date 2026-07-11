@@ -1,0 +1,296 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:49:21.791999Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-07-11-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Record chip profits mask a widening divide inside Samsung",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.25
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD247/samsung-business-electronics-2026-operating-profit.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-11-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Song Chuan hits record June revenue on AI power and storage demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD237/revenue-demand-supplier-2026-acquisition.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-11-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Lianyou Metals posts record second-quarter revenue as tungsten supply tightens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD240/revenue-plant-demand-growth-production.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-11-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "TV panel prices fall in July as weak demand expected to hit 3Q26",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260709PD248/demand-market-lcd-tv-panel-tv-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-07-11-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung's CXL 3.1 memory delay lays bare Intel, AMD server platform lag",
+      "companies": [
+        "intel",
+        "amd",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260708VL214/samsung-cxl-production-amd-intel.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.44,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.27,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "apple",
+        "count": 1
+      },
+      {
+        "id": "cxmt",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 100,
+    "too_old": 86,
+    "gate1_blocked": 52,
+    "gate2_blocked": 33,
+    "passed": 41,
+    "pass_rate": "19.3%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
+      "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "AI Innovators Adopt NVIDIA Vera â Why Max Single-Threaded CPU at Scale Matters",
+      "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "How Open Models Are Driving AI Research"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為三星、英特爾、超微相關動態：「Record chip profits mask a widening divide inside Samsung」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Record chip profits mask a widening divide inside Samsung（AI 伺服器、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Song Chuan hits record June revenue on AI power and storage demand（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
