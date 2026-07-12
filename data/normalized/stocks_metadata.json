@@ -108,29 +108,29 @@
     "history_complete": true
   },
   "applied_materials": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "kla": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "shin_etsu": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6348
+    "count": 6412
   },
   "synopsys": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "cadence": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "arm": {
     "earliest": "2023-09-14",
@@ -145,24 +145,24 @@
     "history_complete": true
   },
   "western_digital": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "tsmc": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "intel": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "amkor": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "broadcom": {
     "earliest": "2009-08-06",
@@ -171,9 +171,9 @@
     "history_complete": true
   },
   "qualcomm": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "dell": {
     "earliest": "2016-08-17",
@@ -182,14 +182,14 @@
     "history_complete": true
   },
   "hp": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6408
+    "count": 6468
   },
   "lenovo": {
-    "earliest": "2001-01-16",
+    "earliest": "2000-10-18",
     "latest": "2026-07-10",
-    "count": 6338
+    "count": 6402
   },
   "supermicro": {
     "earliest": "2007-03-29",
@@ -204,19 +204,19 @@
     "history_complete": true
   },
   "oracle": {
+    "earliest": "2000-10-18",
+    "latest": "2026-07-10",
+    "count": 6468
+  },
+  "screen": {
+    "earliest": "2001-01-16",
+    "latest": "2026-07-10",
+    "count": 6348
+  },
+  "entegris": {
     "earliest": "2001-01-16",
     "latest": "2026-07-10",
     "count": 6408
-  },
-  "screen": {
-    "earliest": "2001-04-16",
-    "latest": "2026-07-10",
-    "count": 6284
-  },
-  "entegris": {
-    "earliest": "2001-04-16",
-    "latest": "2026-07-10",
-    "count": 6346
   },
   "silicon_motion": {
     "earliest": "2005-06-30",
@@ -225,9 +225,9 @@
     "history_complete": true
   },
   "macronix": {
-    "earliest": "2001-04-26",
+    "earliest": "2001-01-26",
     "latest": "2026-07-10",
-    "count": 6251
+    "count": 6315
   },
   "elite_semi": {
     "earliest": "2002-03-05",
@@ -242,24 +242,24 @@
     "history_complete": true
   },
   "marvell": {
-    "earliest": "2001-04-16",
+    "earliest": "2001-01-16",
     "latest": "2026-07-10",
-    "count": 6346
+    "count": 6408
   },
   "ti": {
-    "earliest": "2001-04-16",
+    "earliest": "2001-01-16",
     "latest": "2026-07-10",
-    "count": 6346
+    "count": 6408
   },
   "onsemi": {
-    "earliest": "2001-04-16",
+    "earliest": "2001-01-16",
     "latest": "2026-07-10",
-    "count": 6346
+    "count": 6408
   },
   "infineon": {
-    "earliest": "2001-04-10",
+    "earliest": "2001-01-10",
     "latest": "2026-07-10",
-    "count": 6446
+    "count": 6510
   },
   "phison": {
     "earliest": "2007-12-31",
@@ -280,14 +280,15 @@
     "history_complete": true
   },
   "etf_smh": {
-    "earliest": "2001-07-12",
+    "earliest": "2001-04-16",
     "latest": "2026-07-10",
-    "count": 6285
+    "count": 6346
   },
   "etf_soxx": {
     "earliest": "2001-07-13",
     "latest": "2026-07-10",
-    "count": 6284
+    "count": 6284,
+    "history_complete": true
   },
   "etf_soxq": {
     "earliest": "2021-06-11",
