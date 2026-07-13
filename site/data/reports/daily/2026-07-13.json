@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T11:26:10.665027Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-07-13-014",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "TSMC’s 1.4nm Process Is Seeing Zero Progression Roadblocks, As First Fab Nears Completion, With Pilot Production Starting As Early As Q3 2027",
+      "companies": [
+        "samsung",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/tsmc-1-4nm-process-no-roadblocks-first-fab-to-be-completed-in-2027/"
+    },
+    {
+      "rank": 2,
+      "event_id": "skhynix-2026-07-13-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 記憶體"
+      ],
+      "title": "SK Hynix May Be Absurdly Cheap: Top AI Memory Winner At ~4-5x '28 Earnings",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_memory",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4921529-sk-hynix-may-be-absurdly-cheap-top-ai-memory-winner-at-4-5x-28-earnings?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-13-003",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Rethinking Ethernet For The AI Scale-Up Era: Inside ESUN",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://semiengineering.com/rethinking-ethernet-for-the-ai-scale-up-era-inside-esun/"
+    },
+    {
+      "rank": 4,
+      "event_id": "samsung-2026-07-13-012",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "Samsung’s 2nm Node Lands Tesla’s AI5 Chip at Its Texas Taylor Fab, Silencing Yield Doubters",
+      "companies": [
+        "samsung",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-2nm-node-lands-tesla-ai5-chip-at-its-texas-taylor-fab-silencing-yield-doubters/"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-07-13-017",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "Rapidus to charge $18-21k for a 2nm wafer",
+      "companies": [
+        "samsung",
+        "intel",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/899838-2026-07/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung",
+      "to": "tsmc",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general",
+        "capacity"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 13,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "tsmc",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "meta",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "ddr5",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 282,
+    "dup_title": 96,
+    "too_old": 85,
+    "gate1_blocked": 40,
+    "gate2_blocked": 29,
+    "passed": 32,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "[Infographic] Samsung PM1763 SSD: A Core Storage Solution for Next-Generation AI Platforms",
+      "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "AI Innovators Adopt NVIDIA Vera â Why Max Single-Threaded CPU at Scale Matters",
+      "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "How Open Models Are Driving AI Research"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為台積電、三星、超微相關動態：「TSMC’s 1.4nm Process Is Seeing Zero Progression Roadblock...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TSMC’s 1.4nm Process Is Seeing Zero Progression Roadblocks, As First Fab Near...（資本支出、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "SK Hynix May Be Absurdly Cheap: Top AI Memory Winner At ~4-5x '28 Earnings（AI 記憶體、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
