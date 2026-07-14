@@ -1,5 +1,641 @@
 [
   {
+    "id": "unknown-2026-07-14-001",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Research Bits: July 14",
+    "summary": "<p>Cerebellum-inspired memtransistor; fungal mycelium PCB; doping organic semiconductors.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-july-14/\">Research Bits: July 14</a> appear",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/research-bits-july-14/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-002",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EDA Revenue Up 12.7%; APAC Roars Back",
+    "summary": "<p>Market strength remains in double digits for most categories.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/\">EDA Revenue Up 12.7%; APAC Roars Back</a> ap",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-003",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spain Semiconductor Industry Convenes to Forge Domestic Alliances",
+    "summary": "\n\t\t\t\t\t\t<p>AESEMI holds the first semiconductor MatchMaking day in Spain to forge new alliances and consolidate the ecosystem.</p>\n<p>The post <a href=\"https://www.eetimes.com/spain-semiconductor-indus",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/spain-semiconductor-industry-convenes-to-forge-domestic-alliances/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-004",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Researchers create programmable material that can steer heat and remember its state without power — breakthrough could eventually aid AI chip cooling and silicon photonics",
+    "summary": "\n                             Researchers created a programmable thermal material that steers heat and retains its state without power, a breakthrough that could benefit AI chips, silicon photonics, a",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/manufacturing/researchers-create-programmable-material-that-can-steer-heat-and-remember-its-state-without-power-breakthrough-could-eventually-aid-ai-chip-cooling-and-silicon-photonics",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-005",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Treading the market slowdown: IT panel demand cools as Taiwan display makers pivot to AI",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:471;157-627\">As early inventory stocking by brand customers winds down, China's 618 Shopping Festival delivers weaker-than-expected sales, and LCD TV panel prices b",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260713PD219/display-demand-panel-inventory-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-07-14-006",
+    "date": "2026-07-14",
+    "companies": [
+      "onsemi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "South Korea exports top US$100B in a month, stoking chip dependence fears",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:353;130-482\">South Korea's exports surpassed US$100 billion in a single month for the first time in June 2026, raising expectations that the country could exceed US",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260713PD206/exports-2026-semiconductors-growth-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-14-007",
+    "date": "2026-07-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia cuts list of approved Asian chip buyers by more than half to prevent diversion to China",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:325;136-460\">Nvidia has removed more than half of the Asian customers it previously authorized to buy its advanced chips, after creating a new internal white list i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714VL218/nvidia-chips-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-008",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan AI suppliers ride global demand as substrate, and CCL markets tighten",
+    "summary": "Taiwan's AI hardware supply chain remained strong in June, as substrate and CCL makers posted sharp annual gains driven by demand for AI servers, ASICs, and high-performance computing. The latest sale",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714VL206/taiwan-monthly-tracker-ccl-pcb-substrate-revenue-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-009",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rambus unveils DDR5 9600 chipset for next-generation AI servers",
+    "summary": "Rambus has introduced a new DDR5 9600 server RDIMM chipset aimed at faster, denser data center memory systems. The move matters beyond one supplier because higher bandwidth and better power efficiency",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714PR204/rambus-ddr5-chipset-ai-server-data-center.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-07-14-010",
+    "date": "2026-07-14",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "negative",
+    "title": "Commentary: AI computing power map reshapes ASEAN, with Singapore still central",
+    "summary": "In the second quarter of 2025, <em>DIGITIMES </em>visited the rapidly expanding Johor-Singapore Special Economic Zone (JS-SEZ) and Wiwynn's massive AI server system integration (SI) factory. Microsoft",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714PD224/digitimes-asean-ai-singapore-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-011",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Huaqin expects first-half net profit to jump over 50%, but core earnings growth stays modest",
+    "summary": "Chinese contract-manufacturing giant Huaqin Technology expects its net profit for the first half of 2026 to rise between 53.5% and 61.5% year-over-year, to a range of CNY2.9 billion (approx. US$427.73",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714PR201/huaqin-profit-earnings-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-012",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ingenic's first-half profit set to jump more than 400% as memory super-cycle lifts chip prices",
+    "summary": "Chinese chip designer Ingenic Semiconductor expects its net profit for the first half of 2026 to surge between 431% and 531% year-over-year, to a range of CNY1.079 billion (approx. US$159.14 million) ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714PR202/dram-profit-chips-earnings-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-07-14-013",
+    "date": "2026-07-14",
+    "companies": [
+      "onsemi"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Six-inch SiC substrate price rebounds as supply tightens",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:445;106-550\">Six-inch silicon carbide (SiC) substrates, a third-generation semiconductor product that has faced oversupply and falling prices for the past two years",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714PD223/sic-price-substrate-silicon-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-014",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Gogolook revenue jumps 36% in June to record high",
+    "summary": "Trust technology company Gogolook reported June 2026 consolidated revenue of NT$110 million (approx. US$3.43 million), up 36.5% from a year earlier. Consolidated revenue for the second quarter of 2026",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260713PD238/gogolook-revenue-technology-2026-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-015",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Global smartphone shipments fall to the lowest 2Q level since 2013 amid memory shortage",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:436;135-570\">According to Counterpoint's latest market tracker, global smartphone shipments fell sharply in the second quarter of 2026, underscoring the memory crun",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714PR200/shipments-market-smartphone-2013-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-016",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huatian Technology guides first-half 2026 net profit up 231-275%, lifted by IC demand and investment gains",
+    "summary": "China's semiconductor packaging and testing firm Tianshui Huatian Technology said on July 14 it expects first-half 2026 net profit attributable to shareholders of CNY750 million (approx. US$110.62 mil",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714PR203/packaging-demand-profit-2026-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-017",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bosch starts sample production at its first US chip plant after securing up to US$225 million",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:308;135-442\">German automotive supplier and chipmaker Bosch has begun sample production at its first US semiconductor factory after finalizing an agreement for up t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714VL213/bosch-production-automotive-supplier-plant.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-07-14-018",
+    "date": "2026-07-14",
+    "companies": [
+      "tsmc",
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Commentary: Terafab and DRAM reveal Tan's long-term vision for Intel",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:362;130-491\">US President Donald Trump recently claimed that Taiwan's TSMC will double the size of its Arizona fab project, reviving attention on his goal of raisin",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260713PD222/intel-donald-trump-tsmc-dram-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-14-019",
+    "date": "2026-07-14",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Apple supplier Lingyi iTech bets big on AI with US$590M bid for assets of bankrupt fiber maker Futong",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:325;153-477\">Apple supplier Lingyi iTech is seeking to expand further into AI infrastructure, announcing plans to invest up to CNY4 billion (US$589.9 million) to ac",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714VL210/apple-supplier-infrastructure-manufacturing-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-07-14-020",
+    "date": "2026-07-14",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC and Vanguard drive Taiwan's silicon foundry revenue up 54% YoY in June",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:268;117-384\">Taiwan's silicon foundry industry posted a strong performance in June 2026, with aggregate revenue reaching US$15,131.2 million, up 5.9% from May and 5",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260714VL208/taiwan-revenue-silicon-tsmc-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-021",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Arjo AB (publ) (ARRJF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4921797-arjo-ab-publ-arrjf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-022",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lifco AB (publ) (LFCBY) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4921808-lifco-ab-publ-lfcby-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-023",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Aker Solutions ASA (AKRYY) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4921825-aker-solutions-asa-akryy-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-024",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The London Company Q2 2026 Letter",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4921835-the-london-company-q2-2026-letter?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-025",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fastighets AB Balder (publ) (BALDF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4921796-fastighets-ab-balder-publ-baldf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-14-026",
+    "date": "2026-07-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Teams With US Government to Slam Shut the Backdoor Feeding Banned AI Chips Into China",
+    "summary": "NVIDIA Corporation is taking strict action to ensure that its AI GPUs only land in the hands of the right customers, reports the Financial Times. The action is to ensure that its chips do not reach Ch",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-teams-with-us-government-to-slam-shut-the-backdoor-feeding-banned-ai-chips-into-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-027",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CAPCOM Reportedly Plans to Create Bigger Expansions Starting With Resident Evil Requiem, As It Prepares Veronica Q1 2027 Release",
+    "summary": "Following the release of Resident Evil VII Biohazard, the survival-horror series by CAPCOM has entered a new golden age which has culminated this year with Resident Evil Requiem on PC, PlayStation 5, ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/capcom-plans-bigger-expansions-resident-evil-requiem-veronica-q1-2027-release/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-14-028",
+    "date": "2026-07-14",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Pushes Nintendo Toward a Switch 2 OLED, yet the $499 Price Crisis Threatens to Stall the Deal",
+    "summary": "Rumors about a Nintendo Switch 2 OLED version have swirled even before Nintendo's latest console launched in June 2025. In April 2024, a Samsung leaker suggested that the unit was actually already in ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-nintendo-switch-2-oled-price-crisis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-029",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "CAPCOM Says Dragon’s Dogma 2 Dark Arisen Lasts 25+ Hours, as it Tries Its Best to Win Back Disappointed Fans",
+    "summary": "Since the surprise announcement of Dragon's Dogma 2 Dark Arisen at the June Nintendo Direct, CAPCOM has maintained a steady pace of news and updates. We've learned about the many new dungeons and the ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/dragons-dogma-2-dark-arisen-25-hours-capcom/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-14-030",
+    "date": "2026-07-14",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "dram_price",
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix May Add Just One-Sixth Of Its Planned New Memory Capacity By 2028, Handing Ammunition To The DRAM Price-Fixing Lawsuit",
+    "summary": "A bombshell report from the Bank of America has just demolished the fallacy that new memory supply is just around the proverbial corner, with SK hynix now likely to bring online just around one-sixth ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sk-hynix-may-add-just-one-sixth-of-its-planned-new-memory-capacity-by-2028-handing-ammunition-to-the-dram-price-fixing-lawsuit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-07-14-031",
+    "date": "2026-07-14",
+    "companies": [
+      "arm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ministers arm under-16s social media ban with least surprising study of the year",
+    "summary": " Boffins confirm: taking away teens' phone makes them act like humans again ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/07/14/ministers-arm-under-16s-social-media-ban-with-least-surprising-study-of-the-year/5270924",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-032",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India’s tech services giant HCL is getting into the AI datacenter business",
+    "summary": " Starting small with $37m and maybe 50MW but reckons full-stack service plan can succeed ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/07/14/indias-tech-services-giant-hcl-is-getting-into-the-ai-datacenter-business/5270827",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-14-033",
+    "date": "2026-07-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gobi X: Creating more energy for AI, not taking it from society",
+    "summary": " PARTNER CONTENT: How Envision is reversing the datacenter playbook by making computing chase abundant desert power, not the other way around ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/14/gobi-x-creating-more-energy-for-ai-not-taking-it-from-society/5270590",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "meta-2026-07-13-001",
     "date": "2026-07-13",
     "companies": [
@@ -366,6 +1002,366 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/899811-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-13-020",
+    "date": "2026-07-13",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel Invests €5 Billion to Expand Manufacturing in Europe",
+    "summary": "<p>LEIXLIP, Ireland, July 13, 2026 &#8212;Intel today announced a &#8364;5 billion ($5.7 billion) capital investment at its Leixlip campus in Ireland, marking the next phase in the site&#8217;s capaci",
+    "sources": []
+  },
+  {
+    "id": "skhynix-2026-07-13-021",
+    "date": "2026-07-13",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hynix)",
+    "summary": "<p>Researchers from SK hynix published a technical paper titled “StreamDQ: Near-Memory Weight DeQuantization in Custom HBM for Scalable AI Inference Acceleration.” The paper proposes StreamDQ for “a l",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/near-memory-dequantization-architecture-in-custom-hbm-for-llm-inference-sk-hynix/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-022",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rochester Electronics and Qorvo® Team to Offer Long-Term Availability of RF Components",
+    "summary": "\n\t\t\t\t\t\t<p>NEWBURYPORT, MA – July 2026 Rochester Electronics, LLC, a premier continuous source of authorized semiconductors, and Qorvo®, a leading global provider of connectivity and power solutions, t",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/rochester-electronics-and-qorvo-team-to-offer-long-term-availability-of-rf-components/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-023",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Amazon Prime members can get this Asus RTX 5060 for just $2 above MSRP — upgrade to Blackwell gaming power for less than the cost of an RTX 3060",
+    "summary": "\n                             Amazon is giving some Prime customers a deep discount on Asus's Prime RTX 5060 8GB OC, bringing its price to just $2 above MSRP and beating the Prime Day deals we saw on ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/amazon-prime-members-can-get-this-asus-rtx-5060-for-just-usd2-above-msrp-upgrade-to-blackwell-gaming-power-for-less-than-the-cost-of-an-rtx-3060",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-07-13-024",
+    "date": "2026-07-13",
+    "companies": [
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla's AI5 with 2nm-class node tapes out at Samsung Foundry — production starts soon, months after TSMC tape out",
+    "summary": "\n                             Samsung Foundry soon to join TSMC in production of Tesla's AI5 processor, a LinkedIn post reveals. \n                                                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/teslas-ai5-with-2nm-class-node-tapes-out-at-samsung-foundry-production-starts-soon-months-after-tsmc-tape-out",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-07-13-025",
+    "date": "2026-07-13",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron commits $500 million to GlobalWafers' Texas wafer plant as it raises U.S. spending to $250 billion — memory maker aims to manufacture 40% of DRAM in the US by 2035",
+    "summary": "\n                             Running until 2035, the $250 billion spending target is attached to a goal of making 40% of Micron's DRAM in the U.S. by the mid-2030s. \n                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/micron-commits-500-million-to-globalwafers-texas-wafer-plant-as-it-raises-us-spending-to-250-billion",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-13-026",
+    "date": "2026-07-13",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel's new space-grade Starfire chip is a Panther Lake SoC that puts an 18A CPU into orbit — chip designed for the US government leverages Intel 3 for the GPU",
+    "summary": "\n                             Intel has unveiled Starfire, a space-grade system-on-chip designed for the U.S. government. \n                                                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-shows-off-starfire-space-grade-chip",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-07-13-027",
+    "date": "2026-07-13",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Meta expands colossal Hyperion AI supercluster plans to 5GW, pushes Louisiana investment past $50 billion as AI race accelerates — says it plans to invest over $1 billion in local infrastructure improvements",
+    "summary": "\n                             Meta is expanding Hyperion from 2 GW to 5 GW, lifting its Louisiana investment above $50 billion as it races to secure more AI computing capacity. \n                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/meta-expands-colossal-hyperion-ai-supercluster-plans-to-5gw-pushes-louisiana-investment-past-usd50-billion-as-ai-race-accelerates-says-it-plans-to-invest-over-usd1-billion-in-local-infrastructure-improvements",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-028",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flashforge Creator 5 review: Basic and affordable tool changer",
+    "summary": "\n                             The Flashforge Creator 5 tool changer is basic, budget, and nearly perfect. \n                                                                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/3d-printing/flashforge-creator-5-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-13-029",
+    "date": "2026-07-13",
+    "companies": [
+      "nvidia",
+      "apple"
+    ],
+    "topics": [
+      "ai_server",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple's rumored M7 Ultra targets 1.5TB of memory and Blackwell-class AI performance, report claims — monster 2028 offering would depend on memory shortage easing",
+    "summary": "\n                             Apple's planned M7 Ultra chip is being designed to support up to 1.5 TB of unified memory and to push AI performance toward the class of Nvidia's Blackwell accelerators. ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/apples-rumored-m7-ultra-targets-1-5tb-of-memory-and-blackwell-class-ai",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-13-030",
+    "date": "2026-07-13",
+    "companies": [
+      "samsung",
+      "apple"
+    ],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Cutthroat Smartphone Industry And DRAM Crisis Force A Player Out Of The U.S. Market, Giving Apple & Samsung Additional Room To Reap Profits",
+    "summary": "The U.S. smartphone market is currently dominated by Apple, with a small but important chunk occupied by Samsung. The remaining brands have been offered breadcrumbs in terms of market share, refusing ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/one-smartphone-player-to-bow-out-of-us-market-letting-apple-and-samsung-grow/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-13-031",
+    "date": "2026-07-13",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple And OpenAI Trade Lawsuits Over AI Device Tech Theft, But China’s StepX Neo Quietly Beats Both To A Working AI Phone",
+    "summary": "Sometimes, as rabbits waste their time on petty feuds and habitual sloth, the tortoise can win the sprint. This is exactly what appears to have happened with StepX and its just-teased Neo AI phone, as",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-and-openai-trade-lawsuits-over-ai-device-tech-theft-but-chinas-stepx-neo-quietly-beats-both-to-a-working-ai-phone/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-13-032",
+    "date": "2026-07-13",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix Weighs Buying South Korean Government Bonds as KIS Analyst Suggests HBM Price Surge Shows Signs of Cooling",
+    "summary": "Korean memory gains SK hynix is considering buying South Korean government bonds, according to a senior official. The report follows earlier news that had claimed that the memory company would bring b",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sk-hynix-weighs-buying-south-korean-government-bonds-as-hbm-price-surge-shows-signs-of-cooling/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-13-033",
+    "date": "2026-07-13",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel Pours €5 Billion Into Its Ireland Fab34, Scaling “Intel 3” Production For Xeon 6 and Next-Gen Diamond Rapids",
+    "summary": "Intel has invested €5 billion at its Ireland Fab34 to expand manufacturing of its \"Intel 3\" tech that will be used in Xeon 6 &#38; Next-Gen Xeon chips. Intel's Key Data Center Fab In Ireland Gets €5 B",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-pours-5-billion-in-ireland-scaling-intel-3-xeon-6-and-diamond-rapids-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-13-034",
+    "date": "2026-07-13",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ZOTAC RTX 5090 Dies In Cloud Of Smoke After 5 Minutes, But The 16-Pin Connector Was Untouched",
+    "summary": "Another one bites the dust, but this one didn't die due to the common 16-pin connector burning out. Redditor Reports Unexpected Loud Pop and Crackling on His RTX 5090, Followed by Smoke Caused by a Sh",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/zotac-rtx-5090-dies-in-cloud-of-smoke-after-5-minutes-but-the-16-pin-connector-was-untouched/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-07-13-035",
+    "date": "2026-07-13",
+    "companies": [
+      "broadcom",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korean AI Startup, Furiosa AI, Is Doubling Its Chip Production To 50,000 Units Next Year While Its Upcoming 2nm “Stork” Chip Challenges NVIDIA With The “World’s Best Inference”",
+    "summary": "Furiosa AI is all set to double its chip production to 50,000 units as it preps its 2nm \"Stork\" chip to break NVIDIA's inference dominance. Furiosa AI Claims Its 3rd Gen \"Stork\" 2nm Chip To Feature Th",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/furiosa-ai-doubling-chip-production-50000-units-next-year-2nm-stork-chip-challenges-nvidia-with-worlds-best-inference/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-07-13-036",
+    "date": "2026-07-13",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft chief turns hostile on frontier AI labs, warns companies to guard their IP",
+    "summary": " Lock it down, warns Satya Nadella, seemingly forgetting the billions Redmond chipped in to OpenAI back in the good old days ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/13/microsoft-chief-turns-hostile-on-frontier-ai-labs-warns-companies-to-guard-their-ip/5270628",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-13-037",
+    "date": "2026-07-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Astronomers find sugar near the creamy center of the Milky Way (no caramel, though)",
+    "summary": " First interstellar monosaccharide suggests some of life's ingredients may be scattered across the galaxy ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/science/2026/07/13/astronomers-find-sugar-near-the-creamy-center-of-the-milky-way-no-caramel-though/5270593",
         "type": "rss"
       }
     ]
