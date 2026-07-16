@@ -1,0 +1,278 @@
+{
+  "date": "2026-07-16",
+  "date_range": {
+    "start": "2026-07-10",
+    "end": "2026-07-16"
+  },
+  "generated_at": "2026-07-16T10:23:30.346420Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "lenovo-2026-07-10-003",
+      "date": "2026-07-10",
+      "title": "Samsung readies Gaia AI accelerator for PCs — HP and Lenovo are reportedly validating the NPU",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "ti",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 82,
+      "last_week": 138,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": 0.02
+    },
+    "ai_server": {
+      "this_week": 10,
+      "last_week": 17,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": -0.08
+    },
+    "capex": {
+      "this_week": 17,
+      "last_week": 10,
+      "week_over_week_change": "+70%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 63,
+      "last_week": 53,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": 0.06
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 18,
+      "week_over_week_change": "-83%",
+      "sentiment_this_week": 0.17
+    },
+    "capacity": {
+      "this_week": 16,
+      "last_week": 19,
+      "week_over_week_change": "-16%",
+      "sentiment_this_week": -0.03
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 7,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 9,
+      "last_week": 9,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.06
+    },
+    "hbm": {
+      "this_week": 1,
+      "last_week": 11,
+      "week_over_week_change": "-91%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 1,
+      "last_week": 13,
+      "week_over_week_change": "-92%",
+      "sentiment_this_week": -0.5
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 2,
+      "last_week": 7,
+      "week_over_week_change": "-71%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "micron": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "samsung": {
+      "event_count": 11,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "apple": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "intel": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 9
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 7
+    },
+    "cxmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 10
+    },
+    "skhynix": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "tsmc": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 3
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 17
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    },
+    "nvidia": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 18
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 12
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 279,
+        "last": 322,
+        "change_pct": -13.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-10",
+      "event_count": 45,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 30,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 37,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 60,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 51,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 26,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-10 ~ 2026-07-16）共 279 則事件，重點為「Samsung readies Gaia AI accelerator for PCs — H...」。ARM、微軟情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "微軟",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ARM",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "美光",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
