@@ -1,0 +1,282 @@
+{
+  "date": "2026-07-18",
+  "date_range": {
+    "start": "2026-07-12",
+    "end": "2026-07-18"
+  },
+  "generated_at": "2026-07-18T09:45:24.725473Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intel-2026-07-12-029",
+      "date": "2026-07-12",
+      "title": "TSMC Can’t Keep Up With CoWoS Demand, Sending Advanced Packaging Orders Spilling Over To Intel & Rival Taiwanese Fabs",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "ai_server",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.25,
+      "last_week_sentiment": 0.32,
+      "delta": -0.57,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "tsmc",
+      "co_mention_count": 7,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 78,
+      "last_week": 137,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 62,
+      "last_week": 62,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.0
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 19,
+      "week_over_week_change": "-89%",
+      "sentiment_this_week": 0.25
+    },
+    "capacity": {
+      "this_week": 17,
+      "last_week": 21,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": 0.06
+    },
+    "ai_server": {
+      "this_week": 8,
+      "last_week": 19,
+      "week_over_week_change": "-58%",
+      "sentiment_this_week": -0.25
+    },
+    "hbm": {
+      "this_week": 2,
+      "last_week": 11,
+      "week_over_week_change": "-82%",
+      "sentiment_this_week": -0.5
+    },
+    "ddr5": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 10,
+      "last_week": 9,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.05
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 17,
+      "last_week": 12,
+      "week_over_week_change": "+42%",
+      "sentiment_this_week": 0.03
+    },
+    "shortage": {
+      "this_week": 1,
+      "last_week": 11,
+      "week_over_week_change": "-91%",
+      "sentiment_this_week": -0.5
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": -0.33
+    }
+  },
+  "company_7d_summary": {
+    "micron": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "skhynix": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "apple": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 12
+    },
+    "amd": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "samsung": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 9,
+      "sentiment_avg": -0.06,
+      "rank": 1
+    },
+    "intel": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "nvidia": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 14
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 10
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "sk_siltron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 284,
+        "last": 328,
+        "change_pct": -13.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-12",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 37,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 60,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 51,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 54,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 36,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 16,
+      "sentiment_avg": 0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-12 ~ 2026-07-18）共 284 則事件，重點為「TSMC Can’t Keep Up With CoWoS Demand, Sending A...」。ARM、微軟情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "微軟",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ARM",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "美光",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

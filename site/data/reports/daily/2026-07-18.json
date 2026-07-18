@@ -1,0 +1,301 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:45:24.607478Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-18-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "情緒極端",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "JNTC-TOPPAN glass substrate push signals AI packaging supply-chain shift",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260714VL219/packaging-glass-substrate-hbm-production-jntc.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "skhynix-2026-07-18-001",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "Commentary: Samsung, SK Hynix in Washington's crosshairs over memory fabs",
+      "companies": [
+        "skhynix",
+        "intel",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260717PD229/samsung-sk-hynix-intel-digitimes-capacity.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-18-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Strong Earnings And A Goldilocks Economy Backstop Markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4923215-strong-earnings-goldilocks-economy-backstop-markets?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-18-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "GenAI Funding Falls In Q2 2026 As Large Players Start Moving To Public Markets",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4923206-genai-funding-falls-in-q2-2026-large-players-start-moving-public-markets?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-18-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sdiptech AB (publ) 2026 Q2 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4923194-sdiptech-ab-publ-2026-q2-results-earnings-call-presentation?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      },
+      {
+        "id": "sk_siltron",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 105,
+    "too_old": 81,
+    "gate1_blocked": 43,
+    "gate2_blocked": 41,
+    "passed": 33,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "20.7%",
+    "gate2_samples": [
+      "2026.07.16Tokyo Electron and NVIDIA Expand Collaboration for Agentic AI and RoboticsTopicsProducts /",
+      "Intel-Powered Medical Exoskeleton Helps Patients Get Back on Their Feet",
+      "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads â a Key Metric for",
+      "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "AMD Appoints Alan Smith as Newest Corporate Fellow"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為英特爾、三星、SK海力士相關動態：「JNTC-TOPPAN glass substrate push signals AI packaging sup...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "JNTC-TOPPAN glass substrate push signals AI packaging supply-chain shift（HBM、AI 伺服器、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Commentary: Samsung, SK Hynix in Washington's crosshairs over memory fabs（產能、資本支出、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
