@@ -1,0 +1,260 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T11:13:30.096582Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-20-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ryanair Holdings plc 2027 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4923416-ryanair-holdings-plc-2027-q1-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-20-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Netflix: I Welcome The Post-Q2 Earnings Dip As A Buying Opportunity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4923406-netflix-stock-welcome-the-post-q2-earnings-dip-as-a-buying-opportuniy?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-20-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "IBM Earnings Preview: A Maddening Long Since The Late '24 Breakout",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4923385-ibm-earnings-preview-maddening-long-since-late-2024-breakout?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-20-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rivian's R2: A Crucial Step Toward Sustainable Profitability",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4923393-rivian-stock-r2-crucial-step-toward-sustainable-profitability?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "tsmc-2026-07-20-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "TSMC: Unfolding CapEx Boom",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4923405-tsmc-unfolding-capex-boom?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      },
+      {
+        "id": "onsemi",
+        "count": 1
+      },
+      {
+        "id": "cadence",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 105,
+    "too_old": 81,
+    "gate1_blocked": 50,
+    "gate2_blocked": 45,
+    "passed": 22,
+    "pass_rate": "11.1%",
+    "gate2_block_rate": "22.7%",
+    "gate2_samples": [
+      "2026.07.16Tokyo Electron and NVIDIA Expand Collaboration for Agentic AI and RoboticsTopicsProducts /",
+      "Intel-Powered Medical Exoskeleton Helps Patients Get Back on Their Feet",
+      "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads â a Key Metric for",
+      "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "AMD Appoints Alan Smith as Newest Corporate Fellow"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為輝達、超微、台積電相關動態：「Ryanair Holdings plc 2027 Q1 - Results - Earnings Call Pr...」。主要關注主題為半導體/記憶體通用、財報、DDR5，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ryanair Holdings plc 2027 Q1 - Results - Earnings Call Presentation（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Netflix: I Welcome The Post-Q2 Earnings Dip As A Buying Opportunity（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

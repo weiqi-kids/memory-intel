@@ -1,0 +1,264 @@
+{
+  "date": "2026-07-20",
+  "date_range": {
+    "start": "2026-07-14",
+    "end": "2026-07-20"
+  },
+  "generated_at": "2026-07-20T11:13:30.206434Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tsmc-2026-07-14-018",
+      "date": "2026-07-14",
+      "title": "Commentary: Terafab and DRAM reveal Tan's long-term vision for Intel",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "nvidia",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "asml",
+      "company_b": "intel",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 71,
+      "last_week": 127,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": -0.01
+    },
+    "earnings": {
+      "this_week": 54,
+      "last_week": 67,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": 0.01
+    },
+    "inventory": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 14,
+      "last_week": 19,
+      "week_over_week_change": "-26%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 17,
+      "week_over_week_change": "-65%",
+      "sentiment_this_week": -0.17
+    },
+    "ddr5": {
+      "this_week": 2,
+      "last_week": 8,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 1,
+      "last_week": 8,
+      "week_over_week_change": "-88%",
+      "sentiment_this_week": -0.5
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 18,
+      "week_over_week_change": "-83%",
+      "sentiment_this_week": 0.17
+    },
+    "capex": {
+      "this_week": 15,
+      "last_week": 12,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.04
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.33
+    },
+    "hbm": {
+      "this_week": 1,
+      "last_week": 8,
+      "week_over_week_change": "-88%",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "onsemi": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 5
+    },
+    "nvidia": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 12
+    },
+    "tsmc": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 3
+    },
+    "intel": {
+      "event_count": 8,
+      "sentiment_avg": -0.06,
+      "rank": 1
+    },
+    "apple": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "samsung": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "skhynix": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 9
+    },
+    "asml": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "cadence": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "sk_siltron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "amd": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 263,
+        "last": 323,
+        "change_pct": -18.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-14",
+      "event_count": 60,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 51,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 54,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 40,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 27,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 17,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-14 ~ 2026-07-20）共 263 則事件，重點為「Commentary: Terafab and DRAM reveal Tan's long-...」。ARM、微軟情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "微軟",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ARM",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ON Semi",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
