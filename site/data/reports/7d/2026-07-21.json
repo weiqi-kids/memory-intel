@@ -1,0 +1,258 @@
+{
+  "date": "2026-07-21",
+  "date_range": {
+    "start": "2026-07-15",
+    "end": "2026-07-21"
+  },
+  "generated_at": "2026-07-21T10:36:13.228202Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intel-2026-07-15-036",
+      "date": "2026-07-15",
+      "title": "Intel's EMIB packaging gains traction as chip designers look to skirt TSMC's CoWoS constraints — Google's reported decision for 9th-gen TPUs highlights Intel's attractive alternative",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "asml",
+      "company_b": "intel",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "google",
+      "company_b": "intel",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "euv": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 49,
+      "last_week": 64,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": 0.03
+    },
+    "capex": {
+      "this_week": 12,
+      "last_week": 14,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.13
+    },
+    "industry_general": {
+      "this_week": 60,
+      "last_week": 114,
+      "week_over_week_change": "-47%",
+      "sentiment_this_week": 0.02
+    },
+    "capacity": {
+      "this_week": 9,
+      "last_week": 20,
+      "week_over_week_change": "-55%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 4,
+      "last_week": 17,
+      "week_over_week_change": "-76%",
+      "sentiment_this_week": -0.12
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.33
+    },
+    "hbm": {
+      "this_week": 2,
+      "last_week": 6,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -0.5
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 15,
+      "week_over_week_change": "-87%",
+      "sentiment_this_week": 0.25
+    },
+    "ddr5": {
+      "this_week": 1,
+      "last_week": 9,
+      "week_over_week_change": "-89%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "asml": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "nvidia": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "intel": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "samsung": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 10
+    },
+    "google": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    },
+    "cadence": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "tsmc": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "skhynix": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    },
+    "sk_siltron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "amd": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 248,
+        "last": 312,
+        "change_pct": -20.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-15",
+      "event_count": 51,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 54,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 40,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 27,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 17,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 41,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-15 ~ 2026-07-21）共 248 則事件，重點為「Intel's EMIB packaging gains traction as chip d...」。ARM情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "ARM",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "艾司摩爾",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
