@@ -1,0 +1,274 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T10:36:33.467832Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-07-22-019",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "NVIDIA Blackwell GB300 Continues To Set World Records for MoE Pre-Training While GB200 Sees A 4x Boost In Perf/W Through Continuous AI Software Stack Optimizations",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://wccftech.com/nvidia-blackwell-gb300-continues-to-set-world-records-gb200-gets-4x-ai-boost-optimizations/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-22-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bank OZK: Faster Diversification Is Worth Near-Term Earnings Pressure",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4924019-bank-ozk-faster-diversification-is-worth-near-term-earnings-pressure?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-22-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Norsk Hydro ASA ADR (NHYDY) Q2 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4924064-norsk-hydro-asa-adr-nhydy-q2-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-22-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vipshop Q2 2026 Preview: Bottomed Valuation Offsets Growth Stagnation (Rating Upgrade)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4924066-vipshop-2q26-preview-bottomed-valuation-offsets-growth-stagnation-rating-upgrade?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-22-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enagás, S.A. (ENGGY) Q2 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4924063-enagas-s-a-enggy-q2-2026-earnings-call-transcript?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 272,
+    "dup_title": 89,
+    "too_old": 80,
+    "gate1_blocked": 22,
+    "gate2_blocked": 33,
+    "passed": 48,
+    "pass_rate": "26.2%",
+    "gate2_block_rate": "18.0%",
+    "gate2_samples": [
+      "2026.07.16Tokyo Electron and NVIDIA Expand Collaboration for Agentic AI and RoboticsTopicsProducts /",
+      "Intel-Powered Medical Exoskeleton Helps Patients Get Back on Their Feet",
+      "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads â a Key Metric for"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為輝達、SK海力士、英特爾相關動態：「NVIDIA Blackwell GB300 Continues To Set World Records for...」。主要關注主題為半導體/記憶體通用、財報、AI 伺服器，市場情緒中性。",
+    "signals": [
+      {
+        "text": "NVIDIA Blackwell GB300 Continues To Set World Records for MoE Pre-Training Wh...（AI 伺服器、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bank OZK: Faster Diversification Is Worth Near-Term Earnings Pressure（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
