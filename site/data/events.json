@@ -1,5 +1,891 @@
 [
   {
+    "id": "nvidia-2026-07-23-001",
+    "date": "2026-07-23",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+    "summary": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system â bringing one of the worldâs most powerful AI pla",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-07-23-002",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Designing Electro-Optical Chips",
+    "summary": "<p>Photonics is forcing EDA to verify not just chips, but the physics of light inside full electro-optical systems.</p>\n<p>The post <a href=\"https://semiengineering.com/designing-electro-optical-chips",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/designing-electro-optical-chips/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-003",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Untangling Chip Traffic Jams",
+    "summary": "<p>Scaling NoCs across chiplets requires earlier validation of coherency, congestion, thermal effects, and fault behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/untangling-chip-traffic-",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/untangling-chip-traffic-jams/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-004",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Policy: The UK Vs. The US Vs. EU Vs. India",
+    "summary": "<p>Policy shifts affect every company in the semiconductor industry, regardless of their size.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-policy-the-uk-vs-the-us-vs-eu-vs-india/\">Chip P",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-policy-the-uk-vs-the-us-vs-eu-vs-india/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-005",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Realizing The Future Of 3D-IC: Final Scenario And Sign-off",
+    "summary": "<p>Chiplet interface route planning, optimization, and predictive analysis are crucial for achieving PPAC goals.</p>\n<p>The post <a href=\"https://semiengineering.com/realizing-the-future-of-3d-ic-fina",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/realizing-the-future-of-3d-ic-final-scenario-and-sign-off/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-006",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Chip Engineers Should Care About AI-Created Behavioral Models",
+    "summary": "<p>Automating the most repetitive and time-consuming parts of behavioral model creation while keeping humans in the loop.</p>\n<p>The post <a href=\"https://semiengineering.com/why-chip-engineers-should",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/why-chip-engineers-should-care-about-ai-created-behavioral-models/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-23-007",
+    "date": "2026-07-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The End Of Physics Silos In Engineering AI",
+    "summary": "<p>As systems become more advanced, engineering intelligence cannot remain fragmented across isolated AI models that only understand narrow slices of physical behavior.</p>\n<p>The post <a href=\"https:",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/the-end-of-physics-silos-in-engineering-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-008",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Wireless Coexistence Testing Exposes Real‑World Medical Device Behavior",
+    "summary": "<p>Reduce patient risk and support regulatory readiness by demonstrating how a device performs in the presence of real world interference. </p>\n<p>The post <a href=\"https://semiengineering.com/how-wir",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/how-wireless-coexistence-testing-exposes-real-world-medical-device-behavior/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-009",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DAC 2026: Users Are Not Waiting; DIY AI Is Now in Vogue",
+    "summary": "\n\t\t\t\t\t\t<p>At DAC 2026, chip giants stop waiting for EDA vendors and build their own AI brains—see who’s seizing control.</p>\n<p>The post <a href=\"https://www.eetimes.com/dac-2026-users-are-not-waiting",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/dac-2026-users-are-not-waiting-diy-ai-is-now-in-vogue/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-23-010",
+    "date": "2026-07-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "This astonishing $850 gaming PC contains well over $1,200 worth of parts, including $400 of 32GB DDR5 alone — get a potent Steam Machine rival thanks to this budget Intel Arc desktop",
+    "summary": "\n                             Save $150 on this gaming PC with Intel Core i5 14400F, Intel Arc B580, and 32GB of DDR5 RAM. \n                                                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/this-astonishing-usd850-gaming-pc-contains-well-over-usd1-200-worth-of-parts-including-usd400-of-32gb-ddr5-alone-get-a-potent-steam-machine-rival-thanks-to-this-budget-intel-arc-desktop",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-23-011",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung creates CEO-led robotics unit to speed commercialization",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:281;102-382\">Samsung Electronics has created a robotics business unit reporting directly to its chief executive, bringing strategy, technology development, data col",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260722VL227/samsung-robotics-business-technology-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-23-012",
+    "date": "2026-07-23",
+    "companies": [
+      "nvidia",
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "South Korean president to meet Nvidia and OpenAI CEOs on US trip",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:368;118-485\">South Korean president Jae-Myung Lee will launch an economic diplomacy tour centered on AI, advanced industries, and supply chain cooperation, includin",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723PD233/president-nvidia-openai-ceo-launch.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-013",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "IBM trims revenue outlook as hardware demand reshapes client spending",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:380;109-488\">IBM lowered its full-year revenue growth target after a second-quarter miss, saying clients shifted spending toward scarce hardware and away from softw",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723VL217/ibm-revenue-demand-hardware-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-014",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "D-Link robot line starts in 3Q26; care model due in 2027",
+    "summary": "Networking brand D-Link has set up a subsidiary, D-Link Robotics, and is officially entering the service robot market. The new unit will focus on two niche applications, \"smart companionship\" and \"saf",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260722PD232/d-link-robot-brand-2027-subsidiary.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-23-015",
+    "date": "2026-07-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japan loosens fiscal reins for JPY370 trillion AI, semiconductor strategy",
+    "summary": "<p class=\"P1\" data-start=\"82\" data-end=\"377\">Japanese Prime Minister Sanae Takaichi's government has approved a sweeping economic strategy that relaxes long-standing fiscal constraints to fund JPY370 ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260722VL217/government-investment-growth-industrial-policy.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-016",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Transsion raises phone prices to offset memory-chip inflation and weaker shipments",
+    "summary": "<p class=\"P1\" data-start=\"86\" data-end=\"300\">Transsion Holdings, Africa's largest smartphone vendor, expects revenue and profit to rise sharply in the first half of 2026 after higher handset prices of",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260722VL221/transsion-shipments-smartphone-africa-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-23-017",
+    "date": "2026-07-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sino-American Silicon Products, United Renewable Energy launch US solar module venture",
+    "summary": "Sino-American Silicon Products (SAS) and United Renewable Energy (URECO) announced that they will jointly invest in establishing a solar module manufacturing company in the US, with plans to build a s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260721PD249/ureco-sas-solar-module-manufacturing-solar.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-018",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Moonshot AI model challenges EDA moat with 2-day chip design",
+    "summary": "China AI startup Moonshot AI has drawn intense attention from the semiconductor industry after unveiling its new large language model Kimi K3, which delivered strong results across multiple model benc",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260721PD232/eda-moonshot-design-startup-semiconductor-industry.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-019",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STMicroelectronics raises AI data center ambition as second-quarter revenue rebounds 26%",
+    "summary": "STMicroelectronics (ST) has raised its revenue ambition for AI data centers to above US$1 billion in 2026 and well above US$2 billion in 2027, staking a larger claim on the AI infrastructure buildout ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723VL228/stmicroelectronics-revenue-data-center-2026-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-020",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla confirms equipment orders for TeraFab, targets in-house chip production to break supply bottleneck",
+    "summary": "Tesla has placed equipment orders for an in-house semiconductor development facility in Austin it calls TeraFab, CEO Elon Musk confirmed during the company's Q2 2026 earnings call on July 22, marking ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723VL225/tesla-equipment-production-development-optimus.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-23-021",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung weighs Besi's Korean rivals for 50-bonder hybrid bonding line as pricing talks drag on",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:210;131-340\">Samsung Electronics is preparing a die-to-wafer hybrid bonding production line with about 50 bonders at its Pyeongtaek campus for next-generation high-",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723VL227/samsung-equipment-production-hbm-hanwha.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-022",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi Electric and Sony Semiconductor Solutions form AI factory automation venture",
+    "summary": "Mitsubishi Electric and Sony Group subsidiary Sony Semiconductor Solutions announced on July 22, 2026, that they have signed a partnership agreement to launch a joint venture focused on using image se",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723PD231/mitsubishi-electric-sony-joint-venture-automation.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-23-023",
+    "date": "2026-07-23",
+    "companies": [
+      "intel",
+      "asml"
+    ],
+    "topics": [
+      "capex",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel 18A adopts High-NA EUV in dual-certification push",
+    "summary": "Intel Foundry has moved high numerical aperture (High-NA) EUV lithography into production on its Intel 18A process, with ASML confirming in a recent press release that Intel is using the expensive nex",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723PD230/intel-foundry-high-na-euv-asml-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-23-024",
+    "date": "2026-07-23",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Wistron launches first US-made Nvidia GB300 compute baseboard",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:326;147-472\">Wistron opened its D1 AI smart factory in Fort Worth, Texas, on July 21 local time, and began mass production of the first Nvidia GB300 compute baseboa",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260722PD241/wistron-nvidia-manufacturing-plant-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-23-025",
+    "date": "2026-07-23",
+    "companies": [
+      "nvidia",
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Server CPUs are AI boom's next scarce commodity: Intel, AMD reportedly lock in Chinese buyers",
+    "summary": "The AI build-out has found its next pinch point. After spreading from Nvidia's accelerators to memory and networking gear, the scramble for capacity has now reached the once-plentiful server processor",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723VL226/intel-amd-demand-cpu-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-07-23-026",
+    "date": "2026-07-23",
+    "companies": [
+      "tsmc",
+      "samsung",
+      "micron"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla names TSMC, Samsung, Micron as key partners for Optimus robot scale-up",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:253;153-405\">Tesla is building an entirely new supply chain from scratch to support its Optimus humanoid robot program, with CEO Elon Musk naming TSMC, Samsung, and",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723VL223/tesla-optimus-robot-samsung-micron.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-07-23-027",
+    "date": "2026-07-23",
+    "companies": [
+      "ti"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Texas Instruments sees China EV surge and rising analog prices as upcycle broadens",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:404;120-523\">Texas Instruments' second quarter of 2026 results landed Wednesday with two signals worth parsing beyond the headline numbers: an automotive demand acc",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723VL222/texas-instruments-automotive-2026-demand-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-23-028",
+    "date": "2026-07-23",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google's Cash Flow Drawdown And Borrowing Fuel AI Infrastructure Spending",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924577-google-cash-flow-drawdown-borrowing-fuel-ai-infrastructure-spending?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-029",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Weatherford: The Oil And Gas Servicer Striking It Big With Contracts In Q2",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924584-weatherford-the-oil-and-gas-servicer-striking-it-big-with-contracts-in-q2?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-030",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Siam Cement Public Company Limited 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924604-the-siam-cement-public-company-limited-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-031",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Swedencare AB (publ) 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924603-swedencare-ab-publ-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-032",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cembra Money Bank AG (CMBNF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924564-cembra-money-bank-ag-cmbnf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-033",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Repsol, S.A. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924597-repsol-s-a-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-034",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Getty Realty's Low Drama Growth Continues In Q2",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924455-getty-realtys-low-drama-growth-continues-in-q2?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-035",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sandisk: Why NAND May Have More Room To Run Than DRAM",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924580-sandisk-why-nand-may-have-more-room-to-run-than-dram?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-036",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IREN: From A Bitcoin Miner To An AI Infrastructure Play",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924578-iren-from-a-bitcoin-miner-to-an-ai-infrastructure-play?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-037",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BankUnited, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924589-bankunited-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-038",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fnac Darty SA (GRUPF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924529-fnac-darty-sa-grupf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-039",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vulcan Materials: Great Potential, But Not For Shareholders",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924457-vulcan-materials-great-potential-but-not-for-shareholders?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-040",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Aalberts N.V. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4924582-aalberts-n-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-23-041",
+    "date": "2026-07-23",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "An Exynos Chip’s Overheating Saga Would Have Turned Into A Colossal Disaster If One Of Samsung’s Foldable Smartphones Hadn’t Issued A Warning To The Owner",
+    "summary": "In regions outside of the U.S. where only Exynos-powered Galaxy flagships are sold, customers have little choice but to proceed with the purchase, but one Galaxy S22 Ultra owner recounts the time the ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/exynos-overheating-warning-given-by-samsung-foldable-smartphone-to-owner/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-23-042",
+    "date": "2026-07-23",
+    "companies": [
+      "apple",
+      "micron"
+    ],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk Thanks Micron For Allocating Memory To Tesla – And Possibly SpaceXAI – At “Reasonable Prices”",
+    "summary": "It appears Tesla - and possibly SpaceXAI - have been able to procure memory chips from Micron at a bargain, which is quite a feat in and of itself, especially given the current memory-related pricing ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/elon-musk-thanks-micron-for-allocating-memory-to-tesla-and-possibly-spacexai-at-reasonable-prices/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-043",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Britain isn't considering datacenters' thirst for water in its 'AI superpower' ambitions",
+    "summary": " Grand compute push could end up as dry as England's reservoirs unless ministers act fast ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/07/23/britain-isnt-considering-datacenters-thirst-for-water-in-its-ai-superpower-ambitions/5276363",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-23-044",
+    "date": "2026-07-23",
+    "companies": [
+      "google",
+      "intel"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Google is hoarding TPUs to chase artificial general intelligence",
+    "summary": " Yet the Chocolate Factory is also buying more third-party compute capacity to handle demand for the G-Cloud ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/23/google-is-hoarding-tpus-to-chase-artificial-general-intelligence/5276755",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-045",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SaxonQ puts quantum computer on the market",
+    "summary": "<p>SAXON Q, a pioneer in diamond-based nitrogen-vacancy (NV) quantum computing, has announced commercial availability of the 128-qubit SXQ128 and 512-qubit SXQ512 &#8211; the first diamond-based NV-ce",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/saxonq-puts-quantum-computer-on-the-market-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-046",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NAND supply-demand in balance in H2 2027",
+    "summary": "<p>The NAND supply-demand balance is expected to turn positive in the second half of 2027, says TrendForce. Although server demand is anticipated to stay strong, ongoing process migrations by supplier",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/nand-supply-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-047",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Single-chip analogue radio and audio processor",
+    "summary": "<p>NXP has come up with a single-chip analogue radio (AM and FM) and AI/ML-enabled audio processor. The SAF9800 consolidates functions that have traditionally required multiple discrete radio and audi",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/single-chip-analogue-radio-and-audio-processorv-2026-07/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [],
@@ -348,6 +1234,553 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/nvidia-blackwell-gb300-continues-to-set-world-records-gb200-gets-4x-ai-boost-optimizations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-22-020",
+    "date": "2026-07-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD and Anthropic Announce Strategic Partnership to Deploy Up to 2 Gigawatts of AMD Instinct MI450 Series GPUs",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-07-22-021",
+    "date": "2026-07-22",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q2 2026 earnings call: Remarks from our CEO",
+    "summary": "Read an edited transcript of Sundar Pichai’s remarks from the Q2 2026 Alphabet earnings call.",
+    "sources": []
+  },
+  {
+    "id": "google-2026-07-22-022",
+    "date": "2026-07-22",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Drive with Halo on Waze",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Halo-Keyvisual_Horizontal.max-600x600.format-webp.webp\">Building on a partnership that began in 2021, Waze is once again teami",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-07-22-023",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Rhetoric to Metrics: Raghib Hussain’s First Year as Altera CEO",
+    "summary": "\n\t\t\t\t\t\t<p>Altera has taped out six chips in nine months, three ahead of schedule, as new CEO focuses on execution.</p>\n<p>The post <a href=\"https://www.eetimes.com/from-rhetoric-to-metrics-raghib-huss",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/from-rhetoric-to-metrics-raghib-hussain-first-year-as-altera-ceo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-024",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI in EDA Is Real, It’s Now, and It’s on Show at DAC 2026",
+    "summary": "\n\t\t\t\t\t\t<p>AI in chip design has left the slide deck and hit DAC 2026’s floor—walk the stack and test the hype.</p>\n<p>The post <a href=\"https://www.eetimes.com/ai-in-eda-is-real-its-now-and-its-on-sho",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ai-in-eda-is-real-its-now-and-its-on-show-at-dac-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-025",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Framework nearly doubles memory pricing for 32GB, 64GB Laptop 13 Pro overnight — CEO says absorbing LPCAMM2 supplier hikes would put 'our ability to operate at real financial risk'",
+    "summary": "\n                             The company is making adjustments to some existing pre-orders. \n                                                                                                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/framework-nearly-doubles-memory-pricing-for-32gb-64gb-laptop-13-pro-overnight-ceo-says-absorbing-lpcamm2-supplier-hikes-would-put-our-ability-to-operate-at-real-financial-risk",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-22-026",
+    "date": "2026-07-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang argues American companies should be allowed to use Chinese AI models — Nvidia CEO says backdoors connected to China are misconceptions",
+    "summary": "\n                             Nvidia CEO Jensen Huang raised several points against the rising sentiment in Washington that U.S. firms should be prevented from accessing Chinese AI models. He also adv",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-argues-american-companies-should-be-allowed-to-use-chinese-ai-models-nvidia-ceo-says-backdoors-connected-to-china-are-misconceptions",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-07-22-027",
+    "date": "2026-07-22",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fortinet becomes Intel 4's first foundry customer, following firewall ASIC deal — CEO Lip-Bu Tan's promised foundry wins begin to surface, but on a mature node",
+    "summary": "\n                             Intel will design, package, and fabricate Fortinet's sixth-generation Security Processor (SP6) on its Intel 4 node. \n                                                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-4-gets-its-first-foundry-customer-in-fortinet-three-years-after-intel-scoped-the-node-to-meteor-lake",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-07-22-028",
+    "date": "2026-07-22",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Microsoft announces Xbox Backward Compatibility for PC — will let gamers play classic console games on PCs and handhelds",
+    "summary": "\n                             Xbox Backward Compatibility on PC will let gamers play classic Xbox games on PC and handheld. \n                                                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/pc-gaming/microsoft-announces-xbox-backward-compatibility-for-pc-will-let-gamers-play-classic-console-games-on-pcs-and-handhelds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-029",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Data centers forecast to use 20% of US power by 2035 — analysts estimate usage will rocket to 194 gigawatts, 83% more than forecast seven months ago",
+    "summary": "\n                             BNEF's December outlook put 2035 demand at 106 GW, and that figure was itself 36% above the projection the firm published in April 2025. \n                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/bnef-nearly-doubles-its-us-data-center-power-forecast-to-194gw",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-07-22-030",
+    "date": "2026-07-22",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Apple reportedly working on Mac leasing program in partnership with Klarna to fight RAM price increases — 'Apple Upgrade' would let users finance hardware over 36 months, budget models excluded",
+    "summary": "\n                             A new Bloomberg report is claiming that Apple is working on a leasing program called \"Apple Upgrade\" that will allow customers to finance hardware over the course of 2 or",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/apple-reportedly-working-on-mac-leasing-program-in-partnership-with-klarna-to-fight-ram-price-increases-apple-upgrade-would-let-users-finance-hardware-over-36-months-budget-models-excluded",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-22-031",
+    "date": "2026-07-22",
+    "companies": [
+      "google",
+      "oracle",
+      "meta",
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI tech companies have ‘hidden debt’ worth around $1.65 trillion, report claims — amount is 122% of debt reflected on the balance sheets of Alphabet, Amazon, Meta, Microsoft, and Oracle",
+    "summary": "\n                             Five tech giants have $1.65 trillion in data center obligations that are listed off their balance sheets. These liabilities are added as footnotes in their quarterly stat",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/ai-tech-companies-have-hidden-debt-worth-around-usd1-65-trillion-report-claims-amount-is-122-percent-of-debt-reflected-on-the-balance-sheets-of-alphabet-amazon-meta-microsoft-and-oracle",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-22-032",
+    "date": "2026-07-22",
+    "companies": [
+      "amd",
+      "meta"
+    ],
+    "topics": [
+      "hbm",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meta to use custom AMD Instinct MI400 accelerators with 144GB of HBM4 for select workloads, report claims — could dramatically reduce cost at the expense of versatility",
+    "summary": "\n                             Meta will reportedly use a custom version of AMD's Instinct MI400-series accelerators with a memory system cut to 144GB of HBM4, allegedly for select workloads only. \n   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-to-use-custom-amd-instinct-mi400-accelerators-with-144gb-of-hbm4-for-select-workloads-report-claims-could-dramatically-reduce-cost-at-the-expense-of-versatility",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-22-033",
+    "date": "2026-07-22",
+    "companies": [
+      "amd",
+      "ti"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Just $1,399 for this potent RTX 5060 Ti 16GB-powered gaming PC — 32GB of DDR5 RAM and AMD's 7800X3D to help you crush the competition",
+    "summary": "\n                             Save $600 on this Skytech Gaming King 95 prebuilt gaming PC with Ryzen 7 7800X3D, RTX 5060 Ti 16GB, and 32GB of DDR5 RAM inside. \n                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/just-usd1-399-for-this-potent-rtx-5060-ti-16gb-powered-gaming-pc-32gb-of-ddr5-ram-and-amds-7800x3d-to-help-you-crush-the-competition",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "adata-2026-07-22-034",
+    "date": "2026-07-22",
+    "companies": [
+      "adata"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Adata chairman says DRAM shortage will last another 10 years — dismisses AI bubble talk until '2040 or 2050'",
+    "summary": "\n                             Electricity, particularly green power, and memory will be the world's two scarcest resources over the next decade, Chen said. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/adata-chairman-says-dram-shortage-will-last-another-10-years",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-035",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceXAI Hunts Multiple Texas Sites for Ground-Up Data Centers, Doubling Down on AI After xAI Absorption",
+    "summary": "SpaceX is preparing to build a large-scale data center to diversify its computing capacity, says a report from The Information. As part of its IPO, the launch services provider marketed itself as a da",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/spacexai-hunts-multiple-texas-sites-for-ground-up-data-centers-doubling-down-on-ai-after-xai-absorption/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-22-036",
+    "date": "2026-07-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Framework Previews Its AMD Ryzen AI MAX+ PRO 495 PC Desktop With 192 GB Unified Memory That Effortlessly Runs DeepSeek V4-Flash at Q8",
+    "summary": "Framework has previewed its upcoming Desktop featuring the AMD Ryzen AI MAX+ 495 chip with 192 GB memory that effortlessly runs DeepSeek V4-Flash. Framework's AMD Ryzen AI MAX+ 495 Desktop Makes Sever",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/framework-amd-ryzen-ai-max-pro-495-pc-desktop-192-gb-memory-runs-deepseek-v4-flash/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-22-037",
+    "date": "2026-07-22",
+    "companies": [
+      "nvidia",
+      "arm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Running NVIDIA’s RTX GPUs On Windows 11 ARM Platform Is Now Possible, But If You’re Looking For Top-Notch Performance, It’s An Exercise In Futility",
+    "summary": "The first native NVIDIA driver&#160;arriving for Windows 11 ARM is here, as the company begins to optimize its RTX Spark&#160;for a future launch. However, one intrepid developer managed to run an RTX",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-rtx-gpu-can-run-on-windows-11-arm-through-workaround-poor-performance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-22-038",
+    "date": "2026-07-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Watch The AMD “Advancing AI 2026” Event Live Here – Next-Gen Zen 6 EPYC CPUs, Instinct MI400 Series & Helios AI Rack Launch",
+    "summary": "AMD's Advancing AI 2026 event will be the center stage for the company's next-gen AI portfolio, which includes Zen 6 EPYC and the Instinct MI400 series, powering the Helios AI rack. AMD To Host Advanc",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/watch-amd-advancing-ai-2026-event-live-here/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-22-039",
+    "date": "2026-07-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX’s Orbital AI Compute Can Reach $6.5 Per Watt Per Year By 2031, Which Is Cheaper Than NVIDIA Blackwell-Based Terrestrial Data Centers",
+    "summary": "SpaceX's planned constellation of AI satellites can gain unassailable economies of scale by 2031, becoming cheaper than some current terrestrial data centers, as per fresh numbers crunched by Morgan S",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/spacexs-orbital-ai-compute-can-reach-6-5-per-watt-per-year-by-2031-which-is-cheaper-than-nvidia-blackwell-based-terrestrial-data-centers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-22-040",
+    "date": "2026-07-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Moonshot Owns Secret NVIDIA GB300 Servers and Tapped Thailand’s GB300 Stash to Distill Kimi K3 From Anthropic’s Fable, Says A Trump Administration Official",
+    "summary": "In a dramatic development that should surprise no one in hindsight, a high-level official in the Trump administration has just declared that Moonshot's Kimi K3 model has been distilled from Anthropic'",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/moonshot-owns-secret-nvidia-gb300-servers-and-tapped-thailands-gb300-stash-to-distill-kimi-k3-from-anthropics-fable-as-per-solid-evidence-from-a-trump-administration-official/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-07-22-041",
+    "date": "2026-07-22",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Unveils The Galaxy Z Fold8 In An All-New Form Factor, The Galaxy Z Fold8 Ultra With Its Slimmest Design Yet, And The Galaxy Z Flip8 With A New FlexWindow",
+    "summary": "Samsung has just unveiled the next lineup of foldables, breaking its formulaic mold of recent years to imbue the Galaxy Z Fold8, the Galaxy Z Fold8 Ultra, and the Galaxy Z Flip8 with some much-needed ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-unveils-the-galaxy-z-fold8-in-an-all-new-form-factor-the-galaxy-z-fold8-ultra-with-its-slimmest-design-yet-and-the-galaxy-z-flip-with-a-new-flexwindow/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-22-042",
+    "date": "2026-07-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Lands Anthropic In 2GW Instinct MI450 Deal, Backing It With A $5 Billion Equity Bet",
+    "summary": "AMD and Anthropic have announced a strategic partnership to deploy up to 2 Gigawatts of AMD Instinct MI450 GPUs through Helios AI racks. Helios AI Racks With Instinct MI450 GPUs See Major 2GW Partners",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-lands-anthropic-in-2gw-instinct-mi450-deal-backing-it-with-a-5-billion-equity-bet/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-22-043",
+    "date": "2026-07-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD’s Zen 6 EPYC Venice Pictured as a 256-Core Monster, Massive Twin I/O Dies & First 2nm HPC Chip To Enter Volume Ramp",
+    "summary": "AMD has showcased its next-generation EPYC Venice CPU at the Advancing AI event, featuring a phenomenal core count of 256 based on Zen 6. AMD Is Firing Across All Cylinders With Its Next-Gen EPYC Veni",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-256-core-epyc-venice-behemoth-cpu-pictured-confirms-32-cores-per-zen-6-ccd/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-22-044",
+    "date": "2026-07-22",
+    "companies": [
+      "nvidia",
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "NVIDIA’s Jensen Quells Fears Surrounding Kimi K3 And Over-Investment In LLMs, Says “Everyone’s Got It Backwards, More AI Computing Power Will Be Needed”",
+    "summary": "Moonshot AI’s frontier model, Kimi K3, has sent goosebumps around the industry, with one of its highlights being able to build a chip within just 48 hours that can deliver more than 8,700 tokens per s",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-jensen-reduces-fears-of-kimi-k3-and-over-investment-in-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-22-045",
+    "date": "2026-07-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EA Tells RTX 50 Owners to Downgrade NVIDIA Drivers as Battlefield 6 Keeps Crashing on Water Maps",
+    "summary": "The Battlefield 6 community has been reporting game crashes in some maps, particularly where there are large bodies of water. EA Starts Investigating NVIDIA Driver Crash in Tsuru Reef, Affecting Playe",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/ea-tells-rtx-50-owners-to-downgrade-nvidia-drivers-as-battlefield-6-keeps-crashing-on-water-maps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-22-046",
+    "date": "2026-07-22",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Google Cloud is killing it",
+    "summary": " It's Alphabet's fastest-growing business and now makes up more than a fifth of the juggernaut's revenue and operating profit ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/paas-and-iaas/2026/07/22/google-cloud-is-killing-it/5276632",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-047",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sovereign AI is 'nonsense,' says Doctorow",
+    "summary": " As Trump dismantles the US-led world order, what the rest of the world really needs is sovereign apps and datacenters, argues 'enshittification' coiner ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/22/sovereign-ai-is-nonsense-says-doctorow/5276578",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-048",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sneaky Windows stealer targets 300+ apps, gives crims an AI profiler to maximize profits",
+    "summary": " Move over Flipper. There's a new Dophin X in town ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/07/22/sneaky-windows-stealer-targets-300-apps-gives-crims-an-ai-profiler-to-maximize-profits/5275962",
         "type": "rss"
       }
     ]
