@@ -1,0 +1,253 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T10:12:38.196249Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-07-26-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "NVIDIA Trims Vera Rubin Memory as HBM4 Prices Threaten to Eat 29% of Every Rack’s Cost – Report",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidia-trims-vera-rubin-memory-as-hbm4-prices-threaten-to-eat-29-of-every-racks-cost-report/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-26-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "The AI Capex Bill Comes Due",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4925649-ai-capex-bill-comes-due?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Eurozone Flash PMI Signals Renewed Growth In July As Price Pressures Cool",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4925653-eurozone-flash-pmi-signals-renewed-growth-in-july-as-price-pressures-cool?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Flash PMIs Signal Faster Growth Across Major Developed Economies, But Supply Chain And Price Concerns Cloud Outlook",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4925652-flash-pmi-signal-faster-growth-across-major-developed-economies?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Multi-Asset Midyear Outlook: Expanding The Toolkit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4925647-multi-asset-midyear-outlook-expanding-toolkit?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "guidance",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "hbm",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 123,
+    "too_old": 78,
+    "gate1_blocked": 51,
+    "gate2_blocked": 37,
+    "passed": 33,
+    "pass_rate": "16.6%",
+    "gate2_block_rate": "18.6%",
+    "gate2_samples": [
+      "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為輝達相關動態：「NVIDIA Trims Vera Rubin Memory as HBM4 Prices Threaten to...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NVIDIA Trims Vera Rubin Memory as HBM4 Prices Threaten to Eat 29% of Every Ra...（HBM、產能、缺貨、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "The AI Capex Bill Comes Due（資本支出）",
+        "level": "green"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

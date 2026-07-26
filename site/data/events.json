@@ -1,5 +1,119 @@
 [
   {
+    "id": "unknown-2026-07-26-001",
+    "date": "2026-07-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurozone Flash PMI Signals Renewed Growth In July As Price Pressures Cool",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4925653-eurozone-flash-pmi-signals-renewed-growth-in-july-as-price-pressures-cool?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-26-002",
+    "date": "2026-07-26",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Flash PMIs Signal Faster Growth Across Major Developed Economies, But Supply Chain And Price Concerns Cloud Outlook",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4925652-flash-pmi-signal-faster-growth-across-major-developed-economies?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-26-003",
+    "date": "2026-07-26",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "The AI Capex Bill Comes Due",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4925649-ai-capex-bill-comes-due?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-26-004",
+    "date": "2026-07-26",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Multi-Asset Midyear Outlook: Expanding The Toolkit",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4925647-multi-asset-midyear-outlook-expanding-toolkit?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-26-005",
+    "date": "2026-07-26",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Trims Vera Rubin Memory as HBM4 Prices Threaten to Eat 29% of Every Rack’s Cost – Report",
+    "summary": "NVIDIA Corporation is significantly reducing the memory used by its Vera Rubin NV72 rack-scale AI system in order to address the high prices and the ongoing memory shortage, according to an analysis f",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-trims-vera-rubin-memory-as-hbm4-prices-threaten-to-eat-29-of-every-racks-cost-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-26-006",
+    "date": "2026-07-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Trump expands voluntary pledge to keep datacenter costs off household power bills",
+    "summary": " Pinkie promise gains 200-plus new participants and precisely zero enforcement ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/07/26/trump-expands-voluntary-pledge-to-keep-datacenter-costs-off-household-power-bills/5278346",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung-2026-07-25-001",
     "date": "2026-07-25",
     "companies": [
@@ -239,6 +353,554 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/ai-and-ml/2026/07/25/anthropic-debuts-opus-5-at-half-the-price-of-its-fable-sibling/5278630",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-25-015",
+    "date": "2026-07-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "'RAM Machine' case probably costs more than the entire build — Nvidia RTX 5060, Core Ultra 5 CPU, and 32GB DDR5-8200 RAM are hiding inside",
+    "summary": "\n                             A Redditor is giving away an RTX 5060 gaming PC that's covered by RAM on the outside and has 32GB of RAM on the inside. You can join the sweepstakes simply by leaving a c",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/ram-machine-case-probably-costs-more-than-the-entire-build-nvidia-rtx-5060-core-ultra-5-cpu-and-32gb-ddr5-8200-ram-are-hiding-inside",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-07-25-016",
+    "date": "2026-07-25",
+    "companies": [
+      "ti",
+      "nvidia"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Grab an Nvidia RTX 5060 Ti gaming PC with Core Ultra 7 CPU and 32GB RAM for under $1,200 — Thermaltake's View u2660T-170 slashed by 33%",
+    "summary": "\n                             Thermaltake has a no-brainer deal up on Woot right now where it'll let you have an $1,800 PC for as little as 1,177. For that price, you're getting an RTX 5060 Ti (8GB), ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/grab-an-nvidia-rtx-5060-ti-gaming-pc-with-core-ultra-7-cpu-and-32gb-ram-for-under-usd1-200-thermaltakes-view-u2660t-170-slashed-by-33-percent",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-25-017",
+    "date": "2026-07-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia and SK Group enter $500 billion AI partnership — plan to supercharge AI infrastructure with next-gen memory and massive AI factories",
+    "summary": "\n                             Nvidia and SK Group enter $500 billion strategic partnership focused on long-term memory supply, 2 GW AI data center, and future AI infrastructure \n                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-sk-group-enter-usd500-billion-ai-partnership-plan-to-supercharge-ai-infrastructure-with-next-gen-memory-and-massive-ai-factories",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-07-25-018",
+    "date": "2026-07-25",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AUO's Micro LED push signals a broader shift from displays to smart interfaces",
+    "summary": "AUO says its Micro LED technology is moving beyond screens and into a broader smart interface platform, even as one high-profile automotive project was shelved. The company argues that years of develo",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723PD210/auo-technology-automotive-production-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-07-25-019",
+    "date": "2026-07-25",
+    "companies": [
+      "kioxia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toshiba cuts Kioxia stake as memory maker's valuation swings",
+    "summary": "Toshiba reduced its holding in Kioxia Holdings to 15.1% as of July 15, according to filings reported by <em>Nikkei</em> and <em>Reuters</em>. The change report, submitted to Japan's Kanto Local Financ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD241/kioxia-toshiba-market-nikkei-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-020",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Optical PD volume production lifts WIN Semiconductors' Q2 revenue 39% YoY",
+    "summary": "WIN Semiconductors, a gallium arsenide (GaAs) foundry, reported consolidated revenue of NT$5.26 billion (US$178 million) for the second quarter of 2026, up 14.5% sequentially and 39% year over year, d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD235/revenue-demand-gaas-2026-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-25-021",
+    "date": "2026-07-25",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alphabet's purchase commitments surge past US$800 billion amid AI infrastructure expansion",
+    "summary": "Alphabet disclosed in its latest quarterly filing that its purchase commitments and other contractual obligations had climbed to US$811 billion as of the end of June, underscoring the company's aggres",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD232/alphabet-infrastructure-anthropic-inventory-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-07-25-022",
+    "date": "2026-07-25",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KKR plans gradual exit as LCY Group accelerates semiconductor materials expansion",
+    "summary": "TSMC supplier LCY Group President Bowei Lee said private equity firm KKR &amp; Co. plans to gradually divest its holdings in businesses affiliated with the Taiwanese chemical group, a move he believes",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD231/lcy-expansion-materials-tsmc-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-023",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lynas says Malaysia heavy rare earth project has gone over budget",
+    "summary": "Lynas Rare Earths said its heavy rare earth expansion in Malaysia has gone over budget as the Australia-based miner works to build out a non-China supply chain. The disclosure came alongside the lates",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD208/budget-2026-equipment-supply-chain-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-024",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Pantheon Electric expands copper platform as AI and grid demand tighten supply",
+    "summary": "Pantheon Electric said it has completed the acquisition of four manufacturers and built an integrated power infrastructure platform across 21 factories in North America and Europe. The company said th",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD204/copper-demand-data-infrastructure-acquisition.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-07-25-025",
+    "date": "2026-07-25",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Google AI search reshapes traffic as publishers weigh blocking crawlers",
+    "summary": "Google's expansion of AI-driven search features is prompting a backlash from publishers and media companies that rely on search traffic. Over the past year, the company has rolled out AI Mode across s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD202/google-expansion-data-retail-usa.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-026",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Airbus raises profit outlook as supply bottlenecks ease",
+    "summary": "Airbus updated its financial outlook for investors, saying easing supply-chain constraints should support stronger production and profit growth through 2029. According to <em>Bloomberg</em>, the Europ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD201/airbus-outlook-profit-production-aircraft.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-07-25-027",
+    "date": "2026-07-25",
+    "companies": [
+      "skhynix",
+      "tsmc",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Podcast: TSMC, SK Hynix, Intel face AI chip and cash flow inflection",
+    "summary": "This excerpt of DIGITIMES analyst Luke Lin's podcast looks at two major themes: SK Hynix's openness to building in the US and the logic behind TSMC's extra US$100 billion investment pledge.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD243/tsmc-sk-hynix-intel-digitimes-cash-flow.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-25-028",
+    "date": "2026-07-25",
+    "companies": [
+      "nvidia",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix and Nvidia strike long-term deal to co-develop next-generation HBM",
+    "summary": "SK Group and Nvidia have announced a comprehensive partnership valued at more than $500 billion, spanning AI factory construction and next-generation memory supply, with letters of intent signed at an",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260725VL203/nvidia-sk-group-partnership-sk-telecom-training.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-25-029",
+    "date": "2026-07-25",
+    "companies": [
+      "nvidia",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, SK, Hyundai join Jensen Huang and Korea's President Lee at San Francisco AI Summit",
+    "summary": "South Korean President Lee Jae-myung and a delegation of the country's most powerful business leaders convened with NVIDIA founder and CEO Jensen Huang in Silicon Valley this week, in a series of meet",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260725VL202/samsung-jensen-huang-hyundai-ceo-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-030",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "89 fabs by 2030, 50 more by 2035: chip industry spreads risk through global collab",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:467;204-670\">AI infrastructure investment is reaching unprecedented levels, with estimates showing it will lift global semiconductor output past US$1 trillion in 20",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723PD229/infrastructure-taiwan-investment-manufacturing-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-031",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Trumpf's stabilizing sales point to a broader recovery in industrial demand",
+    "summary": "Trumpf said preliminary fiscal 2025/26 results showed its business stabilizing after several years of declines in orders and revenue. The German laser and smart manufacturing equipment maker reported ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723PD225/demand-revenue-sales-industrial-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-032",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PlayNitride bets on Tantium architecture, chip scaling to cut MicroLED costs 75% by 2030",
+    "summary": "Taiwan-based PlayNitride aims to reduce MicroLED production costs by 75% by 2030 through smaller chip designs and its proprietary high-efficiency Tantium chip architecture, positioning the technology ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723PD224/playnitride-2030-technology-production-efficiency.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-07-25-033",
+    "date": "2026-07-25",
+    "companies": [
+      "qualcomm",
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Qualcomm expands Galaxy AI partnership as Samsung adopts Snapdragon across new device lineup",
+    "summary": "Qualcomm is expanding the reach of its Snapdragon platform across Samsung Electronics' Galaxy ecosystem, with Samsung's latest foldable smartphones, smartwatches and next-generation smart glasses all ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724PD207/galaxy-qualcomm-snapdragon-samsung-smart-glasses.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-034",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rapidus links 2nm chips, HBM and advanced packaging in AI foundry strategy",
+    "summary": "Rapidus is treating advanced packaging as a central part of its 2nm foundry strategy, not a downstream assembly service. The Japanese chipmaker aims to connect design enablement, front-end wafer proce",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260724VL214/rapidus-2nm-manufacturing-hbm-packaging.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-035",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's chip partnerships widen beyond fabs to AI, photonics and quantum",
+    "summary": "Taiwan's semiconductor industry is expanding overseas while deepening cooperation with the US, Europe, and Asia across advanced packaging, AI infrastructure, research, talent, cybersecurity, and inter",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260723VL208/taiwan-photonics-semiconductor-industry-2026-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-036",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Noah Holdings - Strong Q2 Expected",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4925641-noah-holdings-stock-strong-2q-expected?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-07-25-037",
+    "date": "2026-07-25",
+    "companies": [
+      "broadcom",
+      "nvidia",
+      "skhynix",
+      "samsung",
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Inked A $500 Billion Agreement With SK hynix, And Then Jensen Huang Asked For “One More Beer”",
+    "summary": "South Korea's President led an AI summit in San Francisco on Friday, and the venue became an epicenter of deal-making, with at least $750 billion worth of long-term agreements (LTAs) and MOUs inked wi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-inked-a-500-billion-agreement-with-sk-hynix-and-then-jensen-huang-asked-for-one-more-beer/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-07-25-038",
+    "date": "2026-07-25",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "20 Years Since AMD’s $5.4 Billion ATI Acquisition: The Deal That Shaped Radeon, Consoles, And AMD’s AI Future",
+    "summary": "The company has come a long way since its acquisition of ATI Technologies in 2006. This transformed it from a CPU maker to a full-fledged computing giant. Twenty Years Later, the ATI Acquisition Remai",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/20-years-since-amds-5-4-billion-ati-acquisition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-07-25-039",
+    "date": "2026-07-25",
+    "companies": [
+      "broadcom",
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung’s Advantage Over TSMC As A Foundry Rival Expands Beyond The 2nm Process, Helping It Ink Multi-Billion-Dollar Agreements; Has Potential To Outgrow Its Competitor",
+    "summary": "TSMC is the undisputed king of the global semiconductor market, and to extend its lead, it has succeeded in developing cutting-edge lithography and advanced packaging. Samsung certainly has a lot of g",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-foundry-2nm-advantage-tsmc-chip-deals-worth-billions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-07-25-040",
+    "date": "2026-07-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA RTX 5060 Spikes $75 Overnight In China As Memory Kit Hike Ripples Across The Entire GPU Market",
+    "summary": "The GPU prices have started climbing upwards as NVIDIA announces higher price for memory kits. GIGABYTE RTX 5060 Sees a Sudden $75 Price Hike in China, and More GPUs Will Likely Get Affected Similarly",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-rtx-5060-spikes-75-overnight-in-china-as-memory-kit-hike-ripples-across-the-entire-gpu-market/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-07-25-041",
+    "date": "2026-07-25",
+    "companies": [
+      "micron",
+      "apple",
+      "ymtc",
+      "cxmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron CEO Sanjay Mehrotra’s Bad Blood With Apple Traces Back Years, Report Reveals Amid Chip Standoff & Efforts To Procure From China’s CXMT",
+    "summary": "Apple and Micron are going head to head over the former's plans to procure memory chips from China's YMTC, reports The Wall Street Journal. The Cupertino, California-based consumer electronics giant m",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/micron-ceo-sanjay-mehrotras-bad-blood-with-apple-traces-back-years-report-reveals-amid-chip-standoff-efforts-to-procure-from-chinas-cxmt/",
         "type": "rss"
       }
     ]
