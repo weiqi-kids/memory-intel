@@ -1,0 +1,270 @@
+{
+  "date": "2026-07-27",
+  "date_range": {
+    "start": "2026-07-21",
+    "end": "2026-07-27"
+  },
+  "generated_at": "2026-07-27T11:37:20.377516Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nvidia-2026-07-21-046",
+      "date": "2026-07-21",
+      "title": "Samsung Delays Hybrid Bonding HBM to 2029, Aligning Next-Gen Memory With NVIDIA’s Feynman AI GPUs",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "microsoft",
+      "company_b": "nvidia",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "broadcom",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "hbm": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 74,
+      "last_week": 71,
+      "week_over_week_change": "+4%",
+      "sentiment_this_week": 0.05
+    },
+    "inventory": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 61,
+      "last_week": 54,
+      "week_over_week_change": "+13%",
+      "sentiment_this_week": 0.01
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    },
+    "shortage": {
+      "this_week": 6,
+      "last_week": 1,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": 0.08
+    },
+    "ddr5": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.17
+    },
+    "capacity": {
+      "this_week": 10,
+      "last_week": 14,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.13
+    },
+    "capex": {
+      "this_week": 7,
+      "last_week": 15,
+      "week_over_week_change": "-53%",
+      "sentiment_this_week": -0.03
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.5
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "dell": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 9
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "skhynix": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 6
+    },
+    "intel": {
+      "event_count": 13,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "nvidia": {
+      "event_count": 12,
+      "sentiment_avg": 0.25,
+      "rank": 2
+    },
+    "samsung": {
+      "event_count": 8,
+      "sentiment_avg": -0.03,
+      "rank": 3
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tsmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 13
+    },
+    "apple": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 7
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 14
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 15
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "cxmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 297,
+        "last": 290,
+        "change_pct": 2.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-21",
+      "event_count": 47,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 48,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 77,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 49,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 41,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 16,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-21 ~ 2026-07-27）共 297 則事件，重點為「Samsung Delays Hybrid Bonding HBM to 2029, Alig...」。戴爾、博通情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "戴爾",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "博通",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "GCP",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
