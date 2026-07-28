@@ -1,0 +1,333 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:46:57.954039Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-07-28-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin compute platform",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260728VL207/nvidia-rubin-investment-partnership-openai.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "apple-2026-07-28-017",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "CXMT's record IPO and Apple talks collide with US curbs as DRAM tightens",
+      "companies": [
+        "apple",
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260728VL204/cxmt-dram-market-apple-ipo.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-07-28-033",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及價格",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "NVIDIA Hikes Graphics Card Prices For The Third Time This Year And By Up To 30%, As Distributors Enter Panic Mode",
+      "companies": [
+        "nvidia",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "dram_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidia-hikes-graphics-card-prices-for-the-third-time-this-year-and-by-up-to-30-as-distributors-enter-panic-mode/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-28-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "UMT posts record revenue in 1H26 on growing LEO satellite demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260727PD227/umt-leo-demand-revenue-mmwave.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-28-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及 AI 伺服器",
+        "涉及 AI 記憶體"
+      ],
+      "title": "AI memory demand lifts WF6 prices as PERIC Special Gases adopts market-based pricing",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_memory",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260728PD216/gases-demand-price-production-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 24,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "google",
+        "count": 2
+      },
+      {
+        "id": "meta",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "dram_price",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 100,
+    "too_old": 75,
+    "gate1_blocked": 42,
+    "gate2_blocked": 26,
+    "passed": 59,
+    "pass_rate": "29.2%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
+      "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+      "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
+      "AAI 2026: AMD Delivers Full-Stack Compute for the Agentic AI Era",
+      "Supermicro Introduces New Server Portfolio with 6th Gen AMD EPYC™ 9006 Series CPUs, Delivering 1.7x "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為輝達、英特爾、三星相關動態：「Nvidia invests in Ilya Sutskever's SSI, providing access ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin comput...（產能）",
+        "level": "red"
+      },
+      {
+        "text": "CXMT's record IPO and Apple talks collide with US curbs as DRAM tightens（產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

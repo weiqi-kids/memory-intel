@@ -1,0 +1,294 @@
+{
+  "date": "2026-07-28",
+  "date_range": {
+    "start": "2026-07-22",
+    "end": "2026-07-28"
+  },
+  "generated_at": "2026-07-28T10:46:58.101195Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "amd-2026-07-22-032",
+      "date": "2026-07-22",
+      "title": "Meta to use custom AMD Instinct MI400 accelerators with 144GB of HBM4 for select workloads, report claims — could dramatically reduce cost at the expense of versatility",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "ai_server",
+      "subject_type": "topic",
+      "this_week_sentiment": 0.4,
+      "last_week_sentiment": -0.12,
+      "delta": 0.53,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "amd",
+      "company_b": "intel",
+      "co_mention_count": 8,
+      "rank": 3
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "broadcom",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 4
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 85,
+      "last_week": 60,
+      "week_over_week_change": "+42%",
+      "sentiment_this_week": 0.07
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 3,
+      "last_week": 6,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.05
+    },
+    "earnings": {
+      "this_week": 66,
+      "last_week": 49,
+      "week_over_week_change": "+35%",
+      "sentiment_this_week": 0.03
+    },
+    "shortage": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_server": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.4
+    },
+    "capacity": {
+      "this_week": 14,
+      "last_week": 9,
+      "week_over_week_change": "+56%",
+      "sentiment_this_week": 0.17
+    },
+    "capex": {
+      "this_week": 10,
+      "last_week": 12,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": -0.07
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.5
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "hbm": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "skhynix": {
+      "event_count": 5,
+      "sentiment_avg": 0.3,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "nvidia": {
+      "event_count": 16,
+      "sentiment_avg": 0.22,
+      "rank": 2
+    },
+    "samsung": {
+      "event_count": 11,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tsmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "google": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "apple": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "qualcomm": {
+      "event_count": 2,
+      "sentiment_avg": 0.75,
+      "rank": 12
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 15
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 16
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "cxmt": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 309,
+        "last": 277,
+        "change_pct": 11.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-22",
+      "event_count": 48,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 77,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 49,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 41,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 16,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 40,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 38,
+      "sentiment_avg": 0.12
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-22 ~ 2026-07-28）共 309 則事件，重點為「Meta to use custom AMD Instinct MI400 accelerat...」。戴爾、博通情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "戴爾",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "博通",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "SK海力士",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
