@@ -1,0 +1,290 @@
+{
+  "date": "2026-07-29",
+  "date_range": {
+    "start": "2026-07-23",
+    "end": "2026-07-29"
+  },
+  "generated_at": "2026-07-29T10:51:19.954775Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nvidia-2026-07-23-025",
+      "date": "2026-07-23",
+      "title": "Server CPUs are AI boom's next scarce commodity: Intel, AMD reportedly lock in Chinese buyers",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "amd",
+      "company_b": "intel",
+      "co_mention_count": 9,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cxmt",
+      "company_b": "micron",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 96,
+      "last_week": 61,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": 0.1
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 18,
+      "last_week": 6,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.21
+    },
+    "earnings": {
+      "this_week": 72,
+      "last_week": 46,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": 0.04
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.14
+    },
+    "capex": {
+      "this_week": 15,
+      "last_week": 9,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.02
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 7,
+      "last_week": 5,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.36
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    },
+    "shortage": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.12
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "ai_memory": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 19,
+      "sentiment_avg": 0.23,
+      "rank": 2
+    },
+    "intel": {
+      "event_count": 21,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "samsung": {
+      "event_count": 11,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "amd": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 4
+    },
+    "tsmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "micron": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    },
+    "google": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "apple": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "qualcomm": {
+      "event_count": 2,
+      "sentiment_avg": 0.75,
+      "rank": 14
+    },
+    "skhynix": {
+      "event_count": 6,
+      "sentiment_avg": 0.42,
+      "rank": 5
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 16
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 17
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "cxmt": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "meta": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "microsoft": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 21
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 322,
+        "last": 274,
+        "change_pct": 17.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-23",
+      "event_count": 77,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 49,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 41,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 16,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 40,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 61,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 38,
+      "sentiment_avg": 0.14
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-23 ~ 2026-07-29）共 322 則事件，重點為「Server CPUs are AI boom's next scarce commodity...」。戴爾、博通情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "戴爾",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "博通",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

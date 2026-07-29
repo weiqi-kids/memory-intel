@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T10:46:52.282077Z",
+  "updated_at": "2026-07-29T10:51:13.327223Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -551,17 +551,17 @@
       "name": "群聯電子",
       "ticker": "8299.TWO",
       "currency": "TWD",
-      "ar": 13689060000,
-      "ar_prev": 11727771000,
-      "ar_qoq": "+17%",
+      "ar": 22750348000,
+      "ar_prev": 13689060000,
+      "ar_qoq": "+66%",
       "ar_period": "QoQ",
-      "inventory": 35608709000,
-      "inv_prev": 31527041000,
-      "inv_qoq": "+13%",
+      "inventory": 72199107000,
+      "inv_prev": 35608709000,
+      "inv_qoq": "+103%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "powertech",
