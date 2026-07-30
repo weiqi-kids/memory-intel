@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T10:51:13.327223Z",
+  "updated_at": "2026-07-30T10:36:20.614883Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "威剛科技",
       "ticker": "3260.TWO",
       "currency": "TWD",
-      "ar": 8059711000,
-      "ar_prev": 8897658000,
-      "ar_qoq": "-9%",
+      "ar": 17648740000,
+      "ar_prev": 8059711000,
+      "ar_qoq": "+119%",
       "ar_period": "QoQ",
-      "inventory": 23556620000,
-      "inv_prev": 13462924000,
-      "inv_qoq": "+75%",
+      "inventory": 36438235000,
+      "inv_prev": 23556620000,
+      "inv_qoq": "+55%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "amd",
@@ -177,17 +177,17 @@
       "name": "益華電腦",
       "ticker": "CDNS",
       "currency": "USD",
-      "ar": 516273000,
-      "ar_prev": 492834000,
-      "ar_qoq": "+5%",
+      "ar": 504420000,
+      "ar_prev": 516273000,
+      "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 317951000,
-      "inv_prev": 303545000,
-      "inv_qoq": "+5%",
+      "inventory": 390378000,
+      "inv_prev": 317951000,
+      "inv_qoq": "+23%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "dell",

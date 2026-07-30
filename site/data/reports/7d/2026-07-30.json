@@ -1,0 +1,295 @@
+{
+  "date": "2026-07-30",
+  "date_range": {
+    "start": "2026-07-24",
+    "end": "2026-07-30"
+  },
+  "generated_at": "2026-07-30T10:36:26.725172Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "qualcomm-2026-07-24-017",
+      "date": "2026-07-24",
+      "title": "On-Device AI In Smartphones Is A Blatant Lie Due To Packaging & DRAM Limitations, But SK hynix’s Newest Architecture Breakthrough Could Change That",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "qualcomm",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "broadcom",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.2
+    },
+    "industry_general": {
+      "this_week": 77,
+      "last_week": 76,
+      "week_over_week_change": "+1%",
+      "sentiment_this_week": 0.13
+    },
+    "earnings": {
+      "this_week": 71,
+      "last_week": 53,
+      "week_over_week_change": "+34%",
+      "sentiment_this_week": 0.04
+    },
+    "capacity": {
+      "this_week": 14,
+      "last_week": 9,
+      "week_over_week_change": "+56%",
+      "sentiment_this_week": 0.29
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 4,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.15
+    },
+    "capex": {
+      "this_week": 14,
+      "last_week": 8,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.02
+    },
+    "shortage": {
+      "this_week": 5,
+      "last_week": 2,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.1
+    },
+    "advanced_packaging": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.12
+    },
+    "ai_memory": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.42
+    }
+  },
+  "company_7d_summary": {
+    "amd": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 4
+    },
+    "qualcomm": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "apple": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "skhynix": {
+      "event_count": 6,
+      "sentiment_avg": 0.42,
+      "rank": 5
+    },
+    "samsung": {
+      "event_count": 8,
+      "sentiment_avg": 0.22,
+      "rank": 3
+    },
+    "nvidia": {
+      "event_count": 16,
+      "sentiment_avg": 0.25,
+      "rank": 1
+    },
+    "intel": {
+      "event_count": 16,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 13
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 14
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cxmt": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "meta": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "tsmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "microsoft": {
+      "event_count": 6,
+      "sentiment_avg": 0.03,
+      "rank": 6
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 300,
+        "last": 297,
+        "change_pct": 1.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-24",
+      "event_count": 49,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 41,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 16,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 40,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 61,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 66,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 27,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-24 ~ 2026-07-30）共 300 則事件，重點為「On-Device AI In Smartphones Is A Blatant Lie Du...」。戴爾、博通情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "戴爾",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "博通",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "超微",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
