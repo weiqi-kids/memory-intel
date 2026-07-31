@@ -1,0 +1,300 @@
+{
+  "date": "2026-07-31",
+  "date_range": {
+    "start": "2026-07-25",
+    "end": "2026-07-31"
+  },
+  "generated_at": "2026-07-31T10:52:17.324315Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung-2026-07-25-001",
+      "date": "2026-07-25",
+      "title": "Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "broadcom",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "synopsys",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capex": {
+      "this_week": 12,
+      "last_week": 9,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.02
+    },
+    "industry_general": {
+      "this_week": 80,
+      "last_week": 75,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.1
+    },
+    "capacity": {
+      "this_week": 13,
+      "last_week": 8,
+      "week_over_week_change": "+62%",
+      "sentiment_this_week": 0.27
+    },
+    "ai_memory": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "earnings": {
+      "this_week": 68,
+      "last_week": 60,
+      "week_over_week_change": "+13%",
+      "sentiment_this_week": 0.05
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 5,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": 0.02
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 5,
+      "last_week": 6,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.2
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.42
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "samsung": {
+      "event_count": 8,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": -0.25,
+      "rank": 13
+    },
+    "nvidia": {
+      "event_count": 15,
+      "sentiment_avg": 0.27,
+      "rank": 1
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "cxmt": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 7
+    },
+    "amd": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 5
+    },
+    "intel": {
+      "event_count": 12,
+      "sentiment_avg": 0.17,
+      "rank": 2
+    },
+    "apple": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "meta": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "tsmc": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "qualcomm": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 12
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "microsoft": {
+      "event_count": 7,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "skhynix": {
+      "event_count": 5,
+      "sentiment_avg": 0.3,
+      "rank": 6
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "micron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 23
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 298,
+        "last": 306,
+        "change_pct": -2.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-25",
+      "event_count": 41,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 16,
+      "sentiment_avg": 0.16
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 40,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 61,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 66,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 50,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 24,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-25 ~ 2026-07-31）共 298 則事件，重點為「Samsung Electronics and Broadcom Expand Strateg...」。蘋果、博通情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "博通",
+        "reason": "本週情緒偏負面（-0.2），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
