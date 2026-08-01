@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31T10:52:11.489272Z",
+  "updated_at": "2026-08-01T10:10:45.943060Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "蘋果",
       "ticker": "AAPL",
       "currency": "USD",
-      "ar": 30339000000,
-      "ar_prev": 39921000000,
-      "ar_qoq": "-24%",
+      "ar": 31398000000,
+      "ar_prev": 30339000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 6747000000,
-      "inv_prev": 5875000000,
-      "inv_qoq": "+15%",
+      "inventory": 11092000000,
+      "inv_prev": 6747000000,
+      "inv_qoq": "+64%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "applied_materials",
@@ -687,17 +687,17 @@
       "name": "慧榮科技",
       "ticker": "SIMO",
       "currency": "USD",
-      "ar": 220445000,
-      "ar_prev": 211546000,
-      "ar_qoq": "+4%",
+      "ar": 323638000,
+      "ar_prev": 220445000,
+      "ar_qoq": "+47%",
       "ar_period": "QoQ",
-      "inventory": 515250000,
-      "inv_prev": 421798000,
-      "inv_qoq": "+22%",
+      "inventory": 673042000,
+      "inv_prev": 515250000,
+      "inv_qoq": "+31%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "skhynix",

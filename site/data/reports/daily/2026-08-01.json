@@ -1,0 +1,265 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T10:10:50.529724Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "apple-2026-08-01-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Apple’s Ability To Remain Largely Burden Free From Data Center Expenses And Maintain Cash Generation Is Impressive But Offsetting DRAM Costs Requires A New AI Roadmap",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "shortage",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/apple-data-center-capex-dram-costs-ai-roadmap/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Colgate-Palmolive Company 2026 Q2 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4929141-colgate-palmolive-company-2026-q2-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-01-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ameren Corporation 2026 Q2 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4929140-ameren-corporation-2026-q2-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vesuvius plc (CKSNY) Q2 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4928330-vesuvius-plc-cksny-q2-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-01-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sumitomo Pharma Co., Ltd. 2027 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4929137-sumitomo-pharma-co-ltd-2027-q1-results-earnings-call-presentation?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "apple",
+        "count": 1
+      },
+      {
+        "id": "cxmt",
+        "count": 1
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 114,
+    "too_old": 73,
+    "gate1_blocked": 55,
+    "gate2_blocked": 22,
+    "passed": 34,
+    "pass_rate": "18.5%",
+    "gate2_block_rate": "12.0%",
+    "gate2_samples": [
+      "KLA CORPORATION REPORTS FISCAL 2026 FOURTH QUARTER AND FULL YEAR RESULTS",
+      "Powerful Compute So Compact, Itâs Clutch â Build AI in Your Hand With NVIDIA Jetson",
+      "Supermicro Expands DCBBS with Precision-Engineered AI Rack Series to Accelerate Deployment and Time-",
+      "Simplify your morning with this vibe-coded schedule app.",
+      "Find out what’s new in the Gemini app in July's Gemini Drop."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為三星、蘋果、CXMT相關動態：「Apple’s Ability To Remain Largely Burden Free From Data C...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Apple’s Ability To Remain Largely Burden Free From Data Center Expenses And M...（產能、資本支出、缺貨、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Colgate-Palmolive Company 2026 Q2 - Results - Earnings Call Presentation（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
