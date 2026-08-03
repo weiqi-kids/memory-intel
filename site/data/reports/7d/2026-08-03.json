@@ -1,0 +1,305 @@
+{
+  "date": "2026-08-03",
+  "date_range": {
+    "start": "2026-07-28",
+    "end": "2026-08-03"
+  },
+  "generated_at": "2026-08-03T11:40:07.549873Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nvidia-2026-07-28-010",
+      "date": "2026-07-28",
+      "title": "Nvidia invests in Ilya Sutskever's SSI, providing access to Vera Rubin compute platform",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "apple",
+      "subject_type": "company",
+      "this_week_sentiment": -0.3,
+      "last_week_sentiment": 0.33,
+      "delta": -0.63,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 85,
+      "last_week": 74,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.1
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.17
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 16,
+      "last_week": 7,
+      "week_over_week_change": "+129%",
+      "sentiment_this_week": -0.03
+    },
+    "earnings": {
+      "this_week": 78,
+      "last_week": 61,
+      "week_over_week_change": "+28%",
+      "sentiment_this_week": 0.05
+    },
+    "capacity": {
+      "this_week": 14,
+      "last_week": 10,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.24
+    },
+    "ai_server": {
+      "this_week": 8,
+      "last_week": 4,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.5
+    },
+    "guidance": {
+      "this_week": 9,
+      "last_week": 5,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": 0.08
+    },
+    "advanced_packaging": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.12
+    },
+    "hbm": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "shortage": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "google": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 10
+    },
+    "meta": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nvidia": {
+      "event_count": 14,
+      "sentiment_avg": 0.18,
+      "rank": 1
+    },
+    "intel": {
+      "event_count": 13,
+      "sentiment_avg": 0.12,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "qualcomm": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 12
+    },
+    "samsung": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 3
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "aws": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 15
+    },
+    "microsoft": {
+      "event_count": 9,
+      "sentiment_avg": -0.04,
+      "rank": 4
+    },
+    "apple": {
+      "event_count": 5,
+      "sentiment_avg": -0.3,
+      "rank": 9
+    },
+    "cxmt": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 11
+    },
+    "skhynix": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 5
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": -0.0,
+      "rank": 6
+    },
+    "micron": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 17
+    },
+    "kioxia": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 14
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 18
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 24
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 294,
+        "last": 318,
+        "change_pct": -7.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-28",
+      "event_count": 61,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 66,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 52,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 41,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 34,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-28 ~ 2026-08-03）共 294 則事件，重點為「Nvidia invests in Ilya Sutskever's SSI, providi...」。蘋果、艾司摩爾情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.3），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "艾司摩爾",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "GCP",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
