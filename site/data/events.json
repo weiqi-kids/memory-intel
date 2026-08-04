@@ -1,5 +1,768 @@
 [
   {
+    "id": "unknown-2026-08-04-001",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Aug. 4",
+    "summary": "<p>Hybrid NAND flash-DRAM memory; neuromorphic many-core computing; modular HW-SW leakage verification; bridging p-type gap in oxide electronics w/2D semis; 3D structures from wafer-fabricated precurs",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-4/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-002",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Blueprint To Build: Engineering The World’s Largest AI Chips",
+    "summary": "<p>Building hyper-large form factor packages that measure up to 240 mm x 240 mm with reliable encapsulation. </p>\n<p>The post <a href=\"https://semiengineering.com/from-blueprint-to-build-engineering-t",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/from-blueprint-to-build-engineering-the-worlds-largest-ai-chips/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-003",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Simulation Speed Is Holding Chiplets Back",
+    "summary": "<p>Toolchain capability is no longer the limiting factor in heterogeneous chiplet design. The bottleneck is the computational cost of multi-physics co-simulation across 2.5D and 3D stacks.</p>\n<p>The ",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/why-simulation-speed-is-holding-chiplets-back/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hp-2026-08-04-004",
+    "date": "2026-08-04",
+    "companies": [
+      "hp",
+      "cxmt"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Three major PC makers now using Chinese memory to fight 'unprecedented memory shortage,' report claims — HP, Asus, and Acer using 'small amounts' of CXMT chips in limited number of notebooks for non-US market",
+    "summary": "\n                             A new report claims that HP, Asus, and Acer have started to use a small amount of CXMT memory chips in notebooks for non-US markets. \n                                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/three-major-pc-makers-now-using-chinese-memory-to-fight-unprecedented-memory-shortage-report-claims-hp-asus-and-acer-using-small-amounts-of-cxmt-chips-in-limited-number-of-notebooks-for-non-us-market",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-005",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China cracks down on copycat chip designs with new regulations and penalties — new guidelines enforce originality and independent development",
+    "summary": "\n                             China tightens legal protections for domestically developed chip layout designs by raising originality requirements and strengthening infringement penalties. \n           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/china-cracks-down-on-copycat-chip-designs-with-new-regulations-and-penalties-new-guidelines-enforce-originality-and-independent-development",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-08-04-006",
+    "date": "2026-08-04",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix, Sandisk release first HBF specs with up to 512GB and 3TB/s bandwidth",
+    "summary": "SK Hynix and Sandisk released the first standard specifications for High Bandwidth Flash (HBF) on August 4, defining a NAND-based memory technology with a capacity of up to 512GB and bandwidth of up t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL212/sk-hynix-bandwidth-capacity-technology-hbm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "psmc-2026-08-04-007",
+    "date": "2026-08-04",
+    "companies": [
+      "psmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "PSMC sees stronger 2H, says strategy unchanged after chair's death",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:266;129-394\">Powerchip Semiconductor Manufacturing Corp. (PSMC) will maintain its existing strategy following the sudden death of Chairman Frank Huang and expects b",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PD240/psmc-chairman-business-management-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-04-008",
+    "date": "2026-08-04",
+    "companies": [
+      "nvidia",
+      "tsmc"
+    ],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise",
+    "summary": "Nvidia GeForce RTX 50 series graphics card prices in South Korea were set to rise by as much as 30% starting in August 2026 as higher wafer costs at Taiwan Semiconductor Manufacturing Company and cont",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PD236/rtx-nvidia-geforce-graphics-card-tsmc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-04-009",
+    "date": "2026-08-04",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Samsung Galaxy Z8 preorder sales hit record 1.44 million in South Korea",
+    "summary": "Samsung Electronics said its Galaxy Z8 foldable smartphone lineup generated 1.44 million preorders in South Korea, setting a new high for Galaxy phone preorder sales. The result marked the company&rsq",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PD235/galaxy-samsung-sales-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-04-010",
+    "date": "2026-08-04",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Foundry nears full utilization, but 2nm yields remain a hurdle",
+    "summary": "Samsung Electronics' contract chipmaking business could approach full utilization in the second half of 2026, marking a potential turning point after prolonged underuse weighed on earnings.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL210/samsung-2nm-production-samsung-foundry-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-011",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's chip output jumps nearly 350% in a decade as semiconductor supply chain expands",
+    "summary": "China's industrial enterprises above the designated size produced 484.28 billion integrated circuits in 2025, up nearly 350% from 108.72 billion in 2015, as the country expanded manufacturing capacity",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL208/industrial-capacity-equipment-production-cxmt.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-012",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China claims 8 in 10 robots worldwide are made at home",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:419;110-528\">China's National Development and Reform Commission (NDRC) said humanoid robots have become a key symbol of the country's emerging manufacturing sector,",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260803PD230/robot-market-technology-industrial-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hp-2026-08-04-013",
+    "date": "2026-08-04",
+    "companies": [
+      "hp",
+      "cxmt"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HP, Asus and Acer reportedly turn to CXMT for laptop memory",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:264;110-373\">HP, Asus and Acer have begun using limited quantities of DRAM from China's ChangXin Memory Technologies (CXMT) in selected budget notebooks sold outsid",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL211/cxmt-hp-asus-acer-nikkei.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-014",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan classifies semiconductors, AI as high-energy industries, launches decarbonization project",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:408;172-579\">Taiwan's government has recently begun classifying the semiconductor and AI industries as high-energy consumption industries in recent documents. This ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PD228/taiwan-nstc-semiconductors-government-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-015",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Factorial, SK On sign pact to assess solid-state battery manufacturing",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:366;110-475\">Factorial Energy and SK On have agreed to study whether existing battery plants could be adapted for solid-state cells, a move that could affect how ne",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PR200/manufacturing-solid-state-battery-automakers-production-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-016",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Wistron backs Taiwan's sovereign AI effort with 2.4 million computing hours",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:215;122-336\">Wistron will provide 2.4 million hours of AI computing capacity in 2026 and support Taiwan's first open-source language model for three years as it ste",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PD224/wistron-taiwan-development-language-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-017",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Analysis: Tesla's driverless ambitions get regulatory reality check",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:223;122-344\">Tesla's latest quarterly results fell short of market expectations, but another development attracted equal attention: CEO Elon Musk adopted a noticeab",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PD220/tesla-market-development-vehicle-fsd.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-08-04-018",
+    "date": "2026-08-04",
+    "companies": [
+      "onsemi"
+    ],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Onsemi details AI data center momentum, pricing strategy in Q2 earnings call",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:272;173-444\">Onsemi's leadership fielded a wide range of investor questions following the company's second-quarter 2026 results, with much of the discussion centere",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL209/onsemi-data-center-silicon-business-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-04-019",
+    "date": "2026-08-04",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung Electro-Mechanics reportedly fast-tracks Philippine MLCC plant in wake of AI-driven price hikes",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:273;139-411\">Samsung Electro-Mechanics (SEMCO) is reportedly pulling forward the start-up of its first overseas multilayer ceramic capacitor (MLCC) plant, a move th",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL202/semco-mlcc-plant-price-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-04-020",
+    "date": "2026-08-04",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alibaba unveils biggest Qwen model as DeepSeek deepens China's AI price war",
+    "summary": "Alibaba Group unveiled Qwen3.8-Max on August 3, calling it its largest and most capable artificial intelligence (AI) model to date, as DeepSeek's low-cost V4-Flash intensified competition over the pri",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL205/alibaba-deepseek-cost-anthropic-claude.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-021",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China tightens chip layout design protection to strengthen domestic semiconductor innovation",
+    "summary": "<p class=\"P1\" data-start=\"96\" data-end=\"425\">China has revised its regulations on the protection of integrated circuit (IC) layout designs, introducing stricter registration requirements, stronger enf",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL206/beijing-ic-design-regulation.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-04-022",
+    "date": "2026-08-04",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kumamoto semiconductor production recovers, TSMC's Japan subsidiary returns to normal operations",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:227;139-365\">TSMC has announced that Japan Advanced Semiconductor Manufacturing (JASM), its subsidiary in Kikuyo, Kumamoto Prefecture, has resumed normal operations",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PD225/tsmc-kumamoto-jasm-production-earthquake.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-04-023",
+    "date": "2026-08-04",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "AI's payback math: how long can servers last?",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:274;107-380\">Amazon's second-quarter 2026 results beat market expectations by a wide margin, but rapidly expanding investment in artificial intelligence and cloud i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804PD222/amazon-2026-infrastructure-cash-flow-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-08-04-024",
+    "date": "2026-08-04",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CXMT reportedly weighs second Beijing DRAM fab as Chinese cities compete for memory chip investment",
+    "summary": "<p class=\"P1\" data-start=\"94\" data-end=\"532\">China's leading DRAM maker ChangXin Memory Technologies (CXMT) is considering building a second 12-inch memory chip fabrication plant in Beijing's Yizhuang",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260804VL207/cxmt-dram-beijing-fab-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-04-025",
+    "date": "2026-08-04",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alphabet: The $514 Billion Backlog Doesn't Lie",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929794-alphabet-the-514-billion-backlog-doesnt-lie?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-026",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ameresco, Inc. (AMRC) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929811-ameresco-inc-amrc-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-027",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Backblaze, Inc. (BLZE) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929712-backblaze-inc-blze-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-028",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ferrari N.V. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929809-ferrari-n-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-029",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LEG Immobilien SE 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929806-leg-immobilien-se-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-030",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Travis Perkins plc 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929800-travis-perkins-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-031",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Rotork plc 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929799-rotork-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-032",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jackson Financial: Blowout Q2 Supports Further Upside",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929700-jackson-financial-blowout-q2-supports-further-upside?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-033",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Palm Harbour Q2 2026 Contributors And Detractors",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929793-palm-harbour-q2-2026-contributors-and-detractors?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-034",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Stoke Therapeutics, Inc. (STOK) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4929696-stoke-therapeutics-inc-stok-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-08-04-035",
+    "date": "2026-08-04",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth",
+    "summary": "As AI accelerators face severe performance disparity between High Bandwidth Memory (HBM) and SSDs, SK hynix and SanDisk have collectively introduced a solution that aims to resolve the performance gap",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sk-hynix-sandisk-high-bandwidth-flash-hbf-standard-3tbs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-036",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China claims global chip leadership thanks to new legal definition of 'integrated circuits'",
+    "summary": " Beijing's new rules also protect against copying local chip designs ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/legal/2026/08/04/china-claims-global-chip-leadership-thanks-to-new-legal-definition-of-integrated-circuits/5282563",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-037",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China turns up the heat with open model blitz as US model makers panic",
+    "summary": " For the first time, Alibaba's Qwen team is letting its 'Max' model out of the API pen; meanwhile, DeepSeek V4-Flash gives new meaning to cheap and cheerful competition ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/03/china-turns-up-the-heat-with-open-model-blitz-as-us-model-makers-panic/5282526",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-038",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Q2 wafer shipments up 7.4% YoY",
+    "summary": "<p>Q2 silicon wafer shipments increased 7.4% YoY to 3,573 million square inches (MSI) from the 3,327 MSI recorded in Q2 2025 and 9.1% QoQ from the 3,275 MSI recorded oc [&#8230;]</p>\n<p>The post <a hr",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/wafers-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-039",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "6 – 18 GHz Driver Amplifier",
+    "summary": "<p>Qorvo’s QPA0023 is a high-performance driver amplifier fabricated on Qorvo’s production 0.15 um pHEMT process (QPHT15). Covering 6 – 18 GHz, the QPA0023 provides 14 dB small signal gain and [&#8230",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/qorvo-2-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-040",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pye’s Plans",
+    "summary": "<p>PYE&#8217;S plans to plant a foot firmly in the Common Market under the blue Italian sky follow a lead already made by a number of British firms in electronics. Indeed, [&#8230;]</p>\n<p>The post <a",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/pyes-plans-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-08-03-001",
     "date": "2026-08-03",
     "companies": [
@@ -665,6 +1428,459 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/kioxia-sampling-1tb-and-512gb-ufs-nand-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "marvell-2026-08-03-035",
+    "date": "2026-08-03",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Marvell Technology, Inc. Announces Conference Call to Review Second Quarter of Fiscal Year 2027 Financial Results; Announces Investor Day on October 6, 2026",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "marvell-2026-08-03-036",
+    "date": "2026-08-03",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marvell to Showcase Advanced AI Memory and Storage Infrastructure Portfolio for Agentic AI Inference at FMS 2026",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "apple-2026-08-03-037",
+    "date": "2026-08-03",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Leagues Cup kicks off tomorrow, August 4, on Apple TV",
+    "summary": "The Concacaf-sanctioned competition featuring 18 clubs from Major League Soccer and 18 clubs from Liga MX — kicks off tomorrow, August 4, on Apple TV.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-08-03-038",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden)",
+    "summary": "<p>Researchers from Technische Universität Dresden and University of Manchester published a technical paper titled “The SpiNNaker2 Chip: A Many-Core Platform for Flexible and Scalable Brain-Inspired C",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-bridges-neuromorphic-and-deep-network-computing-tu-dresden/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-039",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Renesas Tackles Memory Bottleneck with MRDIMM Update",
+    "summary": "\n\t\t\t\t\t\t<p>Renesas’s Gen 3 DDR5 MRDIMM attacks AI’s memory choke point with 16,000 MT/s bandwidth and no platform overhaul.</p>\n<p>The post <a href=\"https://www.eetimes.com/renesas-tackles-memory-bottl",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/renesas-tackles-memory-bottleneck-with-mrdimm-update/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-040",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Video Interview: ChipAgents CEO on Latest Funding for Agentic AI in EDA",
+    "summary": "\n\t\t\t\t\t\t<p>ChipAgents raises $60M as EDA’s AI gold rush heats up, pitching autonomous chip-design agents over tired copilots.</p>\n<p>The post <a href=\"https://www.eetimes.com/video-interview-chipagents",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/video-interview-chipagents-ceo-on-latest-funding-for-agentic-ai-in-eda/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-08-03-041",
+    "date": "2026-08-03",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Micron lawsuit reignites fight over New York fab — complaint alleges 'forever chemicals' will flow into Oneida River",
+    "summary": "\n                             Micron's New York manufacturing facility is back in the crosshairs of another environmental lawsuit, claiming its wastewater and air permits should be nullified. \n       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/new-micron-lawsuit-reignites-fight-over-new-york-fab-complaint-alleges-forever-chemicals-will-flow-into-oneida-river",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-03-042",
+    "date": "2026-08-03",
+    "companies": [
+      "nvidia",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "In a troubling sign, Nvidia RTX 50 series prices jump up to 30% in South Korea — TSMC wafer hikes and $20 GDDR7 modules push RTX 5090 past $5,100",
+    "summary": "\n                             The latest round of price increases affects the entire RTX 50 lineup, with premium models bearing the brunt of rising production costs. \n                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/in-a-troubling-sign-nvidia-rtx-50-series-prices-jump-up-to-30-percent-in-south-korea-tsmc-wafer-hikes-and-usd20-gddr7-modules-push-rtx-5090-past-usd5-100",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-043",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI companies are now racing to the bottom — crashing token prices and competitive models push companies to cut costs",
+    "summary": "\n                             All major AI developers are cutting prices to compete with impressive new releases from China. But as they shave margins to remain competitive, the profits they'll need t",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-companies-are-now-racing-to-the-bottom-crashing-token-prices-and-competitive-models-push-companies-to-cut-costs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-044",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Drone flyover reveals rapid progress at Elon Musk’s new ATCF chip fab — Texas site prepares for all-in-one logic, memory, and packaging facility",
+    "summary": "\n                             July drone flyovers of Elon Musk’s Advanced Technology Chip Fab in Texas appear to confirm progress has 'hit another gear.' \n                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/drone-flyover-reveals-rapid-progress-at-elon-musks-atcf-chip-fab-texas-site-prepares-for-all-in-one-logic-memory-and-packaging-facility",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-08-03-045",
+    "date": "2026-08-03",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lexar lists 32GB DDR5 memory with homegrown Chinese chips — 3,999 Yuan ($592) price undercuts hopes for cheaper CXMT-powered RAM",
+    "summary": "\n                             Lexar's latest Thor RGB kit likely uses CXMT-made DRAM, but its pricing remains comparable to premium DDR5 memory from established brands. \n                              ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ddr5/lexar-lists-32gb-ddr5-memory-with-homegrown-chinese-chips-3-999-yuan-usd592-price-undercuts-hopes-for-cheaper-cxmt-powered-ram",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-03-046",
+    "date": "2026-08-03",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "positive",
+    "title": "Microsoft raises European Xbox prices by up to £200 — RAMpocalypse and component shortages force major console markups",
+    "summary": "\n                             Xbox price increases across the UK and Europe have been revealed, with prices upped by as much as £170 or €200. \n                                                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/xbox/microsoft-raises-european-xbox-prices-by-up-to-gbp200-rampocalypse-and-component-shortages-force-major-console-markups",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-03-047",
+    "date": "2026-08-03",
+    "companies": [
+      "intel",
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Co-Packaged Optics (CPO) foundry roadmaps — breaking down TSMC, Intel, Samsung, and GlobalFoundries' approach to next-generation scale-up connectivity",
+    "summary": "\n                             As AI systems outgrow copper interconnects, TSMC, Intel, Samsung Foundry, and GlobalFoundries are pursuing four distinctly different co-packaged optics strategies to brin",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/co-packaged-optics-cpo-foundry-roadmaps-breaking-down-tsmc-intel-samsung-and-globalfoundries-approach-to-next-generation-scale-up-connectivity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-03-048",
+    "date": "2026-08-03",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Microsoft Executive Says Windows 11 Tools Like Control Panel Are Taking Too Long To Become Modernized As Company Wants To Keep Its “Compatibility Promise”",
+    "summary": "Some of Windows 11's tools, like Control Panel, File Explorer, Registry Editor, and others, look unchanged from Windows 10 and Windows 7. Seeing as these lack of changes look out of place for a modern",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/microsoft-explains-slow-windows-11-control-panel-redesign/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-03-049",
+    "date": "2026-08-03",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "What GPU Depreciation? NVIDIA A100, H100, And H200 GPU Rental Rates Continue To Price Upwards, As B200s Hover At Just Shy Of $6/Hour",
+    "summary": "The appropriate depreciation rate for NVIDIA GPUs has consistently ranked as one of the biggest unknowns of the ongoing AI build out, with proponents continuing to argue in favor of a longer shelf lif",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/what-gpu-depreciation-nvidia-a100-h100-and-h200-gpu-rental-rates-continue-to-price-upwards-as-b200s-hover-at-just-shy-of-6-hour/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-050",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "German Retailer Motherboard Sales Reveal DDR4 Platform Makes Up For Less Than 10% Of Total Purchases Despite DDR5 Platform Costing Way More",
+    "summary": "While both DDR4 and DDR5 memory are selling for sky-high prices, DDR5 platforms usually cost more due to high demand. However, the latest sales stats show something interesting. Monthly Mindfactory Sa",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/german-retailer-ddr5-vs-ddr4-platform-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-051",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "MSI’s 27-inch OLED Monitor Ditches Metal-Mask Manufacturing For Inkjet Printing, Promising Sharper Text And Higher Yields",
+    "summary": "The monitor uses an inkjet-printed OLED panel, which has been supplied by TCL CSOT for better features. MSI Introduces PRO MAX OLED 271UPJW12 OLED Monitor, Featuring Inkjet-Printed OLED Panel Capped a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/msi-launches-pro-max-oled-271upjw12/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-03-052",
+    "date": "2026-08-03",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Lekuo Turns a Single PCIe Slot Into 12 Ports Using an AMD B650 Chip, No Bifurcation Needed",
+    "summary": "Lekuo has introduced a unique AMD B650 chipset-powered PCIe expansion card that adds multiple M.2, SATA, and USB ports through a single PCIe Gen4 x4 connection. The Low-Profile PCIe Add-in-Card Can Tu",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/lekuo-rolls-out-amd-b650-based-pcie-expansion-card/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-03-053",
+    "date": "2026-08-03",
+    "companies": [
+      "amd",
+      "nvidia",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC Approaching A New Milestone With Its 2nm Process By The End Of 2026 With 100,000 Monthly Wafers; NVIDIA, AMD, & Others Force Manufacturing Acceleration",
+    "summary": "AI customers will eventually move their orders towards TSMC’s 2nm process in droves to target higher inference performance while utilizing less power to reduce the datacenter footprint. This demand su",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmc-2nm-production-milestone-100k-wafers-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-08-03-054",
+    "date": "2026-08-03",
+    "companies": [
+      "micron",
+      "cxmt",
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT Eyes Second Beijing Memory Fab After Record IPO, Circling the Gap Samsung and Micron Left Behind",
+    "summary": "Flush with its cash from a record-setting IPO, China's CXMT is considering building a second memory chip plant in Beijing. CXMT is regularly discussed in the media as a Chinese chip firm that might be",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-eyes-second-beijing-memory-fab-after-record-ipo-circling-the-gap-samsung-and-micron-left-behind/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-055",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MediaTek lines up $5B war chest for AI datacenter push",
+    "summary": " Taiwanese silicon biz believes it can take up to 20% of $80B market with upcoming ASIC chips, but analysts are sceptical ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/03/mediatek-lines-up-5b-war-chest-for-ai-datacenter-push/5282304",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-056",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The AI bubble is already popping; we just don't know it yet",
+    "summary": " Weird times in earnings-land, and we're talking about it on The Reg's home grown podcast ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/03/the-ai-bubble-is-already-popping-we-just-dont-know-it-yet/5282004",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-057",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tesla Q2 Revenues and Deliveries Rise, Margin Falls",
+    "summary": "<p>Tesla saw  its revenue and deliveries rise again this quarter, but the Q2 profit margin of 16.7%, was down from 17.2% in Q2 2025 and 21.1% in Q1 2026. Tesla’s [&#8230;]</p>\n<p>The post <a href=\"htt",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/tesla-q2-revenues-and-delieries-rise-margin-falls-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-058",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Wafer fab equipment market set to explode",
+    "summary": "<p>Semiconductor equipment spending is entering a new growth cycle shaped by geopolitics, sovereignty strategies, and technology roadmaps, despite uneven end-market demand. Wafer Fab Equipment (WFE) s",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/wafer-fab-equipment-market-set-to-eexplode-2026-08/",
         "type": "rss"
       }
     ]

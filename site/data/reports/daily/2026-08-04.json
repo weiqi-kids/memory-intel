@@ -1,0 +1,340 @@
+{
+  "date": "2026-08-04",
+  "generated_at": "2026-08-04T10:51:26.140254Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-08-04-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及價格",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise",
+      "companies": [
+        "nvidia",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "dram_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260804PD236/rtx-nvidia-geforce-graphics-card-tsmc.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "skhynix-2026-08-04-035",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 伺服器"
+      ],
+      "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/sk-hynix-sandisk-high-bandwidth-flash-hbf-standard-3tbs/"
+    },
+    {
+      "rank": 3,
+      "event_id": "skhynix-2026-08-04-006",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "SK Hynix, Sandisk release first HBF specs with up to 512GB and 3TB/s bandwidth",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260804VL212/sk-hynix-bandwidth-capacity-technology-hbm.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "hp-2026-08-04-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Three major PC makers now using Chinese memory to fight 'unprecedented memory shortage,' report claims — HP, Asus, and Acer using 'small amounts' of CXMT chips in limited number of notebooks for non-US market",
+      "companies": [
+        "hp",
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/three-major-pc-makers-now-using-chinese-memory-to-fight-unprecedented-memory-shortage-report-claims-hp-asus-and-acer-using-small-amounts-of-cxmt-chips-in-limited-number-of-notebooks-for-non-us-market"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-08-04-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Samsung Foundry nears full utilization, but 2nm yields remain a hurdle",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260804VL210/samsung-2nm-production-samsung-foundry-business.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cxmt",
+      "to": "hp",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "shortage",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 33,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "cxmt",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "hp",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "capex",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 99,
+    "too_old": 71,
+    "gate1_blocked": 53,
+    "gate2_blocked": 31,
+    "passed": 64,
+    "pass_rate": "29.2%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "KLA CORPORATION REPORTS FISCAL 2026 FOURTH QUARTER AND FULL YEAR RESULTS",
+      "2026.08.03NoticeSCREEN to Support Relief Efforts for the 2026 Kumamoto Earthquake",
+      "Powerful Compute So Compact, Itâs Clutch â Build AI in Your Hand With NVIDIA Jetson",
+      "Supermicro Expands DCBBS with Precision-Engineered AI Rack Series to Accelerate Deployment and Time-",
+      "Welcome to Sail Tower, our newest Austin office"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為CXMT、三星、惠普相關動態：「Nvidia RTX 50 graphics card prices climb as TSMC and memo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise（DRAM 價格、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash...（HBM、AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
