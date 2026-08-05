@@ -1,0 +1,317 @@
+{
+  "date": "2026-08-05",
+  "date_range": {
+    "start": "2026-07-30",
+    "end": "2026-08-05"
+  },
+  "generated_at": "2026-08-05T10:48:19.878097Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "qualcomm-2026-07-30-019",
+      "date": "2026-07-30",
+      "title": "Qualcomm Isn’t Worried About Losing Apple’s Modem Business; CEO Proudly Claims The Company Has “Kind Of Replaced” The iPhone Maker With The Data Center",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "apple",
+      "subject_type": "company",
+      "this_week_sentiment": -0.3,
+      "last_week_sentiment": 0.25,
+      "delta": -0.55,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cxmt",
+      "company_b": "hp",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "inventory": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 79,
+      "last_week": 72,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.03
+    },
+    "industry_general": {
+      "this_week": 80,
+      "last_week": 96,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.03
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.09
+    },
+    "capex": {
+      "this_week": 16,
+      "last_week": 15,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": -0.1
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "shortage": {
+      "this_week": 6,
+      "last_week": 4,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.08
+    },
+    "dram_price": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.25
+    },
+    "capacity": {
+      "this_week": 11,
+      "last_week": 18,
+      "week_over_week_change": "-39%",
+      "sentiment_this_week": 0.12
+    },
+    "ddr5": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": -0.17
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "tokyo_electron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "samsung": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "intel": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "nvidia": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 4
+    },
+    "amd": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 5
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 6
+    },
+    "qualcomm": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 15
+    },
+    "apple": {
+      "event_count": 5,
+      "sentiment_avg": -0.3,
+      "rank": 7
+    },
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": -0.06,
+      "rank": 8
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 10
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "skhynix": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cxmt": {
+      "event_count": 7,
+      "sentiment_avg": -0.03,
+      "rank": 2
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "kioxia": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 11
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 21
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 18
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 12
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 22
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "hp": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "psmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 25
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 288,
+        "last": 350,
+        "change_pct": -17.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-30",
+      "event_count": 52,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 41,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 58,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 69,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 28,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-30 ~ 2026-08-05）共 288 則事件，重點為「Qualcomm Isn’t Worried About Losing Apple’s Mod...」。蘋果、高通情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "高通",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.3），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "艾司摩爾",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
