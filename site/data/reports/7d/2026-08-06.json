@@ -1,0 +1,308 @@
+{
+  "date": "2026-08-06",
+  "date_range": {
+    "start": "2026-07-31",
+    "end": "2026-08-06"
+  },
+  "generated_at": "2026-08-06T10:51:31.101681Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intel-2026-07-31-033",
+      "date": "2026-07-31",
+      "title": "Apple Warns It Could Run Short on AI Computing Power, Risking Delays to Products and Services",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cxmt",
+      "company_b": "hp",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 82,
+      "last_week": 77,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": 0.04
+    },
+    "earnings": {
+      "this_week": 77,
+      "last_week": 71,
+      "week_over_week_change": "+8%",
+      "sentiment_this_week": 0.04
+    },
+    "inventory": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.1
+    },
+    "capacity": {
+      "this_week": 12,
+      "last_week": 14,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.11
+    },
+    "capex": {
+      "this_week": 16,
+      "last_week": 14,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": -0.1
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 5,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.07
+    },
+    "ddr5": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 3,
+      "last_week": 6,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -0.17
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "advanced_packaging": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.25
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 9
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 14
+    },
+    "skhynix": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "samsung": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "apple": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "cxmt": {
+      "event_count": 7,
+      "sentiment_avg": -0.03,
+      "rank": 3
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nvidia": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 4
+    },
+    "kioxia": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 10
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "intel": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 16
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 11
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 12
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "hp": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "psmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 23
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 285,
+        "last": 325,
+        "change_pct": -12.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-31",
+      "event_count": 41,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 10,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 58,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 69,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 51,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 26,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-31 ~ 2026-08-06）共 285 則事件，重點為「Apple Warns It Could Run Short on AI Computing ...」。蘋果、艾司摩爾情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "艾司摩爾",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "微軟",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
