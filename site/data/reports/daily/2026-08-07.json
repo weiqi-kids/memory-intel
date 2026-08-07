@@ -1,0 +1,324 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T09:12:41.476067Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "oracle-2026-08-07-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Wistron sees AI server growth accelerate in August; new HPE, Lenovo and Oracle orders add 4Q26 lift",
+      "companies": [
+        "oracle",
+        "lenovo"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD249/wistron-ai-server-shipments-growth.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-07-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Ibiden raises full-year profit forecast as AI server and substrate demand strengthens",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260805PD228/ibiden-demand-profit-forecast-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "psmc-2026-08-07-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "AP Memory secures PSMC, ASE capacity ahead of 2027 IPD ramp",
+      "companies": [
+        "psmc",
+        "ase"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD222/ap-memory-capacity-2027-psmc-ase.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-07-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Zhen Ding Tech hits July revenue record on AI and consumer electronics demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD238/zhen-ding-revenue-demand-electronics-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "skhynix-2026-08-07-009",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及 AI 記憶體"
+      ],
+      "title": "SK Hynix commits US$39 billion to new Yongin and Cheongju fabs as AI memory demand builds",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_memory",
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807VL218/sk-hynix-nand-fab-investment.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 27,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "oracle",
+        "count": 1
+      },
+      {
+        "id": "lenovo",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 24
+      },
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 105,
+    "too_old": 74,
+    "gate1_blocked": 49,
+    "gate2_blocked": 30,
+    "passed": 60,
+    "pass_rate": "28.2%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "2026.08.03NoticeSCREEN to Support Relief Efforts for the 2026 Kumamoto Earthquake",
+      "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+      "How Gemini plans such detailed vacation itineraries for you",
+      "Parents can now send money to their kids on Google Wallet."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為輝達、甲骨文、聯想相關動態：「Wistron sees AI server growth accelerate in August; new H...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Wistron sees AI server growth accelerate in August; new HPE, Lenovo and Oracl...（AI 伺服器、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Ibiden raises full-year profit forecast as AI server and substrate demand str...（AI 伺服器、財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

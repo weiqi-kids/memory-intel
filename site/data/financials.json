@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T10:51:26.468267Z",
+  "updated_at": "2026-08-07T09:12:34.647815Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "晶豪科",
       "ticker": "3006.TW",
       "currency": "TWD",
-      "ar": 2211845000,
-      "ar_prev": 1453967000,
-      "ar_qoq": "+52%",
+      "ar": 3220088000,
+      "ar_prev": 2211845000,
+      "ar_qoq": "+46%",
       "ar_period": "QoQ",
-      "inventory": 7081820000,
-      "inv_prev": 7772952000,
-      "inv_qoq": "-9%",
+      "inventory": 6991366000,
+      "inv_prev": 7081820000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "entegris",
@@ -398,17 +398,17 @@
       "name": "旺宏電子",
       "ticker": "2337.TW",
       "currency": "TWD",
-      "ar": 4315114000,
-      "ar_prev": 3765028000,
-      "ar_qoq": "+15%",
+      "ar": 6048635000,
+      "ar_prev": 4315114000,
+      "ar_qoq": "+40%",
       "ar_period": "QoQ",
-      "inventory": 9813388000,
-      "inv_prev": 12146148000,
-      "inv_qoq": "-19%",
+      "inventory": 9276087000,
+      "inv_prev": 9813388000,
+      "inv_qoq": "-5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "marvell",
