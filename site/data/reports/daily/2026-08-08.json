@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:56:34.262547Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-08-08-003",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "TSMC, ASE, WPG: the white-knight battles that built Taiwan's chip empire",
+      "companies": [
+        "tsmc",
+        "ase"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD231/ase-taiwan-tsmc-wpg-chairman.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-08-010",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Highpoint Service Network posts record first-half profit on India expansion",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD208/profit-2026-revenue-eps-business.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-08-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Quanta posts second-highest monthly revenue as notebook shipments plunge 38%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD254/quanta-notebook-shipments-ai-server-revenue-demand.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-08-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Compeq says satellite and data center orders will drive second-half growth",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD252/data-center-compeq-manufacturing-demand-revenue-2026.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-08-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Sercomm July revenue rises 51% on Wi-Fi upgrade demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260807PD206/revenue-sercomm-demand-equipment-wi-fi.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.22,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "tsmc",
+        "count": 1
+      },
+      {
+        "id": "ase",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "capex",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 111,
+    "too_old": 77,
+    "gate1_blocked": 36,
+    "gate2_blocked": 20,
+    "passed": 54,
+    "pass_rate": "28.9%",
+    "gate2_block_rate": "10.7%",
+    "gate2_samples": [
+      "2026.08.03NoticeSCREEN to Support Relief Efforts for the 2026 Kumamoto Earthquake",
+      "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+      "See what 5 builders are making with Gemini Omni",
+      "How Gemini plans such detailed vacation itineraries for you"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為台積電、ASE、輝達相關動態：「TSMC, ASE, WPG: the white-knight battles that built Taiwa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TSMC, ASE, WPG: the white-knight battles that built Taiwan's chip empire（資本支出、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Highpoint Service Network posts record first-half profit on India expansion（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
