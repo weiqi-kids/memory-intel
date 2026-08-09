@@ -1,5 +1,62 @@
 [
   {
+    "id": "unknown-2026-08-09-001",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Super Group Q2: An Expected Beat-And-Raise Report",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4933859-super-group-stock-q2-expected-beat-and-raise?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-09-002",
+    "date": "2026-08-09",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "Top 50 High-Quality Dividend Growth Stocks For August 2026",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4933848-top-50-high-quality-dividend-growth-stocks-for-august-2026?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-09-003",
+    "date": "2026-08-09",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Diamond Rapids “Xeon 7” To Reach 256 P-Cores To Match AMD’s EPYC Venice, Yet Trails On Timeline",
+    "summary": "Intel Diamond Rapids \"Xeon 7\" CPUs will offer up to 256 cores based on the next-gen P-Core technology to tackle AMD EPYC Venice. Intel &#38; AMD Will Battle Out In The 200+ Core Count \"Data Center\" CP",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-diamond-rapids-xeon-7-to-reach-256-p-cores-to-match-amds-epyc-venice/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-08-001",
     "date": "2026-08-08",
     "companies": [],
@@ -423,6 +480,380 @@
       {
         "name": "seeking_alpha",
         "url": "https://seekingalpha.com/article/4933673-oklo-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-08-024",
+    "date": "2026-08-08",
+    "companies": [
+      "nvidia",
+      "dell"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Firebird Launches CIS Regionâs Largest AI Factory in Armenia",
+    "summary": "The global buildout of AI infrastructure reached a new milestone today â Firebird, an emerging AI cloud, launched the CIS regionâs largest AI factory in Armenia, establishing a new AI computing hu",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-08-08-025",
+    "date": "2026-08-08",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia RTX 5090 ships in bizarre 8-motherboard bundle — retailers hold GPUs hostage similar to the crypto boom",
+    "summary": "\n                             Taiwanese ecommerce platform PChome24h is packaging RTX 5090 GPUs with a crazy number of motherboards, entry-to-mid-range GPUs, and several other components. While intere",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-ships-in-bizarre-8-motherboard-bundle-retailers-hold-gpus-hostage-similar-to-the-crypto-boom",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-08-026",
+    "date": "2026-08-08",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Save $160 off AMD's ultimate gaming CPU combo, includes motherboard and chip cooler — $458 combo features Ryzen 7 9800X3D, B850 motherboard, and a 240mm liquid AIO",
+    "summary": "\n                             Newegg is offering a big discount on a Ryzen 7 9800X3D bundle that includes an MSI B850 Gaming Plus WiFi motherboard and an MSI MAG Coreliquid A13 240 AIO liquid cooler. ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/save-usd160-off-amds-ultimate-gaming-cpu-combo-includes-motherboard-and-chip-cooler-usd458-combo-features-ryzen-7-9800x3d-b850-motherboard-and-a-240mm-liquid-aio",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-027",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amazon secretly circumvents community vote for massive AI data center using 45-year-old rules — Gilroy residents locked out of public comment window",
+    "summary": "\n                             Residents of Gilroy, California, were caught by surprise when an Amazon data center started construction in their city. Negotiations for the project started in 2020, with",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-08-028",
+    "date": "2026-08-08",
+    "companies": [
+      "amd",
+      "skhynix",
+      "cxmt"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's memory-making champion smashes DDR5-8800 barrier on AMD platform — CXMT chips close the gap with SK hynix",
+    "summary": "\n                             Colorful shows off the overclocking potential on new memory kits equipped with CXMT integrated circuits. \n                                                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ram/chinas-memory-making-champion-smashes-ddr5-8800-barrier-on-amd-platform-cxmt-chips-close-the-gap-with-sk-hynix",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-029",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Atari ST Public Floppy Database now open for everyone — online archive originally designed for ST flash cart packed with classics and homebrew",
+    "summary": "\n                             An extensive Atari ST floppy disk database can now easily be accessed by all netizens. \n                                                                                  ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/retro-gaming/atari-st-public-floppy-database-now-open-for-everyone-online-archive-originally-designed-for-st-flash-cart-packed-with-classics-and-homebrew",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-08-030",
+    "date": "2026-08-08",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel's proposed orbital data centers would manage thousands of simple LEO satellites —two-tier network puts the brains of satellite constellations in higher orbit",
+    "summary": "\n                             Intel’s orbital data center architecture uses powerful higher-orbit satellites to manage LEO constellations, reducing reliance on terrestrial control centers. \n          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/space/intels-proposed-orbital-data-centers-would-manage-thousands-of-simple-leo-satellites-two-tier-network-puts-the-brains-of-satellite-constellations-in-higher-orbit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-031",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Greenfiltec posts first-half loss as activated carbon costs squeeze margins",
+    "summary": "Greenfiltec reported first-half 2026 consolidated revenue of NT$311 million, up 18.35% from a year earlier, but the Taiwan-based airborne molecular contamination (AMC) filter supplier swung to a net l",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260807PD203/2026-loss-revenue-price-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-032",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "WT Micro sees AI data centers and communications reaching 70% of revenue, with growth extending into 2027",
+    "summary": "WT Microelectronics (WT Micro) posted record revenue and profit in the second quarter of 2026, supported by strong AI momentum and better-than-expected demand from the automotive and consumer markets.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260806PD235/wt-revenue-data-growth-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-033",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rohm sees AI server demand lift first-quarter profit 4,825%",
+    "summary": "Rohm Semiconductor reported sharply higher first-quarter results on August 5, 2026, as recovering demand for automotive power semiconductors and strong AI-linked data center business drove growth. For",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260806PD222/rohm-demand-profit-2026-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-034",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "guidance",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ajinomoto rides advanced packaging boom as ABF demand surges",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:291;102-392\">Ajinomoto raised its full-year forecast on August 6 as growing demand for AI servers and high-performance computing lifted sales of electronic material",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260807VL222/demand-packaging-forecast-business-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "macronix-2026-08-08-035",
+    "date": "2026-08-08",
+    "companies": [
+      "macronix",
+      "winbond"
+    ],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Macronix, Winbond post record July revenue as memory prices rise",
+    "summary": "Taiwan memory chipmakers Macronix International and Winbond Electronics both posted record monthly revenue in July, extending strong second-quarter momentum as tight supply and rising memory prices co",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260807PD255/winbond-macronix-international-revenue-taiwan-chipmakers.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-036",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Hanwha Aerospace turns trillion-won profit into AI, unmanned warfare push",
+    "summary": "South Korea's Hanwha Aerospace posted a second-quarter 2026 operating profit of more than KRW1 trillion (approx. US$704.9 million), highlighting its ability to expand military exports and aerospace op",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260807PD229/hanwha-drone-military-operating-profit-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-037",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Genius Electronic Optical revenue rose 39% in July as lens demand entered peak season",
+    "summary": "Genius Electronic Optical (GSEO) reported July 2026 consolidated revenue of NT$2.422 billion on August 7, up 39.28% from NT$1.739 billion in June and 1.63% from NT$2.384 billion a year earlier. Cumula",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260807PD247/2026-demand-revenue-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-08-038",
+    "date": "2026-08-08",
+    "companies": [
+      "intel",
+      "innodisk"
+    ],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Innodisk posts record second quarter profit on AI and memory demand",
+    "summary": "Innodisk reported record second-quarter 2026 results as surging memory prices and artificial intelligence demand lifted profit, revenue, and margins. The memory module maker said quarterly net profit ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260807PD232/innodisk-profit-2026-demand-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-039",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "shortage",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "VSO's Vietnam expansion and AI-server growth point to bigger upside, but memory shortages cloud the outlook",
+    "summary": "VSO Electronics said its Vietnam plant is on track for trial production by the end of December 2026 as it expands its presence in AI server applications, liquid-cooling leak detection, and high-speed ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260807PD214/growth-expansion-vso-electronics-plant-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-040",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "EOI posts record first-half revenue and profit on auto LED demand",
+    "summary": "Excellence Optoelectronics Holdings said second-quarter 2026 profit climbed as improved operating efficiency offset softer revenue, while first-half revenue and profit reached record highs for the per",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260807PD233/profit-revenue-demand-2026-efficiency.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-08-041",
+    "date": "2026-08-08",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gigabyte X870 AORUS Infinity Motherboard Review – A New OC Champ Rises For Ryzens",
+    "summary": "It's been four years since the AMD AM5 motherboard platform and the 600-series motherboards launched. Since its launch, the platform has seen the launch of several CPUs in the Ryzen 7000, Ryzen 8000, ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/review/gigabyte-x870-aorus-infinity-motherboard-review/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-08-042",
+    "date": "2026-08-08",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "OpenAI pledges to add Astra security as Anthropic loosens Fable's leash",
+    "summary": " Or how I learned to stop worrying and love dangerous AI ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/08/openai-pledges-to-add-astra-security-as-anthropic-loosens-fables-leash/5285161",
         "type": "rss"
       }
     ]
@@ -1671,6 +2102,26 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-ai-chip-startup-tsmc-1-4nm-fab-hp-buying-cxmt-dram-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-07-066",
+    "date": "2026-08-07",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This week on Tom's Hardware Premium: August 8, 2026 — Inside China's lithography efforts, co-packaged optics get a spotlight, and Samsung debuts next-gen memory tech",
+    "summary": "\n                             A redesigned Bench tool, inside China's domestic Chipmaking efforts, breaking, and we offer a free technical breakdown of Samsung's latest memory-related announcements. \n",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-7-2026-inside-chinas-lithography-efforts-co-packaged-optics-get-a-spotlight-and-samsung-debuts-next-gen-memory-tech",
         "type": "rss"
       }
     ]

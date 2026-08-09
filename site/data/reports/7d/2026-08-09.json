@@ -1,0 +1,322 @@
+{
+  "date": "2026-08-09",
+  "date_range": {
+    "start": "2026-08-03",
+    "end": "2026-08-09"
+  },
+  "generated_at": "2026-08-09T08:58:24.671705Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "asml-2026-08-03-010",
+      "date": "2026-08-03",
+      "title": "Inversion Semiconductor targets ASML with particle-accelerator X-ray lithography",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "ai_server",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.08,
+      "last_week_sentiment": 0.42,
+      "delta": -0.5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cxmt",
+      "company_b": "hp",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ddr5": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 91,
+      "last_week": 76,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.05
+    },
+    "capacity": {
+      "this_week": 14,
+      "last_week": 11,
+      "week_over_week_change": "+27%",
+      "sentiment_this_week": 0.19
+    },
+    "capex": {
+      "this_week": 18,
+      "last_week": 10,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": -0.09
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.08
+    },
+    "earnings": {
+      "this_week": 93,
+      "last_week": 75,
+      "week_over_week_change": "+24%",
+      "sentiment_this_week": 0.07
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.25
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.33
+    },
+    "shortage": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.08
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.08
+    },
+    "hbm": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.5
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "amd": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "kioxia": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 8
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "intel": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 3
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 13
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "tsmc": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "samsung": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "skhynix": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cxmt": {
+      "event_count": 6,
+      "sentiment_avg": -0.04,
+      "rank": 6
+    },
+    "apple": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 9
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 19
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 10
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 11
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "hp": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "psmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 16
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "oracle": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 27
+    },
+    "ase": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 341,
+        "last": 300,
+        "change_pct": 13.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-03",
+      "event_count": 58,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 69,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 51,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 52,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-07",
+      "event_count": 66,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 42,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 3,
+      "sentiment_avg": 0.17
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-03 ~ 2026-08-09）共 341 則事件，重點為「Inversion Semiconductor targets ASML with parti...」。蘋果、艾司摩爾情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "艾司摩爾",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "微軟",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
