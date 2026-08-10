@@ -1,0 +1,277 @@
+{
+  "date": "2026-08-10",
+  "date_range": {
+    "start": "2026-08-04",
+    "end": "2026-08-10"
+  },
+  "generated_at": "2026-08-10T09:45:30.210001Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nvidia-2026-08-04-008",
+      "date": "2026-08-04",
+      "title": "Nvidia RTX 50 graphics card prices climb as TSMC and memory costs rise",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cxmt",
+      "company_b": "hp",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capex": {
+      "this_week": 15,
+      "last_week": 16,
+      "week_over_week_change": "-6%",
+      "sentiment_this_week": -0.04
+    },
+    "industry_general": {
+      "this_week": 100,
+      "last_week": 85,
+      "week_over_week_change": "+18%",
+      "sentiment_this_week": 0.02
+    },
+    "advanced_packaging": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": 0.14
+    },
+    "hbm": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 16,
+      "last_week": 14,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.14
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.5
+    },
+    "earnings": {
+      "this_week": 103,
+      "last_week": 78,
+      "week_over_week_change": "+32%",
+      "sentiment_this_week": 0.08
+    },
+    "ai_server": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": -0.06
+    },
+    "ddr5": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "hp": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cxmt": {
+      "event_count": 6,
+      "sentiment_avg": -0.12,
+      "rank": 6
+    },
+    "skhynix": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "psmc": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 10
+    },
+    "nvidia": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "tsmc": {
+      "event_count": 9,
+      "sentiment_avg": 0.14,
+      "rank": 2
+    },
+    "samsung": {
+      "event_count": 9,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "intel": {
+      "event_count": 7,
+      "sentiment_avg": 0.25,
+      "rank": 5
+    },
+    "google": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "apple": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 12
+    },
+    "amd": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 4
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "oracle": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 21
+    },
+    "ase": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "microsoft": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 15
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 340,
+        "last": 318,
+        "change_pct": 6.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-04",
+      "event_count": 69,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 51,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-06",
+      "event_count": 52,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-07",
+      "event_count": 67,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 43,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 44,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-04 ~ 2026-08-10）共 340 則事件，重點為「Nvidia RTX 50 graphics card prices climb as TSM...」。蘋果情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "惠普",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CXMT",
+        "reason": "本週出現 6 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
