@@ -1,0 +1,204 @@
+{
+  "date": "2026-08-11",
+  "total_events": 44,
+  "by_company": {
+    "intel": {
+      "count": 3,
+      "sentiment_avg": 0.5
+    },
+    "google": {
+      "count": 3,
+      "sentiment_avg": 0.42
+    },
+    "tsmc": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "microsoft": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "kioxia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "skhynix": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nvidia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "amkor": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "western_digital": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "meta": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "inventory": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "industry_general": {
+      "count": 24,
+      "sentiment_avg": 0.15
+    },
+    "hbm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 19,
+      "sentiment_avg": 0.07
+    },
+    "capacity": {
+      "count": 7,
+      "sentiment_avg": 0.36
+    },
+    "capex": {
+      "count": 4,
+      "sentiment_avg": 0.56
+    },
+    "shortage": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    },
+    "advanced_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 3,
+      "sentiment_avg": 0.42
+    },
+    "dram_price": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "guidance": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {
+      "samsung": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "nvidia": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "asml": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "google": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "amd": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "skhynix": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "tokyo_electron": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      }
+    },
+    "topics": {
+      "earnings": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "hbm": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ai_memory": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ddr5": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "guidance": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      }
+    }
+  },
+  "supply_chain_activity": []
+}

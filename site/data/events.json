@@ -1,5 +1,842 @@
 [
   {
+    "id": "intel-2026-08-11-001",
+    "date": "2026-08-11",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Intel Announces Upsize and Pricing of $20 Billion Common Stock Offering",
+    "summary": "<p>Intel today announced the pricing of its previously announced registered public offering of common stock.Intel priced the underwritten public offering of 210,526,315 shares of common stock at a pub",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-08-11-002",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Hype To Implementation: Building The Core Pillars For AI In Semiconductors",
+    "summary": "<p>The most sophisticated AI algorithm in the world cannot compensate for fragmented data, absent governance, or siloed infrastructure. </p>\n<p>The post <a href=\"https://semiengineering.com/from-hype-",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/from-hype-to-implementation-building-the-core-pillars-for-ai-in-semiconductors/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-003",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Measuring What Matters: Using Picosecond Ultrasonic Technology For SiCr Film Thickness Control In BCD Devices",
+    "summary": "<p>Monitoring critical process parameters and identifying variations before they impact device accuracy and long-term reliability.</p>\n<p>The post <a href=\"https://semiengineering.com/measuring-what-m",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/measuring-what-matters-using-picosecond-ultrasonic-technology-for-sicr-film-thickness-control-in-bcd-devices/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-004",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HBM Becomes Testbed For 3D Assembly Yield",
+    "summary": "<p>High-bandwidth memory has become a proving ground for 3D stack testing, DFT, and reliability.</p>\n<p>The post <a href=\"https://semiengineering.com/hbm-becomes-testbed-for-3d-assembly-yield/\">HBM Be",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/hbm-becomes-testbed-for-3d-assembly-yield/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-005",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "How Long Does A Measurement Remain Valid?",
+    "summary": "<p>Measurements can be misleading after the chip, the test path, or the assumptions behind the result change. </p>\n<p>The post <a href=\"https://semiengineering.com/how-long-does-a-measurement-remain-v",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/how-long-does-a-measurement-remain-valid/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-006",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "AI Chiplet Architectures Redefining Test Insertions",
+    "summary": "<p>Heterogeneous integration does not simply increase complexity but redistributes where quality must be assured. </p>\n<p>The post <a href=\"https://semiengineering.com/ai-chiplet-architectures-redefin",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/ai-chiplet-architectures-redefining-test-insertions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-007",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CPO Test Won’t Scale Without Standardization",
+    "summary": "<p>Across the CPO ecosystem, profitability will not happen until standardization occurs. </p>\n<p>The post <a href=\"https://semiengineering.com/cpo-test-wont-scale-without-standardization/\">CPO Test Wo",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/cpo-test-wont-scale-without-standardization/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-008",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Silicon To Systems: Redefining Competitive Advantage, Part 1",
+    "summary": "<p>Semiconductors are evolving from a product industry into an ecosystem industry.</p>\n<p>The post <a href=\"https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-1/",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/from-silicon-to-systems-redefining-competitive-advantage-part-1/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-009",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex"
+    ],
+    "impact": "positive",
+    "title": "Walsin sees B/B ratio hit 1.8, 2026 capex at NT$4B",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:330;101-430\">Chiao Yu-Heng, chairman of Walsin Technology, said the passive component market has improved sharply, with some parts even in short supply, and that or",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD231/2026-chairman-passive-walsin-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-11-010",
+    "date": "2026-08-11",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Google readies Pixel 11 lineup, market breakthrough still under question",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:446;131-576\">Google has officially announced that it will unveil its annual Pixel 11 flagship smartphone series on August 13, 2026, with the lineup expected to incl",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD235/google-market-smartphone-sales-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-11-011",
+    "date": "2026-08-11",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capacity",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC nears AI packaging demand after years of doubling capacity:'CoWoS guy' Jun He",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:283;137-419\">TSMC has been roughly doubling its CoWoS and SoIC capacity annually for the past several years, and is running CoWoS at better than 98% yield &mdash; s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811VL213/tsmc-cowos-capacity-packaging-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-11-012",
+    "date": "2026-08-11",
+    "companies": [
+      "google",
+      "microsoft"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Microsoft seeks expanded Maia 300 production to tap into demand for cheaper compute",
+    "summary": "Microsoft plans to unveil its new Maia 300 accelerator chip this fall, with a public announcement possible as early as next month, according to <em>The Information</em>. Although Microsoft has lagged ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811VL211/microsoft-chips-production-demand-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-08-11-013",
+    "date": "2026-08-11",
+    "companies": [
+      "kioxia",
+      "skhynix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix becomes Kioxia's largest shareholder as Toshiba trims stake",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:333;122-454\">SK Hynix has emerged as Kioxia's largest shareholder after Toshiba continued reducing its holding, a shift that could affect the balance of power in th",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD245/kioxia-sk-hynix-toshiba-market-nand-flash.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-014",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "capex",
+      "ai_server",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's AI server supply chain posts record July as growth spreads down the component tier",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:376;131-506\">The latest indication of global demand for AI hardware comes not from a hyperscaler capex presentation, but from unaudited monthly filings in Taipei. M",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811VL212/demand-ai-server-growth-component-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-015",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "inventory",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Gemtek, CyberTAN see YoY growth turn positive in July",
+    "summary": "As supply chain turbulence is easing, network equipment makers are starting to report better revenues. Gemtek Technology and CyberTAN both saw year-over-year revenue growth turn positive in July. Howe",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD225/cybertan-gemtek-network-equipment-growth-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-11-016",
+    "date": "2026-08-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia taps Wall Street for US$500B AI infrastructure financing network",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:285;105-389\">Nvidia is teaming up with six of the world's largest investment and financial groups to mobilize more than US$500 billion in third-party capital for AI",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811VL204/nvidia-infrastructure-financing-investment-ceo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-017",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic's US$9.1B Riot deal underscores its scramble for AI computing power",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:282;124-405\">Anthropic PBC has agreed to pay US$9.1 billion over 20 years for computing capacity from Riot Platforms Inc., a Bitcoin miner turned data center operat",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811VL210/anthropic-capacity-data-center-amd-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-018",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI infrastructure moves toward scale-across; demand for coherent optics supply chain heats up",
+    "summary": "AI infrastructure moves toward scale-across; demand for coherent optics supply chain heats up",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260731RS403/data-center-optics-interconnection-infrastructure-supply-chain.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-019",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Column: The everyday philosophy of supply chain resilience",
+    "summary": "When people talk about responding to supply chain shocks, the instinct is often to stockpile inventory or build backup production lines. However, after visiting Inner Mongolia Shuangjie Saidu Electric",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD218/manufacturing-inventory-production-business-supply-chain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amkor-2026-08-11-020",
+    "date": "2026-08-11",
+    "companies": [
+      "amkor"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amkor reportedly weighs China stake sale as multinationals reassess footprint",
+    "summary": "Amkor Technology is exploring options, including the sale of a stake in its China business, according to people familiar with the matter, adding the US chip packaging and testing giant to a growing li",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811VL209/amkor-packaging-business-testing-arizona.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-11-021",
+    "date": "2026-08-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Interview: Nvidia says networking is the core of AI computing as AI factories scale",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:460;136-595\">Global AI computing is rapidly moving beyond single-GPU systems toward AI Factory architectures, where agentic AI and inference workloads are pushing d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD228/nvidia-data-infrastructure-ethernet-gpu.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-022",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China's tightening visa curbs test India's electronics manufacturing ambitions",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:303;118-420\">Beijing's decision to sharply cut approval rates for Indian business travelers is exposing a structural weakness in India's push to scale up electronic",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811VL201/electronics-beijing-manufacturing-business-government.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-11-023",
+    "date": "2026-08-11",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung races to qualify Taylor fab as 2nm demand turns US capacity into a strategic asset",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:424;128-551\">Following growing momentum behind large-scale infrastructure buildouts in South Korea, the industry is witnessing an aggressive wave of AI-related init",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811VL206/samsung-fab-2nm-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-024",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Global supply chains buckle as helium shortages and China's price edge hit Taiwan",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:317;134-450\">Global supply chains are facing a fresh squeeze as helium shipments, electronic components, and industrial raw materials are hit by higher costs and tr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD214/taiwan-materials-electronic-components-price-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-11-025",
+    "date": "2026-08-11",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "YAGEO, Walsin post record July sales as AI demand lifts passive components",
+    "summary": "YAGEO and Walsin Technology reported strong July 2026 revenue as artificial intelligence demand continued to lift Taiwan's passive components sector. Both companies said orders from AI-related, networ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD204/walsin-revenue-demand-passive-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-026",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Y.S. Tech lifts AI liquid-cooling push as first-half sales hold steady",
+    "summary": "Y.S. Tech reported first-half 2026 results on the back of steady shipments of high-performance computing orders and automotive cooling fans. The Taiwan-based maker said consolidated revenue reached NT",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260811PD234/yen-sun-ai-liquid-cooling-revenue-shipments-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-027",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Perion Network Ltd. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934568-perion-network-ltd-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-028",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Artisan Global Equity Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934565-artisan-global-equity-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-029",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "StoneX: Post-Earnings Update; Upgrading To Buy",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934545-stonex-post-earnings-update-upgrading-to-buy?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "western_digital-2026-08-11-030",
+    "date": "2026-08-11",
+    "companies": [
+      "western_digital"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Western Digital: Q4 2026 Confirms The Market Is Still Underpricing EPS Growth",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934543-western-digitalq4-2026-confirms-the-market-is-still-underpricing-eps-growth?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-031",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UWM: Why Common Shareholders Must Now Wait Before Any Recovery",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934541-uwm-why-common-shareholders-must-now-wait-before-any-recovery-downgrade-hold?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-032",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Red Violet, Inc. (RDVT) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934556-red-violet-inc-rdvt-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-033",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ACV Auctions Inc. (ACVA) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934428-acv-auctions-inc-acva-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-034",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TAG Immobilien AG 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934558-tag-immobilien-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-035",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Salzgitter AG 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934557-salzgitter-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-08-11-036",
+    "date": "2026-08-11",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Meta Platforms: Additional AI Revenue Preferred, But Not Essential",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934535-meta-platforms-additional-ai-revenue-preferred-but-not-essential?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-037",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ARYZTA AG (ARZTY) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934550-aryzta-ag-arzty-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-038",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nomura Global Growth Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934551-nomura-global-growth-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-039",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Janus Henderson Global Technology And Innovation Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934549-janus-henderson-global-technology-and-innovation-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-040",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Public Education, Inc. (APEI) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4934547-american-public-education-inc-apei-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-041",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Remedy’s Q2 Revenue Sinks 40%, But CONTROL Resonant Wishlists Cross 1.5 Million and Alan Wake 2 Sells 3 Million Units",
+    "summary": "Independent Finnish developer Remedy Entertainment reported a sharp revenue decline in its H1 2026 financial report released today, but the studio says early demand signals for its upcoming sequel, CO",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/remedy-q2-2026-revenue-control-resonant-alan-wake-2-sales/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-11-042",
+    "date": "2026-08-11",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel Rushes To Fill One Of Its Last Remaining Empty Clean Rooms Located Within Fab 38 In Israel Despite Geopolitical Risk And Lower Subsidies",
+    "summary": "Intel is a hive of activity these days, so much so that it's now apparently rushing to fill its heretofore empty clean rooms while aggressively expanding capacity even in a location with relatively lo",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-rushes-to-fill-one-of-its-last-remaining-empty-clean-rooms-located-within-fab-38-in-israel-despite-geopolitical-risk-and-lower-subsidies/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-11-043",
+    "date": "2026-08-11",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Waymo extends driverless lead",
+    "summary": "<p>Waymo, the Alphabet driverless car unit, appears to be extending its lead in deploying the technology. Waymo has nearly 4,000 driverless cars on the road &#8211;  up from about 700 [&#8230;]</p>\n<p",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/waymo-extends-driverless-lead-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-044",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Smartphone margin squeeze",
+    "summary": "<p>Memory will account for 34% of the BoM for an iPhone18, estimates TrendForce, compared to only 10% for last year’s iPhone 17. In H127 it will account for 42% of [&#8230;]</p>\n<p>The post <a href=\"h",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/smartphone-margin-squeeze-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-10-001",
     "date": "2026-08-10",
     "companies": [],
@@ -850,6 +1687,510 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/ed-the-serial-ceo/ed-gets-the-vibe-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-10-045",
+    "date": "2026-08-10",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel Gamer Days 2026 Kicking Off with AAA Gaming Bundle & Partnerships",
+    "summary": "<p>What&#8217;s New: Intel&#8217;s annual Gamer Days campaign officially kicks off today, bringing gamers around the globe exciting new retail promotions, giveaways, and content collaborations with pa",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-08-10-046",
+    "date": "2026-08-10",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "inventory",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Announces Proposed $15 Billion Common Stock Offering",
+    "summary": "<p>SANTA CLARA, Calif., August 10, 2026 - Intel Corporation (Nasdaq: INTC) today announced a $15 billion underwritten public offering of common stock.Why NowCustomers continue to signal a strong and s",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-08-10-047",
+    "date": "2026-08-10",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Partners With Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to Establish AI Compute Infrastructure Financing Platforms to Mobilize Over $500 Billion of Third-Party Capital",
+    "summary": "NVIDIA today announced strategic partnerships to establish independent compute financing platforms with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to mobilize over $500 ...",
+    "sources": []
+  },
+  {
+    "id": "apple-2026-08-10-048",
+    "date": "2026-08-10",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple, MLB announce September “Friday Night Baseball” schedule",
+    "summary": "Apple and Major League Baseball unveiled the September schedule for “Friday Night Baseball.”",
+    "sources": []
+  },
+  {
+    "id": "meta-2026-08-10-049",
+    "date": "2026-08-10",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meta Upholds Texas Governor Greg Abbott’s Data Center Standards",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-08-10-050",
+    "date": "2026-08-10",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Failure Analysis HW Enables System-Level Debug For 3D ICs (Google, TU Delft)",
+    "summary": "<p>Researchers from Google and Delft University of Technology published a technical paper titled “Innovative FA Hardware Solution to Enable System-Level Debug of 3D ICs.” Abstract Excerpt: &#8220;This",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/failure-analysis-hw-enables-system-level-debug-for-3d-ics-google-tu-delft/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-051",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Optimizing Chiplet Placement And Interposer Footprint For 2.5D Systems (A*STAR)",
+    "summary": "<p>Researchers from A*STAR published a technical paper titled “FAPlace: Joint Optimization of Chiplet Placement and Interposer Footprint for 2.5D Systems.” Abstract Excerpt: &#8221; We propose FAPlace",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/optimizing-chiplet-placement-and-interposer-footprint-for-2-5d-systems-astar/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-052",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Femtosecond Laser Process Targets Depth-Controlled 4H-SiC Wafer Slicing (Texas A&M, KIMM, UST)",
+    "summary": "<p>Researchers from Texas A&#38;M University, KIMM, and UST published a technical paper titled “Self-Focusing Control for Depth-Precise Wafer Slicing of 4H-SiC in Femtosecond Laser Processing.” Abstra",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/femtosecond-laser-process-targets-depth-controlled-4h-sic-wafer-slicing-texas-am-kimm-ust/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-10-053",
+    "date": "2026-08-10",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xbox PC and Game Pass titles are coming to Linux through 'Xodus' — Heroic Launcher devs embark on new open-source reverse-engineering project",
+    "summary": "\n                             You might be able to enjoy Xbox PC and PC Game Pass titles on Linux very soon thanks to the efforts of the Xodus team, who're emulating the entire Xbox PC stack through o",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/software/linux/xbox-pc-and-game-pass-titles-are-coming-to-linux-through-xodus-heroic-launcher-devs-embark-on-new-open-source-reverse-engineering-project",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-054",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "negative",
+    "title": "GeForce RTX 50-series GPU prices spike as much as 39% as Blackwell price hikes hit the US — RTX 5070 gets a 36% hike, RTX 5060 up 27% at the median of Newegg listings",
+    "summary": "\n                             After recent news of price hikes on RTX 50-series GPUs in other regions, those same increases now appear to have come Stateside, as Newegg prices for some Blackwell cards",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/geforce-rtx-50-series-gpu-prices-spike-as-much-as-39-percent-as-blackwell-price-hikes-hit-the-us-rtx-5070-gets-a-36-percent-hike-rtx-5060-up-27-percent-at-the-median-of-newegg-listings",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-10-055",
+    "date": "2026-08-10",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia reportedly testing lower memory configs of Rubin Ultra as memory shortage bites back — designs tested include as little as 192 GB and step back to HBM4",
+    "summary": "\n                             Nvidia is reportedly testing at least three Rubin Ultra configurations that pack as little as 192 GB of memory, as opposed to the 1 TB of HBM4E originally announced. \n   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-testing-lower-memory-configs-of-rubin-ultra-as-memory-shortage-bites-back-designs-tested-include-as-little-as-192-gb-and-step-back-to-hbm4",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-056",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "AI data center bans surge past 500 nationwide as local US politicians begin blocking new developments — growing public outrage and bipartisan pushback threaten big tech expansion plans",
+    "summary": "\n                             New AI data center development bans jumped to over 500 in July, according to recent analysis, with political and public pressure growing. \n                               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/ai-data-center-bans-surge-past-500-nationwide-as-local-us-politicians-begin-blocking-new-developments-growing-public-outrage-and-bipartisan-pushback-threaten-big-tech-expansion-plans",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-10-057",
+    "date": "2026-08-10",
+    "companies": [
+      "google",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hyperscalers commit nearly $2 trillion to secure AI hardware and memory — Google leads $811 billion spending surge while Apple trails at $57 billion",
+    "summary": "\n                             As hyperscalers increase their long-term purchase commitments, the high-tech industry faces a tectonic shift as CSPs overwhelm consumer electronics companies. \n          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/hyperscalers-commit-nearly-usd2-trillion-to-secure-ai-hardware-and-memory-google-leads-usd811-billion-spending-surge-while-apple-trails-at-usd57-billion",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-058",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Over 70% of Americans oppose AI data centers; US protests intensify as more arrests are being made — almost 40 arrested this year in backlash to AI factory buildout",
+    "summary": "\n                             The public pushback against data center construction projects is only growing stronger, even as some protesting local residents have been arrested in the process. \n      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/over-70-percent-of-americans-oppose-ai-data-centers-us-protests-intensify-as-more-arrests-are-being-made-almost-40-arrested-this-year-in-backlash-to-ai-factory-buildout",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-10-059",
+    "date": "2026-08-10",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The only current-generation graphics card on sale below MSRP — AMD's Radeon RX 9070 GRE GPU with 12GB of VRAM returns to its lowest-ever price of $499",
+    "summary": "\n                             Grab a new GPU for less than the MSRP launch price. Gigabyte's Gaming RX 9070 GRE falls to its lowest-ever price. \n                                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/the-only-current-generation-graphics-card-on-sale-below-msrp-amds-radeon-rx-9070-gre-gpu-with-12gb-of-vram-returns-to-its-lowest-ever-price-of-usd499",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-060",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Windows 11's built-in weather app hogs more than 1.2 gigabytes of RAM just to tell the forecast — memory-sucking web wrapper filled with ads masquerades as an actual application",
+    "summary": "\n                             MSN Weather acts as the native weather app for Windows 11 and all it does it run a bunch of Chromium subprocesses in the background to retrieve the forecast data. This ca",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/software/windows/windows-11s-built-in-weather-app-hogs-more-than-1-2-gigabytes-of-ram-just-to-tell-the-forecast-memory-sucking-web-wrapper-filled-with-ads-masquerades-as-an-actual-application",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-10-061",
+    "date": "2026-08-10",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Bars Its Top AI Engineers From Overseas Travel And Starts A Massive Data Center Build Out In Mongolia, While NVIDIA Parries By Mobilizing $500 Billion In AI Financing",
+    "summary": "The US and China are now decoupling at an accelerating pace, all the while trying to maintain their comparative advantage in areas of intrinsic strength. For instance, China has just taken a significa",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/china-bars-its-top-ai-engineers-from-overseas-travel-and-starts-a-massive-data-center-build-out-in-mongolia-while-nvidia-parries-by-mobilizing-500-billion-in-ai-financing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-10-062",
+    "date": "2026-08-10",
+    "companies": [
+      "tsmc",
+      "apple"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC Holding $1 Billion Of Apple’s A20 Pro Supply Refuted By Analyst, Says That DRAM Shortage Is Very Real, But Report Underestimates The Two’s Robust Operational Planning",
+    "summary": "The DRAM shortage has certainly forced a myriad of companies to contemplate their uncertain future, but Apple doesn’t appear to be on this list. Earlier, we reported that the iPhone maker was facing a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmc-apple-a20-pro-dram-shortage-1-billion-refuted/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-08-10-063",
+    "date": "2026-08-10",
+    "companies": [
+      "meta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meta Fires Back At China’s 15-Week AI Token Dominance With Muse Glimmer, Which Can Fit Inside A Single GPU And Uses An Innovative Technique To Speed Up Responses",
+    "summary": "Meta is returning to the open-weight AI model category - a subset of large language models (LLMs) that it founded but then largely abandoned in a bout of misplaced priorities - with a loud and fairly ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/meta-fires-back-at-chinas-15-week-ai-token-dominance-with-muse-glimmer-which-can-fit-inside-a-single-gpu-and-uses-an-innovative-technique-to-speed-up-responses/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-10-064",
+    "date": "2026-08-10",
+    "companies": [
+      "tsmc",
+      "apple"
+    ],
+    "topics": [
+      "capacity",
+      "inventory",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC Can Sidestep $1 Billion Apple Chip Glut by Rerouting Production Lines to AI, Taiwan Analyst Argues",
+    "summary": "Following a report that the Taiwan Semiconductor Manufacturing Company (TSMC) is sitting on a billion dollars' worth of inventory of Apple chips, an expert from Taiwan believes that the company can re",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmc-can-sidestep-apple-chip-glut-by-rerouting-production-lines-to-ai-taiwan-analyst-argues/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-10-065",
+    "date": "2026-08-10",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Scrambles To Raise $15 Billion In New Capital, As Signs Suggest It Has Finally Locked In Customers For The 14A Node Process",
+    "summary": "Intel's CEO, Lip-Bu Tan, has remained adamant in recent months that the company would only invest capital in its bleeding-edge 14A process node after definitively locking in customers for that node. W",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-scrambles-to-raise-15-billion-in-new-capital-as-signs-suggests-it-has-finally-locked-in-customers-for-the-14a-node-process/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-08-10-066",
+    "date": "2026-08-10",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Apple’s Bezel-Less iPhone 20 With An All-Glass Appearance Said To Be Canceled As Futuristic Design Too Difficult To Mass Produce In High Volume",
+    "summary": "As the iPhone 18 Pro and iPhone 18 Pro Max&#160;face a possible price hike, Apple has reportedly faced yet another setback amid the DRAM crisis: the cancellation of its highly ambitious iPhone 20 rele",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/all-glass-bezel-less-iphone-20-canceled-mass-production-yield-issues/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-08-10-067",
+    "date": "2026-08-10",
+    "companies": [
+      "apple",
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Microsoft Executive Says Windows 11 Isn’t Taking Liquid Glass’ Transparency Slider Route; Doesn’t Deny A Future Release Either, But Under Certain Conditions",
+    "summary": "Apple’s Liquid Glass UI could be the next aesthetic change to copy, particularly that transparency slider, but Microsoft doesn’t wish to adopt this approach. According to an executive, Windows 11 won’",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/windows-11-no-liquid-glass-transparency-slider/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-08-10-068",
+    "date": "2026-08-10",
+    "companies": [
+      "skhynix",
+      "cxmt",
+      "micron",
+      "apple",
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CXMT’s Capacity Woes Likely Mean Its Partnership With Apple Won’t Blossom To The Same Heights As Korean Rivals; DRAM May Be Limited To Product Testing Only",
+    "summary": "Companies such as Samsung, SK hynix, and Micron have chosen to prioritize AI customers because they can place mammoth-sized DRAM orders, pushing Apple into a corner as it strategizes how to overcome t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-apple-dram-capacity-testing-limits/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-10-069",
+    "date": "2026-08-10",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD’s Aging AM4 Platform Refuses To Die As Ryzen 5 5500 And 5800X3D Dominate Against DDR5 Costs",
+    "summary": "It's not a surprise seeing the Zen 5 X3D CPU continuing its domination in the market, but the AM4 is still alive due to two processors. Mindfactory Monthly Stats Reveal Ryzen 9800X3D is Still the Most",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amds-aging-am4-platform-refuses-to-die-as-ryzen-5-5500-and-5800x3d-dominate-against-ddr5-costs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-10-070",
+    "date": "2026-08-10",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Beast of Reincarnation Gets NVIDIA DLSS 4.5 and AMD FSR 4.0 Support, But Promised Story Improvements Disappoint",
+    "summary": "Beast of Reincarnation launched last week on PC, PlayStation 5, Xbox Series X, and Xbox Series S, but the game's launch state was far from optimal, featuring a variety of technical issues that made it",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/beast-of-reincarnation-nvidia-dlss-4-5-fsr-4-story-improvements-disappoint/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-10-071",
+    "date": "2026-08-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Startup reinvents digital simulation to match chip size increases",
+    "summary": "<p>One of the most intriguing startups at DAC 2026 was the Israeli, deep-tech EDA company, Hiveware. Its headline was that it is emerging from stealth mode with $24m in funding [&#8230;]</p>\n<p>The po",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/software-products/startup-reinvents-digital-simulation-to-match-chip-size-increases-2026-08/",
         "type": "rss"
       }
     ]
