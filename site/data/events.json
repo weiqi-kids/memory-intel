@@ -1,5 +1,659 @@
 [
   {
+    "id": "nvidia-2026-08-12-001",
+    "date": "2026-08-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class",
+    "summary": "We announced partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish independent financing platforms designed to mobilize over $500 billion of third-party capit",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-08-12-002",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Are DDR5 DIMM Chipsets? The Complete Guide To RCDs, PMICs, SPD Hubs and More",
+    "summary": "<p>How DDR5 DIMM chipsets work, why they matter, how they build upon DDR5 technology, and how emerging module architectures are extending memory bandwidth.</p>\n<p>The post <a href=\"https://semienginee",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/what-are-ddr5-dimm-chipsets-the-complete-guide-to-rcds-pmics-spd-hubs-and-more/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-003",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Standards-Compliant 112G PHY for Linear Optics: Driving Efficient AI Infrastructure",
+    "summary": "<p>112G PHY IP for linear optics to reduce power, latency and thermal load for high-speed data movement in AI and data center systems.</p>\n<p>The post <a href=\"https://semiengineering.com/standards-co",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/standards-compliant-112g-phy-for-linear-optics-driving-efficient-ai-infrastructure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-12-004",
+    "date": "2026-08-12",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCP APAC 2026: Google says 48V hits wall as AI racks head toward megawatt scale",
+    "summary": "Google used its keynote at the OCP APAC Summit in Taipei on August 11 to argue that the 48V power architecture widely used in data centers is running out of headroom as AI racks move toward megawatt-s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812VL228/google-data-center-power-supply-cooling-ocp-2026-tpu.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ase-2026-08-12-005",
+    "date": "2026-08-12",
+    "companies": [
+      "ase"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCP APAC 2026: Ecosystem not yet ready for co-packaged optics, ASE's Nicole Tien warns",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:264;109-372\">Co-packaged optics has become the inflection point for AI infrastructure, but the industry has not yet built the shared testing standards and simulatio",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812VL227/optics-ase-testing-infrastructure-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-08-12-006",
+    "date": "2026-08-12",
+    "companies": [
+      "meta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Manus breaks from Meta, returns to independence after China blocks US$2B AI deal",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:205;121-325\">Chinese AI agent startup Manus is returning to independent operations, marking a concrete break from Meta months after Chinese regulators forced the US",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812VL211/meta-data-startup-acquisition-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-12-007",
+    "date": "2026-08-12",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "OCP APAC 2026: AMD sees AI agents pushing CPU-GPU ratio toward 1:1",
+    "summary": "AMD expects the shift from chatbots to agentic AI to sharply increase CPU demand alongside GPU acceleration, potentially moving the traditional CPU-to-GPU ratio from roughly 1:4 toward 1:2 or even 1:1",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812VL224/amd-apac-cpu-2026-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-008",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla emerges as biggest winner from Germany's EV subsidies, while China-made models gain ground",
+    "summary": "Whether Germany's renewed electric vehicle (EV) subsidies are inadvertently helping Chinese brands accelerate their push into Europe has become a closely watched issue across the global auto industry.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812PD233/data-germany-ev-subsidies-tesla.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-009",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCP photonics panel warns CPO packaging is still unsettled as pluggables fade",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:237;115-351\">Pluggable front-panel optics still own the market, but Arista co-founder Andy Bechtolsheim gave them a deadline at an OCP APAC panel here: the form fac",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812VL222/optics-panel-cpo-photonics-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-12-010",
+    "date": "2026-08-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "OCP APAC 2026: Nvidia SVP Shainer on taking CPO to mass production &mdash;'can't release something just because it's cool'",
+    "summary": "<p class=\"P1\" data-sourcepos=\"3:1-3:262;84-345\">Nvidia's Spectrum-6 co-packaged optics (CPO) switches are in production and shipping, Gilad Shainer, senior vice president of networking at Nvidia, stat",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812VL220/nvidia-cpo-packaging-copper-ocp.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-011",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Sercomm expands beyond broadband into 5G, edge AI and IoT as 2Q26 revenue hits record high",
+    "summary": "Taiwan's Sercomm Corporation is repositioning itself for the next phase of network infrastructure demand by expanding beyond traditional broadband equipment into 5G, fixed wireless access (FWA), enter",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812PD236/sercomm-5g-broadband-revenue-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-08-12-012",
+    "date": "2026-08-12",
+    "companies": [
+      "cxmt",
+      "samsung"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT DDR5 yield tops 90%, narrowing gap with Samsung",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:203;127-329\">China's leading DRAM maker CXMT has reportedly raised its DDR5 production yield above 90%, narrowing the gap with Samsung Electronics and strengthening",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812PD226/cxmt-samsung-ddr5-dram-pc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-013",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "OCP APAC 2026: Cloud AI's growth hits a new bottleneck&mdash; networking, not compute",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:266;106-371\">At the 2026 OCP APAC Summit, debate over networking architectures in cloud AI data centers sharpened as industry players said the main bottleneck is no",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812PD232/2026-copper-transmission-apac-optics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-014",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FocalTech expects demand to improve in the second half of 2026",
+    "summary": "Touch controller and display driver IC maker FocalTech Systems said it saw revenue regain quarter-on-quarter momentum in the second quarter of 2026 as the 618 shopping festival, new device launches, a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260810PD204/focaltech-display-driver-ic-demand-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ymtc-2026-08-12-015",
+    "date": "2026-08-12",
+    "companies": [
+      "ymtc",
+      "skhynix"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix reportedly revives China NAND expansion as YMTC and global rivals race to meet AI storage demand",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:313;145-457\">SK Hynix is restarting a long-frozen expansion of its Dalian, China, NAND flash plant, adding capacity that will lift output at the site by roughly 50%",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812VL205/sk-hynix-nand-expansion-dalian-ymtc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-12-016",
+    "date": "2026-08-12",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Intel's Israel fab stirs back to life, but case for 14A remains unconfirmed",
+    "summary": "Intel appears to be restarting work on Fab 38, its long-idle facility in Kiryat Gat, Israel, though how far the project will go &mdash; and whether it will ultimately run the company's bleeding-edge 1",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260812VL209/intel-israel-fab-expansion-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-017",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AGL Energy Limited (AGLXY) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935230-agl-energy-limited-aglxy-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-018",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HUYA: Game-Related Services Drive Q2 2026 Beat",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935205-huya-game-related-services-drive-q2-2026-beat?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-019",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Global X Emerging Markets Great Consumer ETF Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935226-global-x-emerging-markets-great-consumer-etf-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-020",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fold Holdings, Inc. (FLD) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935168-fold-holdings-inc-fld-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-021",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Wharf (Holdings) Limited 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935225-the-wharf-holdings-limited-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-022",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kamux Oyj 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935224-kamux-oyj-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-023",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MMG Limited (MMLTF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935139-mmg-limited-mmltf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-024",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ardelyx Q2: Strong Demand, But Payer Friction Clouds The Story",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935200-ardelyx-q2-strong-demand-but-payer-friction-clouds-the-story?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-025",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ABN AMRO Bank N.V. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935217-abn-amro-bank-n-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-026",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Balfour Beatty plc 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935216-balfour-beatty-plc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-027",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ASUSTeK Computer Inc. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935215-asustek-computer-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-028",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vestas Wind Systems A/S 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4935214-vestas-wind-systems-a-s-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-12-029",
+    "date": "2026-08-12",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "shortage",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD Radeon RX 9000 GPUs Sees Official Price Increase of Up To 20%, As The Radeon RX 9070 XT Now Costs Over $1000",
+    "summary": "AMD has officially raised the MSRP/SEP prices of its Radeon RX 9000 GPUs in Q3 2026, with the RX 9070 XT now costing more than $1000 on average. AMD Couldn't Escape the Memory Shortages-Related Prices",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-radeon-rx-9000-gpus-official-price-increase-up-to-20-percent-9070-xt-over-1000-usd/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-12-030",
+    "date": "2026-08-12",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s Razor Lake-AX Surfaces In HWiNFO Support, Confirming Halo-Class SoC To Challenge AMD’s Halo Around 2028",
+    "summary": "Intel's very own \"Halo\" SoCs are being prepped as next-generation Razor Lake-AX chips have received first support on HWiNFO. HWiNFO Silently Adding Support For Razor Lake-AX SoCs, Confirming That Inte",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-razor-lake-ax-socs-surfaces-in-hwinfo-support/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-08-12-031",
+    "date": "2026-08-12",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Modular's Mojo programming language hits 1.0 milestone",
+    "summary": " Developers await open source compiler release to dispel uncertainty following Qualcomm acquisition ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/12/modulars-mojo-programming-language-hits-10-milestone/5286545",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-032",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PCB shortage  getting worse",
+    "summary": "<p>The global shortage of PCBs has led to some Chinese manufacturers quoting 2028 delivery dates for orders placed last month. Al data centers are consuming massive amounts of advanced PCBs, [&#8230;]",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/pcb-shortage-getting-worse-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-033",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Imec proposes a mix of CMOS, BiCMOS and III-V for datacentre connectivity",
+    "summary": "<p>Imec has proposed an approach to connectivity inside datacentres which integrates CMOS, BiCMOS and III-V chiplets. It uses cost-effective manufacturing while operating at 100GHz+ frequencies. While",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/imec-proposes-a-mix-of-cmos-bicmos-and-iii-v-for-datacentre-connectivity-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-034",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ITSA reports Q2 orders up 8%",
+    "summary": "<p>For Q2 ITSA reported revenues down 13% but incredibly positive orders which were up 8% with a strong  B-to-B of 1.30:1. Key ITSA markets were: • Consumer Electronics up 50% [&#8230;]</p>\n<p>The pos",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/etsis-two-halves-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-12-035",
+    "date": "2026-08-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Top Ten (less 5) PC Companies In Q2",
+    "summary": "<p>Thanks to Omdia for  this one &#8211; the top five PC companies in Q2: &#160; &#160; bl</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-pc-compan",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-pc-companies-in-q2-2-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intel-2026-08-11-001",
     "date": "2026-08-11",
     "companies": [
@@ -832,6 +1486,438 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/smartphone-margin-squeeze-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "entegris-2026-08-11-045",
+    "date": "2026-08-11",
+    "companies": [
+      "entegris"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "When Interfaces Carry the Outcome in Advanced Packaging",
+    "summary": "<div class=\"hs-featured-image-wrapper\"> \n <a href=\"https://blog.entegris.com/when-interfaces-carry-the-outcome-in-advanced-packaging\" title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.en",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-08-11-046",
+    "date": "2026-08-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+    "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how itâs deployed and evolves. Today, NVIDIA is expanding its Nemotron",
+    "sources": []
+  },
+  {
+    "id": "supermicro-2026-08-11-047",
+    "date": "2026-08-11",
+    "companies": [
+      "supermicro"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Supermicro Announces Fourth Quarter and Full Fiscal Year 2026 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-08-11-048",
+    "date": "2026-08-11",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Stream free movies and shows on Google TV Freeplay",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lifestyle_VOD_tab.max-600x600.format-webp.webp\">Google TV Freeplay now offers over 10,000 free on-demand movies and shows, — p",
+    "sources": []
+  },
+  {
+    "id": "google-2026-08-11-049",
+    "date": "2026-08-11",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google Health announces a strategic partnership with Abbott, a leader in health and wellness.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Health_Abbott_Flo_social.max-600x600.format-webp.webp\">Google Health is teaming up with Abbott to give more holistic vi",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-08-11-050",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Agentic AI, Multi‑Physics, and Standards Will Redefine Chips Design",
+    "summary": "\n\t\t\t\t\t\t<p>Agentic AI, brutal physics bottlenecks, and standards are remaking chip design from silicon to systems.</p>\n<p>The post <a href=\"https://www.eetimes.com/agentic-ai-multi-physics-and-standard",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/agentic-ai-multi-physics-and-standards-will-redefine-chips-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-11-051",
+    "date": "2026-08-11",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Challenges GPU-Centric Architectures as It Takes Aim at Nvidia in Robotics",
+    "summary": "\n\t\t\t\t\t\t<p>AMD’s new SoC for robots combines CPU, GPU, NPU on one chip with unified memory.</p>\n<p>The post <a href=\"https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/amd-challenges-gpu-centric-architectures-as-it-takes-aim-at-nvidia-in-robotics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-052",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Hardware’s Next Frontier Is Integration",
+    "summary": "\n\t\t\t\t\t\t<p>The LID World Summit 2026 showed why AI progress now depends on system-level advances in memory, packaging, photonics, and power.</p>\n<p>The post <a href=\"https://www.eetimes.com/ai-hardware",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ai-hardwares-next-frontier-is-integration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-08-11-053",
+    "date": "2026-08-11",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SK hynix to expand production capacity in China as it mulls Solidigm IPO, report claims — second phase of fab could boost local production by 50%",
+    "summary": "\n                             As demand for high-end data center SSDs peak, SK hynix upgrades its Chinese facilities and plans Solidigm listing at NASDAQ. \n                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/sk-hynix-to-expand-production-capacity-in-china-as-it-mulls-solidigm-ipo-report-claims-second-phase-of-fab-could-boost-local-production-by-50-percent",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-11-054",
+    "date": "2026-08-11",
+    "companies": [
+      "amd",
+      "screen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD highlights Ryzen 5 5500 briefly topping Amazon CPU best sellers, beating 9800X3D — $80 DDR4 CPU remains a top seller during memory crunch",
+    "summary": "\n                             AMD's marketing director shared a screenshot of the Amazon CPU best sellers list, but the four-year-old, $80 Ryzen 5 5500 was at the top of the charts. \n                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-highlights-ryzen-5-5500-briefly-topping-amazon-cpu-best-sellers-beating-9800x3d-usd80-ddr4-cpu-remains-a-top-seller-during-memory-crunch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-11-055",
+    "date": "2026-08-11",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel raises $19.7 billion to help fund future projects as 14A production looms — share sale attracted $100 billion in demand, report claims",
+    "summary": "\n                             Intel is raising $19.7 billion through a stock offering to strengthen its finances as it expands manufacturing capacity, develops next-generation process technologies, an",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-raises-usd19-7-billion-to-help-fund-future-projects-as-14a-production-looms-share-sale-attracted-usd100-billion-in-demand-report-claims",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-056",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Get 32GB of DDR5 for $261 in this AM5 gaming bundle — $970 deal features Ryzen 7 9800X3D, 32GB DDR5 RAM, a Gigabyte X870 motherboard, and free 240mm AIO",
+    "summary": "\n                             Newegg’s $969 AM5 combo pairs the Ryzen 7 9800X3D, 32GB of DDR5-6000 RAM, a Gigabyte X870 Aorus Elite Wi-Fi 7 motherboard, and a free 240mm AIO, saving nearly $220. \n    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/get-32gb-of-ddr5-for-usd261-in-this-am5-gaming-bundle-usd970-deal-features-ryzen-7-9800x3d-32gb-ddr5-ram-a-gigabyte-x870-motherboard-and-free-240mm-aio",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-057",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US lawmaker wants gov't to enforce regulation to ensure 'chipmakers conduct adequate due diligence on their customers' — House member calls for Biden-era export control to be enforced",
+    "summary": "\n                             Congressman John Moolenaar wants the Commerce Department's Bureau of Industry and Security to clarify whether Foundry Due Diligence Rule remains effective and continues t",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/u-s-lawmaker-wants-govt-to-enforce-regulation-to-ensure-chipmakers-conduct-adequate-due-diligence-on-their-customers-house-member-calls-for-biden-era-export-control-to-be-enforced",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-11-058",
+    "date": "2026-08-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia teams up with financial giants to create $500 billion AI infrastructure funds — six investment firms to enable access to long-term funding at attractive rates",
+    "summary": "\n                             Nvidia to arrange financing from major financial institutions at attractive rates for customers seeking to build AI data centers. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-teams-up-with-financial-giants-to-create-usd500-billion-ai-infrastructure-funds-six-investment-firms-to-enable-access-to-long-term-funding-at-attractive-rates",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-059",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walmart has slashed $600 off this RTX 5060-powered gaming laptop, now just $1,099 — get Gigabyte's 16-inch Aero X16 with 16GB of RAM and a 1TB SSD",
+    "summary": "\n                             A gaming laptop that won't break the bank during the memory price crisis. Gigabyte's RTX 5060-powered Aero X16 has $600 slashed off the list price. \n                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/walmart-has-slashed-usd600-off-this-rtx-5060-powered-gaming-laptop-now-just-usd1-099-get-gigabytes-16-inch-aero-x16-with-16gb-of-ram-and-a-1tb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-11-060",
+    "date": "2026-08-11",
+    "companies": [
+      "nvidia",
+      "meta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Accelerates AI on DGX & RTX Systems With New Open Models, LTX 2.5 Video Gen Support: 2x Performance Boost, Big Memory Savings, 5090 With 200 Tokens/s In Meta’s Muse",
+    "summary": "NVIDIA has released some major updates for DGX &#38; RTX systems supporting new open models such as Nemotron 3.5, LTX 2.5 &#38; more. NVIDIA Continues To Pioneer The \"AI PC\" Segment With Latest Open A",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-accelerates-ai-on-dgx-rtx-systems-with-new-open-models/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-11-061",
+    "date": "2026-08-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA’s Kyber Racks To Sport 340.4TB Of DRAM, With HBM4E Priced At $19.76/GB And Each Rack Reportedly Priced At $41.6 Million",
+    "summary": "NVIDIA's upcoming Vera Rubin Ultra systems are in a state of flux at the moment, with persistent rumors pointing to a potential HBM de-spec, where the GPU giant might choose to lower the quantum of HB",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidias-kyber-racks-to-sport-340-4tb-of-dram-with-hbm4e-priced-at-19-76-gb-and-each-rack-reportedly-priced-at-41-6-million/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-08-11-062",
+    "date": "2026-08-11",
+    "companies": [
+      "apple",
+      "cxmt",
+      "micron"
+    ],
+    "topics": [
+      "shortage",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CXMT Hits 90% Yield on 17nm DDR5 Chips, Closing the Gap With Micron & Others – Report",
+    "summary": "Chinese memory upstart CXMT is making important progress with its DDR5 memory chips, according to a report in the Chinese media. The firm has become a regular part of industry news as it grows in impo",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-hits-90-yield-on-17nm-ddr5-chips-closing-the-gap-with-micron-others-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-08-11-063",
+    "date": "2026-08-11",
+    "companies": [
+      "asml",
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung Joins TSMC in Stalling ASML’s High NA EUV Rollout, Pushing the Costly Machines to 1nm Chips",
+    "summary": "Korean chip manufacturer Samsung is planning to introduce high-NA extreme ultraviolet (EUV) lithography into its production facilities to manufacture chips with the 1-nanometer manufacturing process n",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-joins-tsmc-in-stalling-asmls-high-na-euv-rollout-pushing-the-costly-machines-to-1nm-chips/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-11-064",
+    "date": "2026-08-11",
+    "companies": [],
+    "topics": [
+      "nand_price"
+    ],
+    "impact": "neutral",
+    "title": "A 4 TB SSD Can Cost You Over $500, But Newegg Slashed This 4 TB M.2 SSD To Just $390 For A Limited Time",
+    "summary": "This is a rare and special deal for PC builders, as you usually don't see discounted SSDs on the market. So, grab this before the SSD climbs back to $500. Team Group T-FORCE 4 TB PCIe 4.0 SSD Drops Fr",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/newegg-slashed-this-4-tb-m-2-ssd-to-just-390-for-a-limited-time/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-11-065",
+    "date": "2026-08-11",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "positive",
+    "title": "Minisforum Launches Elite Mini M2 Air-304 Wildcat Lake Mini PC Barebone At $263; Supports Up To 64 GB DDR5 RAM And 2 TB SSD Configuration",
+    "summary": "One more entry-level mini PC hits the market, but it gets expensive as you add more RAM and storage to the configuration. Minisforum Debuts Wildcat Lake-Powered Elite Mini M2 Air-304 Mini PC, Featurin",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/minisforum-launches-elite-mini-m2-air-304-wildcat-lake-mini-pc-barebone-at-263/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-11-066",
+    "date": "2026-08-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Together AI embraces the competition with $240M IBM Cloud deal",
+    "summary": " Deal to fund 'large' deployment of Nvidia's last-gen HGX B300 systems launching in Q1 2027 ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/08/11/together-ai-embraces-the-competition-with-240m-ibm-cloud-deal/5286400",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-11-067",
+    "date": "2026-08-11",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel upsizes stock sale to $20B with spending plans still fuzzy",
+    "summary": " Semiconductor giant says opaquely it will use the proceeds for 'general corporate purposes' ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/08/11/intel-upsizes-stock-sale-to-20b-with-spending-plans-still-fuzzy/5286313",
         "type": "rss"
       }
     ]
