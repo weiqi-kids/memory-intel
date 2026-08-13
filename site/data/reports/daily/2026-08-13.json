@@ -1,0 +1,324 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T09:24:35.604024Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-13-016",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Zhen Ding targets 50% revenue share from AI servers, optical modules, IC substrates by 2030",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260812PD239/zhen-ding-revenue-ic-pcb-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-13-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Foxconn broadens beyond AI servers with EVs, robotics and Japan chip fab above 90% utilisation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260812PD246/foxconn-earnings-ev-robotics-fab-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-13-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Pegatron profit surges on AI server shipments and stronger product mix",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260813PD207/pegatron-shipments-profit-ai-server-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-13-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Asus projects up to 150% server growth as AI demand lifts results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": "https://www.digitimes.com/news/a20260813PD206/asus-growth-revenue-pc-ai-server.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-13-018",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Foxconn sees AI rack shipments grow multiple-fold in 2026 after 2Q operating profit rises 68%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260812PD245/foxconn-server-rack-operating-profit-revenue-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.24,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.29,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.54,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 33,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 28
+      },
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "ai_server",
+        "count": 7
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 97,
+    "too_old": 64,
+    "gate1_blocked": 44,
+    "gate2_blocked": 35,
+    "passed": 78,
+    "pass_rate": "35.3%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "Into the Omniverse: How Open World Models Push the Frontier of Physical AI",
+      "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
+      "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "How we built the new GPS on Pixel Watch 5"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為英特爾、三星、輝達相關動態：「Zhen Ding targets 50% revenue share from AI servers, opti...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Zhen Ding targets 50% revenue share from AI servers, optical modules, IC subs...（產能、AI 伺服器、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Foxconn broadens beyond AI servers with EVs, robotics and Japan chip fab abov...（資本支出、AI 伺服器、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

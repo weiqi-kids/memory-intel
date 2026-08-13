@@ -1,0 +1,291 @@
+{
+  "date": "2026-08-13",
+  "date_range": {
+    "start": "2026-08-07",
+    "end": "2026-08-13"
+  },
+  "generated_at": "2026-08-13T09:24:35.751777Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "oracle-2026-08-07-001",
+      "date": "2026-08-07",
+      "title": "Wistron sees AI server growth accelerate in August; new HPE, Lenovo and Oracle orders add 4Q26 lift",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ai_server": {
+      "this_week": 14,
+      "last_week": 3,
+      "week_over_week_change": "+367%",
+      "sentiment_this_week": 0.21
+    },
+    "earnings": {
+      "this_week": 126,
+      "last_week": 77,
+      "week_over_week_change": "+64%",
+      "sentiment_this_week": 0.12
+    },
+    "industry_general": {
+      "this_week": 108,
+      "last_week": 82,
+      "week_over_week_change": "+32%",
+      "sentiment_this_week": 0.08
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.18
+    },
+    "inventory": {
+      "this_week": 9,
+      "last_week": 2,
+      "week_over_week_change": "+350%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 22,
+      "last_week": 12,
+      "week_over_week_change": "+83%",
+      "sentiment_this_week": 0.29
+    },
+    "capex": {
+      "this_week": 15,
+      "last_week": 16,
+      "week_over_week_change": "-6%",
+      "sentiment_this_week": 0.23
+    },
+    "advanced_packaging": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.12
+    },
+    "shortage": {
+      "this_week": 8,
+      "last_week": 7,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.1
+    },
+    "hbm": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.2
+    },
+    "dram_price": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.16
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    }
+  },
+  "company_7d_summary": {
+    "oracle": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 15
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 16
+    },
+    "tsmc": {
+      "event_count": 7,
+      "sentiment_avg": 0.18,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 11,
+      "sentiment_avg": 0.2,
+      "rank": 2
+    },
+    "skhynix": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 5
+    },
+    "psmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 17
+    },
+    "ase": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 9
+    },
+    "samsung": {
+      "event_count": 7,
+      "sentiment_avg": 0.29,
+      "rank": 6
+    },
+    "nvidia": {
+      "event_count": 14,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "amd": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 3
+    },
+    "apple": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 11
+    },
+    "cxmt": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 12
+    },
+    "microsoft": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "google": {
+      "event_count": 4,
+      "sentiment_avg": 0.32,
+      "rank": 8
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "amkor": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "western_digital": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "qualcomm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 14
+    },
+    "ptc": {
+      "event_count": 1,
+      "sentiment_avg": 0.67,
+      "rank": 22
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 375,
+        "last": 311,
+        "change_pct": 20.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-07",
+      "event_count": 67,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-08",
+      "event_count": 43,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 71,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 67,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 68,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 45,
+      "sentiment_avg": 0.13
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-07 ~ 2026-08-13）共 375 則事件，重點為「Wistron sees AI server growth accelerate in Aug...」。蘋果、高通情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "高通",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "台積電",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
