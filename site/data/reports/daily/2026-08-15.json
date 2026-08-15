@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:42:10.882610Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-15-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Pershing Square Inc. (PS) Q2 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937026-pershing-square-inc-ps-q2-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "StarHub Ltd (SRHBY) Q2 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937025-starhub-ltd-srhby-q2-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-15-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oakmark International Small Cap Strategy Q2 2026 Portfolio Update",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937013-oakmark-international-small-cap-strategy-q2-2026-portfolio-update?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oakmark International Small Cap Strategy Q2 2026 Contributors And Detractors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937012-oakmark-international-small-cap-strategy-q2-2026-contributors-detractors?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-15-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oakmark International Small Cap Strategy Q2 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937011-oakmark-international-small-cap-strategy-q2-2026-commentary?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 117,
+    "too_old": 66,
+    "gate1_blocked": 57,
+    "gate2_blocked": 36,
+    "passed": 43,
+    "pass_rate": "21.3%",
+    "gate2_block_rate": "17.8%",
+    "gate2_samples": [
+      "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesiaâs First University AI Center to Develop",
+      "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "Bring your spreadsheet data to life with Sheets canvas",
+      "Get updates while your Pixel 11 Pro is face down with HiLight."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為財報相關動態：「Pershing Square Inc. (PS) Q2 2026 Earnings Call Transcript」。主要關注主題為財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Pershing Square Inc. (PS) Q2 2026 Earnings Call Transcript（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "StarHub Ltd (SRHBY) Q2 2026 Earnings Call Transcript（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
