@@ -1,0 +1,197 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:42:07.181789Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-16-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Teekay Tankers: Record Earnings And The Bull Case Is Still Intact",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937094-teekay-tankers-stock-record-earnings-bull-case-is-intact?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-16-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Logan Energy: Earnings Surprise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937101-logan-energy-stock-earnings-surprise?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-16-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ituran Location and Control Ltd.: Strong Q2 Results Reveal The Data Opportunity Hidden Inside Its Telematics Network",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937093-ituran-stock-strong-q2-reveal-data-opportunity-hidden-telematics-network?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Xunlei Limited: What Needs To Happen If The Stock Is To Get Going",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4937099-xunlei-limited-stock-what-to-happen-if-stock-to-get-going?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "microsoft-2026-08-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Halo Studios Reportedly Outsourced Campaign Evolved to 15 Studios, as Microsoft Weighs Involving Activision’s Sledgehammer Games in the Process",
+      "companies": [
+        "microsoft"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/halo-studios-outsourced-campaign-evolved-15-studios-activision-sledgehammer/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "microsoft",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 134,
+    "too_old": 66,
+    "gate1_blocked": 52,
+    "gate2_blocked": 36,
+    "passed": 21,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "20.6%",
+    "gate2_samples": [
+      "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesiaâs First University AI Center to Develop",
+      "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "Bring your spreadsheet data to life with Sheets canvas",
+      "Get updates while your Pixel 11 Pro is face down with HiLight."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為微軟相關動態：「Teekay Tankers: Record Earnings And The Bull Case Is Stil...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Teekay Tankers: Record Earnings And The Bull Case Is Still Intact（財報）",
+        "level": "red"
+      },
+      {
+        "text": "Logan Energy: Earnings Surprise（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
