@@ -1,0 +1,341 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T09:02:50.486763Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-08-17-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung's China sales overtake US; Nvidia not among top five customers",
+      "companies": [
+        "samsung",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817VL216/samsung-sales-nvidia-2026-hbm.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-17-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Record orders, yet profits squeezed: Asia-Pacific electronics supply chain caught in cost crunch",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817PD210/cost-electronics-supply-chain-demand-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-08-17-016",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "TSMC and Micron boom drives Taiwan 'fab five's 1H26 profits",
+      "companies": [
+        "tsmc",
+        "micron",
+        "ase"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "micron"
+        ]
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817PD213/tsmc-micron-fab-taiwan-ase.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "onsemi-2026-08-17-017",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "情緒極端",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Samsung weighs Giheung R&amp;D line for 2nm HBM foundry capacity",
+      "companies": [
+        "onsemi",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817VL210/samsung-hbm-capacity-2nm-dram.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-08-17-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Samsung Electro-Mechanics, LG Innotek substrate lines near full capacity as AI demand rises",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260817VL205/semco-substrate-lg-innotek-capacity-demand.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.56,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 17,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "tsmc",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "phison",
+        "count": 1
+      },
+      {
+        "id": "micron",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "capacity",
+        "count": 8
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 117,
+    "too_old": 65,
+    "gate1_blocked": 61,
+    "gate2_blocked": 37,
+    "passed": 38,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "18.4%",
+    "gate2_samples": [
+      "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesiaâs First University AI Center to Develop",
+      "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "Get closer to the game with Gemini and Pixel",
+      "Bring your spreadsheet data to life with Sheets canvas"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為輝達、台積電、三星相關動態：「Samsung's China sales overtake US; Nvidia not among top f...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung's China sales overtake US; Nvidia not among top five customers（HBM、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Record orders, yet profits squeezed: Asia-Pacific electronics supply chain ca...（產能、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

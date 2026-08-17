@@ -1,5 +1,575 @@
 [
   {
+    "id": "unknown-2026-08-17-001",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "800VDC Pushes AI Power Design From Grid To Gate",
+    "summary": "<p>The next power bottleneck is no longer just inside the accelerator — it is the full conversion path from medium-voltage AC to sub-1V silicon.</p>\n<p>The post <a href=\"https://semiengineering.com/80",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-002",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semiconductor Test",
+    "summary": "<p>Bond testing is emerging as a critical control point for long-term performance and yield.</p>\n<p>The post <a href=\"https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-i",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-003",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Taiwan Mobile lifts 2026 profit outlook on AI data center push",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:277;116-392\">Taiwan Mobile has raised its full-year 2026 operating profit growth outlook to 7% to 9%, excluding the impact of its planned Systex acquisition, as AI ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817PD228/twm-profit-2026-data-center-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-004",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SK keyfoundry expands 8-inch capacity as China demand strains supply",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:215;106-320\">SK keyfoundry has approved KRW90 billion (approx. US$64 million) in capital spending to expand its 8-inch foundry capacity, a rare move for a company t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817VL218/capacity-demand-investment-production-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-17-005",
+    "date": "2026-08-17",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "TSMC overseas fabs see profit flip in 1H26",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:444;106-549\">Since 2020, when TSMC began its overseas manufacturing buildout, the company has tracked financial results at its foreign subsidiaries across the first",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817PD221/tsmc-2025-profit-investment-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-006",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lightmatter sets optical interconnect blueprint as AI hits copper wall",
+    "summary": "<p class=\"P1\" data-sourcepos=\"7:1-7:303;168-470\">AI data centers are approaching a physical limit: as scale-up architectures stretch across multiple racks and SerDes speeds near 448G, copper's effecti",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817PD218/copper-data-siph-cpo-photonics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "phison-2026-08-17-007",
+    "date": "2026-08-17",
+    "companies": [
+      "phison"
+    ],
+    "topics": [
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Phison CEO sees years of NAND shortage, AI growth chance",
+    "summary": "Phison Electronics CEO Pua Khein-Seng said the company is seizing a once-in-a-lifetime chance to transform into a high-growth business as AI agents drive massive demand, keeping NAND Flash supply tigh",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260814PD232/phison-ceo-nand-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-17-008",
+    "date": "2026-08-17",
+    "companies": [
+      "samsung",
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung's China sales overtake US; Nvidia not among top five customers",
+    "summary": "Samsung Electronics' sales to China and the US surged in the first half of 2026 as an AI-driven memory upcycle boosted its semiconductor business, while Nvidia did not rank among the company's five la",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817VL216/samsung-sales-nvidia-2026-hbm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-009",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Record orders, yet profits squeezed: Asia-Pacific electronics supply chain caught in cost crunch",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:349;142-490\">Global Electronics Association survey data show that demand across the global electronics manufacturing industry maintained steady expansion in the fir",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817PD210/cost-electronics-supply-chain-demand-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-17-010",
+    "date": "2026-08-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG-Nvidia physical AI partnership speeds up as robotics chief reportedly heads to South Korea",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:288;151-438\">Less than a week after LG Group and Nvidia signed a strategic memorandum of understanding (MOU), Madison Huang, Nvidia's senior director of product mar",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817PD220/lg-robotics-partnership-robot-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-011",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's Vertilite commits US$741M to InP laser chips for AI optical interconnects",
+    "summary": "Chinese optical chipmaker Jiangsu Vertilite Semiconductor Technology is investing CNY5 billion (approx. US$741 million) in a new communications chip and device R&amp;D and manufacturing base in Changz",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817PD215/inp-laser-chips-communications-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-17-012",
+    "date": "2026-08-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia closing in on US$100B credit guarantee deal for OpenAI's Ohio data center",
+    "summary": "Nvidia is approaching an agreement to provide credit guarantees of around US$100 billion for OpenAI's 10GW data center in Ohio, among the largest AI infrastructure projects ever, according to <em>The ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817VL215/nvidia-openai-data-center-infrastructure-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-17-013",
+    "date": "2026-08-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "LG, Nvidia step up humanoid push with robot data factory",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:258;94-351\">Nvidia's Madison Huang is set to visit LG Electronics' Yangjae R&amp;D campus in Seoul on August 18 to inspect the company's robot data factory and hold",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817VL214/nvidia-lg-data-robot-lg-electronics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-014",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan extends graduate stays to 2 years to ease talent shortages",
+    "summary": "Taiwan has begun allowing overseas Chinese and foreign graduates with associate degrees or higher to extend their residence for up to two years, a change that has already driven a sharp rise in applic",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260814PD230/taiwan-talent-labor-policy-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-015",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India draws 20 bids for rare earth magnet manufacturing scheme",
+    "summary": "India's Ministry of Heavy Industries (MHI) has received 20 bids from domestic and global companies under its scheme to promote manufacturing of sintered rare earth permanent magnets (REPM), a step tow",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817VL212/india-rare-earth-manufacturing-capacity-2026.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-17-016",
+    "date": "2026-08-17",
+    "companies": [
+      "tsmc",
+      "micron",
+      "ase"
+    ],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "TSMC and Micron boom drives Taiwan 'fab five's 1H26 profits",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:502;118-619\">TSMC, Micron, ASE, and SPIL continue to expand their advanced-node and OSAT investments, driving stronger first-half 2026 results for Taiwan's fab engi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817PD213/tsmc-micron-fab-taiwan-ase.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-08-17-017",
+    "date": "2026-08-17",
+    "companies": [
+      "onsemi",
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "ai_memory",
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung weighs Giheung R&amp;D line for 2nm HBM foundry capacity",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:260;98-357\">Samsung Electronics is reportedly considering repurposing the second line at its next-generation semiconductor R&amp;D complex in Giheung into a foundry",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817VL210/samsung-hbm-capacity-2nm-dram.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-018",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Fallout from Wingtech's Nexperia rupture: the price of rebuilding China's chip supply chain",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:438;116-553\">Wingtech is entering a sharply different phase after dismantling much of its product-integration business and losing effective control over parts of Ne",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817VL207/nexperia-supply-chain-business-loss-wafer.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-17-019",
+    "date": "2026-08-17",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Electro-Mechanics, LG Innotek substrate lines near full capacity as AI demand rises",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:314;129-442\">Samsung Electro-Mechanics (SEMCO) and LG Innotek pushed their semiconductor package substrate operations close to full capacity in the first half of 20",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817VL205/semco-substrate-lg-innotek-capacity-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-020",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Aurizon Holdings Limited (QRNNF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937242-aurizon-holdings-limited-qrnnf-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-021",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chord Energy: Q2 Strengthens The Buyback And FCF Per Share Thesis",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937225-chord-energy-stock-q2-strengthens-buyback-fcf-thesis?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-022",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GPT Group (GPTGF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937229-gpt-group-gptgf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-023",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NICE Posts Another Nice Earnings Beat, As AI-Driven Software Sees Enterprise Demand",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937222-nice-stock-nice-earnings-beat-ai-driven-software-enterprise-demand?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-024",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Imdex Limited (IMDXF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937224-imdex-limited-imdxf-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-025",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Audinate Group Limited (AUDGF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937223-audinate-group-limited-audgf-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-17-026",
+    "date": "2026-08-17",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Microsoft blames AI for delayed Exchange update, can’t say when it will arrive",
+    "summary": " Dealing with machine-made bug backlog makes it hard to find a moment to deliver promised subscription service ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/software/2026/08/17/microsoft-blames-ai-for-delayed-exchange-update-cant-say-when-it-will-arrive/5288227",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-17-027",
+    "date": "2026-08-17",
+    "companies": [
+      "google",
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Chinese AI company Zhipu claims its new model is a better bug-finder than Anthropic, OpenAI",
+    "summary": " PLUS: HCL, TCS, admit data breaches; South Korea to fine Apple, Google; India bans some rideshare tips; and more! ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/08/17/chinese-ai-company-zhipu-claims-its-new-model-is-a-better-bug-finder-than-anthropic-openai/5288203",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-17-028",
+    "date": "2026-08-17",
+    "companies": [
+      "tsmc",
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia books TSMC 1.6nm process for Feynman in H2 2028",
+    "summary": "<p>Nvidia is reported to have booked TSMC A16 capacity for Feynman, its post-Rubin architecture GPU. A16 is TSMC’s 1.6nm  successor to its 2nm process N2 with GAA transistors and backside [&#8230;]</p",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/nvidia-books-tsmc-1-6nm-process-for-feynman-in-h2-2028-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-08-17-029",
+    "date": "2026-08-17",
+    "companies": [
+      "dell"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "XPU to CPU ratio in datacentres transitioning from 10:1 to 1:1",
+    "summary": "<p>The rise of inference workloads is driving new demand and introducing network requirements that differ from those associated with training workloads, says Dell’Oro. This shift is leading to signifi",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/xpu-to-cpu-ratio-transitioning-from-101-to-11-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-16-001",
     "date": "2026-08-16",
     "companies": [],
@@ -85,6 +655,184 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/halo-studios-outsourced-campaign-evolved-15-studios-activision-sledgehammer/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-08-16-006",
+    "date": "2026-08-16",
+    "companies": [
+      "dell"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dell CEO unveils new 'Dude, you’re getting a Dell (AI server rack)' video — PC maker recycles famous PC ad campaign to tout its new AI data center products",
+    "summary": "\n                             Dell has created a humorous AI-era update to its iconic early-2000s 'Dude, you’re getting a Dell' series of commercials. \n                                                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/dude-youre-getting-a-dell-ai-server-rack-dell-recycles-famous-ad-campaign-to-appeal-to-its-new-ai-overlords",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-16-007",
+    "date": "2026-08-16",
+    "companies": [
+      "amd",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel says it will launch new core with Nova Lake on desktop first, not in data center — VP Robert Hallock hopes enthusiasts ‘do the math’ compared to AMD",
+    "summary": "\n                             Intel’s Robert Hallock says he hopes enthusiasts “do the math” compared to AMD, highlighting that the company’s new core architecture will release in consumer processors ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-says-it-will-launch-new-core-with-nova-lake-on-desktop-first-not-in-data-center-vp-robert-hallock-hopes-enthusiasts-do-the-math-compared-to-amd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-16-008",
+    "date": "2026-08-16",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "The PC age began 45 years ago with the breakthrough Intel 8088 processor — 8-bit bus fueled 45 years of x86 dominance",
+    "summary": "\n                             45 years ago, in August 1981, the PC age began in earnest with the launch of the IBM PC Model 5150. At its heart was the Intel 8088 microprocessor. \n                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/the-pc-age-began-45-years-ago-with-the-breakthrough-intel-8088-processor-8-bit-bus-fueled-45-years-of-x86-dominance",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-009",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ex-farm bureau chief invites AI data center developers to buy his land —argues blocked $6.3B project will just move to willing neighbors, defies 500-jurisdiction moratorium wave and 70% public opposition",
+    "summary": "\n                             Blake Hurst spent a decade running the state's largest farm lobby. Now he's publicly courting the developers his neighbors froze out. \n                                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/former-missouri-farm-bureau-president-offers-his-farm-for-a-data-center",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-010",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "ddr5"
+    ],
+    "impact": "positive",
+    "title": "DDR5 RAM Prices Explode To Nearly 5X July 2025 Levels In Germany As AI Boom Chokes Budget PC Builds",
+    "summary": "Almost every DDR5 RAM kit witnessed a noticeable price hike, driving the average DDR5 price to nearly 5X compared to July 2025 levels. DDR5 RAM Kits Reach a Record High as RAMpocalypse Pushes the Aver",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/ddr5-ram-prices-explode-to-nearly-5x-july-2025-levels-in-germany-as-ai-boom-chokes-budget-pc-builds/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-16-011",
+    "date": "2026-08-16",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Reportedly Splits Its Handheld Strategy As A Tiny 4-Xe3 Panther Lake Chip Targets The Budget Buyers Arc G3 Ignored",
+    "summary": "Intel might not be done with the current Arc G3 series for the gaming handhelds, and might come up with more SKUs for entry-level devices. Intel Reportedly Prepares a Panther Lake 4+0+4+4 SoC for Gami",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-reportedly-splits-its-handheld-strategy-as-a-tiny-4-xe3-panther-lake-chip-targets-the-budget-buyers-arc-g3-ignored/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-16-012",
+    "date": "2026-08-16",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Entry-level GPUs Were Gamers’ Last Hope, But PC Partner Says Severe Shortages Arrive In Second Half Of 2026",
+    "summary": "It's not just the higher-end market, which is prone to price hikes, but the entry-level segment will be reportedly more affected. ZOTAC's Parent Company Warns About The GPU Shortages In The Entry-Leve",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/entry-level-gpus-were-gamers-last-hope-but-pc-partner-says-severe-shortages-arrive-in-second-half-of-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-16-013",
+    "date": "2026-08-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "US Tech Advisor David Sacks Calls The Biggest Risk To NVIDIA’s $500 Billion AI Financing Plan A ‘Dark GPU’ Glut",
+    "summary": "After NVIDIA and CEO Jensen Huang announced their latest initiative last week, which now turns the firm's GPU into an asset class similar to financial securities, Trump advisor David Sacks discussed t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/us-tech-advisor-david-sacks-calls-the-biggest-risk-to-nvidias-500-billion-ai-financing-plan-a-dark-gpu-glut/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "phison-2026-08-16-014",
+    "date": "2026-08-16",
+    "companies": [
+      "phison"
+    ],
+    "topics": [
+      "nand_price",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Phison CEO Warns NAND Supply Won’t Meet Demand For Four Years, Locking In Higher SSD Prices Through 2030",
+    "summary": "NAND shortages are intensifying as Phison warns that it will take years to catch up to demand, signaling a rise in SSD prices. SSD Prices Will Continue To Rise For Years To Come As NAND Supply Runs Dr",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/phison-ceo-warns-nand-supply-wont-meet-demand-for-four-years/",
         "type": "rss"
       }
     ]
