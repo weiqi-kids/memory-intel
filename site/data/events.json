@@ -1,5 +1,708 @@
 [
   {
+    "id": "unknown-2026-08-18-001",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Aug. 18",
+    "summary": "<p>2D CFET scaling; PIM chiplet voltage-droop control; advanced-node layout repair; lithography defect prediction; 3D-IC failure analysis; chiplet and interposer optimization; 4H-SiC wafer slicing.</p",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-18/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-002",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+    "summary": "<p>Company-by-company breakdown: Earnings across 80 semiconductor companies show AI-driven demand extending well beyond the usual suspects.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-in",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-earnings-roundup/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-003",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Research Bits: Aug. 18",
+    "summary": "<p>Edge AI hardware/algorithm co-design; memtransistor with programmable response speeds; artificial synapse with long- and short-term memory.</p>\n<p>The post <a href=\"https://semiengineering.com/rese",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/research-bits-aug-18/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-004",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hushan eyes stronger 2H26 on drone cameras, OE push",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:494;103-596\">Aftermarket (AM) parts and automotive camera maker Hushan Autoparts saw its first-half 2026 operations impacted by US tariff policies and surging memor",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD220/hushan-camera-automotive-2026-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-005",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China AI chip sales scale: Biren's revenue rockets up to 21-fold",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:350;87-436\">Chinese AI chipmaker Biren expects first-half 2026 revenue to reach CNY1.15-1.3 billion (US$171-193 million), up about 1,852% to 2,107% from a year earl",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818VL213/biren-revenue-ai-chip-2026-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-006",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Analysis: China's AI chip ambitions collide with Ajinomoto's 95% grip on ABF film",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:248;115-362\">China's semiconductor self-reliance campaign is moving beyond lithography machines and advanced processors into less visible materials that can be just",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818VL208/ai-chip-materials-packaging-chips.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-08-18-007",
+    "date": "2026-08-18",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea's Gwangju chip hub faces looming water crunch as experts push underground storage and AI management",
+    "summary": "Samsung Electronics and SK Hynix are preparing to invest in four memory fabs in southwestern South Korea, but alongside power infrastructure, the semiconductor industry's uninterrupted demand for wate",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD214/fab-water-management-samsung-sk-hynix.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-18-008",
+    "date": "2026-08-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia swaps credit support for exclusive chip sales in OpenAI's Ohio data center campus",
+    "summary": "<p class=\"P1\" data-start=\"2926\" data-end=\"3202\">Nvidia has reached a deal with OpenAI to provide up to US$105 billion in credit guarantees for the AI startup's upcoming 8GW data center campus in Ohio.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818VL211/nvidia-openai-data-center-sales-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-18-009",
+    "date": "2026-08-18",
+    "companies": [
+      "intel",
+      "broadcom",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nvidia vs Broadcom: Dueling AI financing bets, Contrasting risks",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:439;125-563\">Nvidia has unveiled a US$500 billion artificial intelligence (AI) compute financing plan with six Wall Street giants&mdash;Goldman Sachs Group, Blackst",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD211/nvidia-financing-broadcom-chips-funding.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-18-010",
+    "date": "2026-08-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's Horizon Robotics sets J7 against Nvidia, Tesla",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:238;88-325\">Horizon Robotics is preparing its next-generation Journey 7 (J7) automotive AI chip family for mass production in 2027, aiming to extend its lead in Chi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818VL205/horizon-robotics-nvidia-tesla-automotive-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-011",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Everlight Electronics' 2Q26 gross margin hit by raw material costs, recovery expected in 2H26",
+    "summary": "LED packaging manufacturer Everlight Electronics stated that due to higher raw material costs, gross margin fell to 24.16% in the second quarter of 2026, down 7.93pp year-over-year and 0.5pp from the ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260817PD232/everlight-led-packaging-gross-margin-profit-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-18-012",
+    "date": "2026-08-18",
+    "companies": [
+      "amd",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commentary: AMD's Taalas acquisition echoing Jensen Huang's Groq strategy",
+    "summary": "<p class=\"P1\" data-start=\"4273\" data-end=\"4550\">On February 20, 2026, Canadian AI chip startup Taalas unveiled its HC1 inference chip. Taalas said the chip ran the Llama 3.1 8B model at a single-user ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD213/amd-groq-nvidia-acquisition-jensen-huang.html?chid=12",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-013",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI drives power semiconductors into at least a two-year shortage",
+    "summary": "The cloud AI data center boom is not close to bursting, according to chip supply-chain players. They say that analog ICs, including power semiconductors, will stay tight for years. They also expect pr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD212/cloud-ai-power-semiconductors-demand-data-center-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-18-014",
+    "date": "2026-08-18",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "MicroLED still lacks key LTPO TFT tech",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:344;96-439\">MicroLED remains a promising next-generation display technology, but industry analysts say its commercial breakthrough still hinges on thin-film transis",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD207/microled-tft-technology-display-sdc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-18-015",
+    "date": "2026-08-18",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung faces tougher HBM4E test after HBM4 comeback",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:292;90-381\">Samsung Electronics' semiconductor chief has told executives not to treat the company's HBM4 comeback as proof that its recovery is complete, according ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818VL207/samsung-hbm4-revenue-hbm-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-016",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India moves beyond electronics assembly as new approvals deepen component and equipment ambitions",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:217;137-353\">India is moving into the next phase of its electronics manufacturing strategy, using its progress in downstream assembly as a base to build domestic ca",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818VL201/electronics-manufacturing-equipment-component-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-08-18-017",
+    "date": "2026-08-18",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arm faces capacity squeeze as CPU demand tops US$2 billion",
+    "summary": "<p class=\"P1\" data-start=\"1848\" data-end=\"2072\">Arm Holdings' expansion from asset-light IP licensing into finished data center processors is putting the company into direct competition for wafer and ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818VL206/arm-capacity-demand-cpu-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-018",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Eiso Enterprise's Guishan plant expansion doubles PCB capacity, eyes AI, aerospace, defense markets",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:267;150-416\">Niche printed circuit board (PCB) manufacturer Eiso Enterprise has officially opened the second-phase expansion of its new plant in Guishan, Taiwan, wh",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD200/pcb-eiso-plant-expansion-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-019",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "AI server supply chain ramps up capital, talent, and capacity",
+    "summary": "The AI server supply chain continues to expand capital expenditures, pouring in cash, building factories, and hiring aggressively, to heighten barriers to entry. On top of rapid product iterations and",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD206/ai-server-supply-chain-capacity-capex-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-18-020",
+    "date": "2026-08-18",
+    "companies": [
+      "amd",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why AMD still owns US$565M of SpaceX shares after Musk chose Nvidia",
+    "summary": "Elon Musk has made SpaceX's AI hardware strategy unusually clear: future infrastructure will rely exclusively on Nvidia chips and technology. Yet AMD, Nvidia's largest rival in AI accelerators, still ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260818PD208/amd-spacex-ai-chip-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-021",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Columbia Select Large Cap Value Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937630-columbia-select-large-cap-value-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-022",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "StoneCo Q2: Growing With Low Quality",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937602-stoneco-q2-growing-with-low-quality?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-023",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Health Insurers Raise Outlooks Despite Q2 Cost Rises, Shifting Membership",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937603-us-health-insurers-raise-outlooks-despite-q2-cost-rises-shifting-membership?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-024",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fidelity OTC Portfolio Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937627-fidelity-otc-portfolio-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-025",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Huber+Suhner AG 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937624-huber-suhner-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-026",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Janus Henderson Mid Cap Value Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937621-janus-henderson-mid-cap-value-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-027",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ave Maria Growth Focused Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937614-ave-maria-growth-focused-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-028",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "First Eagle Rising Dividend Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937615-first-eagle-rising-dividend-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-029",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Ahold Delhaize Is A Growing Total Return Stock",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937587-ahold-delhaize-q2-growing-total-return-stock?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-030",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nationwide Loomis Short Term Bond Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937607-nationwide-loomis-short-term-bond-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-031",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Harbor International Core Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937610-harbor-international-core-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-032",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "LyondellBasell Industries N.V. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4937612-lyondellbasell-industries-n-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-18-033",
+    "date": "2026-08-18",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung Foundry delays 1.4nm process for three years",
+    "summary": "<p>Samsung Foundry has put back its 1.4 nm process till 2029. At the 2026 Next-Generation Lithography + Patterning Conference (NGL 2026) the company said it would stick to its  2nm [&#8230;]</p>\n<p>Th",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/samsung-foundry-delays-1-4nm-process-for-three-years-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-034",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Shares in humanoids on sale tomorrow",
+    "summary": "<p>Tomorrow, shares in Unitree, the maker of China’s dancing humanoid robots, will start trading on the Shanghai stock exchange after raising $905 million at its 8000x over-subscribed IPO last week. [",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/shares-in-humanoids-start-selling-tomorrow-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-035",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kiwimoore to list on HKSE",
+    "summary": "<p>Kiwimoore, the Chinese chiplet packaging specialist, is reported by Reuters to be following the example of last month’s  IPO of foundry company Nexchip with a 2027 listing on the Hong [&#8230;]</p>",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/kiwimoore-to-list-on-hkse-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-036",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space Forge takes first step into US manufacturing",
+    "summary": "<p>Space Forge of the UK, which makes semiconductor manufacturing materials in space, has signed an R&#38;D agreement with The Texas A&#38;M University System marking its first move into establishing ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/space-forge-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-037",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Avnet Silica Q326 Trendliner Reort",
+    "summary": "<p>Avnet Silica has brought out  the latest edition of its quarterly Trendliner market report which can be accessed here. Providing an overview of global and European semiconductor market conditions, ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/avnet-silica-trendliner-reort-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-17-001",
     "date": "2026-08-17",
     "companies": [],
@@ -565,6 +1268,424 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/xpu-to-cpu-ratio-transitioning-from-101-to-11-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-17-030",
+    "date": "2026-08-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus in Ohio to Exclusively Host NVIDIA AI Compute",
+    "summary": "NVIDIA announced that it has secured land, power and shell (LPS) capacity through a partnership with SB Energy at the PORTS-Pike Technology Campus in Pike County, Ohio, to host NVIDIA compute...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-08-17-031",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW-Madison)",
+    "summary": "<p>Researchers from Washington State University and University of Wisconsin–Madison published a technical paper titled “ReVolt: Power Delivery Network-Aware Voltage Droop Control for 2.5D PIM Chiplet ",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-032",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Fluid-Side Observability Expands AI Hardware Reliability",
+    "summary": "\n\t\t\t\t\t\t<p>As AI systems increasingly rely on liquid cooling, coolant condition is emerging as a reliability signal.</p>\n<p>The post <a href=\"https://www.eetimes.com/fluid-side-observability-expands-ai",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/fluid-side-observability-expands-ai-hardware-reliability/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-17-033",
+    "date": "2026-08-17",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Geekom admits to shipping malware-laced network drivers for AMD mini PCs — company responds with guidance, removes malicious package",
+    "summary": "\n                             Geekom admits to shipping malware-laced network drivers for AMD mini-PCs — maker requests takedown of report on the situation \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/geekom-admits-to-shipping-malware-laced-network-drivers-for-amd-mini-pcs-company-responds-with-guidance-removes-malicious-package",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-08-17-034",
+    "date": "2026-08-17",
+    "companies": [
+      "micron"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alibaba is selling its gaming studio for at least $1.5 billion to help fund AI buildout, mirroring Micron's exit from consumer business — dumps entire stake in Lingxi Games, which made 'Three Kingdoms: Strategy Edition'",
+    "summary": "\n                             Alibaba has agreed to sell its game development unit, Lingxi Games, to Asian private equity firm Trustar Capital, according to an internal staff memo. \n                  ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-sells-its-gaming-studio-for-at-least-1-5-billion-to-help-fund-ai-buildout",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-035",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399",
+    "summary": "\n                             Analysis of historical price data trends indicates that the memory crisis has driven RAM prices to never-before-seen heights. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-036",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electricity generation to avoid shutoffs",
+    "summary": "\n                             PJM Interconnection has asked federal regulators to approve rules that would cut power to new data centers ahead of households during supply shortages. \n                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/new-data-centers-on-americas-largest-grid-face-first-in-line-blackouts-unless-they-bring-their-own-power",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-17-037",
+    "date": "2026-08-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel's Arc Pro B70 workstation GPU is now up to 48% more expensive than it was just a month ago — 32GB Battlemage workstation card climbs toward $2,000",
+    "summary": "\n                             Intel's best Battlemage GPU is now even more expensive due to its large 32GB memory pool that's very useful for AI workloads. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/intels-arc-pro-b70-workstation-gpu-is-now-up-to-48-percent-more-expensive-than-it-was-just-a-month-ago-32gb-battlemage-workstation-card-climbs-toward-usd2-000",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-038",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Cherokee Nation bans hyperscale data centers on its lands, won't support projects without consultation  — energy and water consumption, air quality, noise, and cultural resource protection among concerns",
+    "summary": "\n                             Cherokee Nation, with more than 475,000 citizens, has banned hyperscale data center development on its tribally owned and trust lands. \n                                  ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-039",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI data center optical interconnect market to hit $144 billion by 2030, an over ten-fold increase from 2024 figures, according to new projections — silicon photonics expected to account for nearly two-thirds of revenue, driven by co-packaged optics",
+    "summary": "\n                             A new CIC forecast projects that the data center optical interconnect market will grow from $13.7 billion in 2024 to $144.4 billion by 2030, with silicon photonics accoun",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/photonics/ai-data-center-optical-interconnect-market-to-hit-usd144-billion-by-2030-an-over-ten-fold-increase-from-2024-figures-according-to-new-projections-silicon-photonics-expected-to-account-for-nearly-two-thirds-of-revenue-driven-by-co-packaged-optics",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-040",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PC Partner warns of rising GPU prices and budget card shortages — analyst suggests makers are hiking prices beyond memory costs",
+    "summary": "\n                             PC Partner warns that graphics card prices will rise further in H2 2026 as memory costs climb and supplies tighten and entry-level boards will gain the most. This is how ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/pc-partner-warns-of-rising-gpu-prices-and-budget-card-shortages-analyst-suggests-makers-are-hiking-prices-beyond-memory-costs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-08-17-041",
+    "date": "2026-08-17",
+    "companies": [
+      "ti"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japanese repair shop sells GPU VRAM upgrades for $25 per GB during memory crisis — RTX 2080 Ti modded to 22GB of GDDR6 for just $282, double the VRAM creates a budget AI powerhouse",
+    "summary": "\n                             This vendor can upgrade your RTX 2080 Ti to feature 22GB of VRAM for less than $300, converting it into an AI powerhouse without breaking the bank. \n                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/japanese-repair-shop-sells-gddr6-vram-upgrades-for-usd25-per-gb-during-memory-crisis-rtx-2080-ti-modded-to-22gb-for-just-usd282-double-the-vram-creates-a-budget-ai-powerhouse",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-042",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Senior PC store staff accused of running secret rival shop with stolen inventory — Hong Kong retailer claims substantial losses over year-long scheme",
+    "summary": "\n                             A PC retailer in Wan Chai's Computer Zone 298 mall in Hong Kong, has accused two of its senior employees of stealing company stock for roughly a year and reselling it. \n ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/hong-kong-pc-store-accuses-two-senior-staff-of-stealing-stock-to-supply-their-own-online-shop-for-over-a-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-043",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Desktop UV printers and wild custom builds take over Open Sauce 2026 — $1,700 full-color printers, flash-cured resin, and a rideable speeder bike",
+    "summary": "\n                             If you want to see the bleeding edge of 3D printing tech, you go to FormNext in Frankfurt, Germany. If you want to see the latest in consumer electronics, you go to CES i",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/3d-printing/desktop-uv-printers-and-wild-custom-builds-take-over-open-sauce-2026-usd1-700-full-color-printers-flash-cured-resin-and-a-rideable-speeder-bike",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-17-044",
+    "date": "2026-08-17",
+    "companies": [
+      "amd",
+      "intel",
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "A Battery-Powered Snapdragon X2 Elite Extreme System Beats A Plugged-In Intel Core Ultra X9 System, While Also Surpassing AMD Ryzen AI 9 465 In Geekbench 7 By 83%",
+    "summary": "That Qualcomm's Snapdragon X2 Elite Extreme is a very capable chip is no longer a debatable point. Even so, the degree of outperformance that the chip has just registered against its competitors is a ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/a-battery-powered-snapdragon-x2-elite-extreme-system-beats-a-plugged-in-intel-core-ultra-x9-system-while-also-surpassing-amd-ryzen-ai-9-465-in-geekbench-7-by-83/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-045",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lexar’s NQ780 4TB SSD With SLC Cache And Speeds Of Up To 7,000MB/s Is Now 35% Off On Amazon, Bringing The Price Down To $479.99",
+    "summary": "The high-performance and reliable Lexar NQ780 in the 4TB capacity is currently down to one of its lowest prices on Amazon, with a 35 percent price cut bringing the speedy solid-state drive down to $47",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/lexar-nq780-4tb-ssd-amazon-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-17-046",
+    "date": "2026-08-17",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AIDA64 Quietly Adds AMD Zen 7 Server Support Nearly Two Years Ahead Of EPYC Florence Launch",
+    "summary": "The popular hardware monitoring tool has added AMD's Zen 7 to its database way ahead of the official launhc. AIDA64 Adds Early Support For AMD Zen 7 Server Processors, Nearly Two Years Before The Laun",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/aida64-quietly-adds-amd-zen-7-server-support-nearly-two-years-ahead-of-epyc-florence-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-17-047",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A CyberPowerPC Pre-Built With An RTX 5060, 32GB RAM, And More, Became A Dream Purchase For a Console Gamer; Total Was Only $750 After He “Asked” For A $100 Discount",
+    "summary": "It’s definitely not an easy proposition when hunting for a pre-built gaming PC in the middle of a DRAM shortage, but the lucky stars for one customer lined up perfectly when he stumbled upon what the ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cyberpowerpc-rtx-5060-prebuilt-gaming-pc-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-08-17-048",
+    "date": "2026-08-17",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "iPhone 18 Pro Launch May Not Suffer From The AI Boom Catalyst, As Apple Partner Foxconn Is Offering $1,230 Hiring Bonus To Meet Impending Demand",
+    "summary": "Apple is preparing for its September event, where it will unveil not just the iPhone 18 Pro and iPhone 18 Pro Max&#160;but also its first foldable flagship, the iPhone Fold. Like clockwork, demand is ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/iphone-18-pro-launch-foxconn-hiring-bonus-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lenovo-2026-08-17-049",
+    "date": "2026-08-17",
+    "companies": [
+      "lenovo"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Best Buy Customer Support Removed A 32GB DDR5 RAM Stick From Gaming Laptop After Charging Full Amount For The 64GB Configuration; Says Upgraded RAM Incompatible",
+    "summary": "A gaming laptop with 64GB of DDR5 RAM offers tremendous futureproofing for the user, assuming that the machine supports this configuration. Best Buy apparently did not believe so, and according to the",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/best-buy-removes-ram-64gb-gaming-laptop-incompatibility-claim/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-17-050",
+    "date": "2026-08-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What caught your eye? PCB supplies, Intel memory, Laser links",
+    "summary": "<p>Supply issues around PCBs, that Intel may be re-entering the memory sector, and the first in-flight optical communications link between a re-entry spacecraft and an orbiting satellite...</p>\n<p>The",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/what-caught-your-eye-pcb-supplies-intel-memory-laser-links-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-17-051",
+    "date": "2026-08-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Security challenges of neuromorphic intelligence on embedded systems",
+    "summary": "<p>While brain-inspired chips running embedded devices show remarkable processing efficiency, they are yet to mature in terms of security, says Venus Kohli. Conventional processors are built on the vo",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/design/eda-and-ip/security-challenges-of-neuromorphic-intelligence-on-embedded-systems-2026-08/",
         "type": "rss"
       }
     ]

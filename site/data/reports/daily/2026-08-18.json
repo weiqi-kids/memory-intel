@@ -1,0 +1,330 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:51:06.137539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-08-18-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia vs Broadcom: Dueling AI financing bets, Contrasting risks",
+      "companies": [
+        "intel",
+        "broadcom",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260818PD211/nvidia-financing-broadcom-chips-funding.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-08-18-012",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Commentary: AMD's Taalas acquisition echoing Jensen Huang's Groq strategy",
+      "companies": [
+        "amd",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260818PD213/amd-groq-nvidia-acquisition-jensen-huang.html?chid=12"
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-08-18-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Why AMD still owns US$565M of SpaceX shares after Musk chose Nvidia",
+      "companies": [
+        "amd",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260818PD208/amd-spacex-ai-chip-hardware.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "skhynix-2026-08-18-007",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "South Korea's Gwangju chip hub faces looming water crunch as experts push underground storage and AI management",
+      "companies": [
+        "skhynix",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260818PD214/fab-water-management-samsung-sk-hynix.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-18-019",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI server supply chain ramps up capital, talent, and capacity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260818PD206/ai-server-supply-chain-capacity-capex-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "ai_server"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 27,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "samsung",
+        "count": 4
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 109,
+    "too_old": 66,
+    "gate1_blocked": 46,
+    "gate2_blocked": 38,
+    "passed": 59,
+    "pass_rate": "28.2%",
+    "gate2_block_rate": "18.2%",
+    "gate2_samples": [
+      "Securing the Infrastructure of Intelligence",
+      "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesiaâs First University AI Center to Develop",
+      "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "Apple Arcade levels up with Block Blast!+ and Art of Fauna: Cozy Puzzles+",
+      "Get closer to the game with Gemini and Pixel"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為輝達、三星、超微相關動態：「Nvidia vs Broadcom: Dueling AI financing bets, Contrastin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nvidia vs Broadcom: Dueling AI financing bets, Contrasting risks",
+        "level": "red"
+      },
+      {
+        "text": "Commentary: AMD's Taalas acquisition echoing Jensen Huang's Groq strategy（AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

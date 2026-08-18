@@ -1,0 +1,310 @@
+{
+  "date": "2026-08-18",
+  "date_range": {
+    "start": "2026-08-12",
+    "end": "2026-08-18"
+  },
+  "generated_at": "2026-08-18T08:51:06.277253Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ymtc-2026-08-12-062",
+      "date": "2026-08-12",
+      "title": "China’s YMTC Becomes The World’s Third-Largest NAND Manufacturer, Clocking In Explosive Growth While Eyeing Samsung-Level Capacity",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "nvidia",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "google",
+      "company_b": "intel",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 86,
+      "last_week": 100,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.12
+    },
+    "ddr5": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.25
+    },
+    "earnings": {
+      "this_week": 101,
+      "last_week": 109,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.13
+    },
+    "dram_price": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.09
+    },
+    "capacity": {
+      "this_week": 20,
+      "last_week": 18,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.43
+    },
+    "capex": {
+      "this_week": 14,
+      "last_week": 14,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "shortage": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.08
+    },
+    "ai_server": {
+      "this_week": 15,
+      "last_week": 7,
+      "week_over_week_change": "+114%",
+      "sentiment_this_week": 0.18
+    },
+    "inventory": {
+      "this_week": 6,
+      "last_week": 8,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": -0.08
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.23
+    },
+    "hbm": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.25
+    },
+    "advanced_packaging": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "google": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ase": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 9
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 4
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 16
+    },
+    "samsung": {
+      "event_count": 13,
+      "sentiment_avg": 0.27,
+      "rank": 2
+    },
+    "ymtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "skhynix": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 5
+    },
+    "intel": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 3
+    },
+    "qualcomm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 11
+    },
+    "ptc": {
+      "event_count": 1,
+      "sentiment_avg": 0.67,
+      "rank": 17
+    },
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 12
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 13
+    },
+    "dell": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 14
+    },
+    "tsmc": {
+      "event_count": 3,
+      "sentiment_avg": -0.25,
+      "rank": 7
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 21
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 22
+    },
+    "apple": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 24
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 336,
+        "last": 365,
+        "change_pct": -7.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-12",
+      "event_count": 68,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 69,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 76,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 21,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 14,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 51,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 37,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-12 ~ 2026-08-18）共 336 則事件，重點為「China’s YMTC Becomes The World’s Third-Largest ...」。台積電、ASE情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "ASE",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "高通",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "美光",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
