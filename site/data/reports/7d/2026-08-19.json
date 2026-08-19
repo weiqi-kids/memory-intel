@@ -1,0 +1,305 @@
+{
+  "date": "2026-08-19",
+  "date_range": {
+    "start": "2026-08-13",
+    "end": "2026-08-19"
+  },
+  "generated_at": "2026-08-19T08:50:54.418206Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-13-016",
+      "date": "2026-08-13",
+      "title": "Zhen Ding targets 50% revenue share from AI servers, optical modules, IC substrates by 2030",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "nvidia",
+      "co_mention_count": 6,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "tsmc",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 90,
+      "last_week": 103,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": 0.1
+    },
+    "ddr5": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 18,
+      "last_week": 7,
+      "week_over_week_change": "+157%",
+      "sentiment_this_week": 0.12
+    },
+    "shortage": {
+      "this_week": 5,
+      "last_week": 9,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": 0.03
+    },
+    "inventory": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": -0.08
+    },
+    "earnings": {
+      "this_week": 105,
+      "last_week": 112,
+      "week_over_week_change": "-6%",
+      "sentiment_this_week": 0.13
+    },
+    "capex": {
+      "this_week": 14,
+      "last_week": 12,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.17
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.25
+    },
+    "capacity": {
+      "this_week": 22,
+      "last_week": 19,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.44
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.23
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "hbm": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.2
+    },
+    "advanced_packaging": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.75
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 14,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "samsung": {
+      "event_count": 15,
+      "sentiment_avg": 0.16,
+      "rank": 1
+    },
+    "skhynix": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "intel": {
+      "event_count": 11,
+      "sentiment_avg": 0.14,
+      "rank": 3
+    },
+    "ptc": {
+      "event_count": 1,
+      "sentiment_avg": 0.67,
+      "rank": 13
+    },
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "micron": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 10
+    },
+    "dell": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    },
+    "tsmc": {
+      "event_count": 3,
+      "sentiment_avg": -0.25,
+      "rank": 6
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 20
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 21
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 7
+    },
+    "apple": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 22
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 24
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 332,
+        "last": 382,
+        "change_pct": -13.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-13",
+      "event_count": 69,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 76,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 21,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 14,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 52,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 59,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 41,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-13 ~ 2026-08-19）共 332 則事件，重點為「Zhen Ding targets 50% revenue share from AI ser...」。台積電、美光情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "美光",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "台積電",
+        "reason": "本週情緒偏負面（-0.2），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "ASE",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
