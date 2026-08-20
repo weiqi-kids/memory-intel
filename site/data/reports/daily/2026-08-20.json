@@ -1,0 +1,359 @@
+{
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T08:54:01.627254Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-08-20-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SK Hynix's new HBM team lands in Nvidia and AMD's backyard &mdash; co-design is becoming the way to win HBM4 orders",
+      "companies": [
+        "nvidia",
+        "amd",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [
+          "nvidia",
+          "amd"
+        ],
+        "suppliers": [
+          "skhynix"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260820PD219/sk-hynix-hbm-hbm4-design-amd.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-08-20-017",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia, TSMC, chip gear makers ride AI boom into high-margin club",
+      "companies": [
+        "nvidia",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260820PD209/gross-margin-nvidia-tsmc-demand-profit.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-08-20-020",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Samsung to break ground on KRW6 trillion Onyang HBM packaging plant in September",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260820VL203/samsung-hbm-packaging-plant-production.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "amd-2026-08-20-040",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Intel’s Razor Lake Will Reportedly Tap TSMC’s 2nm N2X Process, Squeezing AMD Out of Already-Constrained Fab Capacity",
+      "companies": [
+        "amd",
+        "tsmc",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/intels-razor-lake-will-reportedly-tap-tsmcs-2nm-n2x-process-squeezing-amd-out-of-already-constrained-fab-capacity/"
+    },
+    {
+      "rank": 5,
+      "event_id": "apple-2026-08-20-014",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Qualcomm targets NT$10,000 entry-level PCs as 4 brands adopt",
+      "companies": [
+        "apple",
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260820PD213/qualcomm-pc-snapdragon-market-macbook.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 31,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "apple",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "hbm",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 103,
+    "too_old": 68,
+    "gate1_blocked": 50,
+    "gate2_blocked": 34,
+    "passed": 63,
+    "pass_rate": "29.3%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Securing the Infrastructure of Intelligence",
+      "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesiaâs First University AI Center to Develop",
+      "AMD Appoints Tim Ryan to Board of Directors",
+      "5 new ways to level up your learning with Search",
+      "Start the semester with one year of Gemini, on us"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為三星、輝達、英特爾相關動態：「SK Hynix's new HBM team lands in Nvidia and AMD's backyar...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SK Hynix's new HBM team lands in Nvidia and AMD's backyard &mdash; co-design ...（HBM、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Nvidia, TSMC, chip gear makers ride AI boom into high-margin club（財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
