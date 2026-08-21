@@ -1,0 +1,310 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:54:59.266570Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "google-2026-08-21-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Top 4 CSPs boost AI infrastructure; volume ramping of 800G switches fuels Accton's growth",
+      "companies": [
+        "google",
+        "microsoft",
+        "meta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260821PD223/accton-switch-ai-infrastructure-capex-demand.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-21-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity eases price surge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "shortage",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260821PD206/2026-2027-revenue-capacity-price.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-08-21-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "JCET profit surges 79% on AI demand, with advanced packaging and CPO gaining scale",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260821VL209/packaging-demand-jcet-profit-revenue.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-21-027",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Phantom Blade Zero’s Steam Sales Surpass 300K in Days, Chasing Black Myth: Wukong’s Record With 73% of Its Pre-Launch Pace",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://wccftech.com/phantom-blade-zero-steam-sales-black-myth-wukong-pace/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-21-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "GQG Partners Inc. (GQPIL) Q2 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4938968-gqg-partners-inc-gqpil-q2-2026-earnings-call-transcript?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "google",
+        "count": 2
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      },
+      {
+        "id": "meta",
+        "count": 1
+      },
+      {
+        "id": "marvell",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 108,
+    "too_old": 68,
+    "gate1_blocked": 51,
+    "gate2_blocked": 32,
+    "passed": 59,
+    "pass_rate": "28.1%",
+    "gate2_block_rate": "15.2%",
+    "gate2_samples": [
+      "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.",
+      "Securing the Infrastructure of Intelligence",
+      "Universitas Gadjah Mada, Indosat and NVIDIA Open Indonesiaâs First University AI Center to Develop",
+      "AMD Appoints Tim Ryan to Board of Directors",
+      "Take an interactive journey through America’s national parks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為GCP、英特爾、微軟相關動態：「Top 4 CSPs boost AI infrastructure; volume ramping of 800...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Top 4 CSPs boost AI infrastructure; volume ramping of 800G switches fuels Acc...（資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Analyst: Upstream memory giants eye threefold 2026 revenue as 2027 capacity e...（HBM、產能、缺貨、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
