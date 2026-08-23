@@ -1,0 +1,150 @@
+{
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:43:38.926962Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-23-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ABN AMRO: Improved Profitability And Surplus Capital Warrant An Upgrade",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4939389-abn-amro-improved-profitability-and-surplus-capital-warrant-an-upgrade?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hewlett Packard Enterprise: AI Infrastructure And Juniper Could Unlock The Next Growth Phase",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4939392-hewlett-packard-enterprise-ai-infrastructure-and-juniper-could-unlock-the-next-growth-phase?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-08-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AMD’s AM4 CPUs Like The Re-Launched Ryzen 7 5800X3D Deliver Negligible Gaming Improvements In Newer Motherboards, Making Older Hardware Relevant During DRAM Crisis",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/amd-ryzen-7-5800x3d-am4-motherboard-performance-dram-crisis/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 140,
+    "too_old": 65,
+    "gate1_blocked": 53,
+    "gate2_blocked": 35,
+    "passed": 25,
+    "pass_rate": "14.0%",
+    "gate2_block_rate": "19.7%",
+    "gate2_samples": [
+      "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.",
+      "Securing the Infrastructure of Intelligence",
+      "AMD Appoints Tim Ryan to Board of Directors",
+      "What does “full-stack” AI actually mean?",
+      "Tap to pay with Google Pay is coming to Walmart."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為超微相關動態：「ABN AMRO: Improved Profitability And Surplus Capital Warr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ABN AMRO: Improved Profitability And Surplus Capital Warrant An Upgrade（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Hewlett Packard Enterprise: AI Infrastructure And Juniper Could Unlock The Ne...（半導體/記憶體通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

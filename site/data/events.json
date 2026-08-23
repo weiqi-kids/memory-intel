@@ -1,5 +1,61 @@
 [
   {
+    "id": "unknown-2026-08-23-001",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hewlett Packard Enterprise: AI Infrastructure And Juniper Could Unlock The Next Growth Phase",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939392-hewlett-packard-enterprise-ai-infrastructure-and-juniper-could-unlock-the-next-growth-phase?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-002",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "ABN AMRO: Improved Profitability And Surplus Capital Warrant An Upgrade",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939389-abn-amro-improved-profitability-and-surplus-capital-warrant-an-upgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-23-003",
+    "date": "2026-08-23",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD’s AM4 CPUs Like The Re-Launched Ryzen 7 5800X3D Deliver Negligible Gaming Improvements In Newer Motherboards, Making Older Hardware Relevant During DRAM Crisis",
+    "summary": "Consumers are grateful that they have a company like AMD that supported a platform like AM4 for as long as it did, going so far as re-release its incredibly popular and groundbreaking Ryzen 7 5800X3D ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-ryzen-7-5800x3d-am4-motherboard-performance-dram-crisis/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung-2026-08-22-001",
     "date": "2026-08-22",
     "companies": [
@@ -238,6 +294,325 @@
       {
         "name": "seeking_alpha",
         "url": "https://seekingalpha.com/article/4939288-marvells-outlook-keeps-getting-better-but-the-risk-reward-doesnt?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-014",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "25 years after the death of 3dfx, the Voodoo 3 gets a Linux driver update — classic Voodoo GPUs can now boot without a PC BIOS",
+    "summary": "\n                             It's been a quarter-century since the firm folded, but the graphics chips still have utility in esoteric use cases. \n                                                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/software/linux/25-years-after-the-death-of-3dfx-the-voodoo-3-gets-a-linux-driver-update-classic-voodoo-gpus-can-now-boot-without-a-pc-bios",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-22-015",
+    "date": "2026-08-22",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "This week on Tom's Hardware Premium: August 22, 2026 — foundries, supercomputers, China, and how to not overpay on a motherboard",
+    "summary": "\n                             We recap this week's Tom's Hardware Premium articles, including our latest advice on your next motherboard purchase, a look inside Samsung's Fab roadmaps, and much more. ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-august-22-2026-foundries-supercomputers-china-and-how-to-not-overpay-on-a-motherboard",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-22-016",
+    "date": "2026-08-22",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
+    "summary": "\n                             As Intel boosts output of data center and notebook CPUs, AMD manages to outgrow it and keep capturing market share from its arch-rival. \n                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/desktop-cpu-shipments-crater-20-percent-amid-high-component-costs-but-amd-gains-record-share-despite-ugly-desktop-processor-market-intel-floods-laptop-market-with-millions-of-cpus-but-amd-still-sets-all-time-share-records",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-08-22-017",
+    "date": "2026-08-22",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Gamer uncovers factory plastic left on RTX 3070 VRM pads after five years, causing overheating — claims removal and repasting dropped GPU hotspot temperatures by 30°C",
+    "summary": "\n                             A Gigabyte RTX 3070 owner discovered protective films covering its VRM thermal pads, after nearly five years of use potentially causing excessive temperatures and frequen",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/gigabyte-rtx-3070-owner-discovers-protective-film-on-vrm-thermal-pads-after-nearly-five-years-claims-removal-and-repasting-dropped-gpu-hotspot-temperatures-by-30-c",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-22-018",
+    "date": "2026-08-22",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GTA 6 leaks prompt Take-Two to subpoena Microsoft for Windows device IDs of everyone in three Discord servers — daily gameplay leaks shatter cloud of secrecy around the much-hyped game",
+    "summary": "\n                             Take-Two Interactive filed two DMCA subpoenas demanding that Microsoft and Discord identify the person or people behind the \"CyberLeek\" persona. \n                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/take-two-subpoenas-microsoft-for-windows-device-ids-of-everyone-in-three-discord-servers-in-gta-6-leak-hunt",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-019",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spending on physical games falls to lowest on record since 1995 — US console sales plunge 39% in July as memory costs push average price to $542",
+    "summary": "\n                             U.S. console hardware sales fell 39% by unit volume in July against a year earlier, while the average price paid for a new system rose 16% to $542. \n                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/console-gaming/us-console-sales-fall-39-percent-in-july-as-memory-costs-push-average-price-to-542",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-22-020",
+    "date": "2026-08-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Back-to-back Amazon CPU scam delivers empty Ryzen 5 9600X boxes in 72 hours — $ 10,000-a-month business customer captures fraud on camera",
+    "summary": "\n                             A PC shop that spends over $10,000 a month on Amazon hardware says two AMD Ryzen 5 9600X orders arrived with the CPUs missing. \n                                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/pc-building/alleged-amazon-cpu-scam-hits-pc-shop-twice-in-three-days-ryzen-5-9600x-orders-arrive-with-empty-retail-boxes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-021",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Fund Managers Loaded Up On Financial Stocks In Q2",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939384-xlf-why-fund-managers-loaded-up-on-financial-stocks-in-q2?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-022",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Power Solutions International: A Mispriced Bet On The Data Center Power Boom",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939382-power-solutions-international-a-mispriced-bet-on-the-data-center-power-boom?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-023",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "NuScale Power Stock Collapsed And It Is Now Closer To Commercialization",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939381-nuscales-stock-collapsed-closer-to-commercialization?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-22-024",
+    "date": "2026-08-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Amazon Refunds For A Missing Ryzen 7 9600X Order, But Then Ships Another Empty CPU Box",
+    "summary": "A user says that he ordered an AMD CPU twice and received empty boxes twice. User Gets Refund for Receiving an Empty CPU Box, Then Receives Another Empty CPU Box from Amazon It must be so frustrating ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amazon-order-ryzen-9600x-empty-boxes-twice/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ymtc-2026-08-22-025",
+    "date": "2026-08-22",
+    "companies": [
+      "ymtc",
+      "cxmt",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump Will Reportedly Allow Apple To Procure Memory Chips From CXMT And YMTC After Xi’s US Visit In September",
+    "summary": "The Trump administration is apparently dangling Apple's potential commercial relationship with China's memory giants, CXMT and YMTC, as a carrot of sorts ahead of President Xi's visit to the US in Sep",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/trump-will-reportedly-allow-apple-to-procure-memory-chips-from-cxmt-and-ymtc-after-xis-us-visit-in-september/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-22-026",
+    "date": "2026-08-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD Publishes RDNA 4m Firmware Ahead Of Launch, Bringing Next-Gen APUs Closer To Linux Support",
+    "summary": "AMD has published the firmware required for its upcoming GFX 11.7-based RDNA 4m graphics. AMD's Upcoming RDNA 4m Graphics Take Another Step Toward Launch as Firmware Support Goes Live AMD is making so",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-publishes-rdna-4m-firmware-ahead-of-launch/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-08-22-027",
+    "date": "2026-08-22",
+    "companies": [
+      "screen",
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A “Headless” M4 Pro MacBook Pro Owner Avoided $700 In Display Repair Fees By Strapping An M1 MacBook Pro Using Rubber Bands And The Screen As A Live Monitor",
+    "summary": "A broken MacBook display will be one of the costliest repair jobs you’ll ever have to witness, to the point that users are more than comfortable keeping the bottom half of the portable Mac and attachi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/macbook-pro-m4-pro-headless-display-hack-m1-remote-monitor/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-22-028",
+    "date": "2026-08-22",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Call of Duty Finally Lands on Switch 2 after Microsoft’s 10-year Nintendo Deal, but the Port Disappoints Early Testers",
+    "summary": "On February 21, 2023, Microsoft and Nintendo signed a binding 10-year contract to bring Activision's Call of Duty to Nintendo platforms, contingent on Microsoft successfully completing its acquisition",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/call-of-duty-switch-2-nintendo-deal-disappoints-testers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-22-029",
+    "date": "2026-08-22",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Casio decides it's about time the simple digital watch got a little smarter",
+    "summary": " F-B100W adds Bluetooth and step tracking while keeping a two-year battery ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/08/22/casio-decides-its-about-time-the-simple-digital-watch-got-a-little-smarter/5291223",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-22-030",
+    "date": "2026-08-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cloverleaf deal is latest example of Nvidia using its war chest to patch cracks in the AI bubble",
+    "summary": " Nv's new chips need new datacenters, but you can't have bit barns without power ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/08/22/cloverleaf-deal-is-latest-example-of-nvidia-using-its-war-chest-to-patch-cracks-in-the-ai-bubble/5291369",
         "type": "rss"
       }
     ]
@@ -1175,6 +1550,102 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-feynman-gpu-vishay-sensor-optoelectronic-devices-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "western_digital-2026-08-21-050",
+    "date": "2026-08-21",
+    "companies": [
+      "western_digital"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "SanDisk expansion cards for Xbox Series X|S now available on Amazon — alternative storage solution to Seagate, WD arrives on the market five years after the launch of the consoles",
+    "summary": "\n                             The SanDisk Optimus GX C50 expansion cards for the Xbox Series X|S are now available on Amazon starting at $249.99 for the 1TB variant. While gamers can use external driv",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/external-ssds/sandisk-expansion-cards-for-xbox-series-x-s-now-available-on-amazon-alternative-storage-solution-to-seagate-wd-arrives-on-the-market-five-years-after-the-launch-of-the-consoles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-051",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Salesforce partners not seeing meaningful revenue from Agentforce AI platform, report says",
+    "summary": " Show us the money ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/saas/2026/08/21/salesforce-partners-not-seeing-meaningful-revenue-from-agentforce-ai-platform-report-says/5291167",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-052",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Musk fumbles the timetable for first Starship catch",
+    "summary": " Billionaire walks back earnings call optimism as orbital test approaches ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/08/21/musk-fumbles-the-timetable-for-first-starship-catch/5291201",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-21-053",
+    "date": "2026-08-21",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD grabs more CPU share while pricier PCs punish desktop demand",
+    "summary": " Mercury Research blames costly memory and scarce GPUs for 20% processor shipment slide ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/08/21/amd-grabs-more-cpu-share-while-pricier-pcs-punish-desktop-demand/5291053",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-21-054",
+    "date": "2026-08-21",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft lets you swap New Outlook's looks with the face of Outlook Classic",
+    "summary": " Functionality not all there yet, but at least Redmond's latest and greatest appears a bit more like its predecessor  ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/applications/2026/08/21/microsoft-lets-you-swap-new-outlooks-looks-with-the-face-of-outlook-classic/5290948",
         "type": "rss"
       }
     ]
