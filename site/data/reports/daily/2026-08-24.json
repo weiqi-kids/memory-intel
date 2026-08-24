@@ -1,0 +1,313 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T09:01:37.789064Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-08-24-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "SK Hynix charts advanced HBM packaging path: hybrid bonding, Intel EMIB and 3D integration",
+      "companies": [
+        "intel",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260824PD224/hbm-packaging-sk-hynix-bandwidth-intel.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-08-24-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM"
+      ],
+      "title": "Analysis: SK Hynix pushes beyond HBM with HBF and CPO",
+      "companies": [
+        "intel",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260824PD216/sk-hynix-hbm-cpo-capacity-competition.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-24-007",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Taiwan's Iron Force shifts airbag output to Poland, targets AI server component ramp in 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.17
+      },
+      "source_url": "https://www.digitimes.com/news/a20260824PD218/iron-force-manufacturing-poland-ai-server-taiwan.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "intel-2026-08-24-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia reportedly weighs Perplexity investment as AI strategy expands beyond chips",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260824VL208/nvidia-investment-chips-software-startup.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-08-24-006",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "Samsung's DRAM capacity lead shrinks as SK Hynix expands faster",
+      "companies": [
+        "samsung",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260824VL210/samsung-capacity-dram-wafer-2027.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "skhynix",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "advanced_packaging",
+        "capacity",
+        "industry_general",
+        "hbm"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "skhynix",
+        "count": 3
+      },
+      {
+        "id": "google",
+        "count": 2
+      },
+      {
+        "id": "applied_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 2
+      },
+      {
+        "id": "hbm",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 126,
+    "too_old": 65,
+    "gate1_blocked": 49,
+    "gate2_blocked": 33,
+    "passed": 35,
+    "pass_rate": "19.2%",
+    "gate2_block_rate": "18.1%",
+    "gate2_samples": [
+      "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.",
+      "Securing the Infrastructure of Intelligence",
+      "AMD Appoints Tim Ryan to Board of Directors",
+      "What does “full-stack” AI actually mean?",
+      "Tap to pay with Google Pay is coming to Walmart."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為英特爾、輝達、SK海力士相關動態：「SK Hynix charts advanced HBM packaging path: hybrid bondi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SK Hynix charts advanced HBM packaging path: hybrid bonding, Intel EMIB and 3...（HBM、產能、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Analysis: SK Hynix pushes beyond HBM with HBF and CPO（HBM、半導體/記憶體通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
