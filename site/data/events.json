@@ -1,5 +1,563 @@
 [
   {
+    "id": "intel-2026-08-25-001",
+    "date": "2026-08-25",
+    "companies": [
+      "intel",
+      "tsmc"
+    ],
+    "topics": [
+      "hbm",
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
+    "summary": "\n\t\t\t\t\t\t<p>TSMC’s CoWoS bottlenecks could hand Intel a foundry opening as AI chipmakers eye EMIB and new memory tech.</p>\n<p>The post <a href=\"https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-h",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-002",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic bets on in-house chips, reshaping ASIC orders",
+    "summary": "Anthropic confirmed on August 5 that it is building an internal silicon team to design custom chips for its Claude models, signaling a sharper push into self-developed AI hardware. The move is set to ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825PD222/anthropic-asic-chips-silicon-design.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-003",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Luxshare breaks beyond consumer electronics: Auto sales soar 274%, data centres jump 50%",
+    "summary": "Luxshare Precision posted a 40.16% rise in first-half 2026 revenue as rapid growth in automotive electronics, communications and data-centre products reduced its reliance on consumer electronics.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825VL210/luxshare-electronics-sales-data-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-004",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "China foundry Nexchip breaks beyond display chips: CIS reaches 25% of revenue",
+    "summary": "Nexchip Semiconductor reported higher first-half 2026 revenue as broadening demand for CMOS image sensors, power management chips and display drivers diversified its product mix, even though profit de",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825VL214/nexchip-revenue-chips-display-cis.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-25-005",
+    "date": "2026-08-25",
+    "companies": [
+      "samsung",
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung Foundry sees higher 4nm volumes as Nvidia ramps Groq 3",
+    "summary": "Nvidia's Groq 3 ramp is adding meaningful 4nm volume to Samsung Electronics' foundry business, with monthly wafer input estimated at about 10,000 and expected to rise above 15,000 in 2027. The increas",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825VL216/nvidia-groq-4nm-samsung-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-006",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GATE 2026 to spotlight Southeast Asia's pivot to EV supply chains",
+    "summary": "GATE 2026 is set to bring together automakers, suppliers, and technology firms in Kuala Lumpur as Southeast Asia deepens its focus on electric vehicles, smart manufacturing, and industrial upgrading. ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825PD217/2026-asia-market-technology-automotive.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-25-007",
+    "date": "2026-08-25",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "negative",
+    "title": "Chinese automakers expand to humanoid robotics with technology, supply chain and scenario advantages",
+    "summary": "DIGITIMES observes that the humanoid robot market is expanding rapidly, supported by global labor shortages and advances in artificial intelligence (AI), and Chinese automakers are also moving aggress",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260824RS400/automakers-humanoid-robot-robotics-supply-chain-technology.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-008",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China power chip makers CRM, Silan post sharp 1H profit gains",
+    "summary": "China Resources Microelectronics (CRM) and Hangzhou Silan Microelectronics (Silan), two of China's leading integrated device manufacturers, reported strong first-half 2026 results as firmer semiconduc",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825VL208/silan-china-resources-profit-market-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-009",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "Taiwan AI server supply chain expands China footprint",
+    "summary": "Taiwan's AI server supply chain is stepping up investment in China, but expansion is concentrated in components rather than full-system assembly. By contrast, Taiwan's notebook PC production in China ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825PD215/taiwan-ai-server-supply-chain-production-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-25-010",
+    "date": "2026-08-25",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC suppliers reportedly plan Taiwan plant for critical chipmaking tubing",
+    "summary": "Taiwan's semiconductor supply chain is moving to close a gap that turned costly during the industry's last major crunch: the plastic tubing that carries chemicals through chip fabs. TSMC suppliers Nic",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825VL212/taiwan-semiconductor-supply-chain-taiwan-tsmc-plant-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-011",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI's power crunch hits Taiwan: foundry capacity tightens, chip prices climb into 2H26",
+    "summary": "AI data centres are becoming a new stress point for the global power and semiconductor supply chain. As facilities shift towards megawatt-scale architectures, demand is rising for power semiconductors",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825VL203/capacity-taiwan-data-demand-cooling.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-08-25-012",
+    "date": "2026-08-25",
+    "companies": [
+      "aws",
+      "nvidia",
+      "google"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vera Rubin transition gap eases as ASIC, general servers rescue supply chain",
+    "summary": "As Nvidia's next-generation Vera Rubin platform enters deployment, Taiwan's server supply chain is finding ways to bridge the transition gap before ramping up volume production. Ongoing shipments of t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825PD212/rubin-asic-nvidia-supply-chain-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-013",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "US voices first complaint over South Korea's KRW800 trillion chip cluster as investment pressure mounts",
+    "summary": "The US has informally expressed dissatisfaction with the South Korean government's KRW800 trillion (US$578.5 billion) plan to build a semiconductor cluster in the country's southwest. The complaint co",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825PD218/investment-government-chipmakers-demand-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-014",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kulicke and Soffa names Raj Talluri as CEO",
+    "summary": "Kulicke and Soffa Industries has appointed Raj Talluri as president and chief executive officer, a leadership change that may influence the company's strategy in semiconductor equipment markets used a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825PR205/president-manufacturing-equipment-ceo-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-25-015",
+    "date": "2026-08-25",
+    "companies": [
+      "amd",
+      "arm",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel pitches Diamond Rapids at Hot Chips as server CPU competition heats up",
+    "summary": "Intel pitched its next-generation Diamond Rapids Xeon at Hot Chips 2026 as the company bets that agentic AI will increase the role of general-purpose processors in AI infrastructure, even as AMD and A",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825VL205/intel-cpu-xeon-amd-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-016",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Energy law amendments lift AIDC storage demand in Taiwan",
+    "summary": "AI data centers (AIDCs) will increasingly rely on energy storage because of its fast response and grid impact mitigation capabilities, according to Recharge Power, a Taiwan-based battery energy storag",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825PD207/aidc-demand-taiwan-data-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-017",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Kaynes Technology and BOSGAME sign MoU to expand India market presence",
+    "summary": "Kaynes Technology India and BOSGAME have signed a strategic memorandum of understanding to support BOSGAME's entry and expansion in India. The deal highlights how global hardware brands are increasing",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825PR204/kaynes-technology-electronics-manufacturing-hardware-design.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-018",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "OmniVision's CIS business slips, but machine vision and robotics surge 71%",
+    "summary": "OmniVision Group reported a sharp drop in first-half 2026 profit as weakness in consumer electronics and automotive electronics weighed on its core image sensor business, even as machine vision, robot",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260825VL209/omnivision-technologies-cis-robotics-business-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-019",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AUB Group Limited (AUBBF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939809-aub-group-limited-aubbf-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-020",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TravelSky Technology Limited 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939867-travelsky-technology-limited-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-021",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ryerson Holding: Olympic Steel Changes The Earnings Algorithm",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939854-ryerson-holding-olympic-steel-changes-the-earnings-algorithm?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-022",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HighCom Limited (XTEKF) Q4 2026 Earnings Call Prepared Remarks Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939859-highcom-limited-xtekf-q4-2026-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-023",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Napatech A/S 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939861-napatech-a-s-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-024",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Scentre Group (STGPF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939783-scentre-group-stgpf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-025",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Woodside Energy Group Ltd (WDS) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939797-woodside-energy-group-ltd-wds-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-026",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Tuya Inc. (TUYA) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4939822-tuya-inc-tuya-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-08-25-027",
+    "date": "2026-08-25",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "IBM announces chip that natively executes Arm and Z instructions concurrently",
+    "summary": " Cunning plan to expand the amount of software that runs on mainframes is also an admission ISVs are focusing their energies elsewhere ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/08/25/ibm-announces-chip-that-natively-executes-arm-and-z-instructions-concurrently/5292059",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-25-028",
+    "date": "2026-08-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia and SpaceXAI adapting terrestrial datacentre infrastructure for space",
+    "summary": "<p>SpaceXAI’s planned first-generation Starmind datacentre satellite, due for launch next year, will be based on the Nvidia Vera Rubin NVL72 rack-scale system, extending the Earth-bound Nvidia datacen",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/nvidia-and-spacexai-adapting-terrestrial-datacentre-infrastructure-for-space-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-25-029",
+    "date": "2026-08-25",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "$1.6trn semi market, says Gartner",
+    "summary": "<p>Gartner sees semiconductor revenue reaching $1.6 trillion in 2026, increasing 92% from 2025 revenue of $809 billion. In 2027, it is forecast to total $1.9 trillion.. “The AI data center [&#8230;]</",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/1-6trn-semi-market-says-gartner-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-24-001",
     "date": "2026-08-24",
     "companies": [],
@@ -495,6 +1053,545 @@
       {
         "name": "seeking_alpha",
         "url": "https://seekingalpha.com/article/4939511-gabelli-oef-value-portfolio-managers-q2-2026-insights?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-24-027",
+    "date": "2026-08-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Outlines Architectures for Agentic AI at Hot Chips 2026",
+    "summary": "<p>What&#8217;s New: Intel is showcasing three architectures for Agentic AI and Enterprise-scale workloads, combining the Diamond Rapids processor for high-performance orchestration, the Crescent Isla",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-08-24-028",
+    "date": "2026-08-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How XPUs Meet a World-Class AI Factory",
+    "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime.Â That",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-08-24-029",
+    "date": "2026-08-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+    "summary": "The next era of AI inference wonât be defined by a single breakthrough chip, network or system. Itâll be defined by how every layer of the AI factory works together. Thatâs why NVIDIA is extendi",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-08-24-030",
+    "date": "2026-08-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+    "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why?Â Consider what happens when an AI agent researches a company for an investment decision. The",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-08-24-031",
+    "date": "2026-08-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SpaceXAI Adopts NVIDIA Vera CPU to Accelerate Agentic AI at Massive Scale",
+    "summary": "NVIDIA today announced that SpaceXAI will deploy NVIDIA Vera CPUs to accelerate its next generation of agentic AI applications, bringing the first CPU built for AI agents to one of the worldâs most ",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-08-24-032",
+    "date": "2026-08-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
+    "summary": "NVIDIA today announced that NVIDIA Groq 3 LPX, the interactive AI inference accelerator, is now in full production. An extension of the NVIDIA Vera Rubin platform, Groq 3 LPX delivers a major boost in",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-08-24-033",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Radiation Tolerance of Tantalum Polymer Capacitors",
+    "summary": "\n\t\t\t\t\t\t<p>Environments rich in ionizing radiation create a particularly difficult functional challenge for electronic components. Spacecraft, nuclear reactors, particle accelerators, and hardened mili",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/radiation-tolerance-of-tantalum-polymer-capacitors/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-034",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Welcome to the Era of Trustworthy AI for IC Signoff and Manufacturing",
+    "summary": "\n\t\t\t\t\t\t<p>Trust is the key to AI adoption in chip design. See how deterministic EDA engines and explainable AI can accelerate signoff and manufacturing.</p>\n<p>The post <a href=\"https://www.eetimes.co",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/welcome-to-the-era-of-trustworthy-ai-for-ic-signoff-and-manufacturing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-24-035",
+    "date": "2026-08-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Uncovers How It Optimized Wildcat Lake CPU & Platform Cost By Swapping Foveros With A Standard “UCIe” Multi-Chip Package",
+    "summary": "Intel Wildcat Lake \"Core Series 3\" CPUs cut down on various aspects of the \"Ultra\" series, making them a cost-optimized solution for PCs. Intel Did More Than Just Remove Parts of &#38; Repackage Its E",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-how-it-optimized-wildcat-lake-cpu-platform-cost-swap-foveros-with-mcp-ucie/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-24-036",
+    "date": "2026-08-24",
+    "companies": [
+      "amd",
+      "intel"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s Market Share Of The x86 CPU Market Falls To 1995-Levels, As AMD Now Controls An Adjusted 46.4% Of The Market For Server CPUs Vs. Intel’s 53.6% Share, Claims Mercury Research",
+    "summary": "Intel seems to have staged a decisive turnaround in the second quarter of the ongoing year, with its data center revenue up a very healthy 59 percent year-over-year. Yet, Intel's inertia is still work",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intels-market-share-of-the-x86-cpu-market-falls-to-1995-levels-as-amd-now-controls-an-adjusted-46-4-of-the-market-for-server-cpus-vs-intels-53-6-share-claims-mercury-research/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-24-037",
+    "date": "2026-08-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Vera Rubin Records A Massive 30x Increase In Throughput Per Watt Than Blackwell While Offering a 35x Token Cost Reduction Across Agentic AI Workloads",
+    "summary": "NVIDIA's Vera Rubin platform offers disruptive token throughput at a much lower cost than Blackwell, showcasing its Agentic AI prowess. NVIDIA Software Stack Optimizations Continue To Propel Blackwell",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-vera-rubin-30x-increase-in-throughput-per-watt-vs-blackwell-35x-token-cost-reduction-agentic-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-24-038",
+    "date": "2026-08-24",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Windows 11 Update Prevents You From Printing WPF Documents, But Only If You Use A Specific Font; Microsoft Has A Workaround, But It’ll Compromise OS Security",
+    "summary": "Microsoft might have promised that it’ll slowly fix Windows 11, but the software giant has a mountain to climb as far as its software updates go because there’s something or the other that ends up bre",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/windows-11-update-breaks-wpf-printing-calibri-font-workaround/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-08-24-039",
+    "date": "2026-08-24",
+    "companies": [
+      "apple",
+      "cxmt"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s China-Related Memory Demand Of ~600 Million GB Requires 6.6% Of CXMT’s Year-End Capacity, But The Memory Giant Is Already Booked Through 2027, And Even By 2028 It Will Meet Only Half Of China’s Total Demand",
+    "summary": "It is hardly a secret by now that Apple desperately wants to rope in CXMT as its supply chain partner, at least for its China-related memory sourcing needs. And yet, this purely commercial decision ha",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apples-china-related-memory-demand-of-600-million-gb-requires-6-6-of-cxmts-year-end-capacity-but-the-memory-giant-is-already-booked-through-2027-and-even-by-2028-it-will-meet-only-half-of-china/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-08-24-040",
+    "date": "2026-08-24",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Colorful Launches iGame X870E VULCAN W OC Motherboard, Which Previously Broke 9000 MT/s Barrier On CXMT DDR5",
+    "summary": "Colorful just dropped a new high-end AM5 motherboard that pushed CXMT DDR5 to 9000 MT/s recently. Colorful Introduces iGame X870E Vulcan W OC, Featuring 22 Power Phase VRM, and Up To 10600 MT/s DDR5 S",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/colorful-launches-igame-x870e-vulcan-w-oc-motherboard/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-24-041",
+    "date": "2026-08-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Crescent Island GPUs Pack Up To 32 Xe3P Cores, Optimized For Agentic AI With Low-Cost LPDDR5X That Reaches Up To 480 GB Capacity",
+    "summary": "Intel has given the rundown on its next-gen AI inference accelerator, Crescent Island, which packs 32 Xe3 cores and 480 GB of LPDDR5X memory. Intel To Enter Agentic AI Accelerator Space With Xe3P-Powe",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-crescent-island-gpus-32-xe3p-cores-for-agentic-ai-low-cost-lpddr5x-up-to-480-gb/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-24-042",
+    "date": "2026-08-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Enters Full Production of Groq 3 LPX AI Inference Accelerator Chips, Supercharging Vera Rubin With The Fastest Token Generation Speeds Ever Recorded",
+    "summary": "NVIDIA's Groq 3 LPX is now in full production, offering big token generation speedups for Vera Rubin platforms in the Agentic AI space. NVIDIA Dials Up Vera Rubin NVL72 Token Generation Capabilities, ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-groq-3-lpx-ai-inference-accelerator-full-production-supercharging-vera-rubin/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-24-043",
+    "date": "2026-08-24",
+    "companies": [
+      "intel",
+      "apple"
+    ],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s Private Cloud Compute Server With M5 Chips Allegedly Pictured, With Multiple Units Featuring A Custom PCB And Packed In A Single Enclosure For Space Efficiency",
+    "summary": "Apple Intelligence servers for on-device AI operations have previously been reported to be deployed and tested on the M4 Ultra, succeeding the M2 Ultra as the superior option. However, a new leak has ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apples-private-cloud-compute-server-m5-chips-leaked/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-24-044",
+    "date": "2026-08-24",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Diamond Rapids “Xeon 7” CPUs Feature 256 P-Cores, The Same Number of Cores As Top EPYC Venice, Also Pack 1.28 GB of Cache And 12,800 MT/s Memory Support",
+    "summary": "Intel's Diamond Rapids CPUs will pack an impressive 256 P-Cores along with the latest memory and PCIe support, extending IO capabilities for next-gen AI workloads. Intel Pitches Diamond Rapids As A \"V",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-diamond-rapids-xeon-7-cpus-256-p-cores-1-28-gb-of-cache-12800-mtps-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-08-24-045",
+    "date": "2026-08-24",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arm Dissects Its AGI CPU Which Is Tailor-Made For AI: Dual Chiplets With >100B Transistors, 136 Neoverse V3 Cores, Driving A $2B Demand In 2027-2028",
+    "summary": "Arm sees boosted demand for its AGI CPU from the booming Agentic AI segment as it deploys its 3rd Gen Neoverse cores. Arm Builds AGI CPUs For Agentic AI on The Foundation of Its Neoverse V3 Cores At H",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/arm-dissects-agi-cpu-tailor-made-for-ai-dual-chiplets-100b-transistors-136-neoverse-v3-cores/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-08-24-046",
+    "date": "2026-08-24",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IBM Details The World’s First Dual-Architecture Processor As It Builds Its Next-Gen Dual ISA Core That Natively Executes Z & Arm Software On The Same Chip",
+    "summary": "IBM's next-generation chip will combine dual ISA within the core, enabling the execution of Z and Arm software simultaneously. IBM Is Sending The World's First Dual-ISA Processor Core For Tape-Out Soo",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/ibm-worlds-first-dual-architecture-processor-dual-isa-core-natively-executes-z-arm-software/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-047",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Best Value Card For 1440p & 4K Gaming Is Now Even Cheaper; Meet The ASUS Prime Radeon RX 9070, Now Available On Amazon For A Low Price Of $529.99",
+    "summary": "The memory shortage is coming for graphics cards as we speak, and if you don’t want your favorite GPU to become pricier than it already is, then we’re confident that you won’t ignore this salivating d",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/asus-prime-radeon-rx-9070-amazon-deal-1440p-4k-gaming/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-24-048",
+    "date": "2026-08-24",
+    "companies": [
+      "amd",
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel’s Best 18-Core CPU Gets A Massive Price Cut On Micro Center As Core Ultra 5 250K Plus Drops To Just $139",
+    "summary": "This is the best deal on Intel CPUs yet, and if you were waiting to build a PC, now is the right time. Intel Core Ultra 5 250K Plus Drops To Just $139, The Lowest Since Its Launch We never imagined th",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/core-ultra-5-250k-plus-drops-to-just-139/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-049",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "YouTuber's backyard fab ambitions expand from RAM to homebrew LEDs",
+    "summary": " Dr. Semiconductor's latest project lights the path toward what he tells us he hopes becomes a cottage chip industry ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/08/24/youtubers-backyard-fab-ambitions-expand-from-ram-to-homebrew-leds/5291956",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-24-050",
+    "date": "2026-08-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "What Nvidia's first Groq 3 LPU benchmarks tell us about its $20B gamble",
+    "summary": " Gemma 4 31B performance tests offer a best-case scenario for next-gen dataflow accelerators ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/08/24/what-nvidias-first-groq-3-lpu-benchmarks-tell-us-about-its-20b-gamble/5291880",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oracle-2026-08-24-051",
+    "date": "2026-08-24",
+    "companies": [
+      "oracle",
+      "aws",
+      "adata"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Oracle Exadata Database@AWS offers advantages, but trade-offs remain",
+    "summary": " Cloud giant allows customers to get more from Oracle hardware, but will try to gain more workloads on the side  ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/databases/2026/08/24/oracle-exadata-databaseaws-offers-advantages-but-trade-offs-remain/5291731",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-052",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chipmakers laughing all the way to the vault as memory prices go stratospheric",
+    "summary": " Gartner reckons $1.6 trillion year is just the start, and don't expect a bust anytime soon ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/08/24/chipmakers-laughing-all-the-way-to-the-vault-as-memory-prices-go-stratospheric/5291690",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-08-24-053",
+    "date": "2026-08-24",
+    "companies": [
+      "meta"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Social Media’s Negative Effects On The Young",
+    "summary": "<p>After many legal losses in recent months, Meta is undergoing another trial of a lawsuit brought by the attorneys general of 29 states in 2023. The lawsuit alleges that Meta [&#8230;]</p>\n<p>The pos",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/dilemmas/social-medias-negative-effects-on-the-young-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-08-24-054",
+    "date": "2026-08-24",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Infineon buys C2i Semiconductors",
+    "summary": "<p>Infineon has bought C2i Semiconductors of Bangalore. C2i specialises in software-defined multiphase controllers and smart power stages for AI data center applications. &#8220;We founded C2i Semicon",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/infineon-buys-c2i-semiconductors-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-24-055",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Quintessent begins sampling single-chip DWDM comb laser",
+    "summary": "<p>Following a Series A investment round which raised $40m, optical interconnect startup, Quintessent, is sampling its single-chip quantum dot-based DWDM (dense wavelength division multiplexing) comb ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/quintessent-begins-sampling-single-chip-dwdm-comb-laser-2026-08/",
         "type": "rss"
       }
     ]

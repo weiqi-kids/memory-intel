@@ -1,0 +1,334 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:56:34.184799Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-08-25-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say",
+      "companies": [
+        "intel",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.eetimes.com/tsmcs-hbm-packaging-yield-issues-help-intel-analysts-say/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-25-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "China foundry Nexchip breaks beyond display chips: CIS reaches 25% of revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260825VL214/nexchip-revenue-chips-display-cis.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-08-25-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Samsung Foundry sees higher 4nm volumes as Nvidia ramps Groq 3",
+      "companies": [
+        "samsung",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260825VL216/nvidia-groq-4nm-samsung-production.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "aws-2026-08-25-012",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Vera Rubin transition gap eases as ASIC, general servers rescue supply chain",
+      "companies": [
+        "aws",
+        "nvidia",
+        "google"
+      ],
+      "related": {
+        "customers": [
+          "aws",
+          "google"
+        ],
+        "suppliers": [
+          "nvidia"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260825PD212/rubin-asic-nvidia-supply-chain-shipments.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-25-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "China power chip makers CRM, Silan post sharp 1H profit gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260825VL208/silan-china-resources-profit-market-2026.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 18,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      },
+      {
+        "id": "arm",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "capex",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "hbm",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 107,
+    "too_old": 63,
+    "gate1_blocked": 42,
+    "gate2_blocked": 28,
+    "passed": 58,
+    "pass_rate": "30.4%",
+    "gate2_block_rate": "14.7%",
+    "gate2_samples": [
+      "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.",
+      "AMD Appoints Tim Ryan to Board of Directors",
+      "Celebrate 110 years of national parks with Maps, Search, and Gemini",
+      "How developers build AI for good with Gemma 4",
+      "What does “full-stack” AI actually mean?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為英特爾、輝達、台積電相關動態：「TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TSMC’s HBM-Packaging Yield Issues Help Intel, Analysts Say（HBM、資本支出、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "China foundry Nexchip breaks beyond display chips: CIS reaches 25% of revenue（資本支出、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

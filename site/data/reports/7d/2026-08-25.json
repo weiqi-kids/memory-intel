@@ -1,0 +1,276 @@
+{
+  "date": "2026-08-25",
+  "date_range": {
+    "start": "2026-08-19",
+    "end": "2026-08-25"
+  },
+  "generated_at": "2026-08-25T08:56:34.285940Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-19-039",
+      "date": "2026-08-19",
+      "title": "Q2 revenues of Top 5 NAND producers rose 77% QoQ",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "tsmc",
+      "subject_type": "company",
+      "this_week_sentiment": 0.2,
+      "last_week_sentiment": -0.25,
+      "delta": 0.45,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "google",
+      "company_b": "marvell",
+      "co_mention_count": 3,
+      "rank": 3
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "broadcom",
+      "company_b": "marvell",
+      "co_mention_count": 3,
+      "rank": 4
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.17
+    },
+    "industry_general": {
+      "this_week": 96,
+      "last_week": 86,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.11
+    },
+    "ai_server": {
+      "this_week": 7,
+      "last_week": 15,
+      "week_over_week_change": "-53%",
+      "sentiment_this_week": 0.02
+    },
+    "earnings": {
+      "this_week": 82,
+      "last_week": 101,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": 0.1
+    },
+    "capacity": {
+      "this_week": 24,
+      "last_week": 20,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.21
+    },
+    "advanced_packaging": {
+      "this_week": 8,
+      "last_week": 1,
+      "week_over_week_change": "+700%",
+      "sentiment_this_week": 0.19
+    },
+    "shortage": {
+      "this_week": 5,
+      "last_week": 6,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.13
+    },
+    "hbm": {
+      "this_week": 8,
+      "last_week": 4,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 13,
+      "last_week": 14,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.06
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.22
+    },
+    "inventory": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": 0.42,
+      "rank": 9
+    },
+    "nvidia": {
+      "event_count": 12,
+      "sentiment_avg": 0.12,
+      "rank": 2
+    },
+    "samsung": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 3
+    },
+    "intel": {
+      "event_count": 16,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "google": {
+      "event_count": 8,
+      "sentiment_avg": 0.22,
+      "rank": 4
+    },
+    "meta": {
+      "event_count": 3,
+      "sentiment_avg": 0.42,
+      "rank": 10
+    },
+    "apple": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 7
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    },
+    "skhynix": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 5
+    },
+    "marvell": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "broadcom": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "qualcomm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 6
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.5,
+      "rank": 12
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 17
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 313,
+        "last": 359,
+        "change_pct": -12.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-19",
+      "event_count": 64,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-20",
+      "event_count": 69,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-21",
+      "event_count": 54,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-22",
+      "event_count": 30,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 12,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 55,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 29,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-19 ~ 2026-08-25）共 313 則事件，重點為「Q2 revenues of Top 5 NAND producers rose 77% QoQ」。GCP、超微表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "微軟",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
