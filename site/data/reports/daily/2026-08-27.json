@@ -1,0 +1,315 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T19:07:05.575853Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-27-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Issues Stack Up With More HBM Layers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://semiengineering.com/issues-stack-up-with-more-hbm-layers/"
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-08-27-036",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intel’s 24-Core Core Ultra 7 270K Plus Dips Below $200 For The First Time Since Launch, Pressuring AMD’s X3D Lineup",
+      "companies": [
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/intels-24-core-core-ultra-7-270k-plus-dips-below-200-for-the-first-time-since-launch-pressuring-amds-x3d-lineup/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-27-008",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "Full-Fidelity Thermal Simulation at Floorplanning Speed for 2.5D AI Accelerator Packages",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://semiengineering.com/full-fidelity-thermal-simulation-at-floorplanning-speed-for-2-5d-ai-accelerator-packages/"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-08-27-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nvidia expects to sell $20 billion of Vera Rubin systems in Q3 as shipments begin — figure would account for 20% of its data center revenue mix, marks fastest ramp in company history",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-expects-to-sell-usd20-billion-worth-of-vera-rubin-hardware-this-quarter-would-account-for-20-percent-of-data-center-revenue-its-fastest-ramp-in-company-history"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-08-27-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-to-buy-hugging-face-for-usd12-9-billion-report-claims-could-strengthen-nvidias-open-model-strategy-and-shore-up-position-against-rivals"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 40,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "google",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 3
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 99,
+    "too_old": 56,
+    "gate1_blocked": 46,
+    "gate2_blocked": 35,
+    "passed": 62,
+    "pass_rate": "31.2%",
+    "gate2_block_rate": "17.6%",
+    "gate2_samples": [
+      "Six in 10 Leaders Bet Big on Robots. Only Four in 10 Are Ready.",
+      "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "3 new ways to plan and book travel in Search",
+      "Partnering with Khan Academy on building AI tools for classrooms"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為輝達、GCP、三星相關動態：「Issues Stack Up With More HBM Layers」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Issues Stack Up With More HBM Layers（HBM、產能、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intel’s 24-Core Core Ultra 7 270K Plus Dips Below $200 For The First Time Sin...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
