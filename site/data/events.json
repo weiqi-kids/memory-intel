@@ -1,5 +1,1060 @@
 [
   {
+    "id": "unknown-2026-08-28-001",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
+    "summary": "<p>Researchers from University of California, Los Angeles published a technical paper titled “An Open-Source Benchmark Suite of 3D-IC Testcases.” Abstract Excerpt: The paper presents an “open-source s",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/open-source-benchmark-suite-for-2-5d-3d-heterogeneous-integration-research-in-physical-design-ucla/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-002",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+    "summary": "<p>Researchers from Georgia Institute of Technology published a technical paper titled “Thermal Tuning Overhead in Wafer-Scale Optical Interconnects for LLM MoE Training: A Cross-Layer Analysis and Fe",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-003",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Generative Design Optimizes Liquid-Cooling Channels For 2.5D And 3D Packages (UM-Dearborn)",
+    "summary": "<p>Researchers from University of Michigan-Dearborn published a technical paper titled “Generative Design of Liquid-Cooling Channels for Thermal Management of 2.5D and 3D Integrated Advanced Packaging",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/generative-design-optimizes-liquid-cooling-channels-for-2-5d-and-3d-packages-um-dearborn/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-004",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peking U., CAS et al.)",
+    "summary": "<p>Researchers from Peking University, Chinese Academy of Sciences et al. published a technical paper titled “Homo-metal-element mediated surface modification of sapphire for robust epitaxy of wafer-s",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/sapphire-surface-modification-enables-wafer-scale-2d-semiconductor-growth-peking-u-cas-et-al/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-005",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Deep Learning Automates Parameter Extraction For 2D Transistors (Stanford, SLAC)",
+    "summary": "<p>Researchers from Stanford University and SLAC National Accelerator Laboratory published a technical paper titled “Deep Learning to Automate Parameter Extraction and Model Fitting of Two-Dimensional",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/deep-learning-automates-parameter-extraction-for-2d-transistors-stanford-slac/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-006",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSI brings DDR4 back to gaming laptops amidst DRAM crisis — Katana 15 HX C14 available with up to Core i9-14900HX and RTX 5070",
+    "summary": "\n                             With 32GB DDR4 SO-DIMM memory kits costing roughly half as much as comparable DDR5 kits, MSI’s new Katana 15 HX C14 could help reduce the impact of soaring memory prices.",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ddr4/msi-brings-ddr4-back-to-gaming-laptops-amidst-dram-crisis-katana-15-hx-c14-available-with-up-to-core-i9-14900hx-and-rtx-5070",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-007",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "New US export controls reportedly target Chinese access to remote AI servers — Trump admin's cut-down AI diffusion rule could be shared with industry as soon as September",
+    "summary": "\n                             The Trump administration is reportedly drafting a rule to close a loophole around remote access to advanced AI compute, and it could be shared with trade groups as early ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-28-008",
+    "date": "2026-08-28",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nvidia denies pausing AI cloud commitments initiative after reported partner backlash — report claims company told cloud providers it could only lease its GPUs to Nvidia-approved customers",
+    "summary": "\n                             Nvidia denies putting AI cloud commitments initiative on hold despite reports that some deals were paused amid partner pushback over customer controls and concerns about ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-denies-pausing-ai-cloud-commitments-initiative-after-reported-partner-backlash-report-claims-company-told-cloud-providers-it-could-only-lease-its-gpus-to-nvidia-approved-customers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-28-009",
+    "date": "2026-08-28",
+    "companies": [
+      "samsung",
+      "micron",
+      "skhynix"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron workers increasingly support strike over bonus pay — labor union wants profit-sharing scheme, as employees at Samsung, SK hynix enjoy bonuses worth hundreds of thousands of dollars",
+    "summary": "\n                             80% of Micron workers in Taiwan have signaled that they're willing to go on strike if the company does not strike a deal over bonuses. The employees want to replace the c",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/micron-workers-increasingly-support-strike-over-bonus-pay-labor-union-wants-profit-sharing-scheme-as-employees-at-samsung-sk-hynix-enjoy-bonuses-worth-hundreds-of-thousands-of-dollars",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-010",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "X busts 200,000-strong Chinese bot farm, including accounts making claims about AI data centers and electricity — suspect accounts posted claims about pricing and grid strain to 'manipulate' debate",
+    "summary": "\n                             The X Safety Team said that at least 200 bot accounts have been making posts to influence public opinion data centers and energy policy. The accounts share links to legit",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/policy/x-busts-200-000-strong-chinese-bot-farm-including-accounts-making-claims-about-ai-data-centers-and-electricity-suspect-accounts-posted-claims-about-pricing-and-grid-strain-to-manipulate-debate",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-28-011",
+    "date": "2026-08-28",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google clamps down on Android app RAM usage amid AI memory crisis — developers have until February 2027 to adapt to new memory-optimizing rules",
+    "summary": "\n                             Google implements stricter memory limits and introduces new performance standards for Android apps. \n                                                                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/phones/android/google-clamps-down-on-android-app-ram-usage-amid-ai-memory-crisis-developers-have-until-february-2027-to-adapt-to-new-memory-optimizing-rules",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-28-012",
+    "date": "2026-08-28",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Intel 14A defect density is dropping faster than the company expected — 'we have not seen this performance since 22nm,' says CFO",
+    "summary": "\n                             Intel says defect density of 14A process technology is declining rapidly as internal teams are already developing 14A-based products, while external clients are now wonde",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-14a-defect-density-is-dropping-faster-than-the-company-expected-we-have-not-seen-this-performance-since-22nm-says-cfo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-08-28-013",
+    "date": "2026-08-28",
+    "companies": [
+      "ti"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Modders get leaked DLSS 5 running in Control — early Blackwell test drops RTX 5070 Ti from 71 to 35 FPS at 4K",
+    "summary": "\n                             DLSS 5 has apparently leaked, originating from inside a new game. \n                                                                                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/modders-get-leaked-dlss-5-running-in-control-early-blackwell-test-drops-rtx-5070-ti-from-71-to-35-fps-at-4k",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-08-28-014",
+    "date": "2026-08-28",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix breaks ground on the first HBM plant in the US, bringing key AI component production to the States — says production starts in 2029",
+    "summary": "\n                             SK hynix breaks ground on HBM assembly plant in the U.S. that will form a connection between DRAM wafers produced in South Korea and their consumers among AI companies in",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/sk-hynix-breaks-ground-on-the-first-hbm-plant-in-the-us-bringing-key-ai-component-production-to-the-states-says-production-starts-in-2029",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-015",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Indiana power provider proposes $59 million rate cut for state, says data centers and other large customers are driving increased revenue — move could potentially save residential users $100 annually",
+    "summary": "\n                             I&M, which serves part of Indiana, says that it plans to cut electricity prices for the state, resulting in savings of about $59 million for residential users. This trans",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/indiana-power-provider-proposes-usd59-million-rate-cut-for-state-says-data-centers-and-other-large-customers-are-driving-increased-revenue-move-could-potentially-save-residential-users-usd100-annually",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-08-28-016",
+    "date": "2026-08-28",
+    "companies": [
+      "micron"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "ABF substrate maker Unimicron searched in origin-labeling probe",
+    "summary": "Prosecutors and investigators in Taiwan searched IC substrate maker Unimicron Technology (TWSE: 3037) on Aug. 28 in a case involving the labeling of product origin, the company said in exchange filing",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD240/unimicron-probe-ic-substrate-investigation-president.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-017",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI data center 800VDC power architecture takes shape; future hurdles require balancing multiple key factors",
+    "summary": "DIGITIMES believes that 2026 will be a pivotal year in the stabilization of 800VDC power architectures for AI data centers.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260819RS400/data-center-power-supply-digitimes-gan-nvidia-2026.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-018",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Winstar's AI push gains momentum with some orders extending into 2027",
+    "summary": "Winstar Display is accelerating its expansion into AI applications, with its products already integrated into data centers, power management systems, controllers, testing equipment, and semiconductor ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD232/winstar-2027-2026-expansion-ai-applications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-019",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Humanoid robot demand boosts planetary gear reducers",
+    "summary": "Apex Dynamics is optimistic about its business outlook for the second half of 2026, with planetary gear reducers emerging as a key growth driver. The company said its results for the first half of the",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD229/apex-robot-demand-market-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-28-020",
+    "date": "2026-08-28",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Foxconn eyes higher margins with push beyond contract manufacturing",
+    "summary": "AI adoption continues to expand, but putting the technology to work and integrating it into everyday operations remain key hurdles. Speaking at the 2026 Taiwan Sustainability Summit, Yung-Hui Li, dire",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD212/foxconn-manufacturing-technology-adoption-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-021",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "positive",
+    "title": "ASIC makers see CSP orders stay strong through 2028",
+    "summary": "The four major US cloud service providers (CSPs) have already rewritten their 2026 capital expenditure records, and ASIC vendors are increasingly confident that demand will remain strong through 2028 ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD234/asic-2028-csp-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-28-022",
+    "date": "2026-08-28",
+    "companies": [
+      "tsmc",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple's M6 marks a transitional step before wider 2nm adoption",
+    "summary": "Apple on August 25 unveiled the M6 and M5 Ultra chips without holding a launch event, with the M6 becoming the company's first processor built on TSMC's 2nm process and debuting in the new Mac mini. B",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD233/apple-chips-mac-mini-performance-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-023",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Huawei targets 100 million HarmonyOS 6 devices, paving way for global expansion next",
+    "summary": "Huawei rotating chairman Eric Xu said at the HarmonyOS Ecosystem Conference 2026 in Shenzhen on August 28 that the HarmonyOS ecosystem now has more than 100,000 native applications, while HarmonyOS sm",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD227/harmonyos-huawei-expansion-chairman-operating-system.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-024",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China chip profits jump 18.5-fold on AI demand; advanced-node self-sufficiency seen at 66% by 2035",
+    "summary": "China's AI investment boom is translating into sharply higher semiconductor profits while accelerating a longer-term expansion of domestic advanced-node capacity, memory production and chipmaking equi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828VL205/demand-2035-self-sufficiency-investment-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-025",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "KKCompany taps PressPlay to expand into knowledge learning, creator economy",
+    "summary": "KKCompany Technologies, parent of KKBOX, will officially list on the Taipei Exchange's Emerging Stock Board on August 31, with chairman and CEO Steve Wang detailing, for the first time, the group's in",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD215/economy-kkbox-taipei-advertising-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-08-28-026",
+    "date": "2026-08-28",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Anthropic sets sights on custom hardware to fuel AI ambitions, reportedly eyed $7B MatX deal",
+    "summary": "In an effort to accelerate its custom silicon initiative and curb reliance on external hardware suppliers, artificial intelligence developer Anthropic held discussions to acquire AI chip startup MatX ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828VL215/hardware-anthropic-silicon-startup-google.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-027",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI packaging race heats up: Taiwan OSATs plan US$14.6 billion capex",
+    "summary": "<p class=\"P1\" data-start=\"99\" data-end=\"335\">The AI investment cycle is spreading from leading-edge wafer fabrication into semiconductor packaging and testing, with Taiwan's largest outsourced semicon",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD224/king-yuan-ase-powertech-capex-investment-packaging-testing-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-28-028",
+    "date": "2026-08-28",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "US still pinning down AI approach as plans for self-regulating body reportedly stall",
+    "summary": "Progress has reportedly stalled on an executive order draft circulating within the Trump administration about a public-private organization to supervise the release of AI models. While the White House",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828VL212/usa-ai-regulation-ban.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-08-28-029",
+    "date": "2026-08-28",
+    "companies": [
+      "cxmt",
+      "ymtc",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China memory catch-up broadens: YMTC closes in on SK Hynix NAND share, CXMT advances DRAM tech",
+    "summary": "China's memory-chip industry is narrowing parts of the technology gap with global leaders on two fronts. YMTC is approaching SK Hynix in NAND revenue share while running a more advanced layer mix, and",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828VL214/nand-dram-technology-sk-hynix-cxmt.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-08-28-030",
+    "date": "2026-08-28",
+    "companies": [
+      "aws"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pioneering sustainable water solutions in Asia-Pacific data centers",
+    "summary": "At the Sustainability Environment Asia Conference 2026, Gunalan Kaniasan, principal for water resources in Asia-Pacific and Japan (APJC) at AWS, outlined strategies for water sustainability across the",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828VL211/water-sustainability-asia-aws-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-031",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hiroca Holdings 2Q26 loss narrows as China plant consolidation supports recovery",
+    "summary": "Automotive components manufacturer Hiroca Holdings stated on August 27 that although losses were still recorded in the second quarter of 2026 due to weak pull-ins from China's domestic market, the los",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260827PD239/hiroca-loss-plant-recovery-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-032",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's Kaizhong eyes data centers and dexterous hands",
+    "summary": "At GATE 2026, Kaizhong, a major Chinese commutator maker, used its display to showcase how its automotive business has laid the groundwork for expansion into data centers, dexterous hands, and drones.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260828PD220/2026-automotive-business-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-033",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Precise Biometrics AB (publ) (PRBCF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941373-precise-biometrics-ab-publ-prbcf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-034",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "BioNTech: Reiterating Strong Buy Based On COMIRNATY Variant Expansion And More",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941365-biontech-reiterating-strong-buy-based-on-comirnaty-variant-expansion-and-more?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-035",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Venu Holding Corporation 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941374-venu-holding-corporation-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-036",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "McMillan Shakespeare Limited (MCSLF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941062-mcmillan-shakespeare-limited-mcslf-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-037",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Banco BBVA Argentina S.A. (BBAR) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941326-banco-bbva-argentina-s-a-bbar-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-038",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Lantronix: Impressive Guidance Makes This An Instant Favorite Of Mine",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941358-lantronix-impressive-guidance-makes-this-an-instant-favorite-of-mine?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-039",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "DBS Group: Valuation Now Reflects Structurally Higher Profitability (Downgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941356-dbs-group-valuation-now-reflects-structurally-higher-profitability-downgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-08-28-040",
+    "date": "2026-08-28",
+    "companies": [
+      "broadcom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Broadcom: I Am Hedging Before Q3, You Should Too",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941355-broadcom-i-am-hedging-before-q3-you-should-too?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-041",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Qantas Airways Limited (QABSY) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941007-qantas-airways-limited-qabsy-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-042",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Truworths International Limited (TRWKF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941277-truworths-international-limited-trwkf-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-043",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Frontline plc (FRO) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941294-frontline-plc-fro-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-044",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Asseco Poland S.A. (ASOZY) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4941224-asseco-poland-s-a-asozy-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-08-28-045",
+    "date": "2026-08-28",
+    "companies": [
+      "samsung",
+      "micron",
+      "skhynix"
+    ],
+    "topics": [
+      "dram_price",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DRAM Prices Explode 401% as One Kilogram Now Costs as Much as 620 Grams of 24K Gold",
+    "summary": "Owing to the surge in DRAM prices, one kilogram of memory chips manufactured in Korea is now worth as much as 620 grams of gold. The global memory shortage, ushered in by the ongoing AI infrastructure",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/dram-prices-explode-401-as-one-kilogram-of-korean-memory-now-costs-as-much-as-620-grams-of-24k-gold/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-046",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSI Falls Back On Cheaper DDR4 For Its RTX 5070 Katana 15 Laptop As DDR5 Prices Skyrocket",
+    "summary": "Since DDR5 is expensive, vendors are now going back to DDR4 to make their gaming laptops more affordable. MSI Launches KATANA 15 HX C14W Gaming Laptop; Features DDR4 Memory Coupled With Core i9 14900H",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/msi-falls-back-on-cheaper-ddr4-for-its-rtx-5070-katana-15-laptop-as-ddr5-prices-skyrocket/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-08-28-047",
+    "date": "2026-08-28",
+    "companies": [
+      "tsmc",
+      "apple"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple M6’s Only Significance Is That It Validates TSMC’s 2nm Process, But As Far As Commercial Viability Goes, The A20 Pro Launch Holds More Weight",
+    "summary": "The M6 might be Apple’s first 2nm chipset thanks to its long-standing partnership with TSMC, but there’s a massive difference between having bragging rights over adopting a newer lithography and how w",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-m6-validates-tsmc-2nm-process-a20-pro-launch-holds-more-weight/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-048",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A 64GB SanDisk SATA SSD Has Survived A 16-Year Endurance Ordeal; User Shows A Whopping 9 Petabytes Of Data Written With More Than 140,000 Write Cycles Registered",
+    "summary": "The first wave of consumer-grade SATA SSDs arrived in the 64GB and 128GB capacities, and for the storage they offered, buyers had to pay a premium. Thankfully, based on the torture test showcased by a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/64gb-sandisk-ssd-survives-16-year-9-petabyte-endurance-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-049",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Green Party wants to slam the brakes on UK datacenter construction until water and energy use are sorted",
+    "summary": " Tree huggers aim to end blanket critical infrastructure status for bit barns and ensure environmental standards are met ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/08/28/green-party-wants-to-slam-the-brakes-on-uk-datacenter-construction-until-water-and-energy-use-are-sorted/5293338",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-08-28-050",
+    "date": "2026-08-28",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Word 97's ghost in the machine: The crash that vanished the moment anyone looked at it",
+    "summary": " Microsoft veteran recalls how a CPU errata, a mythical ICE, and a single sneaky NOP saved Clippy's big debut ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/software/2026/08/28/word-97s-ghost-in-the-machine-the-crash-that-vanished-the-moment-anyone-looked-at-it/5293263",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-051",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Datacenters face direct hit from China rare earth curbs, as clock runs out on escalated licensing chokeoff",
+    "summary": " Paused export controls on materials used in key IT components due for review in November ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/08/28/datacenters-face-direct-hit-from-china-rare-earth-curbs-as-clock-runs-out-on-escalated-licensing-chokeoff/5293257",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-052",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Microchip adds radiation-tolerant space CSAC-SA65",
+    "summary": "<p>Microchip Technology is expanding its atomic clock portfolio with the radiation-tolerant CSAC-SA65, to deliver precise timing for LEO space systems. CSAC stands for Chip Scale Atomic Clock. Microch",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/microchip-adds-radiation-tolerant-space-csac-sa65-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-28-053",
+    "date": "2026-08-28",
+    "companies": [
+      "amd",
+      "arm",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Most Read – BYD leading, Nvidia default, C2i Semiconductors",
+    "summary": "<p>There's BYD regaining the lead in global BEV sales, IBM and Arm designing dual architecture processor, and AMD’s share of the x86 CPU PC market topping 30%...</p>\n<p>The post <a href=\"https://www.e",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-byd-leading-nvidia-default-c2i-semiconductors-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-28-054",
+    "date": "2026-08-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Curing and annealing oven is sized for single panel format",
+    "summary": "<p>Weisun has added a single panel size curing and annealing oven for fan-out panel level packaging (FOPLP) lines. The 310mm x 310mm chamber has been added to the company&#8217;s AQWOL-5S range [&#823",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/curing-and-annealing-oven-is-sized-for-single-panel-format-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-08-28-055",
+    "date": "2026-08-28",
+    "companies": [
+      "kioxia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kioxia looking to invest $31.4bn as Hynix mulls closer ties",
+    "summary": "<p>Kioxia and SanDisk plan to invest $31.4 billion on new NAND capacity in the next six years said Kioxia CEO Hiroo Ota yesterday. The company intends to invest $11.3 billion [&#8230;]</p>\n<p>The post",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/kioxia-looking-to-invest-31-4bn-as-hynix-mulls-closer-ties-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-08-27-001",
     "date": "2026-08-27",
     "companies": [
@@ -843,6 +1898,112 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/nanopore-semi-adds-to-psics-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lam_research-2026-08-27-047",
+    "date": "2026-08-27",
+    "companies": [
+      "lam_research"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lam Research Announces Retirement of Michael R. Cannon and Sohail U. Ahmed from Board of Directors",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "lam_research-2026-08-27-048",
+    "date": "2026-08-27",
+    "companies": [
+      "lam_research"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Lam Research Corporation Announces a 27% Increase in Quarterly Dividend",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-08-27-049",
+    "date": "2026-08-27",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Announces Upcoming Event for Financial Community",
+    "summary": "NVIDIA will present at the following event for the financial community",
+    "sources": []
+  },
+  {
+    "id": "marvell-2026-08-27-050",
+    "date": "2026-08-27",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Marvell Technology, Inc. Reports Second Quarter of Fiscal Year 2027 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-08-27-051",
+    "date": "2026-08-27",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "First Benchmarks Revealed for Jalapeño, OpenAI’s Clean-Sheet General Purpose AI Accelerator ASIC",
+    "summary": "\n\t\t\t\t\t\t<p>At Hot Chips 2026, Richard Ho, says OpenAI isn't just repurposing a GPU to suit AI: Jalapeño is a purpose built AI accelerator built from scratch for AI workloads.</p>\n<p>The post <a href=\"h",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/first-benchmarks-revealed-for-jalapeno-openais-clean-sheet-general-purpose-ai-accelerator-asic/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-27-052",
+    "date": "2026-08-27",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Quietly Freezes Its Cloud Credit Support Deals After Internal Talks Warn of Antitrust Exposure",
+    "summary": "According to a fresh report from The Wall Street Journal, chip designer NVIDIA Corporation has stopped its revenue sharing and credit support initiative to support AI growth. The Journal's report come",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-quietly-freezes-its-cloud-credit-support-deals-after-internal-talks-warn-of-antitrust-exposure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-27-053",
+    "date": "2026-08-27",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA’s DLSS 5 Cracked Into Control Hours After Modders Found A Hidden DLL Inside NBA 2K27",
+    "summary": "We might be very close to the official DLSS 5 launch as a DLL file was spotted in the early access build of NBA 2K27. Modders Unlock NVIDIA's DLSS 5 Neural Rendering, Giving an Early Look at the Techn",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidias-dlss-5-cracked-into-control-hours-after-modders-found-a-hidden-dll-inside-nba-2k27/",
         "type": "rss"
       }
     ]

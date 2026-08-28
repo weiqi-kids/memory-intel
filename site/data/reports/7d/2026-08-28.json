@@ -1,0 +1,289 @@
+{
+  "date": "2026-08-28",
+  "date_range": {
+    "start": "2026-08-22",
+    "end": "2026-08-28"
+  },
+  "generated_at": "2026-08-28T20:14:27.198943Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intel-2026-08-22-016",
+      "date": "2026-08-22",
+      "title": "Desktop CPU shipments crater 20% amid high component costs, but AMD gains record share despite 'ugly' desktop processor market — Intel floods laptop market with millions of CPUs, but AMD still sets all-time share records",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cxmt",
+      "company_b": "ymtc",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "skhynix",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.33
+    },
+    "industry_general": {
+      "this_week": 112,
+      "last_week": 92,
+      "week_over_week_change": "+22%",
+      "sentiment_this_week": 0.08
+    },
+    "capacity": {
+      "this_week": 24,
+      "last_week": 26,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.19
+    },
+    "advanced_packaging": {
+      "this_week": 10,
+      "last_week": 4,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.05
+    },
+    "earnings": {
+      "this_week": 69,
+      "last_week": 92,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.05
+    },
+    "inventory": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.12
+    },
+    "ai_server": {
+      "this_week": 11,
+      "last_week": 10,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.06
+    },
+    "hbm": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 12,
+      "last_week": 15,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.12
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "samsung": {
+      "event_count": 11,
+      "sentiment_avg": 0.32,
+      "rank": 3
+    },
+    "intel": {
+      "event_count": 15,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "amd": {
+      "event_count": 5,
+      "sentiment_avg": 0.4,
+      "rank": 8
+    },
+    "nvidia": {
+      "event_count": 19,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "skhynix": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "google": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 5
+    },
+    "tsmc": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "aws": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.67,
+      "rank": 9
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "apple": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 7
+    },
+    "cxmt": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 10
+    },
+    "ymtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "micron": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 11
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "microsoft": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 307,
+        "last": 333,
+        "change_pct": -7.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-22",
+      "event_count": 30,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-23",
+      "event_count": 12,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-08-24",
+      "event_count": 55,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 58,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 44,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 53,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 55,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-22 ~ 2026-08-28）共 307 則事件，重點為「Desktop CPU shipments crater 20% amid high comp...」。三星、超微表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "三星",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "英特爾",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "超微",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
