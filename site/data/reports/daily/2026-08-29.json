@@ -1,0 +1,198 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:52:13.574613Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-29-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Goldman Sachs Small Cap Equity Insights Fund Q2 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4941497-goldman-sachs-small-cap-equity-insights-fund-q2-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-29-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Gabelli Focused Growth And Income Fund Q2 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4941494-gabelli-focused-growth-income-fund-q2-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-29-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Palo Alto Networks Looks Frothy Ahead Of Q4 Earnings",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4941480-palo-alto-networks-looks-frothy-ahead-of-q4-earnings?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "microsoft-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Microsoft-backed AI data center faces backlash over 62 unpermitted gas turbines and 1.5M-gallon LNG tank — issues with $19.4B facility range from illegal construction to noise pollution",
+      "companies": [
+        "microsoft"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-backed-ai-data-center-faces-multiple-complaints-from-community-issues-range-from-unpermitted-gas-turbines-to-illegal-construction-and-noise-pollution"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Navy launches missiles from its first drone sailboat — Saildrone Surveyor launches dual JAGM missiles, carrier strike group tests armed USV and electronic warfare",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/drones/us-navy-launches-missiles-from-its-first-drone-sailboat-saildrone-surveyor-launches-dual-jagm-missiles-carrier-strike-group-tests-armed-usv-and-electronic-warfare"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "microsoft",
+        "count": 1
+      },
+      {
+        "id": "aws",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 149,
+    "too_old": 55,
+    "gate1_blocked": 62,
+    "gate2_blocked": 40,
+    "passed": 12,
+    "pass_rate": "7.1%",
+    "gate2_block_rate": "23.7%",
+    "gate2_samples": [
+      "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "We’re introducing flexible usage limits for Gemini Notebook.",
+      "Expert Intelligence: a new way for you to engage with trusted content",
+      "Celebrating 250 years of America, from its history to its future"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為微軟、AWS相關動態：「Goldman Sachs Small Cap Equity Insights Fund Q2 2026 Comm...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Goldman Sachs Small Cap Equity Insights Fund Q2 2026 Commentary（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "The Gabelli Focused Growth And Income Fund Q2 2026 Commentary（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
