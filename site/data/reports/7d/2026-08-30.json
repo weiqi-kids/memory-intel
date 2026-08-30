@@ -1,0 +1,289 @@
+{
+  "date": "2026-08-30",
+  "date_range": {
+    "start": "2026-08-24",
+    "end": "2026-08-30"
+  },
+  "generated_at": "2026-08-30T13:49:58.452177Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intel-2026-08-24-012",
+      "date": "2026-08-24",
+      "title": "SK Hynix charts advanced HBM packaging path: hybrid bonding, Intel EMIB and 3D integration",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "aws",
+      "company_b": "nvidia",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "tsmc",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 111,
+      "last_week": 100,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.07
+    },
+    "advanced_packaging": {
+      "this_week": 9,
+      "last_week": 5,
+      "week_over_week_change": "+80%",
+      "sentiment_this_week": -0.0
+    },
+    "capacity": {
+      "this_week": 23,
+      "last_week": 28,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": 0.17
+    },
+    "ai_server": {
+      "this_week": 11,
+      "last_week": 10,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.06
+    },
+    "earnings": {
+      "this_week": 70,
+      "last_week": 88,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.05
+    },
+    "hbm": {
+      "this_week": 8,
+      "last_week": 8,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 12,
+      "last_week": 15,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.12
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.17
+    },
+    "ddr5": {
+      "this_week": 6,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.08
+    },
+    "inventory": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.5
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 19,
+      "sentiment_avg": 0.11,
+      "rank": 1
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "intel": {
+      "event_count": 14,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "samsung": {
+      "event_count": 10,
+      "sentiment_avg": 0.35,
+      "rank": 3
+    },
+    "skhynix": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "google": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 5
+    },
+    "tsmc": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "aws": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "amd": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 8
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.67,
+      "rank": 11
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "apple": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 7
+    },
+    "cxmt": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 9
+    },
+    "ymtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "micron": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 12
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "microsoft": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "synopsys": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 292,
+        "last": 340,
+        "change_pct": -14.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-24",
+      "event_count": 55,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-08-25",
+      "event_count": 58,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 44,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 53,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 61,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 13,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-24 ~ 2026-08-30）共 292 則事件，重點為「SK Hynix charts advanced HBM packaging path: hy...」。三星、超微表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "輝達",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "英特爾",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

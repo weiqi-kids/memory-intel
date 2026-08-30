@@ -1,0 +1,268 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T13:49:58.362021Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-30-001",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford/"
+    },
+    {
+      "rank": 2,
+      "event_id": "synopsys-2026-08-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Synopsys Crushed Earnings, But I'm Downgrading The Stock (Rating Downgrade)",
+      "companies": [
+        "synopsys"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4941557-synopsys-stock-crushed-earnings-but-downgrading-stock?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Chicago Atlantic BDC: Merger Upside Remains Intact After Q2",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4941556-chicago-atlantic-bdc-merger-upside-remains-intact-after-q2?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "synopsys-2026-08-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "M3D 6T SRAM With BEOL Pass-Gates at 2nm (Georgia Tech, Synopsys)",
+      "companies": [
+        "synopsys"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://semiengineering.com/m3d-6t-sram-with-beol-pass-gates-at-2nm-georgia-tech-synopsys/"
+    },
+    {
+      "rank": 5,
+      "event_id": "adata-2026-08-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adata Urban Tapsafe 2TB review: Solid-state storage you unlock with your phone",
+      "companies": [
+        "adata"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/external-ssds/adata-urban-tapsafe-2tb-review"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "synopsys",
+        "count": 2
+      },
+      {
+        "id": "adata",
+        "count": 1
+      },
+      {
+        "id": "cxmt",
+        "count": 1
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "hbm",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 318,
+    "dup_title": 139,
+    "too_old": 55,
+    "gate1_blocked": 70,
+    "gate2_blocked": 39,
+    "passed": 15,
+    "pass_rate": "8.4%",
+    "gate2_block_rate": "21.8%",
+    "gate2_samples": [
+      "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+      "We’re introducing flexible usage limits for Gemini Notebook.",
+      "Expert Intelligence: a new way for you to engage with trusted content"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為新思科技、威剛科技、CXMT相關動態：「Hybrid HBM-HBF Architecture in LLM Inference (University ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)（HBM、產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Synopsys Crushed Earnings, But I'm Downgrading The Stock (Rating Downgrade)（庫存、財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
