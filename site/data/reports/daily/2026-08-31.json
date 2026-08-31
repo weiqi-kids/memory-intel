@@ -1,0 +1,349 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T16:09:40.127477Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-31-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Gudeng sees double-digit advanced packaging growth from 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260831PD233/packaging-growth-2027-hpc-development.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung-2026-08-31-037",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Samsung Locks 70% of Memory Capacity Into 2031 Deals – Long-Term HBM Deals Run 5x Cheaper Than Spot, as AI Demand Chokes the DRAM Market",
+      "companies": [
+        "samsung",
+        "microsoft",
+        "google"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-locks-70-of-memory-capacity-into-2031-deals-long-term-hbm-deals-run-5x-cheaper-than-spot-as-ai-demand-chokes-the-dram-market/"
+    },
+    {
+      "rank": 3,
+      "event_id": "micron-2026-08-31-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Key Nvidia and Intel supplier raided over alleged China origin fraud — Unimicron faces probe over PCB origin washing, risk of 40% U.S. tariff penalty",
+      "companies": [
+        "micron",
+        "nvidia",
+        "intel",
+        "google"
+      ],
+      "related": {
+        "customers": [
+          "nvidia",
+          "google"
+        ],
+        "suppliers": [
+          "micron",
+          "nvidia",
+          "intel"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/big-tech/key-nvidia-and-intel-supplier-raided-over-alleged-china-origin-fraud-unimicron-faces-probe-over-pcb-origin-washing-risk-of-40-percent-u-s-tariff-penalty"
+    },
+    {
+      "rank": 4,
+      "event_id": "ase-2026-08-31-022",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "ASE: CPO scale-out demands deeper supply-chain coordination for mass production",
+      "companies": [
+        "ase",
+        "onsemi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260831PD223/2026-taiwan-cpo-ase-siph.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "lenovo-2026-08-31-035",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Linux 7.3 Introduces Early Zen 6 Support, Native RGB Controls For Ryzen AI Halo, And Major Laptop Improvements",
+      "companies": [
+        "lenovo",
+        "samsung",
+        "amd",
+        "hp"
+      ],
+      "related": {
+        "customers": [
+          "lenovo",
+          "amd",
+          "hp"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/linux-7-3-introduces-early-zen-6-support/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 14,
+      "neutral": 25,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 6
+      },
+      {
+        "id": "micron",
+        "count": 4
+      },
+      {
+        "id": "amd",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "google",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 2
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 108,
+    "too_old": 52,
+    "gate1_blocked": 62,
+    "gate2_blocked": 38,
+    "passed": 48,
+    "pass_rate": "24.0%",
+    "gate2_block_rate": "19.0%",
+    "gate2_samples": [
+      "2026.08.31HoldingsSCREEN to start development of optical modules for quantum computers through joint",
+      "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+      "We’re introducing flexible usage limits for Gemini Notebook."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為輝達、美光、超微相關動態：「Gudeng sees double-digit advanced packaging growth from 2027」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Gudeng sees double-digit advanced packaging growth from 2027（產能、財報、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung Locks 70% of Memory Capacity Into 2031 Deals – Long-Term HBM Deals Ru...（HBM、產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
