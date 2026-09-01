@@ -1,0 +1,319 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T13:29:28.455628Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "skhynix-2026-09-01-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.eetimes.com/sk-hynixs-4b-hbm-project-targets-u-s-chipmaking-gap/"
+    },
+    {
+      "rank": 2,
+      "event_id": "cxmt-2026-09-01-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "情緒極端"
+      ],
+      "title": "CXMT reportedly begins risk production of HBM3E memory in breakthrough for Chinese DRAM production — company could be in mass production in 2027",
+      "companies": [
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/dram/cxmt-reportedly-begins-risk-production-of-hbm3e-memory-in-breakthrough-for-chinese-dram-production-company-could-be-in-mass-production-in-2027"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-09-01-023",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Samsung Electro-Mechanics discloses major MLCC supply deal tied to AI server demand",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260901VL211/semco-mlcc-sales-2027-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "ti-2026-09-01-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Save $300 on this 240Hz OLED gaming laptop with an RTX 5070 Ti, now just $1,899 — Acer Predator Helios rig ships with a 24-core Intel CPU, 32GB DDR5 and a 1TB SSD",
+      "companies": [
+        "ti",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd300-on-this-240hz-oled-gaming-laptop-with-an-rtx-5070-ti-now-just-usd1-899-acer-predator-helios-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd"
+    },
+    {
+      "rank": 5,
+      "event_id": "onsemi-2026-09-01-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Taiwan chip equipment maker Skytech opens advanced process lab with TSMC backing",
+      "companies": [
+        "onsemi",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260901PD241/skytech-tsmc-equipment-taiwan-development.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.35,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 27,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 7
+      },
+      {
+        "id": "samsung",
+        "count": 4
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      },
+      {
+        "id": "intel",
+        "count": 2
+      },
+      {
+        "id": "micron",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "hbm",
+        "count": 5
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      },
+      {
+        "id": "ddr5",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 107,
+    "too_old": 54,
+    "gate1_blocked": 66,
+    "gate2_blocked": 34,
+    "passed": 47,
+    "pass_rate": "23.4%",
+    "gate2_block_rate": "16.9%",
+    "gate2_samples": [
+      "2026.08.31HoldingsSCREEN to start development of optical modules for quantum computers through joint",
+      "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "How the GNIS Lake Ontario/Lake America name change in the U.S. will appear in Maps",
+      "We’re introducing flexible usage limits for Gemini Notebook."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為輝達、三星、SK海力士相關動態：「SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap（HBM、資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "CXMT reportedly begins risk production of HBM3E memory in breakthrough for Ch...（HBM、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

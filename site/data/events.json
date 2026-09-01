@@ -1,5 +1,751 @@
 [
   {
+    "id": "unknown-2026-09-01-001",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chip Industry Technical Paper Roundup: Sep. 1",
+    "summary": "<p>Wafer-scale optical interconnects for LLM training; Rowhammer-based inference attacks; 3D-IC test cases; liquid cooling for 2.5D/3D packages; wafer-scale 2D semi growth; DL-based parameter extracti",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sep-1/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-09-01-002",
+    "date": "2026-09-01",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix’s $4B HBM Project Targets U.S. Chipmaking Gap",
+    "summary": "\n\t\t\t\t\t\t<p>SK Hynix’s $4B Indiana HBM fab aims to plug America’s AI chip packaging hole and build a Purdue-backed supply chain by 2029.</p>\n<p>The post <a href=\"https://www.eetimes.com/sk-hynixs-4b-hbm",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/sk-hynixs-4b-hbm-project-targets-u-s-chipmaking-gap/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-01-003",
+    "date": "2026-09-01",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia's controversial DLSS 5 will launch September 3 with NBA2K27, company shares first benchmarks — available on all RTX 50 series GPUs, laptops, and GeForce NOW",
+    "summary": "\n                             Nvidia has confirmed DLSS 5 will launch on September 3 in NBA2K27. It will be supported on all RTX 50 series GPUs, laptops, and GeForce NOW. \n                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-01-004",
+    "date": "2026-09-01",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia's top-end RTX 5090 gaming GPU now costs at least $5,000 — Blackwell cards continue to endure drastic price hikes",
+    "summary": "\n                             The entire PC hardware industry is in shambles when it comes to consumer products, and GPUs are one of the most affected components. Everything from budget options to hig",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-top-end-rtx-5090-gaming-gpu-now-costs-at-least-usd5-000-blackwell-cards-continue-to-endure-drastic-price-hikes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-005",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese court freezes $318 million in Nexperia assets as Wingtech presses to regain control — Dutch chipmaker says seizures won't affect day-to-day operations",
+    "summary": "\n                             The total value of the frozen assets exceeds Wingtech’s entire first-half revenue, with the company reporting 1.51 billion yuan in H1 2026 sales, down more than 90% year ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/chinese-court-freezes-318-million-in-nexperia-assets-as-wingtech-presses-to-regain-control",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-09-01-006",
+    "date": "2026-09-01",
+    "companies": [
+      "ti",
+      "intel"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save $300 on this 240Hz OLED gaming laptop with an RTX 5070 Ti, now just $1,899 — Acer Predator Helios rig ships with a 24-core Intel CPU, 32GB DDR5 and a 1TB SSD",
+    "summary": "\n                             This Acer Predator Helios Neo 16S AI gaming laptop has dropped to just $1,899.99, giving you a high-end rig with an RTX 5070 Ti, 32GB DDR5 and a 1TB SSD. \n               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-usd300-on-this-240hz-oled-gaming-laptop-with-an-rtx-5070-ti-now-just-usd1-899-acer-predator-helios-rig-ships-with-a-24-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-01-007",
+    "date": "2026-09-01",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "$899 gets you a fully fledged DDR5 gaming PC in Best Buy's Labor Day sales — save $300 off the iBuypower Slate PC powered by Intel's B570 graphics with 10GB of VRAM",
+    "summary": "\n                             Save $300 on a brand-new iBuypower Slate gaming PC in the Best Buy Labor Day sales. \n                                                                                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/usd899-gets-you-a-fully-fledged-ddr5-gaming-pc-in-best-buys-labor-day-sales-save-usd300-off-the-ibuypower-slate-pc-powered-by-intels-b570-graphics-with-10gb-of-vram",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-01-008",
+    "date": "2026-09-01",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hot Chips 2026: Samsung reveals a three-phase HBM roadmap that puts logic and compute inside memory — zHBM ultimately stacks DRAM directly on top of the processor",
+    "summary": "\n                             Samsung detailed a three-phase HBM roadmap at Hot Chips 2026 that progressively moves logic into the base die and ultimately stacks DRAM directly on the processor. \n     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/hot-chips-2026-samsung-reveals-a-three-phase-hbm-roadmap-that-puts-logic-and-compute-inside-memory-zhbm-ultimately-stacks-dram-directly-on-top-of-the-processor",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-09-01-009",
+    "date": "2026-09-01",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT reportedly begins risk production of HBM3E memory in breakthrough for Chinese DRAM production — company could be in mass production in 2027",
+    "summary": "\n                             CXMT is reportedly sampling its HBM3E memory with Alibaba Group's T-Head and Cambricon Technologies. \n                                                                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/cxmt-reportedly-begins-risk-production-of-hbm3e-memory-in-breakthrough-for-chinese-dram-production-company-could-be-in-mass-production-in-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-09-01-010",
+    "date": "2026-09-01",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Arm faces potential shareholder revolt over CEO's 'excessive' $800 million pay package — huge stock award would only be fully realised if chip designer hits $2 trillion valuation",
+    "summary": "\n                             Proxy advisers kick against Arm's proposal to approve a performance pay plan that could award CEO Rene Haas about $800 million if the chip designer reaches a $2 trillion ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/arm-faces-potential-shareholder-revolt-over-ceos-excessive-usd800-million-pay-package-huge-stock-award-would-only-be-fully-realised-if-chip-designer-hits-usd2-trillion-valuation",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-011",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taoyuan eyes northern AIDC hub, touts Tatan and LNG cooling edge",
+    "summary": "Taiwan's limited land and heavy dependence on imported energy have made power a scarce and strategic resource in the compute era, putting AI data center (AIDC) site selection on the radar of industry ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD209/taiwan-aidc-cooling-data-center-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-09-01-012",
+    "date": "2026-09-01",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SK Hynix touts up to 5.15x inference gains with custom HBM",
+    "summary": "<p class=\"P1\" data-start=\"401\" data-end=\"695\">SK Hynix is pushing computation deeper into high-bandwidth memory (HBM), saying a custom HBM architecture that places compute functions in the base die co",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901VL220/sk-hynix-hbm-capacity-performance-ai-agent-semicon-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-01-013",
+    "date": "2026-09-01",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung eyes early 2027 LPDDR5X-PIM production, touts 3.8x performance gain",
+    "summary": "Samsung Electronics is targeting mass production of its LPDDR5X processing-in-memory (PIM) solution in late 2026 or early 2027, moving the technology closer to commercialization as the memory giant br",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901VL218/samsung-production-performance-2027-hbm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-014",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Autonomous driving expands into Physical AI, creating new openings for Taiwan firms",
+    "summary": "The autonomous driving industry is gaining momentum as advances in AI, sensing and semiconductor technologies expand opportunities in vehicle computing, machine vision and Physical AI. At Taiwan-based",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD223/autonomous-driving-taiwan-vehicle-otobrite-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-015",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Japan's chip materials makers reportedly deepen Taiwan ties as AI reshapes supply chains",
+    "summary": "Japanese semiconductor materials suppliers Ajinomoto and Daikin Industries are expanding their presence in Taiwan as the AI boom fuels demand for advanced chip materials and encourages closer cooperat",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901VL217/materials-taiwan-demand-tsmc-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-09-01-016",
+    "date": "2026-09-01",
+    "companies": [
+      "onsemi",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan chip equipment maker Skytech opens advanced process lab with TSMC backing",
+    "summary": "Skytech and TSMC have opened an Advanced Process Laboratory focused on next-generation semiconductor manufacturing, highlighting TSMC's continued efforts to support Taiwan's domestic semiconductor equ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD241/skytech-tsmc-equipment-taiwan-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-017",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Imec CEO: AI era pushes broader ties between chip, model and CSP players",
+    "summary": "Imec CEO Patrick Vandenameele said during a media briefing at SEMICON Taiwan 2026 that the Belgian research center is broadening its collaboration base in the AI era, extending beyond IC design firms ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD236/ceo-taiwan-ic-design-2026-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-018",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "AI server demand lifts Japanese capacitor shipments by 22% in first half of 2026",
+    "summary": "Japanese electronic component shipments rose in the first half of 2026 as demand from AI servers drove strong growth in capacitors and other parts. According to <em>Nikkei</em> and <em>Dempa</em>, the",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD227/shipments-2026-component-demand-ai-server.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ase-2026-09-01-019",
+    "date": "2026-09-01",
+    "companies": [
+      "ase"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "ASE CEO describes AI resource squeeze as a short-term problem",
+    "summary": "AI's early-stage growth is creating a short-term squeeze on land, talent, capital, and power in Taiwan, but there is no such thing as a world that cannot do without Taiwan, ASE Technology CEO and SEMI",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD239/taiwan-ase-ceo-growth-talent.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-01-020",
+    "date": "2026-09-01",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Micron opens Tainan plant after 6.5 months amid labor dispute",
+    "summary": "Micron's plant at the Southern Taiwan Science Park, which it purchased from AUO for NT$7.4 billion (US$233.8 million) in August 2024, is now officially in operation, marking a key milestone in the tra",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD228/micron-plant-labor-taiwan-auo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "marvell-2026-09-01-021",
+    "date": "2026-09-01",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marvell CTO: power and density bottlenecks are driving CPO adoption in AI data centers",
+    "summary": "Speaking at the Silicon Photonics Global Summit ahead of Semicon Taiwan 2026, Marvell Technology CTO Radha Nagarajan highlighted that the core focus for upgrading connectivity in the AI data center er",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD231/marvell-cpo-siph-adoption-semicon-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-022",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korea CCL exports surge 42% on AI demand",
+    "summary": "South Korea's copper-clad laminate, or CCL, exports jumped sharply in the first seven months of 2026 as AI infrastructure investment and larger semiconductor packaging lifted demand, boosting revenue ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD208/ccl-exports-demand-2026-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-01-023",
+    "date": "2026-09-01",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Electro-Mechanics discloses major MLCC supply deal tied to AI server demand",
+    "summary": "Samsung Electro-Mechanics disclosed on September 1 that it has concluded a single sales and supply contract worth KRW1.072 trillion (about US$778.9 million) for MLCCs, equal to 9.5% of the company's m",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901VL211/semco-mlcc-sales-2027-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-01-024",
+    "date": "2026-09-01",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tim Cook concludes 15-year Apple tenure, John Ternus takes over",
+    "summary": "Tim Cook's tenure as Apple CEO has officially drawn to a close after nearly 15 years. Cook stepped down as CEO and became Executive Chairman, while Senior Vice President of Hardware Engineering John T",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD237/apple-tim-cook-ceo-john-ternus-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-025",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commentary: DeepSeek out, SMIC in? TIME100 AI maps China's widening AI battleground",
+    "summary": "<em>TIME</em> unveiled its 2026 TIME100 AI list on August 27 with a notable change in its China lineup. DeepSeek founder Wenfeng Liang, named among the \"Leaders\" in 2025, disappeared from this year's ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD214/smic-deepseek-2026-2025-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-026",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Swiss Life Holding AG (SZLMY) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942021-swiss-life-holding-ag-szlmy-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-027",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hafnia: Hormuz Keeps The Q4 Upside Alive",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942081-hafnia-stock-hormuz-keeps-the-q4-upside-alive?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-028",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Citizens Financial Group: Diversified Growth Supports Q2 2026 Earnings",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942077-citizens-financial-group-stock-diversified-growth-supports-2q26-earnings?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-029",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Nabors Industries: Future Growth Dampened By Low Financial Guidance",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942071-nabors-industries-future-growth-dampened-by-low-financial-guidance?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-030",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Grocery Outlet: Interesting Idea, Decent Earnings, But Defective Fundamentals",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942070-grocery-outlet-interesting-idea-decent-earnings-but-defective-fundamentals?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-01-031",
+    "date": "2026-09-01",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "I Played NBA 2K27 with NVIDIA’s “Pixel-Accurate” DLSS 5, and It’s a Truly Generational Visual Leap That Can Only Improve",
+    "summary": "It's been nearly six months since NVIDIA CEO Jensen Huang surprised GTC 2026 attendees and viewers all around the world with the reveal of DLSS 5. This new version of NVIDIA's Deep Learning Super Samp",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-dlss-5-nba-2k27-hands-on-pixel-accurate/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-01-032",
+    "date": "2026-09-01",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA DLSS 5 Performance Unveiled: 5x Faster Than Original Demo, 50% Perf Penalty on Average, But RTX 50 GPUs Offer “Hundreds of FPS” With MFG Enabled & More Optimizations On the Way",
+    "summary": "NVIDIA is sharing the first performance figures of its RTX 50 GPUs running DLSS 5, offering next-gen visuals at super-fast frame rates. DLSS 5 Is Tuned For Games &#38; NVIDIA Says That They Will Be Ab",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-dlss-5-performance-5x-faster-rtx-50-series/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-01-033",
+    "date": "2026-09-01",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA DLSS 5 Is The Biggest Leap In Rendering Since 3D Itself, Powered By Neural Technology To Deliver Lifelike Lighting & Materials That Uplift Visuals Unlike Anything You’ve Seen Before",
+    "summary": "NVIDIA DLSS 5 is finally here, bringing lifelike visuals in games through the power of 3D-Guided Neural Rendering. NVIDIA DLSS 5 Is Not Changing Geometry, Not Changing Anything; It's Uplifting Existin",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-dlss-5-launch-biggest-leap-in-rendering-powered-by-neural-technology-lifelike-visuals/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-01-034",
+    "date": "2026-09-01",
+    "companies": [
+      "micron",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron Workers in Taiwan Move Toward Strike as 80% Surveyed Back Walkout Over Bonus Caps",
+    "summary": "With workers at Samsung's memory chip production facility having successfully negotiated bonuses for themselves, those at Micron's factories in Taiwan appear to be angling for similar benefits. After ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/micron-workers-in-taiwan-move-toward-strike-as-80-surveyed-back-walkout-over-bonus-caps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-01-035",
+    "date": "2026-09-01",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD FSR 3.1 Frame Generation Reaches Switch 2 With Stellar Blade, Yet Fake 60 FPS Hides Real Input Lag",
+    "summary": "Following its launch on PlayStation 5 and PC, Korean developer Shift Up is hard at work on the Nintendo Switch 2 port of Stellar Blade. The release of the popular action game on the next-generation Ni",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-fsr-3-1-frame-generation-switch-2-stellar-blade-fake-60-fps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-09-01-036",
+    "date": "2026-09-01",
+    "companies": [
+      "aws"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AWS: DuckDB will provide 'connective tissue' across the data estate",
+    "summary": " Dutch in-process OLAP systems set to be the 'SDK for data' as developers scale systems, cloud giant claims after DuckLab acquisition  ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/databases/2026/09/01/aws-duckdb-will-provide-connective-tissue-across-the-data-estate/5293304",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-01-037",
+    "date": "2026-09-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If hardware price squeezes make you sad, VMware says it will all end in tiers",
+    "summary": " Virtzilla finding more ways to pull data out of DRAM to enable ‘densification’ and dodge the RAMpocalypse ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/virtualization/2026/09/01/if-hardware-price-squeezes-make-you-sad-vmware-says-it-will-all-end-in-tiers/5293575",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-01-038",
+    "date": "2026-09-01",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia puts $3.5bn into MediaTek",
+    "summary": "<p>Nvidia is buying $3.5 billion of MediaTek’s convertible bonds in a deal by which they commit to use each other’s products. “Nvidia’s networking ecosystem is now part of MediaTek’s supply [&#8230;]<",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/nvidia-2-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-01-039",
+    "date": "2026-09-01",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tim Cook’s farewell memo",
+    "summary": "<p>Here is Tim Cook’s final memo to Apple employees: Team, Today is my last day as CEO of Apple. This is a moment I always knew would come one day, [&#8230;]</p>\n<p>The post <a href=\"https://www.elect",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/tim-cooks-farewell-memo-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-08-31-001",
     "date": "2026-08-31",
     "companies": [],
@@ -813,6 +1559,162 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/a-solid-h1-for-china-chips-2026-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-08-31-044",
+    "date": "2026-08-31",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pairing Google Antigravity with Gemini 3.7 Flash solves notable multi-agent math and engineering problems.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp\">Gemini 3.7 Flash powers autonomous agent teams in Antigravity to solve open math",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-08-31-045",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)",
+    "summary": "<p>Researchers at Huawei, ETH Zürich, and HUST published a technical paper titled “FLINT: Efficiently Leveraging High Bandwidth Flash for Capacity-Scalable LLM Inference Acceleration.” Abstract: “LLM ",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-046",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SUSE Positions Hardware Choice as a Core Part of Sovereign AI",
+    "summary": "\n\t\t\t\t\t\t<p>SUSE says enterprises need the flexibility to change AI hardware without rebuilding their infrastructure.</p>\n<p>The post <a href=\"https://www.eetimes.com/suse-positions-hardware-choice-as-a",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/suse-positions-hardware-choice-as-a-core-part-of-sovereign-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-08-31-047",
+    "date": "2026-08-31",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "G.Skill drops new AMD EXPO ULL RAM for Ryzen CPUs — Flare X5X brings new ULL optimized subtimings, but pricing remains a mystery",
+    "summary": "\n                             G.Skill launches new Flare X5X DDR5 memory kits with AMD EXPO ULL technology for Ryzen processors. \n                                                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ram/g-skill-drops-new-amd-expo-ull-ram-for-ryzen-cpus-flare-x5x-brings-new-ull-optimized-subtimings-but-pricing-remains-a-mystery",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-31-048",
+    "date": "2026-08-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump says communities that reject data centers 'want to end up being backwards and poor' — President claims China 'could not be happier' with AI data center backlash in the US",
+    "summary": "\n                             President Donald Trump claims that communities rejecting AI data center constructions \"want to end up being backwards and poor.\" \n                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-says-communities-that-reject-data-centers-want-to-end-up-being-backwards-and-poor-president-claims-china-could-not-be-happier-with-ai-data-center-backlash-in-the-us",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-31-049",
+    "date": "2026-08-31",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASUS ProArt P14 Configurations Featuring NVIDIA’s RTX Spark To Start From 24GB Unified Memory, No Proprietary Charging, But NVMe Storage Options Limited",
+    "summary": "The detailed specifications of ASUS’ upcoming ProArt P14 armed with NVIDIA’s RTX Spark have arrived, giving us a closer look at the hardware configurations for the base model and top-end one. Thankful",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/asus-proart-p14-nvidia-rtx-spark-specs-unified-memory-nvme-storage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-08-31-050",
+    "date": "2026-08-31",
+    "companies": [
+      "micron",
+      "nvidia",
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "With The HBM Base Die Costing 3-4x As Much As The Core Die, NVIDIA’s NVHBM Is A Master Stroke For Capturing Most Of The HBM Value While Relegating The ‘Big Three’ To The Commodity Status",
+    "summary": "NVIDIA appears determined to end the oligopolistic control over HBM by the so-called 'Big Three' memory players - Samsung, SK hynix, and Micron - and is apparently using the NVHBM as a cudgel to creat",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/with-the-hbm-base-die-costing-3-4x-as-much-as-the-core-die-nvidias-nvhbm-is-a-master-stroke-for-capturing-most-of-the-hbm-value-while-relegating-the-big-three-to-the-commodity-status/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-08-31-051",
+    "date": "2026-08-31",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "VMware uses Nvidia-favored 'AI factory' brand to build something with rival AMD",
+    "summary": " Forget the confusing branding and focus on your shrinking token bill ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/virtualization/2026/08/31/vmware-uses-nvidia-favored-ai-factory-brand-to-build-something-with-rival-amd/5293520",
         "type": "rss"
       }
     ]
