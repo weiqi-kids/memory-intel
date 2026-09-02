@@ -1,0 +1,360 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:47:12.712040Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "micron-2026-09-02-016",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及先進封裝"
+      ],
+      "title": "DRAM giants target 3D stacking to break memory wall and power bottlenecks",
+      "companies": [
+        "micron",
+        "samsung",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260902PD241/dram-bandwidth-3d-data-demand-semicon-taiwan.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-02-024",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Indium CEO: packaging, cooling and power are next AI bottlenecks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260902PD231/packaging-cooling-ceo-hpc-materials.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-09-02-027",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "TSMC reportedly asks suppliers to develop 5&mu;m HBM microbumps",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260902VL218/tsmc-hbm-materials-equipment-technology.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-02-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "Sandisk says HBF can match HBM bandwidth with up to 16x the capacity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260902VL225/hbm-bandwidth-capacity-technology-flash.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "kla-2026-09-02-047",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Top Ten Seniconductor Manufacturing Equipment Companies",
+      "companies": [
+        "kla",
+        "tokyo_electron",
+        "asml"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-tenless-5-analogue-companies-2026-09/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "inventory",
+        "hbm",
+        "industry_general",
+        "advanced_packaging"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 39,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "micron",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "dell",
+        "count": 3
+      },
+      {
+        "id": "asml",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "hbm",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 101,
+    "too_old": 56,
+    "gate1_blocked": 57,
+    "gate2_blocked": 33,
+    "passed": 61,
+    "pass_rate": "29.5%",
+    "gate2_block_rate": "15.9%",
+    "gate2_samples": [
+      "2026.08.31HoldingsSCREEN to start development of optical modules for quantum computers through joint",
+      "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "Exciting updates for Sneaky Sasquatch come to Apple Arcade",
+      "September Android Drop: Remember where you put things, ease motion sickness, and more",
+      "Ask a Scientist: How do researchers use AI to predict a cyclone?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為英特爾、美光、三星相關動態：「DRAM giants target 3D stacking to break memory wall and p...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "DRAM giants target 3D stacking to break memory wall and power bottlenecks（HBM、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Indium CEO: packaging, cooling and power are next AI bottlenecks（HBM、產能、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

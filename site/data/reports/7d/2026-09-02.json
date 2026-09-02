@@ -1,0 +1,323 @@
+{
+  "date": "2026-09-02",
+  "date_range": {
+    "start": "2026-08-27",
+    "end": "2026-09-02"
+  },
+  "generated_at": "2026-09-02T12:47:12.860881Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-27-005",
+      "date": "2026-08-27",
+      "title": "Issues Stack Up With More HBM Layers",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "micron",
+      "company_b": "samsung",
+      "co_mention_count": 6,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 140,
+      "last_week": 89,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": 0.08
+    },
+    "hbm": {
+      "this_week": 15,
+      "last_week": 8,
+      "week_over_week_change": "+88%",
+      "sentiment_this_week": 0.12
+    },
+    "capacity": {
+      "this_week": 21,
+      "last_week": 24,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.19
+    },
+    "advanced_packaging": {
+      "this_week": 12,
+      "last_week": 8,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.12
+    },
+    "ai_server": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.05
+    },
+    "inventory": {
+      "this_week": 9,
+      "last_week": 6,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.11
+    },
+    "earnings": {
+      "this_week": 62,
+      "last_week": 75,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.07
+    },
+    "ddr5": {
+      "this_week": 10,
+      "last_week": 1,
+      "week_over_week_change": "+900%",
+      "sentiment_this_week": 0.1
+    },
+    "capex": {
+      "this_week": 11,
+      "last_week": 14,
+      "week_over_week_change": "-21%",
+      "sentiment_this_week": 0.09
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 6,
+      "last_week": 3,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.17
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 22,
+      "sentiment_avg": 0.15,
+      "rank": 1
+    },
+    "google": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "samsung": {
+      "event_count": 13,
+      "sentiment_avg": 0.15,
+      "rank": 3
+    },
+    "skhynix": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 5
+    },
+    "ymtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "intel": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "onsemi": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 14
+    },
+    "amd": {
+      "event_count": 8,
+      "sentiment_avg": 0.31,
+      "rank": 6
+    },
+    "cxmt": {
+      "event_count": 6,
+      "sentiment_avg": 0.21,
+      "rank": 10
+    },
+    "apple": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 8
+    },
+    "micron": {
+      "event_count": 12,
+      "sentiment_avg": 0.1,
+      "rank": 4
+    },
+    "ti": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "tsmc": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 9
+    },
+    "aws": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "microsoft": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "arm": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "synopsys": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "ase": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "lenovo": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 21
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "dell": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "kla": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 29
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 291,
+        "last": 322,
+        "change_pct": -9.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-27",
+      "event_count": 53,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 61,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 14,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 12,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 51,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 53,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 47,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-27 ~ 2026-09-02）共 291 則事件，重點為「Issues Stack Up With More HBM Layers」。超微、台積電表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "輝達",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "GCP",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
