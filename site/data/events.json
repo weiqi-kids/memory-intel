@@ -1,5 +1,703 @@
 [
   {
+    "id": "nvidia-2026-09-03-001",
+    "date": "2026-09-03",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "NVIDIA to Acquire Hugging Face",
+    "summary": "Iâm excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Faceâs platform, strengthen its infrastructure and expand access to AI f",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-03-002",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Protecting Mission-Critical Data Beyond The SoC: Why Inline Memory Encryption Needs Integrity",
+    "summary": "<p>Aerospace and government systems need confidentiality, authentication, and implementation resilience for off-chip memory.</p>\n<p>The post <a href=\"https://semiengineering.com/protecting-mission-cri",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/protecting-mission-critical-data-beyond-the-soc-why-inline-memory-encryption-needs-integrity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-003",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Humanoid Compute, Security More Complex Than AVs",
+    "summary": "<p>Robots and autonomous vehicles are both edge devices, but a humanoid has wheels as well as fingers. Close interaction with humans raises the stakes. </p>\n<p>The post <a href=\"https://semiengineerin",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/humanoid-compute-security-more-complex-than-avs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-004",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Is Forcing Data Centers To Rethink Trust",
+    "summary": "<p>Exploding compute demand is exposing new gaps across the hardware supply chain, from chip identity and firmware integrity to post-quantum readiness.</p>\n<p>The post <a href=\"https://semiengineering",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/ai-is-forcing-data-centers-to-rethink-trust/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-005",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Can Go Wrong In 800VDC AI Data Centers",
+    "summary": "<p>Sparks and fires caused by higher electrical currents can cause costly outages and put people in danger. Hot chips also cause problems. </p>\n<p>The post <a href=\"https://semiengineering.com/what-ca",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/what-can-go-wrong-in-800vdc-ai-data-centers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-03-006",
+    "date": "2026-09-03",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Iconic Packard Bell brand rises from the ashes after 13 years with the DotBook 14 at IFA — colorful and affordable Intel Twin Lake laptop is Europe-only, for now",
+    "summary": "\n                             Packard Bell is back, under the wing of Acer at IFA 2026, with the Taiwanese PC maker’s unveiling of the colorful Dot family, including a laptop, headphones, input periph",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/iconic-packard-bell-brand-rises-from-the-ashes-after-13-years-with-the-dotbook-14-at-ifa-colorful-and-affordable-intel-twin-lake-laptop-is-europe-only-for-now",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-03-007",
+    "date": "2026-09-03",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "TSMC fab equipment demand nearly doubles in six months — AI surge pushes 2026 CapEx toward $64B amid tool shortages",
+    "summary": "\n                             TSMC's equipment requirements have nearly doubled in just eight months as AI demand drives an unprecedented fab expansion, yet its 2026 CapEx budget has risen by only aro",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-fab-equipment-demand-nearly-doubles-in-six-months-ai-surge-pushes-2026-capex-toward-usd64b-amid-tool-shortages",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-03-008",
+    "date": "2026-09-03",
+    "companies": [
+      "nvidia",
+      "intel",
+      "ti"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Get a DDR5 gaming PC with RTX 5060 Ti for just $1,399 — save 21% on the Intel Core Ultra 7 270K Plus-powered CyberPower system",
+    "summary": "\n                             Save $370 on a new CyberPower system with Intel Core Ultra 7 270K Plus processor and Nvidia RTX 5060 Ti graphics. \n                                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-ddr5-gaming-pc-with-rtx-5060-ti-for-just-usd1-399-save-21-percent-on-the-intel-core-ultra-7-270k-plus-powered-cyberpower-system",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-009",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CHPT spans wafer to system-level testing",
+    "summary": "Chunghwa Precision Test Tech showcased a range of test interface solutions for AI chips and high-performance computing (HPC) at SEMICON Taiwan 2026, including AI probe cards, memory probe cards, high-",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260902PD245/testing-chpt-test-interface-chips-probe.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-010",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SanDisk pushes HBF ecosystem as AI inference reshapes token economics",
+    "summary": "The rapid rise of AI inference, multimodal inputs, and AI agents is giving NAND flash a new strategic role.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260902PD243/ai-inference-sandisk-hbm-nand-flash-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-09-03-011",
+    "date": "2026-09-03",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Infineon sees AI data centers, physical AI as growth drivers",
+    "summary": "Infineon said the rapid buildout of AI data centers and emerging Physical AI applications could reshape semiconductor demand worldwide. The shift signals higher infrastructure spending, faster power t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903PD220/infineon-ai-data-center-growth-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-012",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Turing Drive highlights overseas expansion, extends invitation to global automakers",
+    "summary": "Taiwanese autonomous driving startup Turing Drive marked its eighth anniversary on August 31, with CEO David Shen highlighting at the event the company's efforts in advancing self-developed technologi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260901PD235/autonomous-driving-automakers-startup-vehicle-taipei.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-013",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China chip tool makers expand beyond import substitution at CSEAC 2026",
+    "summary": "<p class=\"P1\" data-start=\"349\" data-end=\"588\">China's semiconductor equipment industry is moving beyond replacing imported tools at mature nodes, with CSEAC 2026 highlighting deeper advances in etchin",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903VL210/equipment-thin-film-metrology-silicon-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-014",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Niching validates 500-ton press for large heat spreaders",
+    "summary": "Niching Industrial is expanding its heat-spreader capacity as AI and high-performance computing demand pushes up orders across the global semiconductor supply chain. The company said larger stamping e",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903PD221/niching-heat-spreaders-capacity-demand-chips-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-015",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Semiconductor sustainability shifts to cost control as fab resource demand surges",
+    "summary": "<p class=\"P1\" data-start=\"8953\" data-end=\"9300\">Sustainability is not just good for communities and the environment but also good for business. This is the message from a sustainability summit that to",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903VL216/sustainability-fab-cost-water-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-03-016",
+    "date": "2026-09-03",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft unveils two-segment reporting structure, standalone Azure financials",
+    "summary": "Microsoft has unveiled its consolidation of its operating segments from three down to two: Agents and Infra alongside Devices and Consumer. The tech giant also announced plans to disclose standalone q",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903VL214/microsoft-azure-revenue-business-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-03-017",
+    "date": "2026-09-03",
+    "companies": [
+      "intel",
+      "cxmt"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT expands global hiring to Japan for DDR5, LPDDR technology upgrade",
+    "summary": "<p class=\"P1\" data-start=\"0\" data-end=\"315\">Chinese DRAM maker CXMT has launched its 2027 global recruitment campaign, opening roles across circuit design, R&amp;D, mass-production technology, manufac",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903PD229/cxmt-ddr5-dram-manufacturing-talent.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-018",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan LED packaging provider Ligitek pivots to silicon photonics; 1.6T modules eye 2H27 revenue",
+    "summary": "Ligitek is accelerating its move from LED packaging into silicon photonics (SiPh) and high-speed optical communications, with 1.6T product samples already tested and volume-production equipment due fr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903PD225/ligitek-led-packaging-siph-revenue-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-03-019",
+    "date": "2026-09-03",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Zeiss deepens Taiwan bet as advanced chip packaging raises the stakes for inspection tools",
+    "summary": "Zeiss is expanding its Taiwan presence as artificial intelligence (AI) accelerates demand for smaller chips, vertical stacking, and 2.5D and 3D heterogeneous integration. The shift is increasing the n",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903PD212/carl-zeiss-3d-inspection-packaging-development-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-03-020",
+    "date": "2026-09-03",
+    "companies": [
+      "samsung",
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Huawei, Xiaomi to launch new foldable smartphones ahead of Apple",
+    "summary": "Samsung Electronics launched its new Galaxy Z series foldable smartphones, including its first wide-folding model, kicking off this year's foldable smartphone battle. With attention on the upcoming re",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260902PD247/foldable-smartphone-apple-huawei-samsung-xiaomi.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-03-021",
+    "date": "2026-09-03",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solomon leverages AI vision and optical tech to tap semiconductor inspection market",
+    "summary": "Solomon Technology, a Taiwanese artificial intelligence (AI) 3D vision company, is showcasing two key inspection applications that integrate its core AI vision and optical technologies at Semicon Taiw",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260902PD246/solomon-3d-vision-wafer-inspection-semicon-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-03-022",
+    "date": "2026-09-03",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "TSMC doubles down on equipment purchase as AI demand is outpacing semiconductor supply chain planning",
+    "summary": "TSMC says surging AI demand is stretching the global chip industry beyond its usual planning cycle, with fast-changing procurement needs, labor shortages, and infrastructure constraints affecting mark",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903PD217/tsmc-equipment-demand-supply-chain-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-09-03-023",
+    "date": "2026-09-03",
+    "companies": [
+      "skhynix",
+      "kioxia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix weighs Kioxia production tie-up in Japan",
+    "summary": "SK Group chairman Chey Tae-won has raised the possibility of jointly producing semiconductors with Japan's Kioxia, taking SK Hynix's exploration of a Japanese manufacturing base a step further by publ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260903VL212/sk-hynix-kioxia-nand-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-024",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ermenegildo Zegna N.V. 2026 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942782-ermenegildo-zegna-n-v-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-025",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chewy: Q2 Faces A Much Lower Bar, And I'm Bullish",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942610-chewy-earnings-q2-faces-much-lower-bar-a-i-am-bullish?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-026",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Five Below Q2: Continued Outperformance As Comparable Sales Growth Shines",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942757-five-below-q2-continued-outperformance-as-comparable-sales-growth-shines?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-027",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Snowflake's Hidden Warning In Q2 (Rating Downgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942748-snowflakes-hidden-warning-in-q2-rating-downgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-028",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Cintas: An Excellent Business, But The Stock Is Fully Valued",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942747-cintas-an-excellent-business-but-the-stock-is-fully-valued?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-029",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lazard U.S. Convertibles Portfolio Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942742-lazard-us-convertibles-portfolio-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-030",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Grafton Group plc (GROUF) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942701-grafton-group-plc-grouf-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-031",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "NetApp Stock Is Buyable Here, Better In The $140s",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942752-netapp-stock-is-buyable-here-better-in-the-140s?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-032",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "First American Financial: Bargain Dividend Stock With AI-Fueled Upside",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942684-first-american-financial-bargain-dividend-stock-ai-fueled-upside?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-033",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Newegg’s $299 DIY Starter Kit Bundles MSI B650 Board, 16GB DDR5-6000 And 500GB SSD, Saving Builders Nearly $200",
+    "summary": "This is one of the most appealing bundle deals that saves you hundreds of dollars, enabling you to build a PC from scratch for a much lower price than you would pay for individual parts. Newegg Sells ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/newegg-sells-motherboard-16-gb-ram-500-gb-ssd-at-299/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-09-03-034",
+    "date": "2026-09-03",
+    "companies": [
+      "screen",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Acer’s Predator Atlas 7 Shrinks To A 7-Inch 120Hz Screen But Keeps The Same Intel Arc G3 Extreme Silicon",
+    "summary": "Acer has launched another Arc G3-based gaming handheld, but with a smaller screen. Acer Launches Predator Atlas 7 Gaming Handheld, Featuring Intel Arc G3/G3 Extreme, Memory Up To 24 GB, and a 7-inch 1",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/acer-launches-predator-atlas-7-gaming-handheld/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-03-035",
+    "date": "2026-09-03",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ACEMAGIC’s F9A Ryzen AI MAX+ 495 Mini Workstation Delivers Up To 60% Better AI Model Support Over 395, As it Packs 192 GB Memory",
+    "summary": "ACEMAGIC has unveiled its F9A Mini Workstation, which houses up to the AMD Ryzen AI MAX+ PRO 495 chip &#38; 192 GB of memory. Mini PC &#38; Workstation Popularity Grows As Local AI &#38; Agents Become",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/acemagic-f9a-ryzen-ai-max-495-mini-workstation-192-gb-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-09-03-036",
+    "date": "2026-09-03",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Skeleton and Infineon hook up on SSTs",
+    "summary": "<p>Infineon and supercapacitor specialist Skeleton Technologies have signed an MoU to collaborate on high-efficiency, resilient power solutions for modern datacentres. The rapid growth of AI, increasi",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/skeleton-and-infineon-hook-up-on-ssts-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-03-037",
+    "date": "2026-09-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI’s Effect On Consumer Electronics  Prices",
+    "summary": "<p>The massive investments in AI infrastructure have spillover effects on other markets. One of these markets is consumer electronics. As component costs rise, major manufacturers have increased U.S. ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/ais-effect-on-consumer-electronics-prices-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "google-2026-09-02-001",
     "date": "2026-09-02",
     "companies": [
@@ -897,6 +1595,329 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-tenless-5-analogue-companies-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-02-048",
+    "date": "2026-09-02",
+    "companies": [
+      "intel",
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp\">Gemini 3.8 Flash and 3.8 Flash Cyber deliver next-generation int",
+    "sources": []
+  },
+  {
+    "id": "google-2026-09-02-049",
+    "date": "2026-09-02",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MR.BEAST_Resize_16x9.max-600x600.format-webp.webp\">Google is kicking off a multi-year partnership with Jimmy Donaldson, better",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-02-050",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mercedes Spinout Athos Closes Its Doors",
+    "summary": "\n\t\t\t\t\t\t<p>The startup was unable to secure the financing required to continue commercialising its chiplet-based technology </p>\n<p>The post <a href=\"https://www.eetimes.com/mercedes-spinout-athos-clos",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/mercedes-spinout-athos-closes-its-doors/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-051",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Manufacturing Growth Slows in August Amid Supply and Cost Strains",
+    "summary": "\n\t\t\t\t\t\t<p>U.S. manufacturing growth continued for the eighth consecutive month in August, though momentum slowed due to supply chain and cost pressures.</p>\n<p>The post <a href=\"https://www.eetimes.co",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/manufacturing-growth-slows-in-august-amid-supply-and-cost-strains/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-02-052",
+    "date": "2026-09-02",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Microsoft will expand Windows 11 Memory Integrity feature to more PCs starting in October — security feature reduces gaming performance on some systems",
+    "summary": "\n                             Microsoft will begin enabling Memory Integrity by default on more eligible Windows PCs through quality updates in October, expanding kernel-level protection while preserv",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/software/windows/microsoft-will-expand-windows-11-memory-integrity-feature-to-more-pcs-starting-in-october-security-feature-reduces-gaming-performance-on-some-systems",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-02-053",
+    "date": "2026-09-02",
+    "companies": [
+      "tsmc",
+      "micron"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The current state of Hybrid Bonding in 2026 — TSMC sits at 6 microns and the HBM delay that nobody expected",
+    "summary": "\n                             Hybrid bonding, the copper-to-copper joining technique that replaces solder microbumps in 3D chip stacks, is in high-volume production on logic and freshly postponed on m",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/hybrid-bonding-roadmap-examined",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-054",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "GoPro to expand into AI data centers after $285 million merger with optical-photonics company — move to solve camera maker’s financial woes, move manufacturing back into the US",
+    "summary": "\n                             GoPro is merging with optical-photonics company Starman Optical in a deal worth at least $285 million. This move will wipe out the company's $92 million outstanding debt,",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/gopro-to-expand-into-ai-data-centers-after-usd285-million-merger-with-optical-photonics-company-move-to-solve-camera-makers-financial-woes-move-manufacturing-back-into-the-us",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-02-055",
+    "date": "2026-09-02",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung teases new HBM5 with twice the performance of HBM4E —ambitious data transfer rates could hint at 4,096-bit interface",
+    "summary": "\n                             Samsung expects HBM5 to deliver 4 TB/s of bandwidth per stack by late 2020s, which will enable AI accelerators with aggregated memory bandwidth of around 100 TB/s. \n     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/samsung-teases-new-hbm5-with-twice-the-performance-of-hbm4e-ambitious-data-transfer-rates-could-hint-at-4-096-bit-interface",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-056",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Tape companies ship 160 exabytes of storage in 2025, AI data demands drive 'unprecedented data growth' — capacity shipped in Q1 2026 rose 57% YOY driven by AI, LTO‑9 momentum, and early LTO‑10 uptake",
+    "summary": "\n                             Tape storage companies celebrate capacity shipment growth of 57% YOY for Q1 2026. \n                                                                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/storage/tape-companies-ship-160-exabytes-of-storage-in-2025-ai-data-demands-drive-unprecedented-data-growth-capacity-shipped-in-q1-2026-rose-57-percent-yoy-driven-by-ai-lto-9-momentum-and-early-lto-10-uptake",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-02-057",
+    "date": "2026-09-02",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Apple’s A20 Pro Front Side Die Shot Shows New Record For GPU Core Count To Deliver Better Graphics Performance, New Packaging Allows For Increased Memory Bus Width",
+    "summary": "The upcoming “Surprise and Shine” event&#160;scheduled for September 9 will showcase Apple’s first-ever 2nm chipset for the iPhone, the A20 Pro. We’ve already had our initial glimpse at the SoC’s pack",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-a20-pro-die-shot-record-gpu-cores-wider-memory-bus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-09-02-058",
+    "date": "2026-09-02",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Trails ASML’s Advanced EUV Chip Making Technology By 10 Years, Says Investment Bank UBS As Progress Is Stuck At ASML’s 2004 Level",
+    "summary": "China is unlikely to match Dutch chip manufacturing ASML's EUV machines for ten years, suggests a new report from investment bank UBS. EUV lithography scanners are a key link in the global advanced ch",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/china-trails-asmls-advanced-euv-chip-making-technology-by-10-years-says-investment-bank-ubs-as-progress-is-stuck-at-asmls-2004-level/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-059",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Alibaba’s Qwen-3.8-Max-0902 Debuts With The Weirdest Flex Ever: Matches Fable 5 In Capabilities With Merely An Update And Without Jumping To A New Version Number",
+    "summary": "China's AI labs are catching up to their US counterparts so fast that they don't even need a new version number to showcase significantly amped up capabilities, as Alibaba appears to have done by debu",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/alibabas-qwen-3-8-max-0902-debuts-with-the-weirdest-flex-ever-matches-fable-5-in-capabilities-with-merely-an-update-and-without-jumping-to-a-new-version-number/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-02-060",
+    "date": "2026-09-02",
+    "companies": [
+      "nvidia",
+      "ti"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "New RTX 50 Series Price Hike To Hurt Mid-Range Segment As ASUS And Galax Decide To Increase GPU Prices By Up To $74",
+    "summary": "This might be the 3rd or the 4th price hike this year, if we recall correctly, and three SKUs will be affected. NVIDIA Board Partners Implement New Price Hikes as Memory Becomes More Expensive; RTX 50",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/asus-and-galax-implement-another-gpu-price-hike-by-up-to-74-dollars/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-02-061",
+    "date": "2026-09-02",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google Is Now Pulling DDR4 Modules Out Of Retired Servers And Reusing Them In New AI Servers",
+    "summary": "The ongoing constraints in the DRAM sphere are now forcing AI hyperscalers to resort to quirky hacks just to get their hands on desperately needed memory, as Google appears to be doing with its retire",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/google-is-now-pulling-ddr4-modules-out-of-retired-servers-and-reusing-them-in-new-ai-servers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-02-062",
+    "date": "2026-09-02",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Acer Reportedly Swapped Factory Liquid Metal With Arctic MX-4 During RMA, Sending Redditor’s Core i9 CPU To 102°C",
+    "summary": "This Redditor reportedly got his laptop back from Acer with the stock liquid metal swapped with a thermal paste. User Sends Acer Laptop for RMA Due to Overheating Issues; Company Reportedly Sends it B",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/acer-swaps-liquid-metal-with-thermal-paste-on-users-laptop/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-02-063",
+    "date": "2026-09-02",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
+    "summary": " AI model scores well, runs fast, and doesn't cost too much (yet) ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-02-064",
+    "date": "2026-09-02",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft will stop finishing your sentences in Word and Outlook",
+    "summary": " Predictive text remains available, but users will have to invite it into their workflow ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/02/microsoft-will-stop-finishing-your-sentences-in-word-and-outlook/5293860",
         "type": "rss"
       }
     ]
