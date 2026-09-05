@@ -1,0 +1,333 @@
+{
+  "date": "2026-09-05",
+  "date_range": {
+    "start": "2026-08-30",
+    "end": "2026-09-05"
+  },
+  "generated_at": "2026-09-05T11:51:59.936477Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-08-31-012",
+      "date": "2026-08-31",
+      "title": "Gudeng sees double-digit advanced packaging growth from 2027",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "cxmt",
+      "subject_type": "company",
+      "this_week_sentiment": 0.29,
+      "last_week_sentiment": -0.17,
+      "delta": 0.46,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "micron",
+      "company_b": "nvidia",
+      "co_mention_count": 4,
+      "rank": 3
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "skhynix",
+      "co_mention_count": 3,
+      "rank": 4
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "hbm": {
+      "this_week": 16,
+      "last_week": 7,
+      "week_over_week_change": "+129%",
+      "sentiment_this_week": 0.08
+    },
+    "capacity": {
+      "this_week": 18,
+      "last_week": 22,
+      "week_over_week_change": "-18%",
+      "sentiment_this_week": 0.22
+    },
+    "industry_general": {
+      "this_week": 124,
+      "last_week": 109,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.11
+    },
+    "inventory": {
+      "this_week": 11,
+      "last_week": 6,
+      "week_over_week_change": "+83%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 47,
+      "last_week": 69,
+      "week_over_week_change": "-32%",
+      "sentiment_this_week": 0.12
+    },
+    "ddr5": {
+      "this_week": 12,
+      "last_week": 5,
+      "week_over_week_change": "+140%",
+      "sentiment_this_week": 0.13
+    },
+    "advanced_packaging": {
+      "this_week": 12,
+      "last_week": 9,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.3
+    },
+    "shortage": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.38
+    },
+    "capex": {
+      "this_week": 11,
+      "last_week": 12,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.0
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.12
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 11,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": 0.17
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "synopsys": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "cxmt": {
+      "event_count": 6,
+      "sentiment_avg": 0.29,
+      "rank": 9
+    },
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "nvidia": {
+      "event_count": 25,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 8
+    },
+    "micron": {
+      "event_count": 11,
+      "sentiment_avg": 0.16,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 19,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "google": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "tsmc": {
+      "event_count": 8,
+      "sentiment_avg": 0.19,
+      "rank": 6
+    },
+    "aws": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "apple": {
+      "event_count": 8,
+      "sentiment_avg": 0.12,
+      "rank": 7
+    },
+    "skhynix": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "ase": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "onsemi": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 19
+    },
+    "lenovo": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 20
+    },
+    "samsung": {
+      "event_count": 15,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 25
+    },
+    "ti": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "dell": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 11
+    },
+    "kla": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    },
+    "infineon": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 22
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 29
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 306,
+        "last": 297,
+        "change_pct": 3.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-30",
+      "event_count": 12,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 51,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 53,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 64,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 54,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 64,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-30 ~ 2026-09-05）共 306 則事件，重點為「Gudeng sees double-digit advanced packaging gro...」。超微、CXMT表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "CXMT",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "微軟",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
