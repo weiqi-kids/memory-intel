@@ -1,0 +1,152 @@
+{
+  "date": "2026-09-06",
+  "generated_at": "2026-09-06T12:09:48.722582Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-06-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "涉及產能"
+      ],
+      "title": "Ermenegildo Zegna: Core Margin Expansion And Better FCF Support A Buy (Rating Upgrade)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4943395-ermenegildo-zegna-stock-core-margin-expansion-and-better-fcf-support-buy-rating-upgrade?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "5 Stocks I Want If Oil Hits $100",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4943037-5-stocks-i-want-if-oil-hits-100?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-09-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AMD: I'm Calling The First Peak Of The AI Mountain Range",
+      "companies": [
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4943404-amd-im-calling-the-first-peak-of-the-ai-mountain-range?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "inventory",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 132,
+    "too_old": 59,
+    "gate1_blocked": 61,
+    "gate2_blocked": 36,
+    "passed": 20,
+    "pass_rate": "11.4%",
+    "gate2_block_rate": "20.5%",
+    "gate2_samples": [
+      "2026.08.31HoldingsSCREEN to start development of optical modules for quantum computers through joint",
+      "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "âNBA 2K27â With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "Create your best tracks yet with Lyria 3.5 in Gemini."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為超微相關動態：「Ermenegildo Zegna: Core Margin Expansion And Better FCF S...」。主要關注主題為庫存、產能，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ermenegildo Zegna: Core Margin Expansion And Better FCF Support A Buy (Rating...（產能）",
+        "level": "green"
+      },
+      {
+        "text": "5 Stocks I Want If Oil Hits $100（庫存）",
+        "level": "green"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
