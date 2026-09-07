@@ -1,0 +1,305 @@
+{
+  "date": "2026-09-07",
+  "date_range": {
+    "start": "2026-09-01",
+    "end": "2026-09-07"
+  },
+  "generated_at": "2026-09-07T14:14:46.790737Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "micron-2026-09-02-016",
+      "date": "2026-09-02",
+      "title": "DRAM giants target 3D stacking to break memory wall and power bottlenecks",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "advanced_packaging": {
+      "this_week": 10,
+      "last_week": 9,
+      "week_over_week_change": "+11%",
+      "sentiment_this_week": 0.26
+    },
+    "industry_general": {
+      "this_week": 115,
+      "last_week": 121,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.09
+    },
+    "hbm": {
+      "this_week": 15,
+      "last_week": 7,
+      "week_over_week_change": "+114%",
+      "sentiment_this_week": 0.08
+    },
+    "capex": {
+      "this_week": 12,
+      "last_week": 12,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 6,
+      "last_week": 10,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.17
+    },
+    "earnings": {
+      "this_week": 44,
+      "last_week": 76,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": 0.15
+    },
+    "ddr5": {
+      "this_week": 13,
+      "last_week": 7,
+      "week_over_week_change": "+86%",
+      "sentiment_this_week": 0.08
+    },
+    "inventory": {
+      "this_week": 11,
+      "last_week": 8,
+      "week_over_week_change": "+38%",
+      "sentiment_this_week": -0.09
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.12
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capacity": {
+      "this_week": 19,
+      "last_week": 23,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.18
+    },
+    "shortage": {
+      "this_week": 5,
+      "last_week": 4,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.3
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "skhynix": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 4
+    },
+    "nvidia": {
+      "event_count": 21,
+      "sentiment_avg": 0.09,
+      "rank": 1
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "intel": {
+      "event_count": 19,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "samsung": {
+      "event_count": 18,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "cxmt": {
+      "event_count": 3,
+      "sentiment_avg": 0.42,
+      "rank": 12
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "tsmc": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "micron": {
+      "event_count": 9,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "apple": {
+      "event_count": 8,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 8
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "google": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "lam_research": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "dell": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 9
+    },
+    "microsoft": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "kla": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "tokyo_electron": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "infineon": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 11
+    },
+    "kioxia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "screen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 308,
+        "last": 293,
+        "change_pct": 5.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-01",
+      "event_count": 53,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 64,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 54,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-09-04",
+      "event_count": 64,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-05",
+      "event_count": 25,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-06",
+      "event_count": 7,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-07",
+      "event_count": 41,
+      "sentiment_avg": 0.11
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-01 ~ 2026-09-07）共 308 則事件，重點為「DRAM giants target 3D stacking to break memory ...」。美光、蘋果表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "SK海力士",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 21 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "英特爾",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
