@@ -1,0 +1,422 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:53:29.634553Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-09-08-026",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "ASML lines up Intel, TSMC and Samsung behind 12-inch masks &mdash; TSMC alone sets a timeline",
+      "companies": [
+        "intel",
+        "tsmc",
+        "asml",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "intel",
+          "tsmc",
+          "samsung"
+        ],
+        "suppliers": [
+          "asml"
+        ]
+      },
+      "topics": [
+        "capex",
+        "euv",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260908VL208/tsmc-asml-12-inch-production-6-inch.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-08-019",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "PCB maker Zhen Ding tops US$634M August revenue on AI server, optical module demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "inventory",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260908PD224/pcb-zhen-ding-revenue-demand-ai-server.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "asml-2026-09-08-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Electronics and ASML expand strategic collaboration for next-generation semiconductor manufacturing",
+      "companies": [
+        "asml",
+        "onsemi",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "samsung"
+        ],
+        "suppliers": [
+          "asml"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "asml-2026-09-08-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing",
+      "companies": [
+        "asml",
+        "onsemi",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "samsung"
+        ],
+        "suppliers": [
+          "asml"
+        ]
+      },
+      "topics": [
+        "euv",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-08-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ma-tek August revenue hits record, eyes U.S. FA, MA service in 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260908PD236/revenue-packaging-demand-testing-north-america.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.16,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.44,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "asml",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "euv",
+        "capex",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "asml",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "euv",
+        "capex"
+      ]
+    },
+    {
+      "from": "asml",
+      "to": "onsemi",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "euv",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "onsemi",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "euv",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "samsung",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "euv",
+        "capex"
+      ]
+    },
+    {
+      "from": "asml",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "euv",
+        "capex"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 16,
+      "neutral": 28,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "samsung",
+        "count": 7
+      },
+      {
+        "id": "asml",
+        "count": 6
+      },
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "tsmc",
+        "count": 4
+      },
+      {
+        "id": "onsemi",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "inventory",
+        "count": 6
+      },
+      {
+        "id": "euv",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 102,
+    "too_old": 58,
+    "gate1_blocked": 57,
+    "gate2_blocked": 37,
+    "passed": 53,
+    "pass_rate": "25.9%",
+    "gate2_block_rate": "18.0%",
+    "gate2_samples": [
+      "ASML begins construction of new Eindhoven campus, strengthening its presence in the Brainport region",
+      "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "âNBA 2K27â With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "Our new contrail avoidance trial in Asia-Pacific"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為三星、艾司摩爾、英特爾相關動態：「ASML lines up Intel, TSMC and Samsung behind 12-inch mask...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ASML lines up Intel, TSMC and Samsung behind 12-inch masks &mdash; TSMC alone...（資本支出、EUV、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "PCB maker Zhen Ding tops US$634M August revenue on AI server, optical module ...（AI 伺服器、庫存、財報）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

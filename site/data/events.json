@@ -1,5 +1,904 @@
 [
   {
+    "id": "intel-2026-09-08-001",
+    "date": "2026-09-08",
+    "companies": [
+      "intel",
+      "asml"
+    ],
+    "topics": [
+      "capex",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Foundry and ASML Collaborate to Accelerate Industry Readiness for High-NA EUV",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "asml-2026-09-08-002",
+    "date": "2026-09-08",
+    "companies": [
+      "asml",
+      "onsemi",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung Electronics and ASML expand strategic collaboration for next-generation semiconductor manufacturing",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "asml-2026-09-08-003",
+    "date": "2026-09-08",
+    "companies": [
+      "asml",
+      "onsemi",
+      "samsung"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing",
+    "summary": "Samsung joins industry initiative for 12-inch photomask platform for High&#160;NA EUV Samsung reinforces leadership with planned High NA EUV adoptionfor...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-08-004",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Smart Outlier Detection",
+    "summary": "<p>Just because a chip is deemed good doesn't mean it will work as expected.</p>\n<p>The post <a href=\"https://semiengineering.com/smart-outlier-detection/\">Smart Outlier Detection</a> appeared first o",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/smart-outlier-detection/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-005",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Research Bits: Sept. 8",
+    "summary": "<p>Carbon insulator for interconnects; high-temperature SiC JFETs; VCT dielectric.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-sept-8-2/\">Research Bits: Sept. 8</a> appeared fir",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/research-bits-sept-8-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-006",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Sept. 8",
+    "summary": "<p>HBF for LLM inference; M3D SRAM with BEOL pass-gates at 2nm; distributed GPU architectures; hybrid HBM-HBF memory; GaN-on-silicon polarization superjunctions; programmable silicon photonics; Al dop",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-007",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vintage Emulator Studio recreates 44 legendary synths down to the chip level — free MAME-powered component-level emulation should offer exceedingly accurate sound",
+    "summary": "\n                             Vintage Emulator Studio brings iconic vintage synths and samplers to life — MAME-powered component-level emulation should offer exceedingly accurate sound \n              ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/retro-gaming/vintage-emulator-studio-recreates-44-legendary-synths-down-to-the-chip-level-free-mame-powered-component-level-emulation-should-offer-exceedingly-accurate-sound",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-08-008",
+    "date": "2026-09-08",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Get a 32GB DDR5 gaming PC for just $1,379 at Newegg — $420 discount includes 20-core Intel CPU and RTX 5060",
+    "summary": "\n                             Save over $400 on this DDR5 gaming PC with RTX 5060 and Core i7-14700F. \n                                                                                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/get-a-32gb-ddr5-gaming-pc-for-just-usd1-379-at-newegg-usd420-discount-includes-20-core-intel-cpu-and-rtx-5060",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-009",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This $389 32GB DDR5 RAM kit is the cheapest on sale right now for a gaming PC upgrade — higher-spec RAM for $415 gives PC builders rare choice as the AI boom continues to force memory prices higher",
+    "summary": "\n                             These DDR5 32GB memory kits are the cheapest you'll find on sale right now, starting at $389. \n                                                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ddr5/this-usd389-32gb-ddr5-ram-kit-is-the-cheapest-on-sale-right-now-for-a-gaming-pc-upgrade-higher-spec-ram-for-usd415-gives-pc-builders-rare-choice-as-the-ai-boom-continues-to-force-memory-prices-higher",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-010",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thailand asks data center operators to suspend 49 buildouts until legal framework is complete — new legislation is supposed to create 'airtight' requirements for large-scale data centers",
+    "summary": "\n                             Thailand asks datacenter operators to suspend buildouts until legal framework is complete — new legislation is supposed to create \"airtight\" requirements for large-scale ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/thailand-asks-datacenter-operators-to-suspend-buildouts-until-legal-framework-is-complete-new-legislation-is-supposed-to-create-airtight-requirements-for-large-scale-datacenters",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-011",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "German scammer dupes two different buyers into spending thousands on hollow RTX 5090 GPUs — stripped-out cards netted fraudster $5,000 despite being worthless",
+    "summary": "\n                             Graphics card scams without the core and memory chips are spreading worldwide, with the latest report coming from Germany. \n                                              ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/german-scammer-dupes-two-different-buyers-into-spending-thousands-on-hollow-rtx-5090-gpus-stripped-out-cards-netted-fraudster-usd5-000-despite-being-worthless",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-012",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Belgian-Chinese semiconductor researcher arrested over alleged GaN trade-secret theft — prosecutors suspect BelGaN insiders transferred chip IP to China before the company collapsed",
+    "summary": "\n                             Belgian authorities have arrested a former BelGaN researcher on suspicion of industrial espionage, alleging that proprietary gallium nitride semiconductor technology was ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/belgian-chinese-semiconductor-researcher-arrested-over-alleged-gan-trade-secret-theft-prosecutors-suspect-belgan-insiders-transferred-chip-ip-to-china-before-the-company-collapsed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-08-013",
+    "date": "2026-09-08",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel surpasses one million High-NA EUV wafers processed, outpaces the rest of the industry combined — company also trailblazing giant 6×12 photomasks to speed production and lower costs",
+    "summary": "\n                             Intel is leading the semiconductor industry with High-NA fleet and process-maturity milestone as it reaches 1 million wafers processed using High-NA tools, moves forward ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-surpasses-one-million-high-na-euv-wafers-processed-outpaces-the-rest-of-the-industry-combined-company-also-trailblazing-giant-6-12-photomasks-to-speed-production-and-lower-costs1",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-09-08-014",
+    "date": "2026-09-08",
+    "companies": [
+      "arm",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Arm debuts next-gen semi-custom Neoverse CSS N4 ‘Ranger’ platform — compute subsystem packs up to 128 cores per die on TSMC N3P",
+    "summary": "\n                             Arm’s new Neoverse CSS N4 platform can pack up to 128 cores per die and 256 MB of L3 cache, representing a large increase in support over the previous Neoverse CSS N2 pla",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/arm-debuts-next-gen-semi-custom-neoverse-css-n4-ranger-platform-compute-subsystem-packs-up-to-128-cores-per-die-on-tsmc-n3p",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-015",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Kian Shen eyes stronger 3Q26 on chassis, lightweight frames, Lean3",
+    "summary": "Taiwan's Kian Shen is counting on chassis, lightweight panel frames, and the Lean3 electric vehicle to drive growth, with third-quarter 2026 performance expected to improve from the previous quarter a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260907PD210/taiwan-chassis-production-growth-electric-bus.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-016",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Ma-tek August revenue hits record, eyes U.S. FA, MA service in 2027",
+    "summary": "MA-tek, a semiconductor testing and analysis company, reported August revenue of NT$565 million, up 17.78% from a year earlier and marking a record high for the sixth straight month. Revenue for the f",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD236/revenue-packaging-demand-testing-north-america.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-017",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AIDC wins 20-year Bombardier contract to expand business jet work",
+    "summary": "Aerospace Industrial Development Corporation (AIDC) said on September 7 that it won a 20-year full-life-cycle contract from Canadian aerospace group Bombardier for the Challenger 3500 business jet. Th",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260907PD236/aidc-business-taiwan-award.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-09-08-018",
+    "date": "2026-09-08",
+    "companies": [
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US chip tariffs raise stakes for Samsung, SK Hynix's US memory plans",
+    "summary": "South Korea and the US are discussing semiconductor investments in the US as part of broader bilateral negotiations, bringing US chip tariff policy closer to the investment decisions facing Samsung El",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260907VL214/samsung-investment-sk-hynix-production-policy.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-019",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "inventory",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "PCB maker Zhen Ding tops US$634M August revenue on AI server, optical module demand",
+    "summary": "PCB maker Zhen Ding Technology (ZDT) said business momentum is accelerating as demand strengthens during the traditional peak season. In addition to continued stocking for new mobile communications pr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD224/pcb-zhen-ding-revenue-demand-ai-server.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-09-08-020",
+    "date": "2026-09-08",
+    "companies": [
+      "screen",
+      "apple",
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xiaomi debuts 18 fold to challenge Huawei and Samsung in wide-screen foldable race",
+    "summary": "The flagship foldable market has reached a pivotal turning point as tech giants abandon tall, narrow cover screens in favor of wider aspect ratios and custom processing hardware. Xiaomi's newly launch",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908VL214/foldable-xiaomi-flagship-huawei-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-021",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US chip investment push puts ownership at center of Korea's $200 billion deal",
+    "summary": "<p class=\"P1\" data-start=\"278\" data-end=\"497\">A US push for additional Korean semiconductor manufacturing investment has entered bilateral negotiations just as the first project under South Korea's US",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908VL209/samsung-sk-hynix-manufacturing-investment-funding-usa.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-08-022",
+    "date": "2026-09-08",
+    "companies": [
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung speeds silicon photonics test plan with TSMC-vetted probe vendors",
+    "summary": "Samsung Electronics has moved to accelerate its silicon photonics push by using the same test partners selected by Taiwan Semiconductor Manufacturing Co. for key validation work, according to <em>The ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD221/samsung-silicon-photonics-probe-testing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-09-08-023",
+    "date": "2026-09-08",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT sees tight DRAM supply through 2H26, accelerates server memory and China-made tool validation",
+    "summary": "Chinese DRAM maker ChangXin Memory Technologies (CXMT) expects global memory supply to remain tight through the second half of 2026, with AI-driven demand supporting prices while the company expands c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908VL204/cxmt-dram-demand-capacity-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-08-024",
+    "date": "2026-09-08",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung boosts Galaxy A series output as rivals cut lower-end phones",
+    "summary": "Samsung Electronics has moved to expand production of mid- to low-end smartphones from August to November 2026, according to South Korean media <em>Maeil Business Newspaper</em>. The plan comes as ris",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD225/samsung-production-galaxy-2026-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-025",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ChenFull Precision expands from defense and semiconductor equipment into quantum computing",
+    "summary": "ChenFull Precision has expanded rapidly in recent years from traditional precision manufacturing operations such as welding and surface treatment into the semiconductor process equipment supply chain.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD219/equipment-quantum-computing-business-revenue-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-08-026",
+    "date": "2026-09-08",
+    "companies": [
+      "intel",
+      "tsmc",
+      "asml",
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ASML lines up Intel, TSMC and Samsung behind 12-inch masks &mdash; TSMC alone sets a timeline",
+    "summary": "ASML issued joint statements with Intel Foundry, TSMC and Samsung Electronics on September 8, converging the three leading-edge chipmakers on a transition from the semiconductor industry's decades-old",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908VL208/tsmc-asml-12-inch-production-6-inch.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-027",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Xiaomi debuts Xiaomi 18 Fold and mid-to-high-end lineup to defend 100M shipment target amid rising memory costs",
+    "summary": "Xiaomi unveiled its new wide-fold Xiaomi 18 Fold on the evening of the 7th to address demand and competition in the foldable smartphone market. Despite a recent smartphone market slowdown caused by su",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD209/xiaomi-foldable-smartphone-shipments-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-028",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Ennoconn reports August growth as Kontron stake rises to 48.36%",
+    "summary": "Industrial computer maker Ennoconn Technologies said its business recorded growth in August 2026 across all three of its main business units, supported by stronger demand for Physical AI applications ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD223/ennoconn-growth-kontron-revenue-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-029",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Advantech to open North America HQ and expand US manufacturing",
+    "summary": "Advantech will open its new North America headquarters campus in Tustin, California, on October 21, Taipei time, adding localized manufacturing and service capacity as demand linked to AI deployment c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD203/advantech-north-america-manufacturing-growth-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-030",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Chevron's Project Kilby, Venezuela, And Why The Stock Is So Appealing Here",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4943782-chevrons-project-kilby-venezuela-and-why-the-stock-is-so-appealing-here?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-031",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Century Value Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4943801-american-century-value-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-032",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Columbia Select Mid Cap Growth Fund Q2 2026 Portfolio Review",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4943791-columbia-select-mid-cap-growth-fund-q2-2026-portfolio-review?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-033",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Columbia Select Mid Cap Growth Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4943789-columbia-select-mid-cap-growth-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-034",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Semiconductor ETFs: The Good, The Bad, And The Ugly",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4942766-semiconductor-etfs-the-good-the-bad-and-the-ugly?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-09-08-035",
+    "date": "2026-09-08",
+    "companies": [
+      "ti",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA RTX 5070 Reportedly Gets GB205 Replaced By Bigger GB203 Die In A New Variant",
+    "summary": "NVIDIA might be preparing a new variant of the GeForce RTX 5070 by using the bigger GB203 die. GeForce RTX 5070 Reportedly Gets a New Variant, Featuring a Cut-Down GB203 Die From RTX 5070 Ti It's not ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-rtx-5070-reportedly-gets-gb205-replaced-by-bigger-gb203-die/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-08-036",
+    "date": "2026-09-08",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Expected To Raise Its CPU Prices By Up To 10% In Early October, Prioritizing Profitability",
+    "summary": "It appears that Intel will now focus more on CPUs that bring higher profits, shifting its focus from low-margin chips. Intel is Reportedly Transitioning to a New Business Strategy, Prioritizing CPUs W",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-expected-to-raise-its-cpu-prices-by-up-to-10-in-early-october/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-037",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cinder City Q&A: NC Locks In Premium Price and PC-First Launch, as the Alpha Is Set for Q4 2026",
+    "summary": "I played Cinder City at gamescom 2025, back when NC had only just given Project LLL a real name, and came away describing it as a solid third-person open world shooter with heavy The Division influenc",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cinder-city-qa-premium-price-alpha-q4/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-09-08-038",
+    "date": "2026-09-08",
+    "companies": [
+      "cxmt",
+      "asml",
+      "ymtc"
+    ],
+    "topics": [
+      "capacity",
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report: CXMT and YMTC Stockpile Three Years of ASML DUV Machines as China Races to Beat Export Limits",
+    "summary": "Chinese chip manufacturers CXMT and YMTC have stocked up on deep ultraviolet (DUV) lithography machines to ensure their expansion for the next three years, according to a report in the Financial Times",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/report-cxmt-and-ymtc-stockpile-three-years-of-asml-duv-machines-as-china-races-to-beat-export-limits/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-039",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Afterworld’s Post-Apocalyptic North America Rewrites Itself Every Run, as One Game’s Safe City Becomes the Next’s Irradiated Wasteland",
+    "summary": "When it was announced at Gamescom, I mentioned in my piece that I had been able to get hands-on with Afterworld. This is the case. In addition to the roughly three hours I spent on the game in Stockho",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/afterworld-very-early-hands-on/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-040",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "HPE makes its “unified storage” claim real as B10000 R6 hits GA",
+    "summary": " PARTNER CONTENT: Pairs block and adjacent file workloads with independent scaling of performance and capacity ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/storage/2026/09/08/partner-content-hpe-makes-its-unified-storage-claim-real-as-b10000-r6-hits-ga/5294566",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-041",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei proudly shows off an entirely un-American chip",
+    "summary": " Resistance is futile ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/09/08/huawei-proudly-shows-off-an-entirely-un-american-chip/5294900",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-042",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "EnSilica eyes EU growth with Space & Communications centre in Milan",
+    "summary": "<p>EnSilica, the mixed-signal asic specialist, is opening its Space &#38; Communications Semiconductor Centre of Excellence in Milan. The centre will initially recruit 20 specialist modem and mmWave e",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/ensilica-eyes-eu-growth-with-space-communications-centre-in-milan-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-08-043",
+    "date": "2026-09-08",
+    "companies": [
+      "tsmc",
+      "asml"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASML and TSMC to lead transition to 12-inch photomasks for High-NA EUV",
+    "summary": "<p>ASML and TSMC have announced a collaborative initiative to lead the semiconductor industry’s transition to a larger-format Extreme Ultraviolet (EUV) lithography photomask. While High NA EUV will be",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/asml-and-tsmc-to-lead-transition-to-12-inch-photomasks-for-high-na-euv-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-044",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Astute Group transitions leadership",
+    "summary": "<p>Astute Group has announced a leadership transition. Geoff Hill, founder and Managing Director, becomes Chairman. In this role, Geoff will continue to shape the Group’s long-term strategy, providing",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/astute-group-transitions-leadership-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-045",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q2 DRAM contract price up 59.5% QoQ",
+    "summary": "<p>Q2 DRAM contract prices were up 59.5% QoQ pushing DRAM quarterly revenue to nearly $154.73 billion, reports TrendForce. Suppliers’ inventories remain at historic lows, with additional supply mainly",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/q2-dram-contract-price-up-59-5-qoq-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-046",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thin film resistors enable higher power density in smaller footprints",
+    "summary": "<p>Vishay’s new series of thin film chip resistors in 0402 and 0603 case sizes are built on an AlN substrate in SMT footprints. The Sfernice CHEP series deliver standard power [&#8230;]</p>\n<p>The pos",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/thin-film-resistors-enabling-higher-power-density-in-smaller-footprints-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-047",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "IPO Proceeds Rising",
+    "summary": "<p>Global IPO proceeds have been on the rise and stock markets in Mainland China and Hong Kong are booming especially, reports EY. While in 2024, Chinese IPO proceeds stood at $9.3 [&#8230;]</p>\n<p>Th",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/ipo-proceeds-rising-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "kioxia-2026-09-07-001",
     "date": "2026-09-07",
     "companies": [
@@ -787,6 +1686,129 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/quectel-chip-supports-frmcs-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-07-042",
+    "date": "2026-09-07",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Aion 2 Q&A: NVIDIA DLSS 5 Confirmed in the Works; Console Launch Is Coming, but Cross-Play Likely Isn’t",
+    "summary": "With Aion 2's global launch now less than a month away, NC has brought the MMORPG to gamescom 2026 with a straightforward pitch: this is the game the original Aion was always meant to be. At the begin",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/aion-2-qa-dlss-5-console-cross-play/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-09-07-043",
+    "date": "2026-09-07",
+    "companies": [
+      "cxmt",
+      "micron",
+      "apple",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CXMT All But Confirms Its Partnership With Apple, Says It’s Open To “Exploring Collaboration Opportunities With Top-Tier Customers Worldwide”",
+    "summary": "The near-constant flip-flop around Apple's potential partnership with China's DRAM giant CXMT is finally nearing a decisive resolution, with all vectors pointing to a collaboration of some sort despit",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-all-but-confirms-its-partnership-with-apple-says-its-open-to-exploring-collaboration-opportunities-with-top-tier-customers-worldwide/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-07-044",
+    "date": "2026-09-07",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "capacity",
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report: Samsung’s 4nm lines run at full tilt as HBM4 chips eat up to 50% of foundry output",
+    "summary": "With the high demand for high bandwidth memory (HBM) outpacing supply, Samsung Electronics has reportedly allocated more than 50% of its 4-nanometer capacity to making the memory chips. The report com",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/report-samsungs-4nm-lines-run-at-full-tilt-as-hbm4-chips-eat-up-to-60-of-foundry-output/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-07-045",
+    "date": "2026-09-07",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "OpenAI’s ~$1 Billion GPT-6 Astra Heralds The Age Of AGI, According To NVIDIA’s  Jensen Huang, Yet Anthropic’s Fable 5.1 Still Beats It On SWE-Bench Pro And Coding Benchmarks",
+    "summary": "OpenAI is in full-on hype mode following the release of the GPT-6 Astra model, with NVIDIA's Jensen Huang also having jumped onto the hype-heavy bandwagon just a few hours ago. And yet, as outlandish ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/openais-1-billion-gpt-6-astra-heralds-the-age-of-agi-according-to-nvidias-jensen-huang-yet-anthropics-fable-5-1-still-beats-it-on-swe-bench-pro-and-coding-benchmarks/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-07-046",
+    "date": "2026-09-07",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DRAM contract prices forecast to grow only 13-18% in Q3",
+    "summary": " PC buyers already had enough of helping to fund the AI revolution, only essential refreshes happening now ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/storage/2026/09/07/dram-contract-prices-forecast-to-grow-only-13-18-in-q3/5294776",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oracle-2026-09-07-047",
+    "date": "2026-09-07",
+    "companies": [
+      "oracle"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Oracle may be next in EU software licensing hot seat following SAP deal",
+    "summary": " Commission reportedly seeks third-party views, although no formal investigation is underway ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/software/2026/09/07/oracle-may-be-next-in-eu-software-licensing-hot-seat-following-sap-deal/5294805",
         "type": "rss"
       }
     ]
