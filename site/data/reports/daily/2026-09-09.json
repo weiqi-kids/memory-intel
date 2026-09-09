@@ -1,0 +1,358 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:58:38.675964Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-09-09-019",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及先進封裝"
+      ],
+      "title": "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix",
+      "companies": [
+        "samsung",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "kioxia-2026-09-09-023",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及價格",
+        "涉及產能"
+      ],
+      "title": "Kioxia rules out deeper SK Hynix ties, resists further NAND price hikes",
+      "companies": [
+        "kioxia",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "nand_price",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260909VL215/kioxia-sk-hynix-nand-price-manufacturing.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-09-09-036",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "Samsung and SK hynix Memory Inventories Crash Below 10 Days as AI Demand Triggers Historic Shortage, Says Report",
+      "companies": [
+        "samsung",
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-and-sk-hynix-memory-inventories-crash-below-10-days-as-ai-demand-triggers-historic-shortage-says-report/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-09-009",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI servers push Asus' August revenue up 51%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260909PD249/asus-revenue-2026-pc-guidance.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-09-017",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Ledlink Optics posts 21-month revenue high on AI server, auto demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260908PD201/revenue-ledlink-optics-ai-server-automotive-demand.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "hbm",
+        "capacity",
+        "shortage",
+        "advanced_packaging"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 12,
+      "neutral": 28,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 4
+      },
+      {
+        "id": "google",
+        "count": 3
+      },
+      {
+        "id": "skhynix",
+        "count": 3
+      },
+      {
+        "id": "kioxia",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 8
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 96,
+    "too_old": 59,
+    "gate1_blocked": 54,
+    "gate2_blocked": 43,
+    "passed": 55,
+    "pass_rate": "26.1%",
+    "gate2_block_rate": "20.4%",
+    "gate2_samples": [
+      "ASML begins construction of new Eindhoven campus, strengthening its presence in the Brainport region",
+      "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "âNBA 2K27â With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
+      "Missouri and Google partner on AI and career training"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為英特爾、三星、GCP相關動態：「Samsung turns to Japan for packaging edge, narrows HBM ga...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix（HBM、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Kioxia rules out deeper SK Hynix ties, resists further NAND price hikes（NAND 價格、產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "NAND 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

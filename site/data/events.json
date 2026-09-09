@@ -1,5 +1,837 @@
 [
   {
+    "id": "intel-2026-09-09-001",
+    "date": "2026-09-09",
+    "companies": [
+      "intel",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+    "summary": "Collaboration will focus on development and implementation of on-premises AI technologies across Samsung’s chip operations Samsung makes lead investment in...",
+    "sources": []
+  },
+  {
+    "id": "google-2026-09-09-002",
+    "date": "2026-09-09",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google deepens its commitment to Finland with a €13 billion investment in AI infrastructure",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp\">Google invests €13B in Finland to boost digital infrastructure, ",
+    "sources": []
+  },
+  {
+    "id": "screen-2026-09-09-003",
+    "date": "2026-09-09",
+    "companies": [
+      "screen",
+      "google"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Our blueprint for responsible clean energy growth in Finland",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-09-08_5.59.23_P.max-600x600.format-webp.webp\">Today Google announced new local energy partnerships — including",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-09-004",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blog Review: Sept. 9",
+    "summary": "<p>Compute vs. energy scaling; adapting to AI; fab digital twin; mobile VLM.</p>\n<p>The post <a href=\"https://semiengineering.com/blog-review-sept-9-3/\">Blog Review: Sept. 9</a> appeared first on <a h",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/blog-review-sept-9-3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-005",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BIWIN Brings Storage Solutions for AI Era at embedded world NA 2026",
+    "summary": "\n\t\t\t\t\t\t<p>Visit BIWIN at Booth #6104 during embedded world NA 2026 to explore eSSDs, embedded memory, and industrial storage built for cloud and edge applications.</p>\n<p>The post <a href=\"https://www",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/biwin-brings-storage-solutions-for-ai-era-at-embedded-world-na-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-006",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Goodram PX700 2TB SSD Review — High-end punch on a budget core",
+    "summary": "\n                             The Goodram PX700 matches good all-around performance with high power-efficiency in a cool-running package. It performs mostly like a premium drive, although pricing rema",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/goodram-px700-2tb-ssd-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-09-007",
+    "date": "2026-09-09",
+    "companies": [
+      "nvidia",
+      "ti"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia's unreleased RTX 3070 Ti 16GB comes to life thanks to a modder's crazy GDDR6 swap — Frankenstein card combines RTX 3070 PCB and new VRAM with RTX 3070 Ti GPU",
+    "summary": "\n                             A modder has recreated the never-released RTX 3070 Ti with 16GB of VRAM using GDDR6 chips instead of the GDDR6X the retail 3070 Ti actually shipped with. \n               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-unreleased-rtx-3070-ti-16gb-comes-to-life-thanks-to-a-modders-crazy-gddr6-swap-frankenstein-card-combines-rtx-3070-pcb-and-new-vram-with-rtx-3070-ti-gpu",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-008",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Big Tech eyes glacier-strewn Patagonia for building mega AI data centers — region offers 17,300 glaciers, coldness, and cheap energy, but fiber lines are scarce",
+    "summary": "\n                             Patagonia, a region of Argentina with 17,300 glaciers has the potential to turn into a data center hotspot. \n                                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/glacier-strewn-patagonia-pitches-for-mega-data-center-business-coldness-and-energy-resources-a-plus-but-poor-connectivity-issues-need-to-be-resolved",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-009",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI servers push Asus' August revenue up 51%",
+    "summary": "Asus reported consolidated revenue of NT$94.96 billion (US$3.02 billion) in August 2026, up 12.87% from July and 51.17% from a year earlier &mdash; the second-highest monthly figure in company history",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909PD249/asus-revenue-2026-pc-guidance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-09-010",
+    "date": "2026-09-09",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "OpenAI's deeper Samsung tie-up lands on a foundry that is running out of capacity",
+    "summary": "For Samsung Electronics' two loss-making logic businesses, OpenAI's declaration that it is jointly producing and researching next-generation chips with the Korean company matters less as a new logo on",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909VL233/samsung-openai-capacity-chips-2nm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-09-011",
+    "date": "2026-09-09",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI computing power propels tech sector to US$30 trillion, putting servers at the core of 2027's supply chain",
+    "summary": "Taiwan's Market Intelligence &amp; Consulting Institute (MIC) expects servers and data center supply chains to become the primary growth drivers for major information and communications technology (IC",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909PD237/mic-taiwan-2027-supply-chain-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-012",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Enterprise AI spending gives Taiwan's Systex a new growth wing",
+    "summary": "Systex reported consolidated revenue of NT$5.9 billion (approximately US$187 million) in August 2026, up 61.91% from NT$3.64 billion a year earlier. Revenue for the first eight months reached NT$38.01",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909PD245/systex-revenue-growth-taiwan-asia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-013",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Huaqin signs Nanchang projects as robotics push widens",
+    "summary": "Huaqin Technology has signed two new projects in Nanchang High-tech Zone, expanding the smart-hardware ODM group's local manufacturing base into embodied-AI robotics and data collection, according to ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909VL216/huaqin-robotics-manufacturing-odm-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-014",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Jin Lian Cheng expands into semiconductor wafer fab UPS battery recycling",
+    "summary": "Jin Lian Cheng Resources completed an upgrade to its desulfurization production line as demand increased for lead-acid battery recycling tied to high-spec uninterruptible power supply (UPS) systems us",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD205/recycling-ups-fab-wafer-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-015",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cambricon wins PyTorch Foundation board seat in bid to strengthen China AI chip software ecosystem",
+    "summary": "Chinese AI chip developer Cambricon said on September 8 that it has formally joined the PyTorch Foundation as a platinum member, the organisation's highest membership tier, securing a seat on its gove",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD231/cambricon-ai-chip-software-development-chipmakers.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-09-016",
+    "date": "2026-09-09",
+    "companies": [
+      "google",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Google steps up green power purchases in Taiwan for 24/7 carbon-free electricity",
+    "summary": "Over the past half-year, multinational companies and semiconductor suppliers have pressed the government to reduce surplus power conditions. To increase the flexibility of green power transfer and mat",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD230/google-taiwan-power-company-renewable-energy-electricity-government.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-017",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ledlink Optics posts 21-month revenue high on AI server, auto demand",
+    "summary": "Ledlink Optics reported that August revenue climbed on stronger AI server and automotive demand, with consolidated revenue reaching NT$134 million. The figure rose 3.21% from July and 20.42% from a ye",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD201/revenue-ledlink-optics-ai-server-automotive-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-018",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "China expands OLED capacity, challenging South Korea in IT and automotive display markets",
+    "summary": "South Korea's long-standing dominance in the global display market is facing an aggressive challenge as major Chinese panel makers&mdash;including BOE, China Star Optoelectronics Technology (CSOT), an",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909VL225/oled-panel-lcd-automotive-display-capacity-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-09-019",
+    "date": "2026-09-09",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung turns to Japan for packaging edge, narrows HBM gap with SK Hynix",
+    "summary": "<p class=\"P1\" data-start=\"407\" data-end=\"688\">Samsung Electronics has opened an advanced packaging research center in Yokohama, bringing development work closer to Japanese suppliers that provide crit",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909VL223/samsung-packaging-hbm-sk-hynix-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-020",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Getac sees growing drone orders, with 2027 revenue contribution reaching up to 12%",
+    "summary": "Getac Holdings is expanding aggressively into drone opportunities on the back of its strong industrial rugged computer foundation, making the segment a continued growth driver in the second half of 20",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD244/getac-drone-revenue-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-021",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Realtek expands cloud AI push with ASIC and SSD chips",
+    "summary": "Realtek chairman Sun-Chien Chiu, who received an honorary fellowship from Taiwan's Industrial Technology Research Institute (ITRI) this week, said in a public interview that the company is already gen",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909PD224/realtek-asic-cloud-ai-chips-chairman.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-09-022",
+    "date": "2026-09-09",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Ample Electronic hits 120% utilization as MLCC customers step up copper paste orders",
+    "summary": "Ample Electronic Technology said strong demand for passive components and artificial intelligence (AI) server-related products is boosting business momentum, as multi-layer ceramic capacitor (MLCC) cu",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260908PD245/ample-electronic-mlcc-passive-components-demand-copper.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-09-09-023",
+    "date": "2026-09-09",
+    "companies": [
+      "kioxia",
+      "skhynix"
+    ],
+    "topics": [
+      "nand_price",
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Kioxia rules out deeper SK Hynix ties, resists further NAND price hikes",
+    "summary": "<p class=\"P1\" data-start=\"75\" data-end=\"330\">Kioxia has ruled out deeper manufacturing ties with SK Hynix while resisting another round of aggressive NAND price increases, leaning instead on longer cu",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909VL215/kioxia-sk-hynix-nand-price-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-024",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Update: US finalizes US$775 million in CHIPS quantum awards, with equity attached",
+    "summary": "Washington has converted the largest federal bet yet on quantum computing from a promise into a contract, and it is taking ownership in return. On Sept. 8, the US Department of Commerce announced the ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909PR207/worldwide-funding-quantum-computing-hardware-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-09-025",
+    "date": "2026-09-09",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Verizon, Corning strike multi-billion-dollar fiber deal for broadband and AI buildout",
+    "summary": "Verizon and Corning have agreed to a multi-billion-dollar supply deal that could shape broadband access and artificial intelligence infrastructure well beyond the US. The pact underscores how telecom ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909PR206/corning-broadband-infrastructure-expansion-telecom.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-026",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Fastenal: Even 16% Earnings Growth Isn't Enough At 39x",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944291-fastenal-stock-even-16-percent-earnings-growth-not-enough-at-39x?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-027",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Sabre Corporation: Strong Corporate Travel Fuels Earnings",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944290-sabre-corporation-strong-corporate-travel-fuels-earnings?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-09-028",
+    "date": "2026-09-09",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "negative",
+    "title": "Microsoft: CapEx Rotation Does Not Support An Optimistic View (Downgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944285-microsoft-capex-rotation-does-not-support-an-optimistic-view-downgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-029",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chewy, Inc. 2027 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944314-chewy-inc-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-030",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ford: Premium Mix, Aluminum Recovery And Super Duty Capacity Support Earnings Upside",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944283-ford-premium-mix-aluminum-recovery-and-super-duty-capacity-support-earnings-upside?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-031",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Carclo plc (CCEGF) Shareholder/Analyst Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944293-carclo-plc-ccegf-shareholder-analyst-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-032",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Air Liquide: Elliott Adds Capital Return Upside To The Margin Expansion Story",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944280-air-liquide-elliott-adds-capital-return-upside-to-the-margin-expansion-story?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-033",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Telephone and Data Systems: Asset Value Supports The Stock, But Upside Remains Limited",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944274-telephone-and-data-systems-asset-value-supports-stock-but-upside-remains-limited?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-034",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Snowflake: Blowout Guidance, Growth Acceleration, High Margin Play On AI",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4944277-snowflake-stock-blowout-guidance-growth-acceleration-high-margin-play-ai?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-035",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Framework Leads By Example By Putting Consumers First, Gets A Hold Of LPCAMM2 Memory Batch At Cheaper Cost, Immediately Lowers Laptop 13 Pro Price",
+    "summary": "The introduction of LPCAMM2 memory enables consumers to experience high-bandwidth operations from products like the Laptop 13 Pro and not worry about upgradeability problems, thanks to Framework’s vis",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/framework-secures-cheaper-lpcamm2-memory-lowers-laptop-13-pro-price/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-09-036",
+    "date": "2026-09-09",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung and SK hynix Memory Inventories Crash Below 10 Days as AI Demand Triggers Historic Shortage, Says Report",
+    "summary": "Korean memory giants Samsung and SK hynix's memory chip inventories have dropped to as low as ten days, suggests a report from Business Korea. Samsung and SK hynix are at the heart of a historic short",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-and-sk-hynix-memory-inventories-crash-below-10-days-as-ai-demand-triggers-historic-shortage-says-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-09-09-037",
+    "date": "2026-09-09",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "hbm",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CXMT Faces HBM Memory Chip Shock As Yields Sink To 25% With Close To 80 Out Of 100 HBM3 Chips Failing Final Tests, Says Report",
+    "summary": "Chinese memory firm CXMT is facing yield problems with its HBM memory chip production, according to a report in the Korean media. HBM memory chips are significantly harder to manufacture than traditio",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-faces-hbm-memory-chip-shock-as-yields-sink-to-25-with-close-to-80-out-of-100-hbm3-chips-failing-final-tests-says-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-09-09-038",
+    "date": "2026-09-09",
+    "companies": [
+      "kioxia",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple Wins An Implied Reprieve As Kioxia CEO Declares NAND “Prices Have Risen Enough”",
+    "summary": "In what constitutes an extremely rare gesture within an industry that is now widely considered hyper-mercantile and exceedingly margin-conscious, Kioxia's CEO has instructed his sales teams not to pus",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-wins-an-implied-reprieve-as-kioxia-ceo-declares-nand-prices-have-risen-enough/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-039",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WeChat worm could pwn a friend before they even answered the call",
+    "summary": " Calif says AI helped turn a VoIP memory bug into cross-platform RCE before Tencent shut it down ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/09/09/wechat-worm-could-pwn-a-friend-before-they-even-answered-the-call/5295234",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-040",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Philippines bets AI will lift GDP by 12 percent in seven years – without hurting outsourcing",
+    "summary": " Plans 30x datacenter expansion for less than what big tech spends in a month ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/public-sector/2026/09/09/philippines-bets-ai-will-lift-gdp-by-12-percent-in-seven-years-without-hurting-outsourcing/5295178",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-09-041",
+    "date": "2026-09-09",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Microsoft breaks Patch Tuesday record with 974-CVE deluge",
+    "summary": " Adobe also brought goodies to the patch party and they deserve immediate attention ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/09/09/microsoft-breaks-patch-tuesday-record-with-974-cve-deluge/5295160",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-042",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1.2V-output LVCMOS clock buffers tackle clock distribution challenges",
+    "summary": "<p>Microchip Technology is introducing its SY757xx family of 1.2V-output LVCMOS clock buffers. According to Microchip, the new devices simplify system design by eliminating the need for traditional di",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/1-2v-output-lvcmos-clock-buffers-tackle-clock-distribution-challenges-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-09-09-043",
+    "date": "2026-09-09",
+    "companies": [
+      "kioxia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kioxia CEO dismisses idea of Hynix tie-up",
+    "summary": "<p>Kioxia CEO Hiroo Ota (pictured) has dismissed talks of a tie-up with Hynix on NAND production. Last week Hynix chairman Chey Tae-Won said Hynix is looking for a site in [&#8230;]</p>\n<p>The post <a",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/kioxia-ceo-dismisses-idea-of-hynix-tie-up-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-09-044",
+    "date": "2026-09-09",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "PCBAA urges Pentagon to act on PCBs",
+    "summary": "<p>Five years ago, the US Congress provided guidance to the Pentagon to create a plan to remove Chinese, Russian, Iranian, and North Korean content from critical defense supply chains: certainly [&#82",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/pcbaa-urges-pentagon-to-act-on-pcbs-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intel-2026-09-08-001",
     "date": "2026-09-08",
     "companies": [
@@ -894,6 +1726,220 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/ipo-proceeds-rising-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-048",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Strategy Paper Urges Canada to Add Semiconductors to AI Strategy",
+    "summary": "\n\t\t\t\t\t\t<p>Canada’s sovereign AI ambitions will fall short unless procurement, talent, funding, and existing semiconductor strengths are aligned behind domestic hardware capability.</p>\n<p>The post <a ",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/strategy-paper-urges-canada-to-add-semiconductors-to-ai-strategy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-049",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Pragmatic Path to Achieving CRA Compliance and Securing Your Access to the EU Market",
+    "summary": "\n\t\t\t\t\t\t<p>As the EU Cyber Resilience Act (CRA) approaches, IoT manufacturers face stringent cybersecurity requirements across the entire product lifecycle. MediaTek, together with our strategic partne",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/the-pragmatic-path-to-achieving-cra-compliance-and-securing-your-access-to-the-eu-market/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-08-050",
+    "date": "2026-09-08",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "euv"
+    ],
+    "impact": "neutral",
+    "title": "TSMC to start using High-NA EUV lithography in 2030 — A10 or A11 technology prime candidates for use",
+    "summary": "\n                             TSMC discloses plans to use High-NA EUV lithography in 2030, 6×12-inch photomasks with new scanners in 2033. \n                                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-to-start-using-high-na-euv-lithography-in-2030-a10-or-a11-technology-prime-candidates-for-use",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-08-051",
+    "date": "2026-09-08",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Intel reportedly set to hike CPU prices by 10% ahead of 'major annual product' launch in March 2027 — report says AMD will follow up between June and July",
+    "summary": "\n                             Intel is reportedly set to raise CPU prices by 10%, following two other price increases, as it prepares for a major product launch in March 2027. \n                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-reportedly-set-to-hike-cpu-prices-by-10-percent-ahead-of-major-annual-product-launch-in-march-2027-report-says-amd-will-follow-up-between-june-and-july",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-052",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Benchmarking Qwen 3.8 27B on RTX 5090 and beyond — VRAM capacity alone can't overcome severe software and inference engine bottlenecks",
+    "summary": "\n                             Following the release of Qwen 3.8 27B, we put our trusty hardware to the test to see which hardware might be best suited for running this open-weight AI model. \n         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/benchmarking-qwen-3-8-27b-on-rtx-5090-and-beyond-vram-capacity-alone-cant-overcome-severe-software-and-inference-engine-bottlenecks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-08-053",
+    "date": "2026-09-08",
+    "companies": [
+      "intel",
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "advanced_packaging",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel Leaps 2-4 Years Ahead Of Samsung And TSMC On High-NA EUV Lithography After Producing Its 1 Millionth Test Wafer",
+    "summary": "The fates appear to have turned benevolent towards Intel, especially as its multi-year strategic pivots are now finally on the cusp of paying financial dividends, as evidenced by the chipmaker's rapid",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-leaps-2-4-years-ahead-of-samsung-and-tsmc-on-high-na-euv-lithography-after-producing-its-1-millionth-test-wafer/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-054",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chronicles: Medieval’s Impressive Gamescom Demo Had 900 Men Duking It Out in Burgundy and a Poleaxe Swung From Horseback",
+    "summary": "Independent developer Raw Power Games came to gamescom 2026 with the thing everyone had been waiting for since the reveal of Chronicles: Medieval - an uncut battle, played live, start to finish. The C",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/chronicles-medieval-gamescom-qa-preview/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-08-055",
+    "date": "2026-09-08",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD’s FSR 4.1.1b Runs On Aging Radeon RX 6000 GPUs Through A Single DLL Swap, No OptiScaler Needed",
+    "summary": "The OptiScaler developer team has prepared the DLL file to enable FSR 4.1.1b on older Radeon GPUs. Optiscaler Team Prepare FSR 4.1.1b For AMD RDNA 2 GPUs Ahead of Early 2027 FSR 4.1 Launch for the GPU",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-fsr-4-1-1b-available-for-rx-6000-gpus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-09-08-056",
+    "date": "2026-09-08",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amazon ropes Qualcomm into something, something AI, networking chips",
+    "summary": " Multi-generation chip collab is more buzzwords than compute ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/09/08/amazon-ropes-qualcomm-into-something-something-ai-networking-chips/5295071",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-08-057",
+    "date": "2026-09-08",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Boston Scientific left nursing its bottom line after cyberattack",
+    "summary": " Medical device giant warns August intrusion will hit Q3 and full-year sales and earnings as recovery drags on ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/09/08/boston-scientific-left-nursing-its-bottom-line-after-cyberattack/5295026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-09-08-058",
+    "date": "2026-09-08",
+    "companies": [
+      "asml",
+      "tsmc"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASML and TSMC want bigger masks for smaller chips",
+    "summary": " Industry push aims to eliminate stitching constraints and ready high-NA EUV systems for production by 2033 ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/09/08/asml-and-tsmc-want-bigger-masks-for-smaller-chips/5294982",
         "type": "rss"
       }
     ]
