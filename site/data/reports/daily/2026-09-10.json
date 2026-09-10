@@ -1,0 +1,289 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:55:54.769993Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "amd-2026-09-10-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue growth — US export controls benefit homegrown chips as Nvidia and AMD exit market",
+      "companies": [
+        "amd",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-ai-accelerator-supplier-biren-posts-2-000-percent-year-over-year-revenue-growth-export-controls-benefit-homegrown-chips-as-nvidia-and-amd-exit-market"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-09-10-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-09-10-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Exploring Creative Intelligence with London’s Southbank Centre",
+      "companies": [
+        "intel",
+        "google"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-10-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CVS Health: Buy The Pullback Before Earnings Power Ramps Up",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4944912-cvs-health-buy-the-pullback-before-earnings-power-ramps-up?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-10-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Empire Company Limited 2027 Q1 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4944997-empire-company-limited-2027-q1-results-earnings-call-presentation?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "google",
+        "count": 1
+      },
+      {
+        "id": "screen",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      },
+      {
+        "id": "euv",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 93,
+    "too_old": 53,
+    "gate1_blocked": 58,
+    "gate2_blocked": 32,
+    "passed": 51,
+    "pass_rate": "26.3%",
+    "gate2_block_rate": "16.5%",
+    "gate2_samples": [
+      "ASML begins construction of new Eindhoven campus, strengthening its presence in the Brainport region",
+      "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
+      "âNBA 2K27â With NVIDIA DLSS 5 Leads 26 New Games Coming to GeForce NOW",
+      "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+      "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為輝達、英特爾、蘋果相關動態：「China's AI accelerator supplier Biren posts 2,000% year-o...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "China's AI accelerator supplier Biren posts 2,000% year-over-year revenue gro...（AI 伺服器、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T12:58:31.127278Z",
+  "updated_at": "2026-09-10T12:55:47.805875Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-05-31",
   "companies": [
     {
@@ -194,17 +194,17 @@
       "name": "戴爾",
       "ticker": "DELL",
       "currency": "USD",
-      "ar": 25854000000,
-      "ar_prev": 17585000000,
-      "ar_qoq": "+47%",
+      "ar": 22918000000,
+      "ar_prev": 25854000000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 15052000000,
-      "inv_prev": 10437000000,
-      "inv_qoq": "+44%",
+      "inventory": 21290000000,
+      "inv_prev": 15052000000,
+      "inv_qoq": "+41%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-04-30"
+      "quarter_date": "2026-07-31"
     },
     {
       "id": "elite_semi",
@@ -228,17 +228,17 @@
       "name": "Entegris",
       "ticker": "ENTG",
       "currency": "USD",
-      "ar": 559100000,
-      "ar_prev": 529500000,
-      "ar_qoq": "+6%",
+      "ar": 529500000,
+      "ar_prev": 462500000,
+      "ar_qoq": "+14%",
       "ar_period": "QoQ",
-      "inventory": 703900000,
-      "inv_prev": 644400000,
-      "inv_qoq": "+9%",
+      "inventory": 644400000,
+      "inv_prev": 643200000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "google",
