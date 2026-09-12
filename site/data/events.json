@@ -1,5 +1,399 @@
 [
   {
+    "id": "unknown-2026-09-12-001",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside Architect Labs’ Two-Week Chip Design",
+    "summary": "\n\t\t\t\t\t\t<p>Architect Labs says its AI can drag custom chip design from years to weeks with Redwood.</p>\n<p>The post <a href=\"https://www.eetimes.com/inside-architect-labs-two-week-chip-design/\">Inside ",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/inside-architect-labs-two-week-chip-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-09-12-002",
+    "date": "2026-09-12",
+    "companies": [
+      "kioxia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kioxia Exceria Pro G2 2TB SSD Review — Speed built to last",
+    "summary": "\n                             Kioxia’s Exceria Pro G2 pairs the SM2508 and BiCS8 TLC flash for fast, efficient PCIe 5.0 storage. It’s not the quickest PCIe 5.0 SSD, but it is a reliable Black SN8100 a",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-exceria-pro-g2-2tb-ssd-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-12-003",
+    "date": "2026-09-12",
+    "companies": [
+      "intel",
+      "amd",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Apple's A20 Pro shatters Geekbench 7 single-core record — 2nm chip beats desktop Intel Core i9 and AMD Ryzen 9 by up to 32%",
+    "summary": "\n                             Apple's A20 Pro smartphone SoC outperforms all smartphone processors by a wide margin and manages to leave behind latest laptop processors. \n                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/apples-a20-pro-shatters-geekbench-7-single-core-record-2nm-chip-beats-desktop-intel-core-i9-and-amd-ryzen-9-by-up-to-32-percent",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-004",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Analysis: Speed built Colossus, yet redundancy may decide whether SpaceX can scale it",
+    "summary": "<p class=\"P1\" data-start=\"5647\" data-end=\"5883\">Much of the industry attention surrounding AI infrastructure buildouts is now inextricably tied to sheer compute power, with market dominance or competi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911VL217/infrastructure-spacex-xai-cooling-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-12-005",
+    "date": "2026-09-12",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple foldable plans drive new demand for Japanese smartphone parts makers",
+    "summary": "Apple&rsquo;s move into foldable smartphones is creating fresh business for Japanese component makers with expertise in thin, lightweight and compact designs. According to <em>Nikkei Asia</em>, suppli",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911PD234/apple-foldable-smartphone-business-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-006",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "AI server boom reshuffles MLCC supply, opening a rare expansion window for Taiwan makers",
+    "summary": "<p class=\"P1\" data-start=\"3163\" data-end=\"3314\">Strong demand for AI computing is creating a capacity squeeze across the passive-component industry, opening new opportunities for Taiwanese suppliers.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911PD208/mlcc-demand-expansion-ai-server-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-007",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Murata targets mass production of its AI power substrate next year",
+    "summary": "Murata Manufacturing plans to begin mass production next year of iPaS, the power substrate it has spent several years developing for AI chips, a step that would carry the world's largest multilayer ce",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911VL202/murata-substrate-production-capacitor-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-12-008",
+    "date": "2026-09-12",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Pegatron's AI server engine starts to outweigh notebook drag, with Apple adding lift",
+    "summary": "<p class=\"P1\" data-start=\"1452\" data-end=\"1873\">Pegatron reported consolidated revenue of NT$88.31 billion (approx. US$2.8 billion) in August 2026, up 2.66% from the previous month and 34.11% from a y",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911PD230/pegatron-revenue-apple-2026-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-12-009",
+    "date": "2026-09-12",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Commentary: Apple sends off Cook with a foldable flourish, but Ternus's trial is still ahead",
+    "summary": "Apple has finally unveiled the long-anticipated foldable iPhone Duo, with former CEO Tim Cook making a brief appearance at the start of the launch video. The moment suggested the device was Cook's far",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911PD227/apple-iphone-foldable-ceo-tim-cook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-010",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Reasons Why I'm A Buyer On Stock Market Weakness",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945748-reasons-why-im-a-buyer-on-stock-market-weakness?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-011",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Primerica: Investment Product Growth Supports A More Positive Outlook",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945761-primerica-investment-product-growth-supports-a-more-positive-outlook?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-012",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Allegro MicroSystems: Three Tailwinds, One Stock",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945759-allegro-microsystems-three-tailwinds-one-stock?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-013",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Allstate: Attractive Even As Profits Are Likely Peaking",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945758-allstate-attractive-even-as-profits-are-likely-peaking?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-014",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "Seagate: The HDD Shortage Still Has Legs",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945757-seagate-the-hdd-shortage-still-has-legs?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-015",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Exploration Jurisdiction Power Score, Q2 2026: Reshuffle Outside Top Spot",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945763-exploration-jurisdiction-power-score-q2-2026-reshuffle-outside-top-spot?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-016",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xanadu Quantum Technologies Limited (XNDU:CA) Shareholder/Analyst Call - Slideshow",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945760-xanadu-quantum-technologies-limited-xndu-ca-shareholder-analyst-call-slideshow?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-017",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Designer Brands: Margin Growth And Positive Outlook Support Share Price Upside",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945751-designer-brands-margin-growth-and-positive-outlook-support-share-price-upside?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-018",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "HBT Financial: Expansion By Acquisition Appears To Be Working",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4945750-hbt-financial-expansion-by-acquisition-appears-to-be-working?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-12-019",
+    "date": "2026-09-12",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Apple Watch Chipsets Faced Years Of Neglect With Subpar Improvements, But The A20 Pro Helped Pave The Way For The S11’s Generational Upgrade This Year",
+    "summary": "The SiP (System in Package) belonging to the Apple Watch went through a series of mediocre and iterative changes, meaning that these smartwatches had to offer different major selling points to warrant",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-watch-s11-chipset-upgrade-a20-pro-architecture/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-12-020",
+    "date": "2026-09-12",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This 9800X3D CPU Bundle On Newegg Gets You A 32GB DDR5 RAM Kit, X870E Motherboard, Free AIO, And Capcom’s AAA Game For $300 Worth Of Savings",
+    "summary": "The latest bundle is one of those golden opportunities where you can evade the DRAM crisis and grab yourself an excellent gaming PC bundle while also getting spoiled by a couple of freebies. On Newegg",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/9800x3d-cpu-bundle-newegg-ddr5-ram-x870e-motherboard-free-aio-capcom-game-discount/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-12-021",
+    "date": "2026-09-12",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Ryzen 5 7500 Officially Costs $189 While Ryzen 5 5500F Brings Fantastic Value to AM4 Platforms at $99",
+    "summary": "AMD has confirmed the prices of its newly introduced Ryzen 5 7500 \"Zen 4\" and Ryzen 5 5500F \"Zen 3\" chips. AMD Continues Its AM5/AM4 Desktop Expansion With Ryzen 5 7500 &#38; Ryzen 5 5500F CPUs A few ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-ryzen-5-7500-189-usd-ryzen-5-5500f-99-usd-official-prices/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "google-2026-09-11-001",
     "date": "2026-09-11",
     "companies": [
@@ -686,6 +1080,480 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/dual-phase-smart-power-stage-family-power-density-exceeding-2-a-mm%c2%b2-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-11-037",
+    "date": "2026-09-11",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5",
+    "summary": "Starting Saturday, September 12, customers can pre-order iPhone 18 Pro and iPhone 18 Pro Max.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-11-038",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)",
+    "summary": "<p>Researchers at the National University of Singapore published a technical paper titled “CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for Multi-Mode Multi-Request LLM Inference Accelerati",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-039",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
+    "summary": "<p>Researchers at Rensselaer Polytechnic Institute and IBM T.J. Watson Research Center published a technical paper titled “REACH: Controller-Managed Long-Span ECC for HBM AI Inference.” Abstract Excer",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-11-040",
+    "date": "2026-09-11",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "euv"
+    ],
+    "impact": "positive",
+    "title": "Molybdenum Quasi Phase-Only Masks Improve EUV Imaging (NYCU, TSMC)",
+    "summary": "<p>Researchers at National Yang Ming Chiao Tung University and TSMC published a technical paper titled “High contrast EUV imaging enabled by topological quasi phase-only masks.” Abstract Excerpt: “Her",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/molybdenum-quasi-phase-only-masks-improve-euv-imaging-nycu-tsmc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-041",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven, ASM)",
+    "summary": "<p>Researchers at imec, KU Leuven, and ASM published a technical paper titled “Dissecting the transition metal dichalcogenides-based metal-oxide-semiconductor structures charge components.” Abstract E",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-042",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Modeling Predicts Cure And Thermal Endurance Of Advanced Packaging Underfill (NIST, UCSD et al.)",
+    "summary": "<p>Researchers at the NIST, UCSD et al. published a technical paper titled “Predicting Cure Evolution and Thermal Endurance of a Highly Filled Epoxy Underfill for Advanced Packaging.” Abstract Excerpt",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/modeling-predicts-cure-and-thermal-endurance-of-advanced-packaging-underfill-nist-ucsd-et-al/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-043",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates",
+    "summary": "\n\t\t\t\t\t\t<p>Space is the next frontier for semiconductor manufacturing, as startup Besxar, founded by an ex-OpenAI technical director, completed its first SpaceX flight and recovered wafer samples witho",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-044",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoC PLANNER: A New Generation of Automated SoC Design Exploration Managing Cost-Effectiveness and Sustainability",
+    "summary": "\n\t\t\t\t\t\t<p>GRENOBLE, France &#8211; [2026, September 8th] CEA, Defacto Technologies, and Innova Advanced Technologies today announced the completion of SoC PLANNER, a three-years project funded by BPI ",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/soc-planner-a-new-generation-of-automated-soc-design-exploration-managing-cost-effectiveness-and-sustainability/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-11-045",
+    "date": "2026-09-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China-modified Nvidia RTX 5090 with massive 96GB of memory appears on Alibaba for less than $4,000 — 3x more VRAM at 65% the cost of the original",
+    "summary": "\n                             An alleged Nvidia GeForce RTX 5090 96GB with 96GB of modded VRAM surfaces on Alibaba for $3888. \n                                                                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/china-modified-nvidia-rtx-5090-with-massive-96gb-of-memory-appears-on-alibaba-for-less-than-usd4-000-3x-more-vram-at-65-percent-the-cost-of-the-original",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-11-046",
+    "date": "2026-09-11",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Sanctioned Chinese supercomputer maker stripped of IO500 benchmark crown, Intel-powered Aurora retakes the lead — record-breaking ParaStor F9000 storage system doesn't meet reproducibility requirements",
+    "summary": "\n                             Sugon's record-breaking ParaStor F9000 storage systems have lost their IO500 Production crowns and have been moved to the Research list after failing to meet the benchmar",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/supercomputers/sanctioned-chinese-supercomputer-maker-stripped-of-io500-benchmark-crown-intel-powered-aurora-retakes-the-lead-record-breaking-parastor-f9000-storage-system-doesnt-meet-reproducibility-requirements",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-047",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GameStop is reopening recently closed stores despite massive retail cuts — select locations return nationwide starting September 11",
+    "summary": "\n                             After shutting down hundreds of locations and dramatically shrinking its physical retail footprint, GameStop is bringing select stores back as its business continues to e",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/gamestop-is-reopening-recently-closed-stores-despite-massive-retail-cuts-select-locations-return-nationwide-starting-september-11",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-048",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ViTrox sees chip inspection moving upstream as advanced packaging raises defect costs",
+    "summary": "Advanced packaging is stretching semiconductor inspection in two directions at once: packages are getting larger while the features inside them are getting smaller.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911VL230/inspection-packaging-production-equipment-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-049",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Interview: Resonac maps five PLP hurdles, eyes 510x515mm pilot line",
+    "summary": "Advanced packaging is reshaping the semiconductor value chain, making materials innovation a key source of technical breakthroughs. As large-format panel-level packaging (PLP) gains traction, Resonac ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260909PD233/resonac-materials-packaging-equipment-coating.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-050",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Charts: Taiwan's AI supply chain growth moves from cooling to rack hardware",
+    "summary": "King Slide Works posted the fastest revenue growth in August among the 50 Taiwan-listed AI supply chain companies tracked by <em>DIGITIMES</em>, with sales up 318% from a year earlier. It marked the f",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911VL228/growth-revenue-king-slide-supply-chain-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-051",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Why Chinese automakers' aggressive push only further tightens CATL's grip",
+    "summary": "Supply diversification has long been a recurring &mdash; and difficult &mdash; issue confronting the high-tech manufacturing ecosystem. But efforts to diversify component and materials sourcing have p",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260911VL227/automakers-catl-supply-manufacturing-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hp-2026-09-11-052",
+    "date": "2026-09-11",
+    "companies": [
+      "hp"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Claude Fable 5’s Capabilities In PCB Design Might Be Limited, But One Person Shows It’s Actually Possible By Showing Off A Custom Board Made Entirely By AI, At A Cost",
+    "summary": "The use of AI has enabled users to obtain feats that were never thought possible, such as vibe-coding a game featuring 27,000 lines of code, or enabling software compatibility between macOS and an HP ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/claude-fable-5-ai-custom-pcb-design-demonstration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-11-053",
+    "date": "2026-09-11",
+    "companies": [
+      "nvidia",
+      "intel",
+      "amkor",
+      "tsmc"
+    ],
+    "topics": [
+      "capacity",
+      "shortage",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Report: TSMC to Double CoWoS Capacity by 2028 as AI Chip Shortage Spills Over to Rivals",
+    "summary": "The Taiwan Semiconductor Manufacturing Company (TSMC) might double its chip-on-wafer-on-substrate (CoWoS) capacity from 2026 levels in 2028, suggests a report from the Taiwanese media. TSMC's CoWoS is",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/report-tsmc-to-double-cowos-capacity-by-2028-as-ai-chip-shortage-spills-over-to-rivals/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-11-054",
+    "date": "2026-09-11",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AOOSTAR Joins The Gorgon Halo Rush With 16-Core NEX495S, As Chinese Makers Race To Ship Ryzen AI Max+ 495 Boxes",
+    "summary": "Another hardware maker has announced its flagship mini PC based on the new 16-core/32-thread Zen 5 Gorgon Halo SoC. AOOSTAR Showcases NEX495S Mini PC, Featuring 16-Core Ryzen AI Max+ PRO 495 SoC and S",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/aoostar-teases-nex495s-mini-pc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-11-055",
+    "date": "2026-09-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Manli Announces “Unlimited Firepower” Series RTX 50 GPUs With A Feature That Notifies You About The GPU Sag",
+    "summary": "The company says the new feature can detect an abnormal GPU sag, notifying you through the app. Manli Celebrates 30th Anniversary by Launching \"Unlimited Power\" RTX 50 Series With Built-in G-Sensor to",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/manli-announces-uf-series-rtx-50-gpus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-11-056",
+    "date": "2026-09-11",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "DLSS Multi Frame Generation Has Now Been Modded Onto RTX 40, RTX 30 & Even RTX 20 GPUs",
+    "summary": "NVIDIA's DLSS Multi Frame Generation remains officially exclusive to the GeForce RTX 50 \"Blackwell\" Series, but the modding community has now managed to get NVIDIA's own DLSS MFG frame interpolation t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/dlss-multi-frame-generation-has-now-been-modded-onto-rtx-40-rtx-30-even-rtx-20-gpus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-11-057",
+    "date": "2026-09-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Will Give Away Four Custom NBA 2K27 RTX 5090 GPUs Worth $2,599 Each To Poster Challenge Winners",
+    "summary": "NVIDIA is back with another big giveaway, and this time it wants you to submit an NBA 2K27 Poster for a chance to win a custom RTX 5090 GPU. NVIDIA Announces NBA 2K27 Poster Challenge, Allowing Four L",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-is-ready-to-give-away-nba-2k27-themed-rtx-5090-gpus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-11-058",
+    "date": "2026-09-11",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Apple Proves Chip Design Will Always Trump Latest Technology Standards; A20 Pro Has Higher Memory Bandwidth Than Xiaomi’s XRING 03, Despite Using Older LPDD5X RAM",
+    "summary": "The A20 Pro&#160;wasn’t just designed around a packaging change to enable Apple’s newest 2nm SoC to deliver raw performance gains, but it was also to improve the on-device AI experience, which meant t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-a20-pro-memory-bandwidth-beats-xiaomi-xring-03-lpddr5x-ram/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-059",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Disembodied fruit fly brain joins the crypto speculation swarm",
+    "summary": " Coinbase engineer gives simulated insect $100 and lets its neurons make the trades ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/09/11/disembodied-fruit-fly-brain-joins-the-crypto-speculation-swarm/5295914",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-060",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "TechWorks calls for economic growth through UK expertise",
+    "summary": "<p>TechWorks celebrated its 30th anniversary with the first TechWorks Semiconductors to Systems Summit (S2S26) in London. And it is calling for greater collaboration within the industry to turn UK tec",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/techworks-calls-for-economic-growth-through-uk-expertise-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-11-061",
+    "date": "2026-09-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UKESF, Unibots partner for robotics and engineering",
+    "summary": "<p>The UK Electronics Skills Foundation (UKESF) is partnering with Unibots CIC to help make learning practical robotics more accessible and social for students. Unibots CIC is a non-profit organisatio",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/design/stem/ukesf-unibots-partner-for-robotics-and-engineering-2026-09/",
         "type": "rss"
       }
     ]

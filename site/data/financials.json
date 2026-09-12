@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-11T12:50:40.551750Z",
-  "quarter": "2026-03-31, 2026-04-30, 2026-05-31",
+  "updated_at": "2026-09-12T12:10:41.571031Z",
+  "quarter": "2026-03-31, 2026-05-31, 2026-06-30",
   "companies": [
     {
       "id": "adata",
@@ -160,17 +160,17 @@
       "name": "博通",
       "ticker": "AVGO",
       "currency": "USD",
-      "ar": 10830000000,
-      "ar_prev": 8460000000,
-      "ar_qoq": "+28%",
+      "ar": 13707000000,
+      "ar_prev": 10830000000,
+      "ar_qoq": "+27%",
       "ar_period": "QoQ",
-      "inventory": 4328000000,
-      "inv_prev": 2962000000,
-      "inv_qoq": "+46%",
+      "inventory": 4523000000,
+      "inv_prev": 4328000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-04-30"
+      "quarter_date": "2026-07-31"
     },
     {
       "id": "cadence",
@@ -228,17 +228,17 @@
       "name": "Entegris",
       "ticker": "ENTG",
       "currency": "USD",
-      "ar": 529500000,
-      "ar_prev": 462500000,
-      "ar_qoq": "+14%",
+      "ar": 559100000,
+      "ar_prev": 529500000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 644400000,
-      "inv_prev": 643200000,
-      "inv_qoq": "+0%",
+      "inventory": 703900000,
+      "inv_prev": 644400000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "google",
