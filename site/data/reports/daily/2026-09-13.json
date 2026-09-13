@@ -1,0 +1,287 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:20:11.731892Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-13-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Delays trim CAEC August sales, but UPS demand outlook stays firm",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260910PD221/ups-demand-2026-revenue-lithium.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-13-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Mako Mining: Record Gold Sales, Lower Profits, And I'm Still Buying",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://seekingalpha.com/article/4945849-mako-mining-record-gold-sales-lower-profits-and-im-still-buying?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-13-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Rent the Runway: Profit Is Maturing, But Subscriber Declines Remain Concerning (Rating Upgrade)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://seekingalpha.com/article/4945844-rent-the-runway-profit-is-maturing-but-subscriber-declines-remain-concerning-rating-upgrade?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI, 5G upgrades lift Taiwan's top three telecoms in August",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": "https://www.digitimes.com/news/a20260911PD206/demand-revenue-5g-taiwan-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-13-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Trip.com Q2 Earnings Preview: Regulatory Penalty Creates A Buying Opportunity (Upgrade)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4945819-tripcom-q2-earnings-preview-regulatory-penalty-creates-a-buying-opportunity-upgrade?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 11,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 1
+      },
+      {
+        "id": "dell",
+        "count": 1
+      },
+      {
+        "id": "oracle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 297,
+    "dup_title": 133,
+    "too_old": 55,
+    "gate1_blocked": 61,
+    "gate2_blocked": 27,
+    "passed": 21,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "16.5%",
+    "gate2_samples": [
+      "ASML begins construction of new Eindhoven campus, strengthening its presence in the Brainport region",
+      "Physical AI Takes the Wheel: How the Worldâs Robotaxi Leaders Are Building With NVIDIA Technologie",
+      "Introducing Apple Watch Series 12, with the all-new Health Sensing System",
+      "The internet’s favorite cat comes to Apple Arcade with Pusheen’s Place",
+      "Dreambeans: Daily stories, brewed just for you, now available to all accounts in the U.S."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為超微、戴爾、甲骨文相關動態：「Delays trim CAEC August sales, but UPS demand outlook sta...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Delays trim CAEC August sales, but UPS demand outlook stays firm（產能、財報、展望、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Mako Mining: Record Gold Sales, Lower Profits, And I'm Still Buying（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
