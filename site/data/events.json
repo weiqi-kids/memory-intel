@@ -1,5 +1,645 @@
 [
   {
+    "id": "nvidia-2026-09-14-001",
+    "date": "2026-09-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+    "summary": "NVIDIA today announced an expansion of the NVIDIA CUDA-Qâ¢ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful appl",
+    "sources": []
+  },
+  {
+    "id": "google-2026-09-14-002",
+    "date": "2026-09-14",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "We’re exploring a potential data center in Lea County, New Mexico.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp\">Google is exploring a new data center project in Lea County, New Mexico. Wh",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-14-003",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "advanced_packaging",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Sept. 14",
+    "summary": "<p>Heterogeneous memory chiplets for multi-request LLM inference; long-span ECC for HBM AI inference; quasi phase-only EUV masks; advanced packaging underfill cure and thermal-endurance modeling; HW i",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-14/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-004",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Small Indian Manufacturers Hit Data, Legacy-System Barriers to Scaling AI",
+    "summary": "\n\t\t\t\t\t\t<p>AI adoption across manufacturing in India is progressing, but scaling it is running into structural problems across tiers.</p>\n<p>The post <a href=\"https://www.eetimes.com/small-indian-manuf",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/small-indian-manufacturers-hit-data-legacy-system-barriers-to-scaling-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-14-005",
+    "date": "2026-09-14",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Micron offers Taiwan employees $31,650 cash bonus as unions threaten strike over AI windfall — workers reject record payout package, demand 15% profit-sharing plan",
+    "summary": "\n                             Micron is offering Taiwan employees a NT$1 million cash bonus, but unions have rejected the package and are demanding permanent profit sharing as strike talks continue. \n",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/micron-offers-taiwan-employees-usd31-650-cash-bonus-as-unions-threaten-strike-over-ai-windfall-workers-reject-record-payout-package-demand-15-percent-profit-sharing-plan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-14-006",
+    "date": "2026-09-14",
+    "companies": [
+      "samsung",
+      "amd"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Save $1,289 when you build an extreme PC with these top-tier components — combo deal features AMD's Ryzen 9 9950X3D2 processor along with an 8TB 9100 Pro SSD, MSI X870E motherboard, and 32GB of DDR5-6000 memory",
+    "summary": "\n                             Save $1,289 on Newegg's epic component bundle, which features AMD's top processor, a massive 8TB Samsung 9100 Pro SSD, and 32GB of DDR5 memory \n                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/save-usd1-289-when-you-build-an-extreme-pc-with-these-top-tier-components-combo-deal-features-amds-ryzen-9-9950x3d2-processor-along-with-an-8tb-9100-pro-ssd-msi-x870e-motherboard-and-32gb-of-ddr5-6000-memory",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-007",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maryland data center developers offer residents biggest-ever US community benefits package as big tech seeks to quell fears — $110 million deal includes $30 million elementary school, water reclamation system, and more",
+    "summary": "\n                             A new report claims AI data center builders are getting more savvy about offering communities tangible benefits to get their projects approved. \n                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/maryland-data-center-developers-offer-residents-biggest-ever-us-community-benefits-package-as-big-tech-seeks-to-quell-fears-usd110-million-deal-includes-usd30-million-elementary-school-water-reclamation-system-and-more",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-008",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kokusai Electric gains from Hitachi split as AI memory demand surges",
+    "summary": "Kokusai Electric, the semiconductor equipment maker spun off from Hitachi and later acquired by KKR, has emerged as one of the clearest winners from Hitachi's restructuring. According to <em>Nikkei</e",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD245/kokusai-hitachi-demand-equipment-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-009",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yole Group takes outside capital for the first time, selling minority stake to new French fund",
+    "summary": "Yole Group, the French market-research firm that tracks the semiconductor, photonics and electronics supply chains, has sold a minority stake to Cervinvest Scale, the lower-midcap fund of Paris-based ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914VL220/yole-electronics-photonics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-14-010",
+    "date": "2026-09-14",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Fujitsu's Monaka targets 2027 mass production with TSMC 2nm boost",
+    "summary": "Fujitsu is preparing to take its advanced AI CPU overseas, with sales set to begin as early as 2027 in Japan, the US, and Asia. The company is betting on Monaka, a high-efficiency, power-saving chip d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD237/fujitsu-production-2027-tsmc-2nm.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-011",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI power demand pushes Taiwan to overhaul energy rules",
+    "summary": "Electricity demand from AI data centers and other high-tech industries is pushing governments and large cloud service providers to focus more on grid stability and backup supply. In Taiwan, amendments",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD239/demand-data-taiwan-equipment-energy-management.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "psmc-2026-09-14-012",
+    "date": "2026-09-14",
+    "companies": [
+      "psmc"
+    ],
+    "topics": [
+      "hbm",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI demand lifts UMC, VIS, PSMC revenue",
+    "summary": "<p class=\"P1\" data-start=\"3849\" data-end=\"4197\">After mature-node price competition from 2023 to 2025, AI demand has spread from GPUs and HBM to power management ICs (PMICs), power components, network",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD235/demand-revenue-price-umc-psmc.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-14-013",
+    "date": "2026-09-14",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, SK Hynix reject US$19 billion power prepayment as Korea speeds chip expansion",
+    "summary": "<p class=\"P1\" data-start=\"2838\" data-end=\"3117\">Samsung Electronics and SK Hynix have rejected a proposal to prepay KRW25 trillion (approx. US$18.7 billion) in electricity bills, highlighting the fina",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914VL218/samsung-sk-hynix-expansion-electricity-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-014",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "STMicro lead times top 1 year, boosting Taiwan chip makers",
+    "summary": "AI crowd-out effects are rippling through the supply chain, with lead times for microcontroller units (MCUs) from STMicroelectronics reportedly stretching beyond 1 year and triggering severe shortages",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD227/mcu-capacity-supply-chain-demand-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-09-14-015",
+    "date": "2026-09-14",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DIGITIMES Insight: High NA EUV chips near production, but economics will be the pacemaker",
+    "summary": "ASML's latest update suggests High NA EUV is no longer confined to laboratory validation. With 10 systems already operating across four customers worldwide, and three more in shipment or installation,",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD217/euv-asml-production-digitimes-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-016",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan eases investment rules for AI center infrastructure projects",
+    "summary": "Taiwan's government has limited budgets to build the AI computing infrastructure the country needs, and infrastructure that a government runs itself cannot easily turn a profit. To get around that con",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD209/infrastructure-investment-moda-taiwan-government.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-017",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DIGITIMES Insight: Taiwanese firms lead in FOPLP as overseas rivals race to catch up",
+    "summary": "Taiwanese chip packaging firms are advancing fan-out panel-level packaging (FOPLP) and glass-substrate development as AI processors demand ever-larger reticle sizes and more complex packaging. Their e",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD220/packaging-foplp-substrate-production-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-14-018",
+    "date": "2026-09-14",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Notebook shipment update, July 2026",
+    "summary": "DIGITIMES' survey of July 2026 notebook shipments (excluding detachable models) from the world's top five notebook brands (excluding Apple) and the top three notebook ODMs",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914RS400/notebook-shipments-2026-acer-asus-dell-hp-lenovo.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-019",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn subsidiary broadens AI interconnect role as 1.6T enters deployment",
+    "summary": "AI data centers are moving decisively toward 1.6T connectivity, with 800G now mainstream in AI clusters and 400G remaining common in general cloud and enterprise deployments.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD225/data-design-fit-cpo-cooling.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-020",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "DIGITIMES Insight: China's GaN challengers are no longer playing catch-up",
+    "summary": "Chinese GaN power semiconductor maker Innoscience gained direct access to capital markets after listing in Hong Kong at the end of 2024, giving it fresh funding to expand GaN capacity and technology d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD223/china-gan-technology-innoscience-onsemi.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-021",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RF Industries, Ltd. (RFIL) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4946062-rf-industries-ltd-rfil-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-022",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AirJoule Technologies Corporation (AIRJ) Discusses Acquisition of BitSync and Strategic Expansion Into AI Data Center Infrastructure Prepared Remarks Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4946060-airjoule-technologies-corporation-airj-discusses-acquisition-of-bitsync-and-strategic?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-023",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Hain Celestial Group, Inc. (HAIN) Q4 2026 Earnings Call Prepared Remarks Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4946012-the-hain-celestial-group-inc-hain-q4-2026-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-024",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Methode Electronics: Transformation In Progress - A Move Into Data Centers",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4946019-methode-electronics-transformation-in-progress-a-move-into-data-centers?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-025",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Hain Celestial Group, Inc. 2026 Q4 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4946055-the-hain-celestial-group-inc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-14-026",
+    "date": "2026-09-14",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese Chip Firm Empyrean Says It Slashed Circuit Design Time By 75% Using Agentic AI Amidst Race To Agentic AI Semiconductor Design",
+    "summary": "Chinese electronic design automation (EDA) firm Empyrean Technology is using agentic artificial intelligence to accelerate its chip design process. The firm's chairman, Liu Weiping, shared the details",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/chinese-chip-firm-empyrean-slashes-circuit-design-time-by-75-using-agentic-ai-amidst-race-to-agentic-ai-semiconductor-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-027",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Large Hole Blasted Into RTX 5090 Connector After Playing An Indie Game On Ultra Settings",
+    "summary": "You probably never witnessed something like this. The notorious 16-pin connector can surprise you in ways you cannot even imagine. User Finds a Large Hole in 16-pin Connector After Playing a Decade Ol",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/large-hole-blasted-into-rtx-5090-connector-after-playing-an-indie-game-on-ultra-settings/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-14-028",
+    "date": "2026-09-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Intros RTX PRO 5500 Blackwell Graphics Card, Features Same Core Count As The 5090 But With 2.6x The VRAM",
+    "summary": "NVIDIA's latest addition to the Blackwell PRO family is the RTX PRO 5500 Workstation Edition graphics card with 84 GB of memory. NVIDIA RTX PRO 5500 Blackwell Workstation Edition Graphics Card Packs 2",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-intros-rtx-pro-5500-blackwell-graphics-card-21760-cores-84-gb-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-029",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teravolt looks to cannibalize older industries to meet AI power demand",
+    "summary": " Bitcoin farms, aluminum smelters, and other old infra is more lucrative to repurpose as a datacenter ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/teravolt-looks-to-cannibalize-older-industries-to-meet-ai-power-demand/5296014",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-030",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MPs and peers tell UK to stop winging it on AI regulation",
+    "summary": " Rights committee demands watchdog with teeth as patchwork safeguards leave victims hunting for remedies ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/14/mps-and-peers-tell-uk-to-stop-winging-it-on-ai-regulation/5296108",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-031",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Datacentre performance now sold by the rack not the chip",
+    "summary": "<p>The value in datacentres is shifting from the chip to the rack, says Yole, with hyperscalers and AI labs co-designing their own AI asics and with advanced packaging, HBM4, co-packaged [&#8230;]</p>",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/datacentre-semiconductor-market-to-hit-1-5trn-by-2031-says-yole-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-14-032",
+    "date": "2026-09-14",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Enflame raises $900m",
+    "summary": "<p>Shanghai Enflame Technology has raised $900m in an IPO on the Shanghai exchange. The company expects a $128m loss for 2026 YTD. The company, founded in 2018 by two AMD [&#8230;]</p>\n<p>The post <a ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/enflame-raises-900m-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-09-14-033",
+    "date": "2026-09-14",
+    "companies": [
+      "dell"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "High-end routing and aggregation equipment up by 25% y-o-y in Q2",
+    "summary": "<p>High-end routing and aggregation equipment revenue grew 25% y-o-y in Q2, says Dell’Oro, driven by stronger demand across all regions and customer segments. Notably, vendor direct sales revenue to c",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/high-end-routing-and-aggregation-equipment-up-25-yoy-in-q2-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-034",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Anti-surge chip resistors deliver 0.33W",
+    "summary": "<p>ROHM has developed the &#8216;SDR01 Series&#8217; of high anti-surge chip resistors, delivering a class-leading rated power of 0.33W in the 0402 (1005 metric) size. Designed for electronic equipmen",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/anti-surge-chip-resistors-delivering-0-33w-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-13-001",
     "date": "2026-09-13",
     "companies": [],
@@ -295,6 +935,87 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/offbeat/2026/09/13/the-improbable-music-of-the-zx-spectrums-one-bit-speaker/5295862",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-13-017",
+    "date": "2026-09-13",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD’s best gaming CPU drops below launch price and includes free 240mm AIO cooler and Onimusha: Way of the Sword — grab the Ryzen 7 9850X3D for $484",
+    "summary": "\n                             The Ryzen 7 9850X3D may only be a modest step up from the 9800X3D, but it still leads our gaming benchmarks and now comes with a couple of useful extras at a lower-than-l",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amds-best-gaming-cpu-drops-below-launch-price-and-includes-free-240mm-aio-cooler-and-onimusha-way-of-the-sword-grab-the-ryzen-7-9850x3d-for-usd484",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-13-018",
+    "date": "2026-09-13",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bernie Sanders proposes 20 year prison sentence for AI devs who plow ahead with Artificial Superintelligence plans — penalty on par with illegally developing rogue nuclear weapons",
+    "summary": "\n                             Senators Bernie Sanders and Greg Cezar have announced their Ban Artificial Superintelligence Act which threatens 20-year prison sentences for rule breakers. \n            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-13-019",
+    "date": "2026-09-13",
+    "companies": [
+      "intel",
+      "google",
+      "lenovo"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lenovo Googlebook 15 Leaked With 120 Hz OLED Display, Featuring Core Ultra 5 Chip And Up To 32 GB RAM",
+    "summary": "Lenovo's Googlebook 15 has reportedly been revealed, bringing a 15.3-inch 120 Hz OLED display, Intel Core Ultra 5 325 processor, and up to 32 GB RAM. Lenovo is Preparing a Premium Googlebook Laptop, F",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/lenovo-googlebook-15-leaked-with-120-hz-oled-display/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-13-020",
+    "date": "2026-09-13",
+    "companies": [
+      "apple",
+      "intel",
+      "hp"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HP Launches OmniDesk Mini PC, Powered By Up To Intel Core 5 320 And 16 GB LPDDR5X RAM, Starting At $799",
+    "summary": "The mini PC will be available in four different configurations, starting with Core 3 304 and 8 GB memory. HP Quietly Debuts Ultra-Compact OmniDesk, Featuring Wildcat Lake Chips and Up To 16 GB RAM + 1",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/hp-launches-omnidesk-mini-pc/",
         "type": "rss"
       }
     ]
