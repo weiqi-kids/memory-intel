@@ -1,5 +1,687 @@
 [
   {
+    "id": "unknown-2026-09-15-001",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[Video] The World of Nano – V-NAND, Bonding V-NAND: Redefining Storage Architecture",
+    "summary": "From Storage to AI: NAND&#8217;s Evolution for Next-Generation Infrastructure NAND flash has long been a foundational storage technology in devices from USB...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-15-002",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[Video] The World of Nano – From HBM to zHBM: Rethinking Architecture Innovation",
+    "summary": "Advancing Memory Architecture for the AI Era – Up to 8x Performance Gains As AI computational demands continue to grow, data bottlenecks have become...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-15-003",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Data Centers Have A Power Hoarding Problem",
+    "summary": "<p>Redundant feeds protect uptime, but they also strand capacity that could support more hardware.</p>\n<p>The post <a href=\"https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem/\">",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-004",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scaling Thermal Analysis From Transistors To Data Centers",
+    "summary": "<p>Rising power density and chiplet complexity drive thermal considerations earlier in the design process.</p>\n<p>The post <a href=\"https://semiengineering.com/scaling-thermal-analysis-from-transistor",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/scaling-thermal-analysis-from-transistors-to-data-centers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-005",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scaling AI Infrastructure With PCIe Switches And Retimers",
+    "summary": "<p>Build configurable PCIe subsystems spanning local expansion, shared resource domains, and longer-reach topologies.</p>\n<p>The post <a href=\"https://semiengineering.com/scaling-ai-infrastructure-wit",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/scaling-ai-infrastructure-with-pcie-switches-and-retimers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-006",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
+    "summary": "<p>Transforming established SoC design paradigms into system-level fabrics capable of supporting next-generation AI, HPC, and data center workloads.</p>\n<p>The post <a href=\"https://semiengineering.co",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-007",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Validating PCIe 6.0 Connectivity In A 3D Multi-Die Test Chip",
+    "summary": "<p>Implementing 64.0 GT/s PCIe connectivity in a stacked-die, face-to-face 3D architecture. </p>\n<p>The post <a href=\"https://semiengineering.com/validating-pcie-6-0-connectivity-in-a-3d-multi-die-tes",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/validating-pcie-6-0-connectivity-in-a-3d-multi-die-test-chip/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-008",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "negative",
+    "title": "FCC Rule on Optical Connectivity Could Slow AI Race",
+    "summary": "\n\t\t\t\t\t\t<p>Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to navigate critical shortages.</p>\n<p>The post <a href",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/fcc-rule-on-optical-connectivity-could-slow-ai-race/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-15-009",
+    "date": "2026-09-15",
+    "companies": [
+      "amd",
+      "ti"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grab a $560 saving on this 1440p-ready gaming PC with a 9800X3D and RTX 5060 Ti 16GB, now $1,859 — all-white CyberPowerPC desktop ships with one of AMD's best X3D chips, along with 32GB DDR5 and a 2TB SSD",
+    "summary": "\n                             Save nearly $600 on this CyberPowerPC gaming PC with a 9800X3D, RTX 5060 Ti 16GB, 32GB DDR5, and a 2TB SSD. \n                                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd560-saving-on-this-1440p-ready-gaming-pc-with-a-9800x3d-and-rtx-5060-ti-16gb-now-usd1-859-all-white-cyberpowerpc-desktop-ships-with-one-of-amds-best-x3d-chips-along-with-32gb-ddr5-and-a-2tb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-15-010",
+    "date": "2026-09-15",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD's Radeon RX 9070 GRE graphics card returns to its lowest-ever price of $499 — rare deal places this current-generation 12GB GPU below its MSRP launch price",
+    "summary": "\n                             Grab a new 12GB GPU for less than the MSRP launch price. \n                                                                                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/amds-radeon-rx-9070-gre-graphics-card-returns-to-its-lowest-ever-price-of-usd499-rare-deal-places-this-current-generation-12gb-gpu-below-its-msrp-launch-price",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-011",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How AI real-world deployment is rewriting IPC business models",
+    "summary": "Mega-construction projects currently underway across the US, South Korea, Japan, and Taiwan are heavily concentrated in two main sectors: semiconductor fabs and automated warehousing/logistics hubs. T",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD238/market-business-ipc-demand-commercial.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-012",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "High-capacity memory shortages worsen: Team Group reveals edge AI strategy amid rising price pressures",
+    "summary": "<p class=\"P1\" data-start=\"3270\" data-end=\"3852\">As memory shortages worsen, Team Group is aggressively deepening its footprint in the industrial control market. Vice general manager Shao-An Hsia noted",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD242/team-group-price-market-industrial-industrial-control.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-013",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Murata considers bigger MLCC expansion as AI server demand extends beyond 2028",
+    "summary": "<p class=\"P1\" data-start=\"83\" data-end=\"326\">Murata Manufacturing is considering a new, potentially larger expansion of multilayer ceramic capacitor (MLCC) capacity beyond its existing investment plan",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260915VL213/murata-mlcc-expansion-demand-2028.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-15-014",
+    "date": "2026-09-15",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI servers are eating MLCC capacity, and Chinese suppliers are taking what's left",
+    "summary": "<p class=\"P1\" data-start=\"2559\" data-end=\"2866\">AI servers are reshaping the global multilayer ceramic capacitor (MLCC) market. Murata Manufacturing and Samsung Electro-Mechanics (SEMCO) are steering ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914VL212/mlcc-capacity-market-semco-murata.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-015",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's Guoxin Micro buys its way into power-chip manufacturing",
+    "summary": "<p class=\"P1\" data-start=\"3009\" data-end=\"3233\">Unigroup Guoxin Microelectronics plans to acquire WeEn Semiconductors for CNY1.9 billion (&asymp; US$283 million), giving the Chinese specialty IC suppl",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914VL215/manufacturing-wafer-sic-capacity-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-15-016",
+    "date": "2026-09-15",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MediaTek unveils first 2nm chip to run 30 billion AI models on phones arriving this quarter",
+    "summary": "<p class=\"P1\" data-start=\"3527\" data-end=\"3809\">MediaTek has become the first merchant silicon vendor to announce a 2-nanometer smartphone processor, unveiling the Dimensity 9600 Pro on Tuesday as the",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260915VL224/mediatek-2nm-silicon-smartphone-processor.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-15-017",
+    "date": "2026-09-15",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Interview: Corning sees CPO, glass core as new semiconductor battlegrounds",
+    "summary": "<p class=\"P1\" data-start=\"2246\" data-end=\"2768\">As artificial intelligence applications accelerate, surging global semiconductor demand is pushing advanced packaging, co-packaged optics (CPO), glass c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260915PD233/corning-cpo-packaging-demand-auo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-018",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wiwynn deepens US AI server footprint with US$1.6 billion Texas manufacturing hub",
+    "summary": "Wiwynn has officially opened its advanced manufacturing facility in Socorro, Texas, deepening the Taiwan-based server maker's US footprint. The move comes as booming AI infrastructure demand drives cl",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260915VL214/wiwynn-manufacturing-texas-ai-server-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-15-019",
+    "date": "2026-09-15",
+    "companies": [
+      "intel",
+      "microsoft"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "South Korea updates AI safeguards as Microsoft sets shutdown rules",
+    "summary": "<p class=\"P1\" data-start=\"4200\" data-end=\"4475\">South Korea is updating its artificial intelligence security guidance as companies deploy AI agents capable of operating with limited human supervision,",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260915VL222/microsoft-security-guidance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-15-020",
+    "date": "2026-09-15",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Micron's record Taiwan payout fails to end union demand for 15% of profits",
+    "summary": "Micron Technology's Taiwan union is pressing for a permanent profit-sharing formula despite the US memory chipmaker announcing its largest employee rewards package to date, leaving a labour dispute un",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260915PD234/micron-taiwan-2025-operating-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-021",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beyond H100: China's GPU makers chase scale, not just parity",
+    "summary": "<p class=\"P1\" data-start=\"4923\" data-end=\"5187\">China's domestic GPU industry is entering a tougher phase: matching high-end accelerator performance is no longer enough. Vendors must now combine compe",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260915VL206/gpu-h100-performance-metax-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-15-022",
+    "date": "2026-09-15",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DIGITIMES Insight: AI sends the semiconductor market toward US$1.6T, with memory doing the heavy lifting",
+    "summary": "DIGITIMES Intelligence forecasts the global semiconductor market will expand from US$791.7 billion in 2025 to US$1.6 trillion in 2026, representing year-on-year growth of 109.1%.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260914PD228/market-digitimes-2026-growth-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-15-023",
+    "date": "2026-09-15",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Minebea Mitsumi pauses M&amp;A to chase AI hardware demand",
+    "summary": "Minebea Mitsumi has halted its push for new acquisitions and is shifting resources toward producing ball bearings, motors and actuators for AI hardware, as demand tied to data centers, humanoid robots",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260915PD226/demand-hardware-data-center-growth-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-024",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bioceres Crop Solutions Corp. 2026 Q4 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4946447-bioceres-crop-solutions-corp-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-025",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Cannonball, Cavalry, Or Complacency: Interpreting The Latest Chinese Government Economic Outlook In Advance Of The Next Trump-Xi Summit",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4946419-interpreting-latest-chinese-government-economic-outlook-next-trump-xi-summit?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-15-026",
+    "date": "2026-09-15",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "007 First Light Finally Gets the Path Tracing Mode Delayed at Launch, Demanding NVIDIA RTX 50-Series Power to Shine",
+    "summary": "IO Interactive has now released a major PC visual update for 007 First Light, adding full path tracing and NVIDIA DLSS 4.5 Ray Reconstruction to the excellent James Bond origin story. As you may remem",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/007-first-light-path-tracing-update-nvidia-rtx-50-series/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-027",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "German DDR5 Price Index Hits A New High; Now At 544% Of Last Year’s Level Thanks To A Massive 103% Jump In 2x 16 GB DDR5-6400 Kit",
+    "summary": "The DDR5 memory kits continue to soar in price every month and are now over 5X more expensive compared to July 2025 levels. DDR5 Memory Kits Witness a 12% Price Jump in September, Setting a New Price ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/german-ddr5-price-index-hits-a-new-high-now-544-more-expensive-than-last-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-15-028",
+    "date": "2026-09-15",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dimensity 9600 Pro Slides Show It Can Narrowly Beat A20 Pro in Multi-Core Performance, But Dimensity 9500 Scores Lowered By 8.5% To Paint 2nm SoC In A Positive Light",
+    "summary": "MediaTek just wrapped up the Dimensity 9600 Pro announcement, its fastest chipset to date, and also the first 2nm silicon that is expected to power a wave of Android flagship smartphones. Naturally, a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/dimensity-9600-pro-beats-a20-pro-multicore-dimensity-9500-scores-lowered/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-15-029",
+    "date": "2026-09-15",
+    "companies": [
+      "tsmc",
+      "apple",
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MediaTek’s Dimensity 9600M And Dimensity 9600 Pro Go Official; New “2 + 3 + 3” CPU Cluster With LPDDR6 RAM Support, Capable Of Handling 30B Local AI Models & More",
+    "summary": "Apple’s A20 Pro&#160;isn’t going to be the only SoC treated to TSMC’s 2nm process because MediaTek didn’t take long to announce its latest and greatest silicon offerings, the Dimensity 9600M and Dimen",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/mediatek-dimensity-9600m-dimensity-9600-pro-launch-specs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-09-15-030",
+    "date": "2026-09-15",
+    "companies": [
+      "arm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Valve’s Steam Frame Is Out Now, with First Reviews Praising Comfort and Streaming While Slamming $1,059 Price and Battery Life",
+    "summary": "The Steam Frame, Valve's first standalone headset, finally launched yesterday, with the Steam company billing it as more than just a mere successor to 2019's Valve Index. The Steam Frame runs SteamOS ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/valve-steam-frame-reviews-price-battery-life/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-09-15-031",
+    "date": "2026-09-15",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China’s Social Media Blows Up With The Unlikely Rumor That Huawei’s CEO Has Escaped The Country With His Family Ahead Of Stringent Exit Controls",
+    "summary": "In what appears to be a scene ripped straight out of a James Bond movie, the CEO of Huawei, Ren Zhengfei, has apparently escaped China via the maritime route just days before stringent exit controls w",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/chinas-social-media-blows-up-with-the-unlikely-rumor-that-huaweis-ceo-has-escaped-the-country-with-his-family-ahead-of-stringent-exit-controls/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-032",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "How Everpure plans to stop AI from starving without data",
+    "summary": " SPONSORED FEATURE: The vendor's AI solutions are dedicated to increasing GPU utilization and avoiding costly GPUs doing nothing while waiting for data ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-ml/2026/09/15/sponsored-how-everpure-plans-to-stop-ai-from-starving-without-data/5295812",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-15-033",
+    "date": "2026-09-15",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google unworried by $200bn datacentre capex",
+    "summary": "<p>A Google server pays for its cost in two years and, if it’s running on Google chips, pays for itself in a year, according to Google Cloud CEO Thomas Kurian [&#8230;]</p>\n<p>The post <a href=\"https:",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/google-unworried-by-200bn-datacentre-capex-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-034",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chip boom doesn’t represent ultimate market demand",
+    "summary": "<p>The chip market continues with treble-digit monthly annualised value growth rates, twice as large as the industry’s two previous record highs in June 2000 (59.3%) and January 2010 (66.6%). Prior [&",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/chip-boom-not-representative-of-ultimate-market-demand-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-035",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "euv"
+    ],
+    "impact": "neutral",
+    "title": "Imec demoes 22nm pitch on single-print high-NA step",
+    "summary": "<p>Imec has demonstrated the feasibility of patterning tight-pitch random logic structures after a CAR-based single-print High NA EUV lithography step. Logic structures include lines/spaces down to 22",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/imec-demoes-22nm-pitch-and-28nm-vias-on-single-print-high-na-step-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-036",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBCs bloodied by the memory boom but surviving",
+    "summary": "<p>SBCs have become so expensive that even models that are nearly a decade old are pricier than ever. A Raspberry Pi that was $15 is now being sold for $60, [&#8230;]</p>\n<p>The post <a href=\"https://",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/sbcs-bloodied-by-the-memory-boom-but-surviving-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-09-14-001",
     "date": "2026-09-14",
     "companies": [
@@ -635,6 +1317,249 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/anti-surge-chip-resistors-delivering-0-33w-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-14-035",
+    "date": "2026-09-14",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp\">Christina Koch sits down with James Manyika, Google’s Senior Vic",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-14-036",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Advanced Packaging Changes The Rules For Semiconductor Health And Performance Management",
+    "summary": "<p>How to understand every chiplet inside the system-in-package.</p>\n<p>The post <a href=\"https://semiengineering.com/advanced-packaging-changes-the-rules-for-semiconductor-health-and-performance-mana",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/advanced-packaging-changes-the-rules-for-semiconductor-health-and-performance-management/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-14-037",
+    "date": "2026-09-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
+    "summary": "\n                             The RTX 5090 is out of stock from first-party sellers online in the U.S., with third-party sellers now asking for as much as $9,500 for the GPU. \n                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-5090-vanishes-from-online-retail-in-the-us-third-party-sellers-now-demand-as-much-as-usd9-500-for-nvidias-fastest-gpu",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-14-038",
+    "date": "2026-09-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Gaming takes a backseat as Nvidia overhauls the RTX 5090 for maximum AI margins — RTX Pro 5500 delivers 2.6X VRAM at matching specs",
+    "summary": "\n                             Nvidia launches the RTX Pro 5500 Blackwell Workstation Edition graphics card for agentic and generative AI. \n                                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-09-14-039",
+    "date": "2026-09-14",
+    "companies": [
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Valve engineers discuss the duality of the Steam Frame and pricing — Valve's newest VR headset pivots SteamOS to Arm",
+    "summary": "\n                             We chatted with Valve engineers Pierre-Loup Griffais and Jeff Leinbaugh about the Steam Frame launch, why the company is taking a two-pronged strategy with streaming and ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/virtual-reality/valve-engineers-discuss-the-duality-of-the-steam-frame-and-pricing-valves-newest-vr-headset-pivots-steamos-to-arm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-040",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Valve Steam Frame interview — why it costs up to $1,300, Snapdragon power, and 10x foveated streaming",
+    "summary": "\n                             We chatted with Valve engineers Pierre-Loup Griffais and Jeff Leinbaugh about launching the Steam Frame amid a global memory/storage supply crunch \n                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/virtual-reality/valve-steam-frame-interview-why-it-costs-up-to-usd1-300-snapdragon-power-and-10x-foveated-streaming",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-14-041",
+    "date": "2026-09-14",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Massive Intel Core Ultra CPU Deals On Newegg Give You The Opportunity To Get A Free 240mm AIO And $80 In Savings If You Opt To Pair A Motherboard Too",
+    "summary": "AMD might be the king of desktop CPUs, but if you want an unbeatable deal and insane value on your next gaming PC, Intel has solidified a permanent spot in this regard. On Newegg, we have three Core U",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-core-ultra-cpu-deals-newegg-free-240mm-aio-motherboard-bundle/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-042",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "negative",
+    "title": "Anthropic And OpenAI Can Sidestep AGI-Related Scaremongering By Opening Up The Traces Of Their Most Advanced Models, But Their Real Goal For Pacing AI Might Have To Do With Managing Chronic Power Shortages",
+    "summary": "When you have Anthropic's Jacob Coxon literally boasting about the fact that he collaborated with others to make his doom-and-gloom-style resignation post go viral, while continuing to tout the suppos",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/anthropic-and-openai-can-sidestep-agi-related-scaremongering-by-opening-up-the-traces-of-their-most-advanced-models-but-their-real-goal-for-pacing-ai-might-have-to-do-with-managing-chronic-power-shor/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-14-043",
+    "date": "2026-09-14",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "BIWIN Launches DW100 24 GB x2 DDR5-6000 Memory Kit With AMD EXPO ULL; Claims Up To 18% Higher Minimum FPS And 10% Better 1% Lows",
+    "summary": "Another memory maker has launched an EXPO ULL certified DDR5-6000 memory kit, running at CL28. BIWIN Unveils DW100 DDR5-6000 CL28 48 GB Memory Kit With AMD EXPO Ultra Low Latency; Company Claims Bette",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/biwin-launches-dw100-24-gb-x2-ddr5-memory-kit-with-amd-expo-ull/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-14-044",
+    "date": "2026-09-14",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report: TSMC’s 2-Nanometer Push Outpaces 3-Nanometer Growth, With Capacity Aimed At 110,000 Wafers Per Month By H2 2027",
+    "summary": "The Taiwan Semiconductor Manufacturing Company (TSMC) is planning to increase its 3-nanometer and 2-nanometer manufacturing process technology capacities in 2027, suggests a supply chain report from T",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/report-tsmcs-2-nanometer-push-outpaces-3-nanometer-growth-with-capacity-aimed-at-110000-wafers-per-month-by-h2-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oracle-2026-09-14-045",
+    "date": "2026-09-14",
+    "companies": [
+      "oracle"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Oracle celebrates banner quarter with another round of layoffs",
+    "summary": " Congratulations on helping Larry Ellison's AI cloud boom. Now please pack your bags and go ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/databases/2026/09/14/oracle-celebrates-banner-quarter-with-another-round-of-layoffs/5296395",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-046",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New hardware device can RAM into encrypted memory, expose your data",
+    "summary": " Attackers would need physical access to the server to pull off the DDR5 trick ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/09/14/new-hardware-device-can-ram-into-encrypted-memory-expose-your-data/5296377",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-047",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Datacenter developers want your backyard. FAS says negotiate harder",
+    "summary": " Tax breaks, water, noise, decommissioning - report tells local officials what to nail down before signing ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/09/14/datacenter-developers-want-your-backyard-fas-says-negotiate-harder/5296308",
         "type": "rss"
       }
     ]

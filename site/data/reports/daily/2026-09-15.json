@@ -1,0 +1,358 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:28:25.257943Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-09-15-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "South Korea updates AI safeguards as Microsoft sets shutdown rules",
+      "companies": [
+        "intel",
+        "microsoft"
+      ],
+      "related": {
+        "customers": [
+          "microsoft"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260915VL222/microsoft-security-guidance.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "micron-2026-09-15-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Micron's record Taiwan payout fails to end union demand for 15% of profits",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260915PD234/micron-taiwan-2025-operating-profit.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-09-15-029",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "MediaTek’s Dimensity 9600M And Dimensity 9600 Pro Go Official; New “2 + 3 + 3” CPU Cluster With LPDDR6 RAM Support, Capable Of Handling 30B Local AI Models & More",
+      "companies": [
+        "tsmc",
+        "apple",
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm",
+          "apple"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/mediatek-dimensity-9600m-dimensity-9600-pro-launch-specs/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-15-013",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Murata considers bigger MLCC expansion as AI server demand extends beyond 2028",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260915VL213/murata-mlcc-expansion-demand-2028.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-09-15-014",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI servers are eating MLCC capacity, and Chinese suppliers are taking what's left",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260914VL212/mlcc-capacity-market-semco-murata.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 28,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "ti",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "ai_server",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 101,
+    "too_old": 55,
+    "gate1_blocked": 55,
+    "gate2_blocked": 47,
+    "passed": 49,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "22.8%",
+    "gate2_samples": [
+      "ASML begins construction of new Eindhoven campus, strengthening its presence in the Brainport region",
+      "Heart of the Matter: How a Major Childrenâs Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "Physical AI Takes the Wheel: How the Worldâs Robotaxi Leaders Are Building With NVIDIA Technologie",
+      "Widow’s Bay triumphs as most decorated freshman comedy in Emmy history"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為英特爾、超微、輝達相關動態：「South Korea updates AI safeguards as Microsoft sets shutd...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "South Korea updates AI safeguards as Microsoft sets shutdown rules（展望）",
+        "level": "red"
+      },
+      {
+        "text": "Micron's record Taiwan payout fails to end union demand for 15% of profits（財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
