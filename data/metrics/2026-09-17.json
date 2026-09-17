@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-17",
+  "total_events": 49,
+  "by_company": {
+    "google": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intel": {
+      "count": 4,
+      "sentiment_avg": 0.1
+    },
+    "skhynix": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "nvidia": {
+      "count": 5,
+      "sentiment_avg": -0.3
+    },
+    "apple": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "microsoft": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "amd": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "samsung": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "cxmt": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "tsmc": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "micron": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "kioxia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "infineon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "winbond": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 35,
+      "sentiment_avg": 0.01
+    },
+    "capacity": {
+      "count": 5,
+      "sentiment_avg": 0.2
+    },
+    "capex": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "advanced_packaging": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "euv": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ai_server": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 7,
+      "sentiment_avg": 0.2
+    },
+    "dram_price": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "inventory": {
+      "count": 4,
+      "sentiment_avg": -0.12
+    },
+    "ddr5": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "hbm": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "shortage": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {
+      "samsung": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "nvidia": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "asml": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "google": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "amd": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "skhynix": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "tokyo_electron": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      }
+    },
+    "topics": {
+      "earnings": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "hbm": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ai_memory": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ddr5": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "guidance": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      }
+    }
+  },
+  "supply_chain_activity": []
+}

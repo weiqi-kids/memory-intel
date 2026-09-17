@@ -1,0 +1,369 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T13:23:16.058020Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cxmt-2026-09-17-024",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及財報"
+      ],
+      "title": "CXMT cashes in on the DRAM shortage &mdash; and takes aim at HBM",
+      "companies": [
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "shortage",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260917VL219/cxmt-dram-hbm-supply-chain-emerging-memory.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-09-17-042",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AMD Notifies Partners of 10% Price Hike As Increased TSMC Wafer Costs Could Squeeze Ryzen CPU Lineup For Q4 2026",
+      "companies": [
+        "amd",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/amd-notifies-partners-of-10-price-hike/"
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-09-17-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Investigation details how billions' worth of export-restricted Nvidia AI chips are sold to China — report details how Chinese firms skirt Trump's regulations",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations"
+    },
+    {
+      "rank": 4,
+      "event_id": "skhynix-2026-09-17-020",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "SK Hynix looks beyond HBM as inference workloads diversify",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260917VL225/sk-hynix-hbm-data-capacity-cost.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-09-17-022",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及先進封裝"
+      ],
+      "title": "Samsung bets on zHBM as 2.5D memory nears its limits",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260917VL221/samsung-hbm-accelerator-dram-data.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 38,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "intel",
+        "count": 4
+      },
+      {
+        "id": "microsoft",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 3
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "ai_server",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 85,
+    "too_old": 56,
+    "gate1_blocked": 61,
+    "gate2_blocked": 45,
+    "passed": 60,
+    "pass_rate": "27.0%",
+    "gate2_block_rate": "20.3%",
+    "gate2_samples": [
+      "What Changes When High-Viscosity Materials Become Interface-Defining?",
+      "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "Heart of the Matter: How a Major Childrenâs Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "Physical AI Takes the Wheel: How the Worldâs Robotaxi Leaders Are Building With NVIDIA Technologie"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為輝達、英特爾、微軟相關動態：「CXMT cashes in on the DRAM shortage &mdash; and takes aim...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CXMT cashes in on the DRAM shortage &mdash; and takes aim at HBM（HBM、缺貨、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "AMD Notifies Partners of 10% Price Hike As Increased TSMC Wafer Costs Could S...（財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
