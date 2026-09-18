@@ -1,5 +1,754 @@
 [
   {
+    "id": "unknown-2026-09-18-001",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "AI Demand Will Keep DRAM Market Under Pressure",
+    "summary": "\n\t\t\t\t\t\t<p>AI infrastructure spending is driving DRAM shortages that will continue through 2027, pushing consumer electronics makers further down priority lists.</p>\n<p>The post <a href=\"https://www.ee",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ai-demand-will-keep-dram-market-under-pressure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-002",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Piecing Together the Indian Electronics and Semiconductor Ecosystem",
+    "summary": "\n\t\t\t\t\t\t<p>India Semiconductor Mission 2.0, quantum computing with IBM, neuromorphic chips, and deep-tech startups: six stories on how India’s chip ecosystem is taking shape.</p>\n<p>The post <a href=\"h",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/piecing-together-the-indian-electronics-and-semiconductor-ecosystem/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-18-003",
+    "date": "2026-09-18",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Microsoft director called AI scraping ‘the largest theft of labor in human history,’ while OpenAI head brands ChatGPT an ‘existential threat’ to publishers — revelations come from legal briefs filed in NYT lawsuit",
+    "summary": "\n                             The NYT filed a legal brief revealing potentially damaging statements from Microsoft and OpenAI regarding the copyright infringement case it brought against the two compa",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-004",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking — despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
+    "summary": "\n                             As many semiconductor fabs and facilities go online in the 2030s and beyond, a global consulting firm said that these sites will need thousands of engineers and technicia",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-experts-suggest-a-shortage-of-up-to-157-000-semiconductor-workers-by-2030",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-09-18-005",
+    "date": "2026-09-18",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "ai_server",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASML snubs Elon Musk-backed particle accelerator chipmaking tech — firm doubles down on 1,000W laser-produced plasma systems for chipmaking tools",
+    "summary": "\n                             With progress that ASML makes with its LPP EUV light sources for its scanners, the company is barely interesting in adopting particle accelerator-based FEL sources. \n    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-snubs-elon-musk-backed-particle-accelerator-chipmaking-tech-firm-doubles-down-on-1-000w-laser-produced-plasma-systems-for-chipmaking-tools",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-09-18-006",
+    "date": "2026-09-18",
+    "companies": [
+      "ti",
+      "amd"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save $300 on this 4K gaming PC with a 9800X3D and RTX 5070 Ti, now $2,599 — powerhouse ABS Stratos II rig ships with 32GB DDR5 and a 2TB SSD",
+    "summary": "\n                             A 4K-capable gaming machine from ABS, featuring the powerful RTX 5070 Ti, AMD Ryzen 7 9800X3D, 32GB DDR5, and a 2TB SSD, all for $2,599.99. \n                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-4k-gaming-pc-with-a-9800x3d-and-rtx-5070-ti-now-usd2-599-powerhouse-abs-stratos-ii-rig-ships-with-32gb-ddr5-and-a-2tb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-18-007",
+    "date": "2026-09-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters — FP4 performance of the Ascend 960PR doubles expectations",
+    "summary": "\n                             Huawei's mimics Nvidia's approach to AI factories, unveils details about next-generation Ascend NPUs, Kunpeng CPUs, scale-up and scale-out connectivity solutions. \n      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/huawei-details-ai-accelerator-roadmap-pulls-in-next-generation-ascend-npus-by-quarters-fp4-performance-of-the-ascend-960pr-doubles-expectations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-09-18-008",
+    "date": "2026-09-18",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Solidigm weighs first US NAND fab, explores upstate New York",
+    "summary": "<p class=\"P1\" data-start=\"88\" data-end=\"264\">Solidigm, the US NAND flash subsidiary of SK Hynix, is considering building its first NAND manufacturing plant in the US, with upstate New York emerging as",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL223/solidigm-nand-sk-hynix-manufacturing-fab.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-009",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysis: China's 15th five-year plan spotlights diamond for AI chip thermal management",
+    "summary": "China's Ministry of Industry and Information Technology (MIIT) and National Development and Reform Commission (NDRC) have highlighted ultra-wide bandgap (UWBG) semiconductor materials, including galli",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD222/ai-chip-management-miit-it-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "winbond-2026-09-18-010",
+    "date": "2026-09-18",
+    "companies": [
+      "winbond",
+      "infineon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Winbond cements server NOR lead with Infineon deal",
+    "summary": "Winbond Electronics is expanding its NOR Flash footprint and has agreed to pay US$1.12 billion in cash to acquire Infineon's NOR Flash and F-RAM businesses, a move that will lift it to the top of the ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD228/winbond-infineon-automotive-market-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-011",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Corning to raise display glass substrate prices 15% from 4Q26",
+    "summary": "Corning, the US glass substrate supplier, will raise prices for its yen-denominated display glass substrate products by 15% or more worldwide starting in the fourth quarter of 2026, according to indus",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD226/corning-glass-substrate-display-panel-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ymtc-2026-09-18-012",
+    "date": "2026-09-18",
+    "companies": [
+      "ymtc",
+      "cxmt"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT eyes NAND amid global shortage, taking aim at YMTC",
+    "summary": "<p class=\"P1\" data-start=\"2580\" data-end=\"2871\">ChangXin Memory Technologies (CXMT) is preparing to expand beyond DRAM into NAND flash, a move that would push China's leading DRAM supplier closer to t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL218/cxmt-nand-dram-ymtc-nand-flash.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-013",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "Doosan commits KRW968 billion to CCL expansion as demand strains capacity",
+    "summary": "Doosan is investing KRW968.4 billion (approx. US$701 million) to expand high-end copper-clad laminate (CCL) production in South Korea and China, its largest-ever investment in the business, as growing",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL217/doosan-ccl-demand-capacity-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-014",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's AI data center token costs hinge on access to advanced GPUs",
+    "summary": "China's AI data centers are confronting a severe chip access bottleneck, with the cost of producing tokens shaped less by model design than by geopolitics, according to a recent <em>Caijing</em> analy",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD219/cost-data-center-chips-data-high-end.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-18-015",
+    "date": "2026-09-18",
+    "companies": [
+      "micron",
+      "cxmt",
+      "samsung",
+      "skhynix",
+      "ymtc"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's memory push gains ground across LPDDR6, advanced NAND, with HBM still the test",
+    "summary": "<p class=\"P1\" data-start=\"4906\" data-end=\"5288\">AI is reshaping the global memory industry, tightening supply while creating an opening for China's domestic suppliers. With Samsung Electronics, SK Hyn",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL210/hbm-nand-dram-cxmt-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-016",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "CoreWeave launches US$3 billion bond sale amid growing revenue, debt",
+    "summary": "<p class=\"P1\" data-start=\"4568\" data-end=\"4926\">CoreWeave launched a debt sale worth US$3 billion in convertible bonds, which would allow buyers to turn their bonds into shares. The neocloud, which ha",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL216/revenue-capacity-infrastructure-bloomberg-2030.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-18-017",
+    "date": "2026-09-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "capex"
+    ],
+    "impact": "negative",
+    "title": "High-end GPUs may be slowing China's AI compute expansion",
+    "summary": "China's wide gap in token costs stems largely from domestic companies' difficulty in accessing Nvidia high-end GPUs, forcing them to squeeze more value from each token to recoup costs. But supply-chai",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD211/expansion-high-end-2025-data-center-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-18-018",
+    "date": "2026-09-18",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "LGES, Samsung SDI reportedly booked out for two years as US restrictions and China slowdown reshape ESS market",
+    "summary": "As energy storage system (ESS) battery orders continue to accumulate at South Korean manufacturers, expectations are growing that market conditions could improve further. The outlook follows the US go",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD210/market-lges-samsung-sdi-capacity-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-019",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip equipment makers face waits of up to 40 months for critical parts",
+    "summary": "The semiconductor industry's capacity crunch is moving deeper into the equipment supply chain, with shortages of specialized components stretching delivery times as chipmakers accelerate fab investmen",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL212/equipment-capacity-demand-supply-chain-chipmakers.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-18-020",
+    "date": "2026-09-18",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung deepens Euclyd ties as startup reportedly reaches test-chip stage",
+    "summary": "<p class=\"P1\" data-start=\"3225\" data-end=\"3475\">Samsung Electronics is deepening its relationship with Dutch chip startup Euclyd after the company reportedly reached the test-chip stage at Samsung Fou",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL214/samsung-startup-development-samsung-foundry-dutch.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-18-021",
+    "date": "2026-09-18",
+    "companies": [
+      "google",
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "King Charles tests AI's safety consensus as Nvidia keeps its foot on the accelerator",
+    "summary": "<p class=\"P1\" data-start=\"2953\" data-end=\"3197\">King Charles III has stepped into the intensifying debate over artificial intelligence, urging executives from Nvidia, Google DeepMind, OpenAI, and Anth",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL213/nvidia-google-openai-development-deepmind.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-18-022",
+    "date": "2026-09-18",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "iPhone 18 Pro sellouts across Taiwan as foldable Duo looms",
+    "summary": "Apple's iPhone 18 Pro series will go on sale on September 18, and Taiwan's major e-commerce platforms and telecom carriers have released preorder results ahead of launch. Data show that demand for pre",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD203/iphone-apple-taiwan-demand-e-commerce.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-09-18-023",
+    "date": "2026-09-18",
+    "companies": [
+      "qualcomm",
+      "apple"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mobile SoC battle for 2026 centers on NPUs",
+    "summary": "<p class=\"P1\" data-start=\"2590\" data-end=\"3087\">More technical details on 2026 mobile systems on a chip (SoCs) from major vendors are emerging, and the biggest changes in chips such as Apple's A20 Pro",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD212/npu-2026-mobile-performance-apple.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-18-024",
+    "date": "2026-09-18",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "ai_memory",
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Micron: AI memory crunch rewrites the market with long-term deals and custom designs",
+    "summary": "As the AI boom spreads from data centers to edge devices and robotics, Micron Technology executives are warning that memory has become a core bottleneck determining the upper limits of AI performance.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD204/micron-market-data-demand-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-025",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FTXL: A 120% Semiconductor Winner With A Very Different Playbook",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4947832-ftxl-a-120-percent-semiconductor-winner-with-a-very-different-playbook?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-18-026",
+    "date": "2026-09-18",
+    "companies": [
+      "micron"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Micron: Sept. 30 Could Reveal How Big Its Next Buyback Really Is",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4947828-micron-sept-30-could-reveal-how-big-its-next-buyback-really-is?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-027",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Invesco Short Term Bond Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4947825-invesco-short-term-bond-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-028",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Pagaya Technologies: Strong Auto Growth And Rising Profitability At A Low Valuation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4947821-pagaya-technologies-strong-auto-growth-and-rising-profitability-at-a-low-valuation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-029",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock Energy Opportunities Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4947813-blackrock-energy-opportunities-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-18-030",
+    "date": "2026-09-18",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Minisforum Crams 40TB Of Storage Into Silent Fanless S5 NAS, But Settles For The Slowest Wildcat Lake Chip",
+    "summary": "This NAS has several M.2 SSD slots to support up to 40 TB of total storage, but the configuration is paired with the slowest Wildcat Lake CPU. Minisforum Launches S5 NAS With Fully Passive Cooling; Fe",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/minisform-introduces-fanless-s5-nas-powered/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-18-031",
+    "date": "2026-09-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Pearl Abyss Sharpens Crimson Desert’s Ray Tracing, as Patch 2.03.00 Brings NVIDIA DLSS Ray Reconstruction Improvements",
+    "summary": "Although Pearl Abyss must be very hard at work on the Charting the Unknown expansion launching on October 15, the Korean developer isn't slowing down the release of patches for Crimson Desert, whose E",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/pearl-abyss-sharpens-crimson-desert-ray-tracing-patch-2-03-00/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-032",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Take-Two Vows GTA Online Survives GTA 6, While Twitch CEO Teases a Separate Multiplayer Launch in 2027",
+    "summary": "Yesterday, we got two fairly important statements about the future of Grand Theft Auto multiplayer after GTA 6 launches. First and foremost, Take-Two Interactive reiterated during yesterday's virtual ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gta-online-survives-gta-6-twitch-ceo-2027-multiplayer/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "marvell-2026-09-18-033",
+    "date": "2026-09-18",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marvell pushes GlobalFoundries to light up wafer production",
+    "summary": " It might be the next trillion-dollar company, but it'll need some help on the supply side to do it ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/09/18/marvell-pushes-globalfoundries-to-light-up-wafer-production/5297340",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-18-034",
+    "date": "2026-09-18",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Most read – Mediatek processor, Racks not chips, Google capex",
+    "summary": "<p>There's Google's ballooning datacentre capex, Imec demonstrating 22nm pitch on a single-print high-NA step and a semiconductor that changes its properties in response to light.</p>\n<p>The post <a h",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-mediatek-processor-racks-not-chips-google-capex-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-035",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Tata and Nexperia join in far-reaching jv",
+    "summary": "<p>Nexperia, whose Chinese owner Wingtech was stripped of control by a Dutch court, has joined up with Tata Electronics on Thursday to fab and package ICs in India. Nexperia will [&#8230;]</p>\n<p>The ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/tata-and-nexperia-join-in-far-reaching-jv-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-036",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei launches ten AI chipsets",
+    "summary": "<p>Yesterday, Huawei showed off 10 AI chipsets including AI accelerators, CPUs and networking. &#8220;Among these chips, Ascend is the most critical one in the entire system,&#8221; said Huawei chairm",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/huawei-launches-ten-ai-chipsets-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-18-037",
+    "date": "2026-09-18",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "2026 AI spend to hit $2.7trn",
+    "summary": "<p>Worldwide spending on AI is forecast to total $2.7 trillion in 2026, a 49.5% increase year-over-year, according to Gartner. “The buildout of AI data center capacity is the largest infrastructure [&",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/2026-ai-spend-to-hit-2-7trn-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-18-038",
+    "date": "2026-09-18",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "600V 3-phase IGBT inverter bridge with an 18.8mm x 32.8mm footprint",
+    "summary": "<p>ST has brought out  small low-loss intelligent moulded modules (SLLIMM) with direct-bonded copper (DBC) in a new compact outline for industrial drives, air conditioners, heat pumps and home applian",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/st-launches-2-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "google-2026-09-17-001",
     "date": "2026-09-17",
     "companies": [
@@ -939,6 +1688,173 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/mediatek-processor-aims-to-go-light-on-memory-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-17-050",
+    "date": "2026-09-17",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Making global data easier to explore",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp\">Google and the UN system have launched the UN System Data Commons, a new open platf",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-17-051",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Awards Anderon $1B for Quantum Wafer Manufacturing",
+    "summary": "\n\t\t\t\t\t\t<p>Washington bets $1B on IBM’s Anderon to forge quantum wafers on U.S. soil as the race leaves labs behind.</p>\n<p>The post <a href=\"https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-w",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/u-s-awards-anderon-1b-for-quantum-wafer-manufacturing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-17-052",
+    "date": "2026-09-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Investigative report details how export-restricted Nvidia AI chips reach China — public records reveal how Chinese entities skirt US sanctions",
+    "summary": "\n                             American nonprofit C4ADS, a monitoring organization funded mostly by the U.S. government, produced a report shedding light on the many ways that American AI accelerators ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hp-2026-09-17-053",
+    "date": "2026-09-17",
+    "companies": [
+      "hp"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Looking For A Sub-$600 Windows 11 Notebook That’s An Excellent MacBook Neo Alternative? HP’s Snapdragon X-Powered OmniBook 3 Is Going For $545 On Amazon",
+    "summary": "It’s not every day that you’re getting a Windows 11 notebook equipped with a capable chipset, 16GB of LPDDR5X RAM, and a 256GB SSD, all for $545, but we do live in strange times. That’s right, no need",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/hp-omnibook-3-snapdragon-x-amazon-deal-545/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-054",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Develops GAA Transistors That Enable 3nm Node-Like Performance On DUV Lithography, But MEOL Constraints Only Provide A Path To 5nm Node-Equivalent Performance",
+    "summary": "Despite the fact that American export controls continue to restrict China to the older DUV lithography tech, the Asian giant has been using innovative techniques to extract the maximum possible juice ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/china-develops-gaa-transistors-that-enable-3nm-node-like-performance-on-duv-lithography-but-meol-constraints-only-provide-a-path-to-5nm-node-equivalent-performance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-09-17-055",
+    "date": "2026-09-17",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Square Enix Continues To Impress With Final Fantasy VII Revelation, As TGS 2026 Demo Stuns With Intense Cutscenes And Combat",
+    "summary": "Tokyo Game Show 2026 has officially begun, giving attendees the chance to try out games launching on PC, PlayStation 5, Xbox Series X&#124;S, and Nintendo Switch 2 in the coming months. One of the sta",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/square-enix-impress-final-fantasy-vii-revelation-playable-demo-stuns/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-17-056",
+    "date": "2026-09-17",
+    "companies": [
+      "intel",
+      "hp"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Upcoming HP EliteBook X G3i Could Be The First Nova Lake-Based Notebook With A 20-Core CPU As Spotted In SiSoftware",
+    "summary": "The next-gen EliteBook will likely feature one of Intel's mid-range Nova Lake chips, as leaked on the SiSoftware website. HP EliteBook X G3i 14-inch Laptop With a Possible 20-Core Nova Lake CPU Spotte",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/hp-elitebook-x-g3i-could-be-the-first-nova-lake-based-notebook-with-a-20-core-cpu/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-057",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei Brings Huge Inference Boost With Its Next-Gen Ascend 960 Chips In 2027, While 2028’s Ascend 970 Pushes Memory To 288 GB & Ascend 980 Pushes Memory To 384 GB In 2029",
+    "summary": "Huawei has released its next-gen Ascend chip and SuperPod roadmap, which comprises Ascend 960DT/PR, Ascend 970, and Ascend 980 accelerators. Huawei Pushes Its AI Accelerator Roadmap Ahead With Next-Ge",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/huawei-ascend-960dt-960pr-2027-970-2028980-2028-superpods-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-17-058",
+    "date": "2026-09-17",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Fable: The Prof Who Became A Billionaire",
+    "summary": "<p>59 years ago a professor published an algorithm for which this depiction is an analogy: He never patented the technology which is used in  mobile phones today. 41 years ago [&#8230;]</p>\n<p>The pos",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-prof-who-became-a-billionaire-2026-09/",
         "type": "rss"
       }
     ]

@@ -1,0 +1,361 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:58:07.646744Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "micron-2026-09-18-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM"
+      ],
+      "title": "China's memory push gains ground across LPDDR6, advanced NAND, with HBM still the test",
+      "companies": [
+        "micron",
+        "cxmt",
+        "samsung",
+        "skhynix",
+        "ymtc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260918VL210/hbm-nand-dram-cxmt-samsung.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "google-2026-09-18-021",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "King Charles tests AI's safety consensus as Nvidia keeps its foot on the accelerator",
+      "companies": [
+        "google",
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel",
+          "nvidia"
+        ]
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260918VL213/nvidia-google-openai-development-deepmind.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "micron-2026-09-18-024",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Micron: AI memory crunch rewrites the market with long-term deals and custom designs",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_memory",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260918PD204/micron-market-data-demand-performance.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "winbond-2026-09-18-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Winbond cements server NOR lead with Infineon deal",
+      "companies": [
+        "winbond",
+        "infineon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260918PD228/winbond-infineon-automotive-market-capacity.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-18-013",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Doosan commits KRW968 billion to CCL expansion as demand strains capacity",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260918VL217/doosan-ccl-demand-capacity-expansion.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "shortage": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.3,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cxmt",
+      "to": "ymtc",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "shortage",
+        "industry_general",
+        "hbm"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 24,
+      "negative": 8
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "micron",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "capacity",
+        "count": 8
+      },
+      {
+        "id": "capex",
+        "count": 7
+      },
+      {
+        "id": "ai_server",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 101,
+    "too_old": 57,
+    "gate1_blocked": 56,
+    "gate2_blocked": 46,
+    "passed": 47,
+    "pass_rate": "22.8%",
+    "gate2_block_rate": "22.3%",
+    "gate2_samples": [
+      "What Changes When High-Viscosity Materials Become Interface-Defining?",
+      "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "Heart of the Matter: How a Major Childrenâs Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "Microsoft, Marvell and Utimaco to Deliver Industry-first Secure, Cloud-scale Payments Solution"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為輝達、美光、三星相關動態：「China's memory push gains ground across LPDDR6, advanced ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "China's memory push gains ground across LPDDR6, advanced NAND, with HBM still...（HBM、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "King Charles tests AI's safety consensus as Nvidia keeps its foot on the acce...（AI 伺服器）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
