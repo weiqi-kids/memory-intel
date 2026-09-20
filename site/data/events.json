@@ -1,5 +1,248 @@
 [
   {
+    "id": "microsoft-2026-09-20-001",
+    "date": "2026-09-20",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Microsoft patents system to freeze games and inject ads during downtimes — watching commercials earns ad-free playtime credits",
+    "summary": "\n                             This patent uses the game engine and machine learning to determine the best time to serve an ad. \n                                                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/microsoft-patents-system-to-freeze-games-and-inject-ads-during-downtimes-watching-commercials-earns-ad-free-playtime-credits",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-002",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Massive 192GB GTA leak reveals early GTA VI map and canceled DLCs — files show liquid nitrogen death for Trevor and scrapped Liberty City expansion",
+    "summary": "\n                             The massive leak revealed early efforts in the development of GTA VI, as well as unreleased side missions, alternate endings, and even planned DLCs that never came to fru",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/massive-192gb-gta-leak-reveals-early-gta-vi-map-and-canceled-dlcs-files-show-liquid-nitrogen-death-for-trevor-and-scrapped-liberty-city-expansion",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-20-003",
+    "date": "2026-09-20",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to independently pick and bomb targets — Swedish startup's attack drones run small AI model, require no human input and zero external comms",
+    "summary": "\n                             Drones built with small, non-frontier computer-vision models autonomously identified and attacked targets in a recent demo. \n                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-20-004",
+    "date": "2026-09-20",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Jensen Huang says there is '0% chance' AI destroys the world by 2030 — 'We should go as fast as we can, irrespective of anyone else,' dismisses Anthropic doom warnings and rejects new regulations",
+    "summary": "\n                             Chief executive of Nvidia claims that fears that AI will destroy humanity in the coming years are unsubstantiated as safety mechanisms can preserve that. \n               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-says-there-is-0-percent-chance-ai-destroys-the-world-by-2030-we-should-go-as-fast-as-we-can-irrespective-of-anyone-else-dismisses-anthropic-doom-warnings-and-rejects-new-regulations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-005",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Charts: Two-thirds of Taiwan's chip equipment growth comes from testing AI chips",
+    "summary": "<p class=\"P1\" data-start=\"3020\" data-end=\"3241\">Taiwan's listed semiconductor equipment, components, and solutions suppliers are growing at nearly twice the pace of the chipmakers they serve, and most",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918VL220/equipment-taiwan-growth-testing-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-006",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BYD plans four Europe factories as EU tariff pressure rises",
+    "summary": "<p class=\"P1\" data-start=\"1355\" data-end=\"1670\">BYD is planning four factories in Europe over the long term as it works to meet local manufacturing rules and expand its customer base. The Chinese elec",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD229/byd-europe-manufacturing-vehicle-spain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-20-007",
+    "date": "2026-09-20",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "AI capacity crunch drives up consumer tech costs, deepening China's deflation",
+    "summary": "Surging AI server demand is reshaping consumer electronics. Memory costs have risen sharply this year, prompting Huawei, Oppo, Xiaomi and Apple to raise prices on some smartphones. A senior Chinese te",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD225/demand-ai-server-capacity-electronics-smartphone.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-008",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Wiwynn brings cobots to L10 server assembly as AI rack testing drives factory redesign",
+    "summary": "<p class=\"P1\" data-start=\"2814\" data-end=\"3165\">Wiwynn is introducing collaborative robots (cobots) at its El Paso, Texas, facility and third plant in Mexico, alongside a central heat exchange system ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD216/wiwynn-testing-manufacturing-plant-cooling.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-009",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn joins Quantron, Hongjing Drive in zero-emission commercial vehicle partnership",
+    "summary": "<p class=\"P1\" data-start=\"1624\" data-end=\"2007\">German commercial vehicle company Quantron and China's Hongjing Drive have formally agreed to establish a joint venture, Quantron China, to develop a Ch",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260918PD205/vehicle-commercial-foxconn-partnership-industrial.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-010",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chinese memory supply is disruptive to pricing, Acer's Jason Chen says, as shortages ease",
+    "summary": "PC component shortages are easing, Acer chairman and CEO Jason Chen said, with memory tight only at the high end of DDR5 and CPUs no longer in short supply. Suppliers across the bill of materials are ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260920PD200/pc-acer-jason-chen-component-chairman.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-011",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "3 Stocks I'd Build My Entire Portfolio Around",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4947151-3-stocks-id-build-my-entire-portfolio-around?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-20-012",
+    "date": "2026-09-20",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD’s Newly Launched Ryzen 5 5500F And Ryzen 5 7500 Hit Amazon Shelves At $118 And $209, Respectively",
+    "summary": "The recently launched Zen 3 and Zen 4 processors are now available for purchase on Amazon US. AMD Vermeer Ryzen 5 5500F Hits Amazon at $118 While Zen 4-Based Ryzen 5 7500 Launch at $209 AMD recently e",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-newly-launched-ryzen-5-5500f-and-ryzen-5-7500-hit-amazon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-013",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Baldur’s Gate 3 Modder Drops Massive Act Two Expansion After 18-Month Wait, Adding Entirely New Region",
+    "summary": "Nearly a year and a half after the first teaser trailer, modder SquallyDaBeanz has released a beta version of their Baldur's Gate 3: Act Two Expansion mod. As suggested by the name, this mod aims to e",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/baldurs-gate-3-modder-act-two-expansion-new-region/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-19-001",
     "date": "2026-09-19",
     "companies": [],
@@ -163,6 +406,178 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/apple-14-inch-m5-macbook-pro-24gb-ram-1tb-ssd-discount-bh-photo/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-010",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+    "summary": "<p>Researchers at Peking University published a technical paper titled “Predictive Structure to Thermal Conductivity Modeling Framework for BEOL Interconnect Stacks in Advanced Technology Nodes Enable",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-011",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts  (NYU)",
+    "summary": "<p>Researchers at New York University published a technical paper titled “Routing Dense Layouts with History-Aware Offline Reinforcement Learning using LSTM.” Abstract Excerpt: “Detailed routing remai",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-012",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators (University of Michigan)",
+    "summary": "<p>Researchers at the University of Michigan published a technical paper titled “Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign.” Abstract Excerpt: “This pape",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-013",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich, ShanghaiTech)",
+    "summary": "<p>Researchers at the University of Technology Sydney, ShanghaiTech University, and Technical University of Munich published a technical paper titled “IC-ThermBench: An Open, Progressive Benchmark for",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-014",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edinburgh)",
+    "summary": "<p>Researchers at the University of Edinburgh published a technical perspective titled “LLMs in Digital EDA: A perspective on shifting roles from Generation to Orchestration.” Abstract Excerpt: “In th",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-19-015",
+    "date": "2026-09-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unified Chiplet Network Scales Neuromorphic Computing Systems (Heidelberg University)",
+    "summary": "<p>Researchers at Heidelberg University published a technical paper titled “A Unified Interconnection Network for Chiplet-Based Scaling of the BrainScaleS Neuromorphic System.” Abstract Excerpt: “To o",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/unified-chiplet-network-scales-neuromorphic-computing-systems-heidelberg-university/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-19-016",
+    "date": "2026-09-19",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "A20 Pro’s Packaging Shift And New Vapor Chamber Unlocks Peak Performance; Liquid Nitrogen Cooling Brings Less Than 3% Increase Thanks To These Optimizations",
+    "summary": "A move to Wafer-Level Multi-Chip Module (WMCM) custom packaging technology for the A20 Pro has done wonders for Apple’s 2nm iPhone SoC. Sure, the larger vapor chamber also contributes to a fair degree",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/a20-pro-vapor-chamber-peak-performance-upgrade-liquid-nitrogen-cooling-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-09-19-017",
+    "date": "2026-09-19",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ASUS Prepares BIOS Updates For AM5 Motherboards, Bringing Optimized Low-Latency Performance For CXMT Memory",
+    "summary": "ASUS is preparing new BIOS updates for its AM5 motherboards that could improve memory latency on selected CXMT-based DDR5 memory modules. ASUS to Bring Optimized Low-Latency on CXMT Memory Through its",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/asus-prepares-bios-updates-for-am5-motherboards-bringing-optimized-low-latency-performance-for-cxmt-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-19-018",
+    "date": "2026-09-19",
+    "companies": [
+      "intel",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC’s Operations Boss Says AI Cannot Fully Overcome Limitations To Design Next-Generation Chip Manufacturing Tech Such as 1.4-nanometer Node",
+    "summary": "The Taiwan Semiconductor Manufacturing Company (TSMC)'s co-chief operating officer, Y. J. Mii, believes that artificial intelligence is akin to a three-year-old Superman. The executive made the remark",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmcs-operations-boss-says-ai-cannot-fully-overcome-limitations-to-design-next-generation-chip-manufacturing-tech-such-as-1-4-nanometer-node/",
         "type": "rss"
       }
     ]
