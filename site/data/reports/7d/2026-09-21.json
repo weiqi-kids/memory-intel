@@ -1,0 +1,320 @@
+{
+  "date": "2026-09-21",
+  "date_range": {
+    "start": "2026-09-15",
+    "end": "2026-09-21"
+  },
+  "generated_at": "2026-09-21T15:06:49.086162Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "onsemi-2026-09-15-049",
+      "date": "2026-09-15",
+      "title": "China’s YMTC Is Just 1 Year Behind The West On NAND, While CXMT Trails By Just 2 Years On DRAM And 3 Years On HBM, According To Korea Semiconductor Industry Association",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "apple",
+      "company_b": "qualcomm",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "skhynix",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 148,
+      "last_week": 140,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": 0.07
+    },
+    "hbm": {
+      "this_week": 7,
+      "last_week": 9,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": 0.21
+    },
+    "capacity": {
+      "this_week": 33,
+      "last_week": 30,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.11
+    },
+    "capex": {
+      "this_week": 20,
+      "last_week": 10,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.02
+    },
+    "shortage": {
+      "this_week": 13,
+      "last_week": 5,
+      "week_over_week_change": "+160%",
+      "sentiment_this_week": -0.01
+    },
+    "ddr5": {
+      "this_week": 11,
+      "last_week": 8,
+      "week_over_week_change": "+38%",
+      "sentiment_this_week": 0.14
+    },
+    "ai_server": {
+      "this_week": 17,
+      "last_week": 14,
+      "week_over_week_change": "+21%",
+      "sentiment_this_week": 0.03
+    },
+    "advanced_packaging": {
+      "this_week": 8,
+      "last_week": 7,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.16
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.19
+    },
+    "earnings": {
+      "this_week": 26,
+      "last_week": 50,
+      "week_over_week_change": "-48%",
+      "sentiment_this_week": 0.03
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.12
+    },
+    "euv": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": 0.0
+    },
+    "inventory": {
+      "this_week": 9,
+      "last_week": 13,
+      "week_over_week_change": "-31%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "amd": {
+      "event_count": 10,
+      "sentiment_avg": 0.15,
+      "rank": 4
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "samsung": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 3
+    },
+    "intel": {
+      "event_count": 23,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "microsoft": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "micron": {
+      "event_count": 6,
+      "sentiment_avg": 0.33,
+      "rank": 10
+    },
+    "nvidia": {
+      "event_count": 25,
+      "sentiment_avg": -0.1,
+      "rank": 1
+    },
+    "apple": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 11
+    },
+    "qualcomm": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 12
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "google": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "skhynix": {
+      "event_count": 7,
+      "sentiment_avg": 0.21,
+      "rank": 8
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "cxmt": {
+      "event_count": 7,
+      "sentiment_avg": 0.33,
+      "rank": 9
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "winbond": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 13
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "infineon": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 18
+    },
+    "ymtc": {
+      "event_count": 3,
+      "sentiment_avg": 0.11,
+      "rank": 14
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 289,
+        "last": 325,
+        "change_pct": -11.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-15",
+      "event_count": 51,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 42,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 58,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 57,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 18,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 49,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-15 ~ 2026-09-21）共 289 則事件，重點為「China’s YMTC Is Just 1 Year Behind The West On ...」。Infineon情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Infineon",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "超微",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

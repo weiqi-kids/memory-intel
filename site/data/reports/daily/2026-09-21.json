@@ -1,0 +1,369 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T15:06:48.925927Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-21-013",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及價格",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Acer CEO says memory makers are hyping 2030 shortage fears to protect margins — PC prices set to decline by late 2027, cheaper Chinese capacity coming online delivers lower memory prices",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "capacity",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/dram/acer-ceo-says-memory-makers-are-hyping-2030-shortage-fears-to-protect-margins-pc-prices-set-to-decline-by-late-2027-cheaper-chinese-capacity-coming-online-delivers-lower-memory-prices"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-09-21-036",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "NVIDIA Vera CPU Cruise Past Intel’s Xeon 6 In Database Benchmark With Fewer Cores, Delivering 48% Faster Query Performance",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://wccftech.com/nvidia-vera-cpu-cruise-past-intel-xeon-6-in-database-benchmark/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-21-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "OpenAI projections point to a massive $278 billion cash burn through 2030 that exceeds the national budgets of Indonesia and Norway — $856 billion compute tab outpaces tenfold revenue surge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-projections-point-to-a-massive-usd278-billion-cash-burn-through-2030-that-exceeds-the-national-budgets-of-indonesia-and-norway-usd856-billion-compute-tab-outpaces-tenfold-revenue-surge"
+    },
+    {
+      "rank": 4,
+      "event_id": "google-2026-09-21-034",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Googlebook Laptops Powered by Intel Panther Lake & Snapdragon X Elite Are Here, Starting at $899 From Acer, Lenovo, ASUS, HP & Dell",
+      "companies": [
+        "google",
+        "lenovo",
+        "intel",
+        "qualcomm",
+        "dell",
+        "hp"
+      ],
+      "related": {
+        "customers": [
+          "dell",
+          "google",
+          "lenovo",
+          "hp"
+        ],
+        "suppliers": [
+          "qualcomm",
+          "intel"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/googlebook-launch-899-usd-pre-order-price-dell-hp-acer-lenovo-asus/"
+    },
+    {
+      "rank": 5,
+      "event_id": "tsmc-2026-09-21-041",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "TSMC Reportedly Has Grand Plans For Its 1.4nm Node With Four Plants Said To Be Operational By Q2 2028, Price Per Wafer Surprisingly Only Marginally Higher Than N2",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/tsmc-1-4nm-four-plants-operational-q2-2028-wafer-price/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "apple",
+      "to": "qualcomm",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 49,
+    "sentiment_distribution": {
+      "positive": 11,
+      "neutral": 33,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 8
+      },
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "google",
+        "count": 3
+      },
+      {
+        "id": "cxmt",
+        "count": 3
+      },
+      {
+        "id": "qualcomm",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "capacity",
+        "count": 8
+      },
+      {
+        "id": "capex",
+        "count": 6
+      },
+      {
+        "id": "shortage",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 91,
+    "too_old": 55,
+    "gate1_blocked": 70,
+    "gate2_blocked": 41,
+    "passed": 50,
+    "pass_rate": "23.1%",
+    "gate2_block_rate": "19.0%",
+    "gate2_samples": [
+      "What Changes When High-Viscosity Materials Become Interface-Defining?",
+      "5 Companies Using NVIDIA AI for Clean Energy",
+      "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "Heart of the Matter: How a Major Childrenâs Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 49 則事件，焦點為輝達、英特爾、GCP相關動態：「Acer CEO says memory makers are hyping 2030 shortage fear...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Acer CEO says memory makers are hyping 2030 shortage fears to protect margins...（DRAM 價格、產能、缺貨、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "NVIDIA Vera CPU Cruise Past Intel’s Xeon 6 In Database Benchmark With Fewer C...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 4 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
