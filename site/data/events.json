@@ -1,5 +1,746 @@
 [
   {
+    "id": "unknown-2026-09-22-001",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Sept. 22",
+    "summary": "<p>AI thermal modeling for 2.5D/3D ICs; chiplet and AI accelerator co-design; BEOL thermal conductivity; agentic DRC repair; RL for dense-layout routing;  LLM orchestration for digital EDA; chiplet in",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-22/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-002",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "hbm"
+    ],
+    "impact": "neutral",
+    "title": "GUC Announces 2nm 16 Gbps HBM4E IP",
+    "summary": "\n\t\t\t\t\t\t<p>Discover GUC's design-ready HBM4E PHY and Controller IP, adopted in customers' AI ASICs. </p>\n<p>The post <a href=\"https://www.eetimes.com/guc-announces-2nm-16-gbps-hbm4e-ip/\">GUC Announces ",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/guc-announces-2nm-16-gbps-hbm4e-ip/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-003",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SiPearl delivers first homegrown server chips for Europe's exascale supercomputer",
+    "summary": "SiPearl, a fabless company backed by the European Union and France, has delivered the first Rhea1 CPU samples to Bull for integration into Europe's JUPITER supercomputer, moving the European-designed ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922VL217/processor-cpu-europe-supercomputer-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-004",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic, OpenAI expected to start buying memory directly in 2027",
+    "summary": "Anthropic and OpenAI are expected to start buying memory directly from manufacturers in 2027 as model developers take greater control of chip and data-center design, potentially broadening the custome",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922VL215/anthropic-openai-2027-samsung-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-005",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vivo unveils X500 strategy to bolster premium phone push",
+    "summary": "<p class=\"P1\" data-start=\"3442\" data-end=\"3817\">Vivo unveiled its new X500 series imaging flagship phones in Shanghai on September 21, 2026, aiming to build a stronger moat in mobile imaging and break",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD235/vivo-2026-flagship-sensor-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-006",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Changs Ascending eyes AI data center backup power, storage growth",
+    "summary": "Changs Ascending's board approved an operating plan on Sept. 21 to launch an energy systems integration push into the AI data center sector, betting on structurally rising demand from AI computing cen",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD220/aidc-growth-ups-infrastructure-lithium.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-007",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China prepares business delegation as Xi seeks steadier US trade ties",
+    "summary": "<p class=\"P1\" data-start=\"1745\" data-end=\"2128\">China is preparing a business delegation for President Xi Jinping's Washington visit as Beijing pursues more predictable trade relations and opportuniti",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922VL213/business-beijing-xi-jinping.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-22-008",
+    "date": "2026-09-22",
+    "companies": [
+      "amd",
+      "meta"
+    ],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meta's AI agent Muse tops app charts, driving AMD's market cap past US$1 trillion",
+    "summary": "<p class=\"P1\" data-start=\"2983\" data-end=\"3191\">Meta's new AI agent, Muse, has leapt to the top of app charts roughly two weeks after its release. Its popularity has helped push up chip stocks by focu",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922VL214/meta-amd-apps-launch-apple.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-22-009",
+    "date": "2026-09-22",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hermes Testing sees growth opportunity in AI-driven chip demand as OTC debut expands reach",
+    "summary": "Hermes Testing Solutions began trading on the over-the-counter market on September 22, positioning itself to benefit from rising demand tied to artificial intelligence and high-performance computing. ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD233/demand-growth-equipment-testing-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-22-010",
+    "date": "2026-09-22",
+    "companies": [
+      "intel",
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Acer debuts first Googlebook with 360-degree hinge",
+    "summary": "Acer has launched its first Googlebook, a new flagship notebook equipped with Gemini Intelligence that combines premium materials, strong performance, smart features, and seamless syncing with Android",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD227/acer-hinge-gemini-flagship-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-22-011",
+    "date": "2026-09-22",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Microsoft opens fourth India cloud region, casting Hyderabad as an AI hub for Asia and the Global South",
+    "summary": "Microsoft has turned a headline slice of its US$20.5 billion India commitment into operating infrastructure, opening a Hyderabad cloud region it intends to serve customers well beyond India's borders.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922VL212/microsoft-region-hyderabad-asia-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-012",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Hanmi Semiconductor ships first FC Bonder 75 for 2.5D packaging",
+    "summary": "Hanmi Semiconductor said on September 22 that it has shipped its first FC Bonder 75 to a customer, expanding the South Korean equipment maker's reach beyond high-bandwidth memory (HBM) into the broade",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD231/hanmi-packaging-equipment-hbm-osat.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-013",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Alibaba speeds V900 rollout, targeting 20GW of data centers",
+    "summary": "Alibaba Group is accelerating the rollout of its next-generation Zhenwu V900 accelerator by about six months as it expands a vertically integrated computing platform spanning processors, networking, s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922VL211/alibaba-data-accelerator-roadmap-processor.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-014",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan virtual asset law to help lower supply chain transaction costs",
+    "summary": "<p class=\"P1\" data-start=\"3755\" data-end=\"4141\">Taiwan's Legislative Yuan passed the Virtual Asset Service Act in June 2026, and Taiwan's Financial Supervisory Commission (FSC) is now drafting delegat",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD209/taiwan-supply-chain-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-22-015",
+    "date": "2026-09-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DeepSeek bets on Huawei chips for model training as Nvidia's China sales slip",
+    "summary": "<p class=\"P1\" data-start=\"3310\" data-end=\"3580\">DeepSeek CEO Liang Wenfeng said during a call with investors that he aims to rely on Huawei chips to train the startup's models in the future, and that ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922VL210/deepseek-chips-huawei-training-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-016",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DEEPX targets smart glasses with low-power NPU, eyes 6G AI RAN",
+    "summary": "South Korean AI semiconductor company DEEPX is reportedly conducting a proof of concept with a US smart glasses company to test whether its low-power neural processing unit (NPU) can balance power con",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD214/smart-glasses-6g-npu-performance-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-22-017",
+    "date": "2026-09-22",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Micron Taiwan union heads for strike vote as board, earnings calendar stall profit-sharing talks",
+    "summary": "<p class=\"P1\" data-start=\"2092\" data-end=\"2547\">The labor dispute at Micron Taiwan continues to escalate after Micron and the Taiwan Taoyuan Union failed to reach agreement at a second mediation meeti",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD219/micron-labor-taiwan-strike-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-018",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "PureTech Health plc (PRTCY) Q2 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4948561-puretech-health-plc-prtcy-q2-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-019",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Medallion Financial: Recent Earnings Revisions And New Highs In Share Price Call For New Assessment",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4948605-medallion-financial-recent-earnings-revisions-and-new-highs-in-share-price-call-for-new-assessment?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-020",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "McDonald's Stock Selloff Is Hiding An Even Better Setup",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4948598-mcdonalds-stock-selloff-hiding-even-better-setup?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-021",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "MYR Group: A Change In Revenue Types Is Benefitting Margins",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4948595-myr-group-a-change-in-revenue-types-is-benefitting-margins?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-22-022",
+    "date": "2026-09-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "New GeForce Game Ready Driver Is Out Now, Optimized for CONTROL Resonant, Gears of War: E-Day, and More PC Games",
+    "summary": "Today, NVIDIA has released a new GeForce Game Ready driver (version 617.14) that includes optimizations for four major imminent PC game launches: CONTROL Resonant (September 24), The Witcher 3: Wild H",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-geforce-game-ready-driver-control-resonant-gears-of-war-e-day/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-22-023",
+    "date": "2026-09-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Refuses To Let AM4 Die, Pushing Fresh BIOS To 9-Year-Old A320 Boards As DDR5 Costs Soar",
+    "summary": "AMD doesn't let AM4 die and keeps it alive by launching newer processors and releasing newer BIOS updates. ASUS Rolls Out BIOS Update With Latest AMD AGESA Firmware for PRIME A320M-A Motherboard, One ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-refuses-to-let-am4-die-pushing-fresh-bios-to-9-year-old-a320-boards/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-024",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Claude Code Just Designed A 12-Actuator Quadruped Robot With 99 Parts From Scratch While Writing The Entire Firmware, But The Real Test Is If It Actually Works",
+    "summary": "The use of Claude Code in the field of robotics can prove to be a real productivity booster because a developer shows that he spent the last three months building MechFaber, a desktop application that",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/claude-code-designs-12-actuator-quadruped-robot-99-parts-firmware-simulation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-09-22-025",
+    "date": "2026-09-22",
+    "companies": [
+      "skhynix",
+      "micron",
+      "nvidia",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SK Hynix 2 GB GDDR7 Memory Chips Reach End Of Life, Leaving RTX 50 Series Fully Dependent On Samsung And SK Hynix",
+    "summary": "The company hardly supplied its GDDR7 memory chips to NVIDIA for a couple of months, but already ended the production of 2 GB memory modules SK Hynix Puts 2 GB GDDR7 28 Gbps and 32 Gbps Chips to EOL, ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sk-hynix-2-gb-gddr7-memory-chips-reach-end-of-life/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-22-026",
+    "date": "2026-09-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Quietly Lays GDDR7 Groundwork In Linux Kernel, Signaling RDNA 5 Could Finally Abandon Aging GDDR6",
+    "summary": "AMD has begun preparing its open-source Linux graphics driver for GDDR7 memory as spotted in the latest kernel patches. Latest AMDGPU Patches Introduce a GDDR7 Identifier Alongside New IP Blocks, Whic",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-prepares-linux-driver-support-for-gddr7/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-027",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Fable 2 Has Been Ported To PC by Fans, Running at 60 FPS Years After Xbox Abandoned the Classic",
+    "summary": "The Fable series is about to make its comeback after years away from the spotlight, but fans of the role-playing game series originally developed by Lionhead Studios won't have to wait until February ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/fable-2-pc-60-fps-xbox-abandoned-classic/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-09-22-028",
+    "date": "2026-09-22",
+    "companies": [
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "TSMC’s Progress In Advanced Nodes Is Why Samsung May Never Close The Gap With Its Rival; 1.4nm Trial Production In Q1 2027, AI Boom Propels 3nm Output To New Heights",
+    "summary": "Fulfilling the requirements of AI customers and those that want access to the most advanced lithography, TSMC is reportedly meeting these daunting challenges with unyielding determination, making it a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmc-1-4nm-trial-production-q1-2027-3nm-ai-boom/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-22-029",
+    "date": "2026-09-22",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xbox Reportedly Plots Second Layoff Wave This Week, with Blizzard and Halo Studios both in the Firing Line",
+    "summary": "It's shaping up to be a very complicated week for Microsoft's Xbox gaming division, just after a positive PR week in which the publisher saved Hideo Kojima's Physint following Sony's shocking decision",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-second-layoff-wave-blizzard-halo-studios/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-030",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Resident Evil Veronica Reportedly Slips to Fall 2027, Dodging a Brutally Packed Early 2027 Release Calendar",
+    "summary": "Resident Evil Veronica might now be targeting Fall 2027, instead of the previous internal goal of Q1/Q2. The rumor comes from Dusk Golem, who has a solid track record with CAPCOM reports. In a series ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/resident-evil-veronica-delayed-fall-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-22-031",
+    "date": "2026-09-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Best Buy Customer Snagged An RTX 5090 Gaming Laptop Deal Others Can Only Dream Of At Less Than Half Its Original MSRP, Saving $2,379 In The Process",
+    "summary": "The ultra-premium gaming laptop segment consists of RTX 5090 and RTX 5080 configurations, with top-end models typically retailing for upwards of $4,000, but that’s not the price that everyone has to p",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/best-buy-rtx-5090-gaming-laptop-deal-half-price/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-22-032",
+    "date": "2026-09-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Civo plots 40 edge datacenters to power Britain's sovereign AI",
+    "summary": " First site is due in Hertfordshire next March, with Nvidia's Vera Rubin systems and a longer-term 1 GW ambition ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/09/22/civo-plots-40-edge-datacenters-to-power-britains-sovereign-ai/5298141",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-033",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them",
+    "summary": " USA alone has 37GW under construction, but Alibaba doesn't think the AI boom will run out of steam ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-034",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "California tightens datacenter rules on water and power",
+    "summary": " Public pushback puts bit barn resource use under the microscope ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/22/california-tightens-datacenter-rules-on-water-and-power/5298028",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-035",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tim Cook to get Robert Noyce Award",
+    "summary": "<p>Today, the SIA  announced that  Tim Cook has been selected as the 2026 recipient of the chip industry’s highest honour, the Robert N. Noyce Award. The SIA presents the Noyce [&#8230;]</p>\n<p>The po",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/tim-cook-to-get-robert-noyce-award-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-036",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Euro-processor samples delivered to Bull",
+    "summary": "<p>SiPearl, the Euro-processor developer, has delivered samples of its first CPU &#8211; Rhea1 &#8211; to Bull which  has begun integration of the chip into its BullSequana XH3000 platform for JUPITER",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/euro-processor-samples-delivered-to-bull-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-037",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OpenLight samples 3.T DR8 silicon photonics PICs",
+    "summary": "<p>Openlight is sampling the industry’s first 3.2T DR8 silicon photonic power ICs (PICs). They are fabricated using Tower Semiconductor’s PH18DA process. At CIOE 2026 in Shenzhen, the company also ann",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/openlight-samples-3-t-dr8-silicon-photonics-pics-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-22-038",
+    "date": "2026-09-22",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s Taylor fab running prototypes of Tesla’s 2nm A15 chip",
+    "summary": "<p>Samsung’s Taylor, Texas fab is reported by the Seoul Economic Daily to have started running prototypes of Tesla’s 2nm A15 chip which goes into the Full Self Driving car, the [&#8230;]</p>\n<p>The po",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/manufacturing/samsungs-taylor-fab-running-prototypes-of-teslas-2nm-a15-chip-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-039",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Q2 server shipments hit $166bn",
+    "summary": "<p>Q2 was highest quarterly revenue in the server market’s history &#8211; up 52% YoY and 35.7% QoQ at $166?3 billion propelled by both as rising units and ASPs with branded [&#8230;]</p>\n<p>The post ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/q2-server-shipments-hit-166bn-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "marvell-2026-09-21-001",
     "date": "2026-09-21",
     "companies": [
@@ -943,6 +1684,191 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/kyocera-opens-new-ceramics-plant-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-21-050",
+    "date": "2026-09-21",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+    "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choos",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-09-21-051",
+    "date": "2026-09-21",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "From Enablement to Execution, Egyptâs AI Ecosystem Reaches Production Scale",
+    "summary": "Today, Egyptâs AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nationâs rapidly growing AI ecosystem â spanning AI natives, developers, researchers, startu",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-09-21-052",
+    "date": "2026-09-21",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+    "summary": "<p>Researchers at Georgia Tech, Nvidia Research, and Stanford University published a technical paper titled “BOOST: Concurrent Access to Host Memory and HBM to Accelerate LLM Inference.” Abstract Exce",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-053",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Agents Design  Better Chips When Operating At A Higher Level Of Abstraction Using HLS (UCLA)",
+    "summary": "<p>Researchers at UCLA published a technical paper titled “Can Agents Design Better Chips with a Higher Level Abstraction?” Abstract Excerpt: “Large Language Model (LLM) agents are increasingly being ",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-054",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Power Demands Push GaN into Data Center Design",
+    "summary": "\n\t\t\t\t\t\t<p>Rising AI power demands are pushing data center designers toward GaN-based power conversion for higher efficiency and density.</p>\n<p>The post <a href=\"https://www.eetimes.com/ai-power-deman",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ai-power-demands-push-gan-into-data-center-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-21-055",
+    "date": "2026-09-21",
+    "companies": [
+      "amd",
+      "meta",
+      "intel",
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If Meta’s Muse Personal Agent Scales To Just 100 Million Users, It Would Require 1.58 Million AMD Ryzen CPUs, 800 Petabyte Of RAM, And 10,000 Petabyte Of SSD Under Ideal Conditions",
+    "summary": "If you were wondering why everyone has suddenly turned so bullish on CPUs from Intel, AMD, and Arm, look no further than the underlying compute requirements for serving Meta's Muse personal agent to j",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/if-metas-muse-personal-agent-scales-to-just-100-million-users-it-would-require-1-58-million-amd-ryzen-cpus-800-petabyte-of-ram-and-10000-petabyte-of-ssd-under-ideal-conditions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-21-056",
+    "date": "2026-09-21",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Former Google AI Boss Says Automation Could Cut Chip Design Teams From 150 Engineers To Just Ten & Development From Years To 3 Months",
+    "summary": "Google's former AI head and chief scientist, Jeff Dean, believes that AI can enable chip designers to overcome the typical limitations in a design cycle and design custom products capable of better se",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/former-google-ai-boss-says-automation-could-cut-chip-design-teams-from-150-engineers-to-just-ten-development-from-years-to-3-months/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-21-057",
+    "date": "2026-09-21",
+    "companies": [
+      "intel",
+      "onsemi"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Onsemi Ditches Traditional PCB Substrate for Silicon Wafer, Unlocking Up to 5x Power Density for AI Chips and EVs",
+    "summary": "Onsemi's EPP (Embedded Power Platform) aims to utilize silicon wafers to enable more efficient and power-dense chips. As Power Demands Grow, Onsemi Is Working on Its EPP Solution To Make Semiconductor",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/onsemi-ditches-traditional-pcb-substrate-for-silicon-wafer-unlocking-5x-power-density/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-09-21-058",
+    "date": "2026-09-21",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google smacks forehead, realizes $899+ thin-and-lights were what it was missing",
+    "summary": " 'A new category,' insists the Chocolate Factory, not a premium Chromebook - yet some of the family resemblance remains ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/personal-tech/2026/09/21/google-smacks-forehead-realizes-899-thin-and-lights-were-what-it-was-missing/5297947",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-059",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "AI can't outprompt a shortage of power, water, and land",
+    "summary": " Forrester predicts operators will face tariffs, grid commitments, and tougher community scrutiny ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/09/21/ai-cant-outprompt-a-shortage-of-power-water-and-land/5297811",
         "type": "rss"
       }
     ]
