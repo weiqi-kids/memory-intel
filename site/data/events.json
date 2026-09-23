@@ -1,5 +1,687 @@
 [
   {
+    "id": "samsung-2026-09-23-001",
+    "date": "2026-09-23",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung P9 and P7 Portable SSDs, First Unveiled at Gamescom, To Launch in September",
+    "summary": "Samsung Electronics is officially launching the P9 and P7 in September as the first products in its next-generation portable SSD lineup. The two products...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-23-002",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Build Secure SoCs From The Start",
+    "summary": "<p>Practical guide to hardware security assurance in modern semiconductor design.</p>\n<p>The post <a href=\"https://semiengineering.com/build-secure-socs-from-the-start/\">Build Secure SoCs From The Sta",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/build-secure-socs-from-the-start/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-003",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Building A Connected, Contextual Data Backbone For AI-Driven Semiconductor Design",
+    "summary": "<p>Why design teams must organize before they optimize and how to utilize a purpose-built foundation for AI-ready data management across the chip design lifecycle. </p>\n<p>The post <a href=\"https://se",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/building-a-connected-contextual-data-backbone-for-ai-driven-semiconductor-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-004",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SEMICON INDIA 2026: India Starts Packaging Chips as Ecosystem Takes Shape",
+    "summary": "\n\t\t\t\t\t\t<p>India moves five chip packaging plants into production as $13.5 billion ISM 2.0 expands manufacturing, design, and engineering capabilities.</p>\n<p>The post <a href=\"https://www.eetimes.com/",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/semicon-india-2026-india-starts-packaging-chips-as-ecosystem-takes-shape/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-23-005",
+    "date": "2026-09-23",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Engineering over panic: Jensen Huang's pragmatic vision for the future of AI",
+    "summary": "<p class=\"P1\" data-start=\"2869\" data-end=\"3126\">In a 46-minute interview on CBS, Nvidia CEO Jensen Huang pushed back against apocalyptic warnings regarding artificial intelligence (AI). He urged the i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PD235/jensen-huang-nvidia-ceo-commercial.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-006",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Foxtron maps overseas expansion as customers seek full EV line-up",
+    "summary": "<p class=\"P1\" data-start=\"2216\" data-end=\"2677\">Foxtron Vehicle Technologies said its overseas expansion is taking shape as exports to New Zealand and Australia enter their final countdown, with a pla",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PD233/foxtron-expansion-market-poland-new-zealand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-23-007",
+    "date": "2026-09-23",
+    "companies": [
+      "micron",
+      "ymtc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "YMTC wins German injunctions against Micron in latest round of NAND patent battle",
+    "summary": "Micron is facing fresh pressure on multiple fronts after Germany's Munich I Regional Court sided with Chinese memory maker YMTC and issued two injunctions over alleged infringement. Industry sources s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PD226/micron-ymtc-patent-germany-europe.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-09-23-008",
+    "date": "2026-09-23",
+    "companies": [
+      "screen",
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Automotive display growth shifts to HUDs, passenger screens",
+    "summary": "<p class=\"P1\" data-start=\"2789\" data-end=\"3284\">The global automotive display market is entering a new phase of growth, with demand shifting away from central consoles and instrument clusters toward n",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260922PD241/growth-automotive-display-display-panel-market.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-23-009",
+    "date": "2026-09-23",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Electronics, Microsoft enter partnership on AI data centers, physical AI",
+    "summary": "LG Electronics entered a partnership with Microsoft to cooperate on a range of AI initiatives. The two firms agreed to work together on AI data centers, LG Electronics' AI data transformation, and phy",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923VL215/microsoft-lg-electronics-partnership-data-lg.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-23-010",
+    "date": "2026-09-23",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Display explores halftone black PDL tech to cut OLED production costs",
+    "summary": "<p class=\"P1\" data-start=\"2236\" data-end=\"2640\">Samsung Display is evaluating a new manufacturing process known as halftone black pixel definition layer (PDL) that could streamline the production of i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923VL214/sdc-production-manufacturing-flagship-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-09-23-011",
+    "date": "2026-09-23",
+    "companies": [
+      "qualcomm",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung LPDDR6 validated by Qualcomm for next-gen Snapdragon platform",
+    "summary": "AI workloads are pushing cloud, edge, and mobile devices toward tighter power budgets and heavier data traffic, making memory efficiency a growing global issue. Samsung is positioning its new LPDDR6 a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PR200/samsung-mobile-qualcomm-snapdragon-efficiency.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-09-23-012",
+    "date": "2026-09-23",
+    "companies": [
+      "qualcomm",
+      "google"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Qualcomm and Google eye Agentic AI, expand partnership to GoogleBook, automotives",
+    "summary": "During his keynote at Snapdragon Summit 2026, Qualcomm President and CEO Cristiano Amon invited Rick Osterloh, Senior Vice President of Platforms and Devices at Google, on stage to discuss the past ye",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PD224/qualcomm-google-2026-snapdragon-partnership.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-013",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Biwin Storage commits US$672M to double down on 2.5D packaging, compute-memory integration",
+    "summary": "<p class=\"P1\" data-start=\"2442\" data-end=\"2741\">Biwin Storage Technology plans to invest CNY4.5 billion (approx. US$672 million) in the third phase of its wafer-level advanced packaging and testing pr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923VL211/packaging-capacity-investment-2026-testing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-23-014",
+    "date": "2026-09-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's BeiDou eyes US$150 billion industry scale with AI, services at the core",
+    "summary": "<p class=\"P1\" data-start=\"2102\" data-end=\"2504\">China's BeiDou satellite navigation industry continues to expand rapidly, with applications spreading from chips and modules to end devices. Emerging te",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PD228/beidou-chips-data-2025-hardware.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-015",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "ZDT prices US$800M ECB to expand AI server PCB push",
+    "summary": "<p class=\"P1\" data-start=\"2075\" data-end=\"2497\">Printed circuit board (PCB) maker Zhen Ding Technology (ZDT) Group completed pricing of its sixth overseas convertible bond issue on September 22, raisi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PD227/pcb-zhen-ding-convertible-bond-high-end-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-016",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's Master Bus scales 450 kW direct-drive motor for the intercity EV market",
+    "summary": "<p class=\"P1\" data-start=\"123\" data-end=\"253\">Master Transportation Bus Manufacturing (Master Bus) is deepening its electric-bus strategy around proprietary motors and chassis.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PD221/master-trans-taiwan-general-motors-production-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-017",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hermes-Epitek eyes CPO test revenue in 2027",
+    "summary": "<p class=\"P1\" data-start=\"3600\" data-end=\"3906\">Archie Hwang, the founder and chairman of Hermes-Epitek, appeared before the media alongside Hermes Testing Solutions Inc. (HTSI) executives. The compan",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-23-018",
+    "date": "2026-09-23",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LG Energy enters Nvidia's ecosystem as it pivots batteries to data centers",
+    "summary": "LG Energy's battery energy storage system (BESS) has entered Nvidia's AI Factory ecosystem. Its qualification by the chipmaker comes as LG Energy is reorienting its North American battery plants towar",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260923VL213/lg-nvidia-data-market-certification.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-019",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Ternium: Reducing CapEx And Increasing FCF Support 7% Dividend Yield Projections",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4948992-ternium-stock-reducing-capex-increasing-fcf-support-7-percent-dividend-yield-projections?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-020",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "IWP: Limping Into Q4, A Sell For Now",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4948986-iwp-limping-into-q4-sell-for-now?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-021",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gabelli Convertible & Income Securities Fund Q2 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4949004-gabelli-convertible-and-income-securities-fund-q2-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-022",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Worthington Enterprises, Inc. 2027 Q1 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4949000-worthington-enterprises-inc-2027-q1-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-023",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Renishaw plc (RNSHF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4948930-renishaw-plc-rnshf-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-024",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "XMG Says SO-DIMM Costs Have Grown Nearly 6X Since July 2025, Forcing Laptop-Wide Price Increases",
+    "summary": "We have another OEM announcing a new round of price hikes for its products, which has been caused by the soaring memory prices. XMG Laptops to Witness €100-€150 Price Hike as SO-DIMM Memory Prices Kee",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xmg-announces-another-price-hike-for-its-laptops/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-09-23-025",
+    "date": "2026-09-23",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Snapdragon 8 Elite Extreme Gen 6’s “Offset PoP” Technology Is Based On Older Packaging, But Tests Show It Takes More Than 2x The Time For Temperature To Reach Maximum Threshold",
+    "summary": "Chipset makers have finally abandoned the older PoP (Package-on-Package) technology present on older chipsets, with Qualcomm also making the switch by introducing Offset PoP for its latest and greates",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/snapdragon-8-elite-extreme-gen-6-offset-pop-packaging-thermal-test/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-23-026",
+    "date": "2026-09-23",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Leaker Claims Xbox Helix Beats PS6 by 40% in TFLOPS on Paper, but Pricing May Decide the Real Winner",
+    "summary": "According to AMD leaker Kepler_L2, AMD's chipsets for the PlayStation 6 and Xbox Helix consoles have been taped out, suggesting a late 2027 release rather than 2028 as some rumors had implied. Kepler ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-helix-ps6-40-percent-tflops-leak-pricing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-09-23-027",
+    "date": "2026-09-23",
+    "companies": [
+      "screen",
+      "google",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASUS Officially Launches Googlebook 14 With Up To Core Ultra 7 Series 3 Processor And A 3K OLED Touchscreen Display",
+    "summary": "ASUS has released its own Googlebook 14 model alongside other vendors, featuring powerful configuration based on Intel Panther Lake. ASUS Unveils Googlebook 14 Ultraportable Laptop With Up To 64 GB RA",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/asus-officially-launches-googlebook-14/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-23-028",
+    "date": "2026-09-23",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tim Sweeney Defends Xbox’s 230-job Halo Purge, Saying Top Studios Deserve the Projects with the Most Potential",
+    "summary": "Epic Games CEO Tim Sweeney has weighed in on yesterday's Xbox restructuring, and unsurprisingly, he didn't sit on the fence. Responding to an article that criticized Microsoft's decision to move Halo ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tim-sweeney-defends-xbox-halo-studios-230-job-cuts/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-029",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Swedish celebs campaign for public rudeness ... to prevent cyber scams",
+    "summary": " The campaign follows a highly profitable year for crooks targeting the over-60s ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/cyber-crime/2026/09/23/swedish-celebs-campaign-for-public-rudeness-to-prevent-cyber-scams-1/5298333",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-23-030",
+    "date": "2026-09-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Artificial intelligence must have a new name, says politician who likes renaming bodies of water",
+    "summary": " Meet ‘superintelligence’ and the ‘globalist scheme’ – probably a polite diplomatic letter – to control it ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/09/23/artificial-intelligence-must-have-a-new-name-says-politician-who-likes-renaming-bodies-of-water/5298470",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-031",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sponsored Content: Designing Backup Power for Electronic Door Release After a Vehicle Crash",
+    "summary": "<p>Electronic door systems improve packaging and user experience, but they also create a clear engineering question: what releases the door if the vehicle low-voltage supply is lost after a severe [&#",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/sponsored-content-designing-backup-power-for-electronic-door-release-after-a-vehicle-crash-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ymtc-2026-09-23-032",
+    "date": "2026-09-23",
+    "companies": [
+      "ymtc",
+      "cxmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Turf War  in China",
+    "summary": "<p>A Chinese semiconductor industry Turf War is brewing as DRAM specialist CXMT looks to get into NAND &#8211; the province of Yangtze Memory (YMTC) &#8211; while YMTC is making moves [&#8230;]</p>\n<p",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/chip-turf-war-in-china-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-033",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alibaba announces its most powerful AI processor yet",
+    "summary": "<p>Yesterday, T-Head, Alibaba’s chip unit, previewed its most powerful AI processor yet &#8211; the  Zhenwu V900 aimed at both training and inference. Production is scheduled for Q1 2027. The technolo",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/alibaba-announces-its-most-powerful-ai-processor-yet-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cadence-2026-09-23-034",
+    "date": "2026-09-23",
+    "companies": [
+      "cadence"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cadence agent delivers production‑ready RTL covering PPA",
+    "summary": "<p> Cadence has introduced a new agent for Cadence ChipStack AI Super Agent that automates front‑end digital design and verification—covering power, performance and area (PPA)-driven spec‑to‑RTL gener",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/cadence-agent-delivers-production%e2%80%91ready-rtl-covering-ppa-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-035",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "59% growth for 2025 DRAM module market",
+    "summary": "<p>The 2025 DRAM module market grew 59% YoY to $21.2 billion, says TrendForce, a significant acceleration from the 7% growth of 2024. The top five global DRAM module makers accounted [&#8230;]</p>\n<p>",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/dram-module-suppliers-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-23-036",
+    "date": "2026-09-23",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Ten (less 5) NAND Vendors In Q2",
+    "summary": "<p>Thanks to TrendForce for this one &#8211; the top five NAND suppliers in Q2:</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-vendors-in-q2-2",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-less-5-nand-vendors-in-q2-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-09-22-001",
     "date": "2026-09-22",
     "companies": [],
@@ -736,6 +1418,176 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/q2-server-shipments-hit-166bn-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-09-22-040",
+    "date": "2026-09-22",
+    "companies": [
+      "meta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meta Takes Action on 3.7 Million Accounts, Pages and Content In Partnership With Singapore Police Force",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-22-041",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wafer-Scale Sub-5nm Channel Monolayer MoS2 Transistors (CMU, UF, MIT et al.)",
+    "summary": "<p>Researchers at Carnegie Mellon University, University of Florida, MIT, Texas A&#38;M University et al. published a technical paper titled “Wafer-scale 2D MoS₂ transistors with sub-5 nm channel leng",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/wafer-scale-sub-5nm-channel-monolayer-mos2-transistors-cmu-uf-mit-et-al/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-09-22-042",
+    "date": "2026-09-22",
+    "companies": [
+      "qualcomm",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Snapdragon 8 Elite Extreme Gen 6 & Snapdragon 8 Elite Gen 6 Go Official As Qualcomm’s First 2nm Chipsets, Up To 5GHz Clock Speeds, 44% Higher GPU Performance, LPDDR6 RAM Support & More",
+    "summary": "Qualcomm has ditched the “Pro” moniker for its latest 2nm chipsets as it officially lifts the veil from the Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6. In addition to being mass-pro",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/snapdragon-8-elite-extreme-gen-6-snapdragon-8-elite-gen-6-official/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-09-22-043",
+    "date": "2026-09-22",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix CEO Says That AI Industry Cannot Exist Without Memory As the Company Builds Next-Gen Memory Across A Fleet of Global Production Bases to Maintain Market Dominance",
+    "summary": "SK Hynix is working on next-generation memory across a fleet of new production bases across the globe to retain its market positioning. SK Hynix Aims To Retain Its Market Dominance &#38; Technological",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sk-hynix-ai-industry-cannot-exist-without-memory-builds-next-gen-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-09-22-044",
+    "date": "2026-09-22",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "A20 Pro Defies Apple’s 40% GPU Performance Gain Claim Over A19 Pro, Achieves 50% Improvement In New AAA Gaming Test, With A Whopping 77% Difference In 1% Lows",
+    "summary": "The iPhone 18 Pro announcement included a brief overview of the A20 Pro, where Apple claimed that the 7-core GPU was up to 40 percent faster than its previous-generation SoCs. Now, an interesting resu",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/a20-pro-gpu-performance-apple-a19-pro-gaming-benchmark/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-045",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OpenAI Unleashes A New Price War, With GPT-6 Sol And GPT-6 Luna Now Priced Below Claude Opus 5.5 And DeepSeek’s V4.1 Flash, Respectively, Negating The Rationale For Open-Weight Models",
+    "summary": "OpenAI has just done the unthinkable by offering unparalleled performance per dollar with its GPT-6 Sol and GPT-6 Luna models, with the latter's API prices even lower than those from the reigning cham",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/openai-unleashes-a-new-price-war-with-gpt-6-sol-and-gpt-6-luna-now-priced-below-claude-opus-5-5-and-deepseeks-v4-1-flash-respectively-negating-the-rationale-for-open-weight-models/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-22-046",
+    "date": "2026-09-22",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic’s Claude Opus 5.5 Appears In Claude Code, Indicating Imminent Release, As Trump Renames AI To “Super Intelligence” Or SI [Update: Released]",
+    "summary": "It seems Anthropic is not following its own call to pace the development of AI, as indicated by the imminent launch of Claude Opus 5.5, which would mark just around three weeks since the AI lab releas",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/anthropics-claude-opus-5-5-appears-in-claude-code-indicating-imminent-release-as-trump-renames-ai-to-super-intelligence-or-si/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ymtc-2026-09-22-047",
+    "date": "2026-09-22",
+    "companies": [
+      "ymtc",
+      "cxmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CXMT Chases NAND as YMTC Storms Into DRAM Territory, Igniting a Chinese Memory & Storage Chip Turf War, Says Report",
+    "summary": "Chinese memory and storage manufacturers ChangXin Memory Technologies (CXMT) and Yangtze Memory Technologies Corp. (YMTC) are gearing up to compete with each other, says a report from DigiTimes. The t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-chases-nand-as-ymtc-storms-into-dram-territory-igniting-a-chinese-memory-storage-chip-turf-war-says-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-22-048",
+    "date": "2026-09-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alibaba Brags That Its Next-Gen Zhenwu V900 AI Chip Offers More On-Package Memory Than NVIDIA H200, Outlines Plans To Deploy 20 GW Of Compute, And Teases 4-10 trillion parameters For Upcoming Qwen Models",
+    "summary": "Alibaba stole the show at today's Apsara Conference in Hangzhou, China, detailing ambitious compute deployment plans, offering tantalizing details about its upcoming Zhenwu V900 chip, and laying down ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/alibaba-brags-that-its-next-gen-zhenwu-v900-ai-chip-offers-more-on-package-memory-than-nvidia-h200-outlines-plans-to-deploy-20-gw-of-compute-and-teases-4-10-trillion-parameters-for-upcoming-qwen-mod/",
         "type": "rss"
       }
     ]

@@ -1,0 +1,301 @@
+{
+  "date": "2026-09-23",
+  "date_range": {
+    "start": "2026-09-17",
+    "end": "2026-09-23"
+  },
+  "generated_at": "2026-09-23T13:38:42.060167Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "cxmt-2026-09-17-024",
+      "date": "2026-09-17",
+      "title": "CXMT cashes in on the DRAM shortage &mdash; and takes aim at HBM",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 147,
+      "last_week": 126,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.07
+    },
+    "capacity": {
+      "this_week": 28,
+      "last_week": 25,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.16
+    },
+    "capex": {
+      "this_week": 22,
+      "last_week": 6,
+      "week_over_week_change": "+267%",
+      "sentiment_this_week": 0.02
+    },
+    "advanced_packaging": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.23
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 16,
+      "last_week": 13,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": 0.09
+    },
+    "earnings": {
+      "this_week": 35,
+      "last_week": 40,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.03
+    },
+    "dram_price": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.5
+    },
+    "inventory": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 8,
+      "last_week": 10,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.06
+    },
+    "hbm": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.28
+    },
+    "shortage": {
+      "this_week": 10,
+      "last_week": 6,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.08
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 10,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.25
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "google": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "intel": {
+      "event_count": 20,
+      "sentiment_avg": -0.01,
+      "rank": 2
+    },
+    "skhynix": {
+      "event_count": 6,
+      "sentiment_avg": 0.33,
+      "rank": 11
+    },
+    "nvidia": {
+      "event_count": 26,
+      "sentiment_avg": -0.1,
+      "rank": 1
+    },
+    "apple": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 7
+    },
+    "microsoft": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "amd": {
+      "event_count": 11,
+      "sentiment_avg": 0.09,
+      "rank": 5
+    },
+    "samsung": {
+      "event_count": 14,
+      "sentiment_avg": 0.14,
+      "rank": 3
+    },
+    "cxmt": {
+      "event_count": 7,
+      "sentiment_avg": 0.33,
+      "rank": 8
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 12
+    },
+    "micron": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 9
+    },
+    "kioxia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "infineon": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 14
+    },
+    "winbond": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 15
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "ymtc": {
+      "event_count": 5,
+      "sentiment_avg": -0.03,
+      "rank": 13
+    },
+    "qualcomm": {
+      "event_count": 7,
+      "sentiment_avg": 0.36,
+      "rank": 10
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 17
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 290,
+        "last": 295,
+        "change_pct": -1.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-17",
+      "event_count": 58,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 57,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 18,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 59,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 48,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 36,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-17 ~ 2026-09-23）共 290 則事件，重點為「CXMT cashes in on the DRAM shortage &mdash; and...」。Infineon、Winbond情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Infineon",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Winbond",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "GCP",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

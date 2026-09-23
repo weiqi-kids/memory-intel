@@ -1,0 +1,311 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:38:41.917394Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-09-23-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Engineering over panic: Jensen Huang's pragmatic vision for the future of AI",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260923PD235/jensen-huang-nvidia-ceo-commercial.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "qualcomm-2026-09-23-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung LPDDR6 validated by Qualcomm for next-gen Snapdragon platform",
+      "companies": [
+        "qualcomm",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260923PR200/samsung-mobile-qualcomm-snapdragon-efficiency.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "screen-2026-09-23-027",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "ASUS Officially Launches Googlebook 14 With Up To Core Ultra 7 Series 3 Processor And A 3K OLED Touchscreen Display",
+      "companies": [
+        "screen",
+        "google",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/asus-officially-launches-googlebook-14/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-23-013",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Biwin Storage commits US$672M to double down on 2.5D packaging, compute-memory integration",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260923VL211/packaging-capacity-investment-2026-testing.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-23-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Hermes-Epitek eyes CPO test revenue in 2027",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260923PD223/chairman-cpo-revenue-2027-testing.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "screen",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 10,
+      "neutral": 22,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "qualcomm",
+        "count": 3
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "ymtc",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 1
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 80,
+    "too_old": 63,
+    "gate1_blocked": 58,
+    "gate2_blocked": 41,
+    "passed": 45,
+    "pass_rate": "21.7%",
+    "gate2_block_rate": "19.8%",
+    "gate2_samples": [
+      "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "5 Companies Using NVIDIA AI for Clean Energy",
+      "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "Microsoft, Marvell and Utimaco to Deliver Industry-first Secure, Cloud-scale Payments Solution"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為英特爾、三星、高通相關動態：「Engineering over panic: Jensen Huang's pragmatic vision f...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Engineering over panic: Jensen Huang's pragmatic vision for the future of AI（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung LPDDR6 validated by Qualcomm for next-gen Snapdragon platform（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
