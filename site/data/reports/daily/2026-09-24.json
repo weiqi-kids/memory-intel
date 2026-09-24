@@ -1,0 +1,310 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:33:39.390253Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "skhynix-2026-09-24-014",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM",
+      "companies": [
+        "skhynix",
+        "cxmt",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260924VL219/dram-cxmt-samsung-hbm-capacity.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-24-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Taiwan's homegrown trainer program ends with 66 Brave Eagles delivered",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20260924PD237/aidc-production-aircraft-taiwan-training.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "apple-2026-09-24-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "South Korea chip, panel lines stay on as AI, iPhone demand surges",
+      "companies": [
+        "apple",
+        "skhynix",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "skhynix",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260924PD226/demand-iphone-panel-production-display.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "cadence-2026-09-24-020",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "Cadence, Synopsys certify TSMC A14 design flows ahead of 2028 production",
+      "companies": [
+        "cadence",
+        "synopsys",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "cadence",
+          "synopsys"
+        ]
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260924VL216/synopsys-design-tsmc-production-certification.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "arm-2026-09-24-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "ASRock Industrial revenue jumps 95% in 1H26 on North America deal",
+      "companies": [
+        "arm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20260923PD241/asrock-revenue-ipc-north-america-demand.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "hbm",
+        "capacity"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 35,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 24,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "google",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "arm",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      },
+      {
+        "id": "ti",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "capex",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 79,
+    "too_old": 64,
+    "gate1_blocked": 56,
+    "gate2_blocked": 38,
+    "passed": 50,
+    "pass_rate": "24.0%",
+    "gate2_block_rate": "18.3%",
+    "gate2_samples": [
+      "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "5 Companies Using NVIDIA AI for Clean Energy",
+      "Microsoft, Marvell and Utimaco to Deliver Industry-first Secure, Cloud-scale Payments Solution"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 35 則事件，焦點為GCP、三星、ARM相關動態：「CXMT gains ground in DRAM as Samsung, SK Hynix shift more...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CXMT gains ground in DRAM as Samsung, SK Hynix shift more capacity to HBM（HBM、產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Taiwan's homegrown trainer program ends with 66 Brave Eagles delivered（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

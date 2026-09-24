@@ -1,0 +1,308 @@
+{
+  "date": "2026-09-24",
+  "date_range": {
+    "start": "2026-09-18",
+    "end": "2026-09-24"
+  },
+  "generated_at": "2026-09-24T13:33:39.540420Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "micron-2026-09-18-015",
+      "date": "2026-09-18",
+      "title": "China's memory push gains ground across LPDDR6, advanced NAND, with HBM still the test",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "micron",
+      "company_b": "ymtc",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "shortage": {
+      "this_week": 8,
+      "last_week": 8,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.02
+    },
+    "industry_general": {
+      "this_week": 132,
+      "last_week": 142,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.09
+    },
+    "capex": {
+      "this_week": 22,
+      "last_week": 8,
+      "week_over_week_change": "+175%",
+      "sentiment_this_week": 0.07
+    },
+    "ai_server": {
+      "this_week": 12,
+      "last_week": 14,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.12
+    },
+    "euv": {
+      "this_week": 2,
+      "last_week": 5,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.0
+    },
+    "ddr5": {
+      "this_week": 6,
+      "last_week": 11,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": 0.17
+    },
+    "earnings": {
+      "this_week": 35,
+      "last_week": 42,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.01
+    },
+    "capacity": {
+      "this_week": 27,
+      "last_week": 29,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.15
+    },
+    "hbm": {
+      "this_week": 5,
+      "last_week": 10,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.1
+    },
+    "guidance": {
+      "this_week": 2,
+      "last_week": 11,
+      "week_over_week_change": "-82%",
+      "sentiment_this_week": 0.25
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    },
+    "inventory": {
+      "this_week": 7,
+      "last_week": 12,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": 0.18
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.5
+    },
+    "advanced_packaging": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.28
+    }
+  },
+  "company_7d_summary": {
+    "microsoft": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "amd": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 6
+    },
+    "nvidia": {
+      "event_count": 21,
+      "sentiment_avg": -0.05,
+      "rank": 1
+    },
+    "skhynix": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 11
+    },
+    "winbond": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 20
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 21
+    },
+    "ymtc": {
+      "event_count": 6,
+      "sentiment_avg": -0.03,
+      "rank": 12
+    },
+    "cxmt": {
+      "event_count": 7,
+      "sentiment_avg": 0.19,
+      "rank": 8
+    },
+    "micron": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 9
+    },
+    "samsung": {
+      "event_count": 15,
+      "sentiment_avg": 0.1,
+      "rank": 3
+    },
+    "google": {
+      "event_count": 11,
+      "sentiment_avg": 0.05,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 16,
+      "sentiment_avg": -0.03,
+      "rank": 2
+    },
+    "apple": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 10
+    },
+    "qualcomm": {
+      "event_count": 8,
+      "sentiment_avg": 0.31,
+      "rank": 7
+    },
+    "marvell": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "tsmc": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 13
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 17
+    },
+    "cadence": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 18
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 19
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 282,
+        "last": 305,
+        "change_pct": -7.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-18",
+      "event_count": 57,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 18,
+      "sentiment_avg": 0.17
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 59,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 48,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 51,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 35,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-18 ~ 2026-09-24）共 282 則事件，重點為「China's memory push gains ground across LPDDR6,...」。Winbond、Infineon情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Winbond",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "Infineon",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "微軟",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
