@@ -1,0 +1,342 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:38:23.891430Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-25-020",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及財報",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "Advanced packaging to be a $51bn market by 2031",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/advanced-packaging-to-be-a-51bn-market-by-2031-2026-09/"
+    },
+    {
+      "rank": 2,
+      "event_id": "samsung-2026-09-25-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Most Read – Prototyping Tesla’s A15, LPDDR5X DRAM, Silicon photonics PICs",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "ddr5",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-prototyping-teslas-a15-lpddr5x-dram-silicon-photonics-pics-2026-09/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-25-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Oxford Biomedica plc (OXBDF) Q2 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4949706-oxford-biomedica-plc-oxbdf-q2-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-25-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tamboran Resources Corporation 2026 Q4 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4949754-tamboran-resources-corporation-2026-q4-results-earnings-call-presentation?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-25-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "涉及價格"
+      ],
+      "title": "DDR5 laptop memory prices surge 6X in 12 months",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "ddr5",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/laptops/laptop-maker-says-ddr5-so-dimms-are-6x-pricier-than-last-year-schenker-says-other-component-costs-are-rising-too-announces-price-hikes"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "tsmc",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "ddr5",
+        "count": 2
+      },
+      {
+        "id": "dram_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 91,
+    "too_old": 66,
+    "gate1_blocked": 58,
+    "gate2_blocked": 40,
+    "passed": 32,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "20.4%",
+    "gate2_samples": [
+      "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "5 Companies Using NVIDIA AI for Clean Energy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為英特爾、台積電、輝達相關動態：「Advanced packaging to be a $51bn market by 2031」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Advanced packaging to be a $51bn market by 2031（HBM、AI 伺服器、財報、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Most Read – Prototyping Tesla’s A15, LPDDR5X DRAM, Silicon photonics PICs（財報、DDR5、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
