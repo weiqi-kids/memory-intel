@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-25T13:38:18",
+  "updated_at": "2026-09-26T13:00:30",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 605.2,
-      "daily_change_pct": 0.78,
-      "flow_5d": 330028958,
-      "flow_20d": 252701459,
+      "latest_price": 606.56,
+      "daily_change_pct": 1.01,
+      "flow_5d": 356374987,
+      "flow_20d": 279047488,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -185,18 +185,18 @@
         },
         {
           "date": "2026-09-25",
-          "flow": 1350536,
-          "volume": 288576,
-          "change_pct": 0.78
+          "flow": 27696565,
+          "volume": 4585524,
+          "change_pct": 1.01
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 569.67,
-      "daily_change_pct": 0.64,
-      "flow_5d": 354811764,
-      "flow_20d": 272991397,
+      "latest_price": 572.68,
+      "daily_change_pct": 1.17,
+      "flow_5d": 384111668,
+      "flow_20d": 302291301,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -375,18 +375,18 @@
         },
         {
           "date": "2026-09-25",
-          "flow": 1337836,
-          "volume": 371621,
-          "change_pct": 0.64
+          "flow": 30637740,
+          "volume": 4635059,
+          "change_pct": 1.17
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 99.13,
-      "daily_change_pct": 0.89,
-      "flow_5d": 6574004,
-      "flow_20d": -4321698,
+      "latest_price": 99.68,
+      "daily_change_pct": 1.45,
+      "flow_5d": 7592348,
+      "flow_20d": -3303354,
       "flow_trend": "inflow",
       "daily_flow": [
         {
@@ -565,9 +565,9 @@
         },
         {
           "date": "2026-09-25",
-          "flow": 18421,
-          "volume": 21174,
-          "change_pct": 0.89
+          "flow": 1036765,
+          "volume": 730116,
+          "change_pct": 1.45
         }
       ]
     }

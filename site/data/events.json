@@ -1,5 +1,135 @@
 [
   {
+    "id": "nvidia-2026-09-26-001",
+    "date": "2026-09-26",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand",
+    "summary": "\n                             Nvidia’s RTX Mega Geometry 2.0 SDK arrives alongside RTX Kit 2026.3 with on-demand ray-tracing geometry streaming. \n                                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-26-002",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PNY allegedly refuses to cover melted RTX 5090 powered by native power supply cable",
+    "summary": "\n                             A user's GeForce RTX 5090 died when his 12V-2x6 connector melted, and then PNY denied his warranty claim based on technicalities that aren't even present in the warranty ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/pny-allegedly-refuses-to-cover-melted-rtx-5090-powered-by-native-power-supply-cable-company-closes-users-ticket-when-questioned-on-policy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-09-26-003",
+    "date": "2026-09-26",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "PID: Chasing Dividend Growers Without A Quality Screen",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4949958-pid-chasing-dividend-growers-without-quality-screen?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-26-004",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "The Final 100 Days That Decide This Market Are Here (Q4 Outlook)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4949852-final-100-days-that-decide-market-are-here-q4-outlook?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-09-26-005",
+    "date": "2026-09-26",
+    "companies": [
+      "ti"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "User Pays $1,099 For A Single RTX 5070 Ti, But Walmart Sends Four Identical GPUs",
+    "summary": "You have heard about customers getting cheaper hardware, but this guy snagged several units of free hardware. User Who Reportedly Ordered MSI RTX 5070 Ti 16 GB From Walmart, Ended Up With Four RTX 507",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/user-pays-1099-for-a-single-rtx-5070-ti-but-walmart-sends-four-identical-gpus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-09-26-006",
+    "date": "2026-09-26",
+    "companies": [
+      "qualcomm",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm’s Next Flagship Snapdragon SoC To Target Higher Frequencies Of 5.40GHz While Sticking With TSMC’s 2nm N2P Node, But IPC Gains Are Rumored To Stay Under 10%",
+    "summary": "A new Snapdragon chipset is rumored to be in development and is said to be codenamed “Honu,” suggesting that Qualcomm isn’t taking a break after just having announced the Snapdragon 8 Elite Extreme Ge",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/qualcomm-flagship-snapdragon-soc-5-40ghz-tsmc-2nm-n2p/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-26-007",
+    "date": "2026-09-26",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel CEO Lip-Bu Tan Is Impressed By Photonic Quantum Computing – Says He Now Leans on AI Agents to Do His “Homework”",
+    "summary": "Intel CEO Lip-Bu Tan believes that for quantum computing to be viable, companies have to address market areas with actual demand. The executive discussed quantum computing and how he uses artificial i",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-ceo-lip-bu-tan-is-impressed-by-photonic-quantum-computing-says-he-now-leans-on-ai-agents-to-do-his-homework/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intel-2026-09-25-001",
     "date": "2026-09-25",
     "companies": [
@@ -403,6 +533,160 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/manuf/the-nanometer-stakes-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-09-25-022",
+    "date": "2026-09-25",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (TUM, UNIMORE, Applied Materials)",
+    "summary": "<p>Researchers at the TU Munich, University of Modena and Reggio Emilia, and Applied Materials published a technical paper titled “System-Technology Co-Evaluation of A7 CFET and A10 NSFET Technologies",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-023",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huawei’s Tau Law Takes Commercial Form",
+    "summary": "\n\t\t\t\t\t\t<p>Kirin 9050 Pro rests on the Tau (τ) Scaling Law, marking a major change in chip architecture designed to bypass EUV lithography limits.</p>\n<p>The post <a href=\"https://www.eetimes.com/huawe",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/huaweis-tau-law-takes-commercial-form/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-024",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tower Semiconductor to invest $4 billion in Japanese ops to set up massive optical connectivity hub",
+    "summary": "\n                             Tower's new optical connectivity hub in Japan will increase its output by 40 times in 2029 compared to 2025 level. \n                                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/photonics/tower-semiconductor-to-invest-usd4-billion-in-japanese-ops-to-set-up-massive-optical-connectivity-hub-dual-track-expansion-aims-to-increase-output-by-40-times-by-2029",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-09-25-025",
+    "date": "2026-09-25",
+    "companies": [
+      "meta",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meta Muse runs agents on AMD EPYC Turin hosts with two cores and 8GB of memory",
+    "summary": "\n                             Meta's new Muse AI agent is powered by AMD EPYC Turin hosts, with each user getting a private sandbox with two vCPUs and 8GB of memory. \n                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/meta-muse-runs-agents-on-amd-epyc-turin-hosts-with-two-cores-and-8gb-of-memory-ai-agent-can-pass-terminal-commands-to-ubuntu-host-system",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-25-026",
+    "date": "2026-09-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Elon Musk Goes All In To Bring A Whopping 1.2 Million NVIDIA’s Latest GPUs Online In His Mega Data Center To Take On OpenAI",
+    "summary": "SpaceXAI CEO Elon Musk plans to bring more than half a million NVIDIA AI GPUs online as part of his firm's Colossus data center project. Colossus started construction in 2024, and the first phase of t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/elon-musk-goes-all-in-to-bring-a-whopping-1-2-million-nvidias-latest-gpus-online-in-his-mega-data-center-to-take-on-openai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-027",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MSI Store Deal Drops Ryzen 7 9800X3D, B850 Motherboard And 1TB SSD To $654 As Component Costs Keep Climbing",
+    "summary": "You will easily pay over $1,100 if you choose to purchase all these components separately, but this bundle provides you with a deep discount. MSI is Selling Ryzen 9800X3D, MAG B850 Gaming Plus Max Mot",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/msi-store-deal-drops-ryzen-7-9800x3d-b850-motherboard-and-1tb-ssd-to-654-as-component-costs-keep-climbing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-028",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Uncle Sam coughs up $1.9B for grid upgrades as datacenters hit a power wall",
+    "summary": " Better conductors and improved sensing capabilities expected to unlock at least 23 gigawatts of additional capacity ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-029",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Raspberry Pi surfs memory crunch to record first half",
+    "summary": " A well-timed RAM stockpile helped keep boards shipping while rivals struggled for memory ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/storage/2026/09/25/raspberry-pi-surfs-memory-crunch-to-record-first-half/5299155",
         "type": "rss"
       }
     ]

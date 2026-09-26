@@ -1,0 +1,229 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T13:00:35.763859Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "qualcomm-2026-09-26-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Qualcomm’s Next Flagship Snapdragon SoC To Target Higher Frequencies Of 5.40GHz While Sticking With TSMC’s 2nm N2P Node, But IPC Gains Are Rumored To Stay Under 10%",
+      "companies": [
+        "qualcomm",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/qualcomm-flagship-snapdragon-soc-5-40ghz-tsmc-2nm-n2p/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-26-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "The Final 100 Days That Decide This Market Are Here (Q4 Outlook)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4949852-final-100-days-that-decide-market-are-here-q4-outlook?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PNY allegedly refuses to cover melted RTX 5090 powered by native power supply cable",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/gpus/pny-allegedly-refuses-to-cover-melted-rtx-5090-powered-by-native-power-supply-cable-company-closes-users-ticket-when-questioned-on-policy"
+    },
+    {
+      "rank": 5,
+      "event_id": "screen-2026-09-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PID: Chasing Dividend Growers Without A Quality Screen",
+      "companies": [
+        "screen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4949958-pid-chasing-dividend-growers-without-quality-screen?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "screen",
+        "count": 1
+      },
+      {
+        "id": "ti",
+        "count": 1
+      },
+      {
+        "id": "qualcomm",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "guidance",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 107,
+    "too_old": 68,
+    "gate1_blocked": 58,
+    "gate2_blocked": 39,
+    "passed": 15,
+    "pass_rate": "8.3%",
+    "gate2_block_rate": "21.7%",
+    "gate2_samples": [
+      "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "5 Companies Using NVIDIA AI for Clean Energy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為輝達、Screen Holdings、TI相關動態：「Qualcomm’s Next Flagship Snapdragon SoC To Target Higher ...」。主要關注主題為半導體/記憶體通用、財報、展望，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Qualcomm’s Next Flagship Snapdragon SoC To Target Higher Frequencies Of 5.40G...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "The Final 100 Days That Decide This Market Are Here (Q4 Outlook)（財報、展望）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
