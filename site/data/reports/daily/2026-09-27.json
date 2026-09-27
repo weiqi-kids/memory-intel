@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T13:52:25.663539Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fidelity Small Cap Value Fund Q2 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4950039-fidelity-small-cap-value-fund-q2-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-27-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Counterfeit vinyl record maker sentenced to three years in the slammer after making $3.5 million",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/counterfeit-vinyl-record-maker-sentenced-to-three-years-in-the-slammer-police-bust-largest-fake-vinyl-operation-in-uk-history-raid-uncovers-four-70-year-old-presses-and-3-000-metal-stampers"
+    },
+    {
+      "rank": 3,
+      "event_id": "microsoft-2026-09-27-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nadella Calls Xbox Layoffs “Great to See” as 268 New Cuts Push Microsoft Closer to its Original 3,200 Headcount Goal",
+      "companies": [
+        "microsoft"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://wccftech.com/nadella-xbox-streamlining-layoffs-268-cuts/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Taiwan's chip talisman snack faces production halt after 94% strike vote",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase"
+    },
+    {
+      "rank": 5,
+      "event_id": "apple-2026-09-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Apple buried Copland 30 years ago. Now the failed OS boots in a browser",
+      "companies": [
+        "apple"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "microsoft",
+        "count": 1
+      },
+      {
+        "id": "apple",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 287,
+    "dup_title": 107,
+    "too_old": 68,
+    "gate1_blocked": 58,
+    "gate2_blocked": 45,
+    "passed": 9,
+    "pass_rate": "5.0%",
+    "gate2_block_rate": "25.0%",
+    "gate2_samples": [
+      "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "5 Companies Using NVIDIA AI for Clean Energy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為微軟、蘋果相關動態：「Fidelity Small Cap Value Fund Q2 2026 Commentary」。主要關注主題為半導體/記憶體通用、財報，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Fidelity Small Cap Value Fund Q2 2026 Commentary（財報）",
+        "level": "yellow"
+      },
+      {
+        "text": "Counterfeit vinyl record maker sentenced to three years in the slammer after ...（半導體/記憶體通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
