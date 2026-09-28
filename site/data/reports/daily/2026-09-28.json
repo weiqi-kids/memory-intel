@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:45:58.234184Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-28-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Q2 slowdown reports BEAMA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.electronicsweekly.com/news/q2-slowdown-reports-beama-2026-09/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-28-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "NetSol Technologies, Inc. (NTWK) Q4 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4950291-netsol-technologies-inc-ntwk-q4-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-28-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Putnam Core Equity Fund Q2 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4950306-putnam-core-equity-fund-q2-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-28-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Putnam Short Duration Bond Fund Q2 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4950304-putnam-short-duration-bond-fund-q2-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-28-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Putnam Ultra Short Duration Income Fund Q2 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4950300-putnam-ultra-short-duration-income-fund-q2-2026-commentary?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 26,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "meta",
+        "count": 3
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "google",
+        "count": 1
+      },
+      {
+        "id": "synopsys",
+        "count": 1
+      },
+      {
+        "id": "amd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 8
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      },
+      {
+        "id": "capacity",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 94,
+    "too_old": 66,
+    "gate1_blocked": 55,
+    "gate2_blocked": 39,
+    "passed": 32,
+    "pass_rate": "16.7%",
+    "gate2_block_rate": "20.3%",
+    "gate2_samples": [
+      "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "NVIDIA Isaac ROS 5.0 Advances Agentic, Open Source Robotics Development",
+      "5 Companies Using NVIDIA AI for Clean Energy"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為Facebook、輝達、GCP相關動態：「Q2 slowdown reports BEAMA」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Q2 slowdown reports BEAMA（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "NetSol Technologies, Inc. (NTWK) Q4 2026 Earnings Call Transcript（財報）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
