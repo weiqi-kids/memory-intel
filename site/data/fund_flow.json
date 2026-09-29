@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-09-28T16:45:54",
+  "updated_at": "2026-09-29T14:51:22",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 602.1,
-      "daily_change_pct": -0.74,
-      "flow_5d": 266212447,
-      "flow_20d": 208439833,
+      "latest_price": 611.26,
+      "daily_change_pct": 1.52,
+      "flow_5d": 53743332,
+      "flow_20d": 313722303,
       "flow_trend": "inflow",
       "daily_flow": [
-        {
-          "date": "2026-08-14",
-          "flow": -7181583,
-          "volume": 5524295,
-          "change_pct": -0.22
-        },
         {
           "date": "2026-08-17",
           "flow": 47391588,
@@ -188,23 +182,23 @@
           "flow": -13768377,
           "volume": 3087080,
           "change_pct": -0.74
+        },
+        {
+          "date": "2026-09-29",
+          "flow": 12273585,
+          "volume": 1339911,
+          "change_pct": 1.52
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 561.55,
-      "daily_change_pct": -1.94,
-      "flow_5d": 240127408,
-      "flow_20d": 209962963,
+      "latest_price": 572.61,
+      "daily_change_pct": 1.97,
+      "flow_5d": 59516090,
+      "flow_20d": 332432360,
       "flow_trend": "inflow",
       "daily_flow": [
-        {
-          "date": "2026-08-14",
-          "flow": -1379145,
-          "volume": 4309829,
-          "change_pct": -0.06
-        },
         {
           "date": "2026-08-17",
           "flow": 45815992,
@@ -378,23 +372,23 @@
           "flow": -57475231,
           "volume": 5163992,
           "change_pct": -1.94
+        },
+        {
+          "date": "2026-09-29",
+          "flow": 21520570,
+          "volume": 1945802,
+          "change_pct": 1.97
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 98.26,
-      "daily_change_pct": -1.42,
-      "flow_5d": 4620063,
-      "flow_20d": -6659970,
+      "latest_price": 100.22,
+      "daily_change_pct": 1.99,
+      "flow_5d": 131343,
+      "flow_20d": -3051865,
       "flow_trend": "inflow",
       "daily_flow": [
-        {
-          "date": "2026-08-14",
-          "flow": -784928,
-          "volume": 2180356,
-          "change_pct": -0.37
-        },
         {
           "date": "2026-08-17",
           "flow": 1304954,
@@ -568,6 +562,12 @@
           "flow": -1771633,
           "volume": 1247629,
           "change_pct": -1.42
+        },
+        {
+          "date": "2026-09-29",
+          "flow": 397758,
+          "volume": 202938,
+          "change_pct": 1.99
         }
       ]
     }

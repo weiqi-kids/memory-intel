@@ -1,5 +1,1009 @@
 [
   {
+    "id": "google-2026-09-29-001",
+    "date": "2026-09-29",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google is a technology partner for the launch of America.gov.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/G_gray_hero.max-600x600.format-webp_n4n8cbz.webp\">Google partners with America.gov to use Gemini to help 100 million people ac",
+    "sources": []
+  },
+  {
+    "id": "meta-2026-09-29-002",
+    "date": "2026-09-29",
+    "companies": [
+      "meta"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meta Partners With Government Agencies, Law Enforcement, and Safety Organizations to Launch Regional Anti-Scam Education Campaign",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "tsmc-2026-09-29-003",
+    "date": "2026-09-29",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "TSMC OIP: Chip Industry Growth Blows Past Forecast",
+    "summary": "<p>Aggressive prediction of $1T by 2030 was $700B too low. Here's why. </p>\n<p>The post <a href=\"https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/\">TSMC OIP: Chip Industry",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-004",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Verification Needs a Thread, Not More Fragments",
+    "summary": "<p>Why traceability at scale is so critical.</p>\n<p>The post <a href=\"https://semiengineering.com/why-verification-needs-a-thread-not-more-fragments/\">Why Verification Needs a Thread, Not More Fragmen",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/why-verification-needs-a-thread-not-more-fragments/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-005",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Sept. 29",
+    "summary": "<p>A7 CFET vs. A10 NSFETs; wafer-scale sub-5nm MoS₂ transistors; multi-kW power delivery for 3D HI; copper microstructure and TSV residual stress; Rowhammer attacks on GPUs; gate-level RTL Trojan loca",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-006",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Moore’s Law AI: Applying Agentic AI Across Chip Design",
+    "summary": "<p>Moores Lab AI bets on domain expertise to speed the design process.</p>\n<p>The post <a href=\"https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/\">Moore&#8217;s Law AI:",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-007",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Data Centers Make Power, Cooling Critical to Scaling",
+    "summary": "\n\t\t\t\t\t\t<p>AI is transforming data centers into infrastructure platforms where power, cooling, and semiconductors determine scalability.</p>\n<p>The post <a href=\"https://www.eetimes.com/ai-data-centers",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ai-data-centers-make-power-cooling-critical-to-scaling/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-008",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "IBM Details Quantum, AI Developments in India",
+    "summary": "\n\t\t\t\t\t\t<p>At SEMICON India 2026, IBM's Rahul Rao details India's role in quantum scaling, Qiskit education, and AI accelerators.</p>\n<p>The post <a href=\"https://www.eetimes.com/ibm-details-quantum-ai",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ibm-details-quantum-ai-developments-in-india/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-009",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "We tested 13 power banks to help you choose the best one",
+    "summary": "\n                             We tested 13 power banks from Anker, Belkin, Baseus, Cuktech, and Sharge, tracking charge times, output, temps, and capacity to see which actually hold up. \n             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/peripherals/usb/we-tested-13-power-banks-to-help-you-choose-the-best-one-from-10-25k-mah-and-20-220w",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-29-010",
+    "date": "2026-09-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Silicon is starting to design silicon — how AI is being used in chipmaking, from EDA tools to OpenAI's Jalapeño and beyond",
+    "summary": "\n                             How close is AI to designing the very same chips it runs on? We explore how artificial intelligence is being used in modern chip design today. \n                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/silicon-is-starting-to-design-silicon-how-ai-is-being-used-in-chipmaking-from-eda-tools-to-openais-jalapeno-and-beyond",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-29-011",
+    "date": "2026-09-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel's next-gen Nova Lake platforms pass compliance at USB and PCIe standards bodies as launch looms",
+    "summary": "\n                             Intel is prepping Core Ultra 400-series 'Nova Lake' platform launches as CPUs and chipsets pass interoperability and compliance tests with PCI-SIG and USB-IF. \n          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intels-nova-lake-platforms-pass-compliance-at-pci-sig-usb-if-as-launch-looms",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-012",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "positive",
+    "title": "Sony Japan tries an anti-scalper lottery system for PS5 Pro orders, locks systems behind a 60-hour playtime requirement",
+    "summary": "\n                             In the face of strong demand and device shortages, Sony has decided to filter PlayStation 5 Pro purchasers in Japan using a lottery system. \n                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/playstation/sony-japan-tries-an-anti-scalper-lottery-system-for-ps5-pro-orders-locks-systems-behind-a-60-hour-playtime-requirement-strict-lottery-system-blocks-scalpers-and-tourists-in-japan-requires-a-domestic-account-to-buy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-29-013",
+    "date": "2026-09-29",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Grab this 4K-ready gaming PC with a 7800X3D and RTX 5070 for under $2,000 right now, saving you $170",
+    "summary": "\n                             This powerful CyberPowerPC gaming rig, powered by the AMD Ryzen 7 7800X3D and Nvidia GeForce RTX 5070, alongside a 1TB SSD and 32GB of DDR5 RAM, unlocks 4K gameplay for $",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/grab-this-4k-ready-gaming-pc-with-a-7800x3d-and-rtx-5070-for-under-usd2-000-right-now-saving-you-usd170-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-1tb-ssd-ready-for-high-performance-gameplay",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-29-014",
+    "date": "2026-09-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel patent outlines embedding MicroLEDs directly into CPU package to light up wording or work as an 'extra aesthetic component'",
+    "summary": "\n                             A recently published Intel patent reveals a system for embedding MicroLEDs directly into a CPU for diagnostic or aesthetic purposes. \n                                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-29-015",
+    "date": "2026-09-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel patent embeds MicroLEDs in chip packaging — technology may enable embedded optical interconnects through TGVs",
+    "summary": "\n                             Intel has showcased a patent it filed in 2022 to embed MicroLEDs inside chip packaging. The company suggests this could be used for diagnostic testing, customized lightin",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/photonics/intel-patent-embeds-microleds-in-chip-packaging-technology-may-enable-embedded-optical-interconnects-through-tgvs",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-29-016",
+    "date": "2026-09-29",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Early Nvidia advisor says he's owed $1 billion in stock due to a 1993 vesting error, but Nvidia rejected settlement",
+    "summary": "\n                             Former Nvidia advisor Eric Gullichsen says a 1993 stock option grant leaves him owed about $1 billion in stock. \n                                                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/early-nvidia-advisor-says-hes-owed-usd1-billion-in-stock-due-to-vesting-error-1993-stock-options-amount-to-around-4-5-million-shares-after-splits",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-29-017",
+    "date": "2026-09-29",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting",
+    "summary": "\n                             Author Kevin Roose reports that Nvidia and Anthropic's CEOs didn't like each other much during their first meeting in his new book, The AGI Chronicles. \n                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/anthropic-ceo-described-jensen-huang-as-kind-of-trump-like-during-2022-meeting-nvidia-ceo-reportedly-called-anthropic-executive-a-bean-counter-after-google-tpu-comparison",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-29-018",
+    "date": "2026-09-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Anthropic's US$2 trillion IPO bet comes with 80 pages of warnings",
+    "summary": "Confidential details of Anthropic's initial public offering (IPO) prospectus, reviewed by <em>Reuters</em>, reveal an enterprise operating at an unprecedented scale and making a historic wager that ar",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929VL208/anthropic-ipo-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-09-29-019",
+    "date": "2026-09-29",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT to spend US$5.2 billion on R&amp;D and testing as DRAM supply stays tight",
+    "summary": "China's ChangXin Memory Technologies (CXMT) plans to invest CNY34.9 billion (approx. US$5.2 billion) in technology R&amp;D and additional back-end DRAM testing capacity, stepping up investment as tigh",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929VL207/cxmt-testing-dram-capacity-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-29-020",
+    "date": "2026-09-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank subsidiary Saimemory taps Shinko to bring ZAM closer to commercialization",
+    "summary": "Saimemory, a SoftBank subsidiary, has brought Shinko Electric Industries into its effort to commercialize Z-Angle Memory (ZAM), adding packaging-substrate, high-density integration and manufacturing e",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929VL206/softbank-subsidiary-shinko-electric-memory-chips-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-021",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "capex",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "In global semiconductor race, Singapore bets on critical, mature technologies",
+    "summary": "Amid the ongoing restructuring of the global semiconductor supply chain, Singapore is focusing on advanced packaging, heterogeneous integration, silicon photonics, and optical interconnects, aiming to",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD244/packaging-manufacturing-equipment-supply-chain-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-29-022",
+    "date": "2026-09-29",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung reshuffles DRAM roadmap, prioritizing B1b hybrid bonding for D0a, HBM5",
+    "summary": "Samsung Electronics is reshaping its next-generation dynamic random-access memory (DRAM) roadmap, elevating its B1b wafer-to-wafer (W2W) hybrid bonding technology from a project-specific development t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD238/samsung-dram-roadmap-technology-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-023",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "RoboTechnik completes Hong Kong listing to fund ficonTEC expansion in silicon photonics",
+    "summary": "RoboTechnik completed a Hong Kong listing on September 29 and began trading on the Hong Kong stock exchange, according to its German photonics automation subsidiary ficonTEC. The new capital will be u",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD241/photonics-silicon-automation-production-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-024",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxtron writes a new chapter in Taiwan auto history",
+    "summary": "Taiwan's auto market has faced plenty of challenges in recent years, from broader industry headwinds to continued scrutiny of domestic car production. Against that backdrop, Foxconn-backed Foxtron is ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD236/taiwan-foxtron-market-brand-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-09-29-025",
+    "date": "2026-09-29",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "hbm",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Column: Why Micron's US$250M venture fund is about more than HBM margins&mdash;Taiwan has a stake in it",
+    "summary": "Micron unveiled the Micron Ventures Paradigm Fund, a US$250 million venture vehicle, in mid-August 2026, as the memory maker pairs more than US$25 billion in fiscal 2026 capex with a pledge to invest ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD229/micron-taiwan-manufacturing-2026-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-026",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "South Korea AI compute squeeze hits researchers and startups",
+    "summary": "South Korea's AI sector is facing a growing GPU shortage as research institutes and small companies struggle to secure enough compute for model training and deployment. As government support ends, res",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD223/gpu-training-government-data-cost.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-027",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI boom sends China and Taiwan's PCB makers racing to HK for capital",
+    "summary": "Global investment in AI infrastructure is expanding rapidly, driving specification upgrades across the supply chain, from AI servers to high-speed optical modules, and pushing printed circuit boards (",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD224/pcb-investment-infrastructure-cross-strait-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-29-028",
+    "date": "2026-09-29",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung Foundry nears 60% 2nm yield, shifts focus to power efficiency to win customers",
+    "summary": "Samsung Electronics' foundry business has reportedly raised yield on its 2-nanometer (2nm) SF2 process to nearly 60% and is now shifting engineering work toward power efficiency and other maturity che",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD234/samsung-2nm-business-efficiency-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-029",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "MicroIP unveils AI drone and edge systems at Taiwan Expo USA",
+    "summary": "MicroIP Technology showcased its AI drone vertical mission system at the 2026 Taiwan Expo USA in Dallas, drawing attention from organizers and US stakeholders. The company said the event highlighted T",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD233/taiwan-usa-expo-asic-communications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-09-29-030",
+    "date": "2026-09-29",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Solidigm weighs US IPO as AI storage demand lifts valuation",
+    "summary": "SK Hynix's US-based NAND flash and solid-state drive (SSD) subsidiary, Solidigm, is considering a US initial public offering as early as 2027, with reports indicating a potential valuation of up to US",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD232/solidigm-sk-hynix-demand-data-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-29-031",
+    "date": "2026-09-29",
+    "companies": [
+      "nvidia",
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server"
+    ],
+    "impact": "positive",
+    "title": "Samsung Electro-Mechanics to invest US$5 billion in ABF substrate expansion",
+    "summary": "Samsung Electro-Mechanics said it will invest KRW6.78 trillion (about US$5 billion) in South Korea and Vietnam to expand ABF substrate production for AI servers and high-performance computing (HPC) ma",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD231/semco-abf-substrate-nvidia-capacity-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-032",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US, China eye US$60 billion in tariff relief, but chips stay off the table",
+    "summary": "The US and China are moving toward tariff reductions on about US$60 billion of bilateral trade following last week's Trump-Xi summit, but semiconductors and other strategically sensitive sectors remai",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929VL204/chips-technology-semiconductors.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kla-2026-09-29-033",
+    "date": "2026-09-29",
+    "companies": [
+      "kla"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Advanced packaging shifts toward system integration as AI renews semiconductor talent appeal",
+    "summary": "<p class=\"P1\" data-start=\"2193\" data-end=\"2603\">At Singapore's Innovate Together 2026 conference on September 25, executives and researchers from A*STAR's Institute of Microelectronics (IME), KLA, ASM",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20260929PD225/packaging-talent-2026-equipment-kla.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-034",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Pagaya: The 5x P/E Is The Wrong Reason To Own This Stock",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4950681-pagaya-the-5x-pe-is-the-wrong-reason-to-own-this-stock?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-035",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Close Brothers Group plc 2026 Q4 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4950706-close-brothers-group-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-036",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Card Factory plc 2027 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4950705-card-factory-plc-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-037",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "A.G. BARR p.l.c. 2027 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4950704-a-g-barr-p-l-c-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-038",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Quercus Fund 2026 Second Letter To Shareholders",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4950680-quercus-fund-2026-second-letter-shareholders?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-09-29-039",
+    "date": "2026-09-29",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "ai_memory",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "HBM Is The Key Towards Samsung’s Foundry Recovery; Analysts Estimate That Next-Generation Memory Reduced The Company’s Losses By 41% In Just One Year",
+    "summary": "Samsung’s fortunes revolving around its foundry business were believed to have been restored thanks to rising DRAM costs and a surge in 2nm wafer orders. However, analysts estimate that HBM has become",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/hbm-keys-samsung-foundry-recovery-analysts-predict-loss-reduction/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-040",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "PC User Says G.Skill Made Him A “Customer For Life” After Replacing A $150 Kit Now Worth $1,199",
+    "summary": "These days, a successful RMA can make a user a customer for life, since not every vendor is honoring the warranty claim. User Says G.Skill Replaced his 64 GB DDR5 RAM Kit, Which he Bought for $150 fro",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/g-skill-replaces-customers-150-ddr5-ram-kit-that-costs-over-a-thousand-dollars-now/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-29-041",
+    "date": "2026-09-29",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "WiCi One Turns a Single RTX 5090 Into a Wireless GPU Shared Over Wi-Fi 7 for Local AI and Gaming",
+    "summary": "WiCi has unveiled the world's first wireless local-GPU solution, the WiCi One, which shares the capabilities of a dedicated GPU over WIFI. Need A Dedicated GPU Available To You Wirelessly Over The WIF",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/wici-one-turns-rtx-5090-into-wireless-gpu-shared-over-wi-fi-7-for-local-ai-gaming/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-29-042",
+    "date": "2026-09-29",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Framework’s Most Powerful Desktop Will Be Available For Pre-Order This Week, Featuring AMD’s Ryzen AI MAX+ 495 Chip, 192 GB Memory, As It Delivers A Strong AI Punch In A Tiny Box",
+    "summary": "Framework has announced that its AMD Ryzen AI MAX+ 495 Desktop with 192 GB memory will be available for pre-order this Wednesday. AI Crunching AMD Ryzen AI MAX+ 495 PCs Are Rolling Out Now With Framew",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/framework-desktop-amd-ryzen-ai-max-495-192-gb-memory-pre-order-this-week/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-043",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s Montage Technology Begins Mass Producing DDR5 9200 MT/s CKDs For Mainstream Memory & DDR5 8000 MT/s For Enterprise-Aimed RDIMMs",
+    "summary": "Montage Technology has started mass producing its fastest CKD chips to date, hitting 9200 MT/s on mainstream &#38; 8000 MT/s on DDR5 RDIMMs. China Amps Up Its Memory Game With Montage Technology's Lat",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/china-montage-technology-mass-producing-ddr5-9200-mtps-enterprise-8000-mtps-ckd/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-044",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "negative",
+    "title": "Investors are pricing in a 32.6% AI productivity boost for software engineers",
+    "summary": " Economists turn stock movements into an estimate of anticipated gains – while warning that markets can get carried away ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/09/29/investors-are-pricing-in-a-326-ai-productivity-boost-for-software-engineers/5299645",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-045",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dutch police arrest 'security pro' in ShinyHunters probe",
+    "summary": " Flashbangs reportedly deployed during operation as crime group denies any connection to suspect ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/cyber-crime/2026/09/29/dutch-police-arrest-security-pro-in-shinyhunters-probe/5299715",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-046",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Redmond to millions of Power BI users: You’re Fabric app devs now",
+    "summary": " Software giant expands audience for agent coding of data apps by an order of magnitude ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/applications/2026/09/29/redmond-to-millions-of-power-bi-users-youre-fabric-app-devs-now/5299552",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-047",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI Needs Revenue, Says Bain",
+    "summary": "<p>The AI industry needs a killer app &#8211; or multiple killer apps &#8211; says a report from Bain. The AI industry needs to earn $6 trillion in annual revenue by [&#8230;]</p>\n<p>The post <a href=",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/delusions/ai-needs-revenue-says-bain-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-048",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microelectronics UK: UK Government prioritising semiconductors",
+    "summary": "<p>At Microelectronics UK 2026, the opening keynote was given by Julia Sutcliffe, the UK&#8217;s Chief Scientific Adviser in BIST (the Department for Business Innovation, Science and Trade). She said ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/microelectronics-uk-uk-government-prioritising-semiconductors-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-29-049",
+    "date": "2026-09-29",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD buys World Labs for $8.2bn",
+    "summary": "<p>AMD is to buy World Labs, an AI model and research lab led by AI pioneer Dr. Fei-Fei. The acquisition will strengthen AMD’s ability to develop AI hardware, software and [&#8230;]</p>\n<p>The post <a",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/amd-buys-world-labs-for-2-8bn-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-050",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gimlet cloud and Cerebras to accelerate inference",
+    "summary": "<p>Gimlet Labs and Cerebras Systems are to work together to deliver ultrafast AI inference at massive scale. The collaboration brings together Cerebras’ wafer-scale compute with the Gimlet Cloud to de",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/gimlet-cloud-and-cerebras-to-accelerate-inference-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-051",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vanguard and NXP open jv fab and plan another",
+    "summary": "<p>Yesterday, Vanguard International Semiconductor (VIS) and NXP  inaugurated  their jv fab in Singapore dubbed VisionPower Semiconductor Manufacturing Company (VSMC). . Volume production is planned f",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/a-guard-and-nxp-open-new-jv-fab-and-plan-another-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-052",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Cheap phones disappearing",
+    "summary": "<p>Smartphone shipments are forecast to recover to approximately 1.2 billion units in 2030, nearly back the level of 2025, says Counterpoint Research However, the sub-$200 segment is  expected to decl",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/smartphone-market-fragmenting-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-29-053",
+    "date": "2026-09-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gold Bonded Germanium Diodes Made In Scotland",
+    "summary": "<p>65 years ago Electronics Weekly carried this ad in its edition of May 3 1961: &#160; &#160; &#160;</p>\n<p>The post <a href=\"https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/gold-bonde",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/memory-lane/gold-bonded-germanium-diodes-made-in-scotland-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-09-28-001",
     "date": "2026-09-28",
     "companies": [
@@ -505,6 +1509,157 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/ic-link-by-imec-simplifies-access-2026-09/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-28-030",
+    "date": "2026-09-28",
+    "companies": [
+      "intel",
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "See what 4 builders are making with Gemini 3.8 Flash",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp\">See what developers have built with Gemini 3.8 Flash, our most intelli",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-09-28-031",
+    "date": "2026-09-28",
+    "companies": [],
+    "topics": [
+      "advanced_packaging"
+    ],
+    "impact": "neutral",
+    "title": "Impact of Cu Microstructure On The TSV-Induced Residual Stress Within Silicon (Purdue, UCLA)",
+    "summary": "<p>Researchers at Purdue University and the UCLA published a technical paper titled “Experimental Evidence for the Impact of Copper Microstructure on Residual Stress of Through Silicon Via.” Abstract ",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-09-28-032",
+    "date": "2026-09-28",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Early AMD 'Gorgon Halo' AI mini-PC packs 192GB RAM for an eye-watering $7,099",
+    "summary": "\n                             GMKtec launches the Evo-X5 Pro, an agentic mini-PC with AMD's Ryzen AI Max+ Pro 495, 192GB of RAM, and a price tag up to $7,099. \n                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-09-28-033",
+    "date": "2026-09-28",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Netherlands is rolling its own software and services after U.S. sanctions took Microsoft off the table",
+    "summary": "\n                             When the U.S. imposed sanctions on the International Criminal Court, it also meant that its chief prosecutor lost access to Microsoft services, forcing the Dutch governme",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-28-034",
+    "date": "2026-09-28",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Acquires World Labs For $8.2 Billion In What Is Essentially A Talent Grab For Building A Competitor To NVIDIA’s Cosmos AI Model",
+    "summary": "In what is its first major acquisition since entering into a definitive agreement to acquire the inference-focused chip designer Taalas last month, AMD has just announced an agreement to acquire the A",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-acquires-world-labs-for-8-2-billion-in-what-is-essentially-a-talent-grab-for-building-a-competitor-to-nvidias-cosmos-ai-model/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-09-28-035",
+    "date": "2026-09-28",
+    "companies": [
+      "intel",
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel CEO Lip-Bu Tan Calls TSMC a Partner Not a Rival, Even as He Rebuilds the Foundry",
+    "summary": "Even as his firm focuses on establishing a standalone foundry business, Intel CEO Lip-Bu Tan believes that TSMC is a peer firm instead of being a rival. The executive discussed his approach to competi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-ceo-lip-bu-tan-calls-tsmc-a-partner-not-a-rival-even-as-he-rebuilds-the-foundry/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-09-28-036",
+    "date": "2026-09-28",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang Kills Two Birds With One Stone: NVIDIA’s New AI Agent Guardrails Craftily Counter The Calls For Pacing AI Development, While Increasing The Demand For Its Own Products",
+    "summary": "Whatever else you might think of him, it is an uncontested fact that NVIDIA's Jensen Huang is a visionary leader, possessing just the sort of foresight required to steer one of the biggest enterprises",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/jensen-huang-kills-two-birds-with-one-stone-nvidias-new-ai-agent-guardrails-craftily-counter-the-calls-for-pacing-ai-development-while-increasing-the-demand-for-its-own-products/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-09-28-037",
+    "date": "2026-09-28",
+    "companies": [
+      "aws"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AWS needs to embrace its place as the Home Depot of AI infrastructure",
+    "summary": " What's wrong with being a great wholesaler? ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/paas-and-iaas/2026/09/28/aws-needs-to-embrace-its-place-as-the-home-depot-of-ai-infrastructure/5299602",
         "type": "rss"
       }
     ]
