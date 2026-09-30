@@ -1,0 +1,394 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:54:34.784876Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "google-2026-09-30-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "情緒極端",
+        "供應鏈上下游同時提及",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use",
+      "companies": [
+        "google",
+        "nvidia",
+        "micron",
+        "broadcom"
+      ],
+      "related": {
+        "customers": [
+          "google",
+          "nvidia"
+        ],
+        "suppliers": [
+          "nvidia",
+          "micron",
+          "broadcom"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260930VL219/micron-patent-nvidia-broadcom-hbm.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-09-30-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "The state of agentic AI in chip design tools in 2026",
+      "companies": [
+        "nvidia",
+        "cadence",
+        "synopsys"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/the-state-of-agentic-ai-in-chip-design-tools-in-2026-cadence-synopsys-and-siemens-all-pitch-autonomous-engineers"
+    },
+    {
+      "rank": 3,
+      "event_id": "arm-2026-09-30-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Leisure vehicles become Eurocharm's largest segment with capacity expanding in Vietnam, North America",
+      "companies": [
+        "arm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20260930PD224/taiwan-revenue-north-america-capacity-oem.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "arm-2026-09-30-032",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "One Of Qualcomm’s Earliest SoCs To Support Windows And Help The Company Set Up The Snapdragon X Family Will No Longer Be Compatible With Microsoft’s Next Update",
+      "companies": [
+        "arm",
+        "qualcomm",
+        "apple",
+        "microsoft"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm",
+          "apple"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/qualcomm-early-windows-soc-snapdragon-x-family-dropped-next-windows-update/"
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-09-30-038",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nuvacore’s WarpCore Ditches The ISA-First Playbook, Building CPU Silicon Before Deciding On x86, Arm, Or RISC-V",
+      "companies": [
+        "intel",
+        "amd",
+        "arm",
+        "qualcomm",
+        "apple"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm",
+          "apple",
+          "amd"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nuvacore-warpcore-cpu-core-picks-silicon-first-isa-later-fastest-core-performance-claim/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "apple",
+      "to": "qualcomm",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "arm",
+      "to": "qualcomm",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "arm",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "apple",
+      "to": "microsoft",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 12,
+      "neutral": 31,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 6
+      },
+      {
+        "id": "amd",
+        "count": 5
+      },
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "apple",
+        "count": 4
+      },
+      {
+        "id": "arm",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "capacity",
+        "count": 8
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "shortage",
+        "count": 3
+      },
+      {
+        "id": "ddr5",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 83,
+    "too_old": 66,
+    "gate1_blocked": 65,
+    "gate2_blocked": 35,
+    "passed": 54,
+    "pass_rate": "24.5%",
+    "gate2_block_rate": "15.9%",
+    "gate2_samples": [
+      "How Open Science Can Help Researchers Prepare for the Next Pandemic",
+      "Sakeena Fiza Helps NVIDIA Hardware Succeed at Scale",
+      "At AI Day Singapore, NVIDIA and Partners Showcase AI Advancements Across Southeast Asia",
+      "AMD to Acquire World Labs to Advance the Future of AI Compute",
+      "New updates coming to Apple Creator Studio"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為英特爾、超微、輝達相關動態：「Netlist challenges Micron, Nvidia, Broadcom, Google over ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Netlist challenges Micron, Nvidia, Broadcom, Google over alleged HBM patent use（HBM、AI 記憶體、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "The state of agentic AI in chip design tools in 2026（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
