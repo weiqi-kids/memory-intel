@@ -1,0 +1,297 @@
+{
+  "date": "2026-10-02",
+  "date_range": {
+    "start": "2026-09-26",
+    "end": "2026-10-02"
+  },
+  "generated_at": "2026-10-02T14:44:20.148018Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "nvidia-2026-09-29-031",
+      "date": "2026-09-29",
+      "title": "Samsung Electro-Mechanics to invest US$5 billion in ABF substrate expansion",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "amd",
+      "company_b": "nvidia",
+      "co_mention_count": 6,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 119,
+      "last_week": 125,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.05
+    },
+    "earnings": {
+      "this_week": 26,
+      "last_week": 34,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.04
+    },
+    "guidance": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.12
+    },
+    "ddr5": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.07
+    },
+    "capacity": {
+      "this_week": 19,
+      "last_week": 20,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.1
+    },
+    "hbm": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 5,
+      "last_week": 9,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_server": {
+      "this_week": 4,
+      "last_week": 8,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.25
+    },
+    "shortage": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.19
+    },
+    "inventory": {
+      "this_week": 10,
+      "last_week": 10,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.2
+    },
+    "ai_memory": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 10,
+      "last_week": 16,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": -0.2
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 25,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "qualcomm": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 9
+    },
+    "tsmc": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 10
+    },
+    "intel": {
+      "event_count": 15,
+      "sentiment_avg": -0.03,
+      "rank": 2
+    },
+    "microsoft": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 6
+    },
+    "apple": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 7
+    },
+    "google": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 12
+    },
+    "meta": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "synopsys": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "amd": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "cxmt": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "samsung": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "micron": {
+      "event_count": 9,
+      "sentiment_avg": 0.22,
+      "rank": 5
+    },
+    "skhynix": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 14
+    },
+    "kla": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "ase": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "broadcom": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 17
+    },
+    "arm": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 8
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 238,
+        "last": 265,
+        "change_pct": -10.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-26",
+      "event_count": 11,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-27",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-28",
+      "event_count": 37,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-29",
+      "event_count": 60,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-30",
+      "event_count": 61,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-01",
+      "event_count": 42,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 19,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-26 ~ 2026-10-02）共 238 則事件，重點為「Samsung Electro-Mechanics to invest US$5 billio...」。美光、GCP表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "輝達",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "高通",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "台積電",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

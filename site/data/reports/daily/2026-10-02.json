@@ -1,0 +1,331 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:44:20.055668Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-10-02-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及 AI 記憶體"
+      ],
+      "title": "Samsung Leveraging The Global DRAM Pricing Landscape With Its HBM4 Technology, Company Is Reportedly Squeezing Customers With A 3x Quote Compared To HBM3E",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_memory",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-hbm4-pricing-3x-hbm3e-dram-market/"
+    },
+    {
+      "rank": 2,
+      "event_id": "synopsys-2026-10-02-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts",
+      "companies": [
+        "synopsys",
+        "aws"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/amazon-and-synopsys-ink-multi-year-billion-dollar-deal-in-multi-year-ip-agreement-to-accelerate-ai-chip-design-efforts-synopsys-to-adopt-amazon-bedrock-to-deploy-ai-agents-harnessing-aws-compute-and-storage-capabilities"
+    },
+    {
+      "rank": 3,
+      "event_id": "arm-2026-10-02-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera",
+      "companies": [
+        "arm",
+        "amd",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia",
+          "amd"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level"
+    },
+    {
+      "rank": 4,
+      "event_id": "qualcomm-2026-10-02-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Microsoft’s Advanced Shader Delivery Cuts Shader Compilation Times By Around 95% In Gears of War: E-Day, Expanding To NVIDIA, Intel & Qualcomm GPUs",
+      "companies": [
+        "qualcomm",
+        "nvidia",
+        "intel",
+        "amd",
+        "microsoft"
+      ],
+      "related": {
+        "customers": [
+          "microsoft"
+        ],
+        "suppliers": [
+          "nvidia",
+          "intel",
+          "amd"
+        ]
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/microsofts-advanced-shader-delivery-cuts-shader-compilation-times-by-around-95-in-gears-of-war-e-day-expanding-to-nvidia-intel-qualcomm-gpus/"
+    },
+    {
+      "rank": 5,
+      "event_id": "micron-2026-10-02-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Micron now has an 88% margin on consumer memory as price hikes drive profits",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/dram/micron-now-has-an-88-percent-margin-on-consumer-memory-price-hikes-drive-revenue-client-business-is-microns-only-unit-that-shipped-less-memory-this-quarter"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "synopsys",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      },
+      {
+        "id": "micron",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "capacity",
+        "count": 3
+      },
+      {
+        "id": "shortage",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 97,
+    "too_old": 69,
+    "gate1_blocked": 45,
+    "gate2_blocked": 28,
+    "passed": 24,
+    "pass_rate": "14.5%",
+    "gate2_block_rate": "16.9%",
+    "gate2_samples": [
+      "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "AMD to Acquire World Labs to Advance the Future of AI Compute",
+      "New updates coming to Apple Creator Studio",
+      "Turn your existing social assets into high-impact YouTube ads.",
+      "Guided Vision in Gemini Live: built for accessibility"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為輝達、新思科技、超微相關動態：「Samsung Leveraging The Global DRAM Pricing Landscape With...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung Leveraging The Global DRAM Pricing Landscape With Its HBM4 Technology...（HBM、AI 記憶體、資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agree...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
