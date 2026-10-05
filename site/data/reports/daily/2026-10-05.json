@@ -1,0 +1,315 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T17:07:56.192809Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-10-05-023",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "AMD's Lisa Su back in Taiwan as AI capacity crunch spreads beyond TSMC",
+      "companies": [
+        "tsmc",
+        "amd"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261005PD238/amd-taiwan-ceo-capacity-packaging.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-05-024",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "CHPT posts record quarterly revenue as chip test demand rises",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261005PD234/chpt-ic-testing-interface-demand-revenue-2026.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-05-020",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Pegatron AI servers boost September revenue",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261005PD248/pegatron-ai-server-business-revenue-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-05-018",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Foxconn September revenue tops NT$1 trillion for first time on AI, ICT demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261005PD249/foxconn-revenue-demand-electronics-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-05-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Largan Precision sees steady smartphone lens demand as CPO fibre arrays near production",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261005PD243/largan-precision-revenue-smartphone-demand-production.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 35,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "google",
+        "count": 6
+      },
+      {
+        "id": "amd",
+        "count": 6
+      },
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "aws",
+        "count": 2
+      },
+      {
+        "id": "oracle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 4
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 84,
+    "too_old": 68,
+    "gate1_blocked": 70,
+    "gate2_blocked": 35,
+    "passed": 46,
+    "pass_rate": "21.0%",
+    "gate2_block_rate": "16.0%",
+    "gate2_samples": [
+      "From Scan to Treatment Plan, AI Helps Close Breast Cancerâs Deadliest Gaps",
+      "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "AMD to Acquire World Labs to Advance the Future of AI Compute",
+      "New updates coming to Apple Creator Studio",
+      "World Teachers’ Day 2026"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為GCP、超微、輝達相關動態：「AMD's Lisa Su back in Taiwan as AI capacity crunch spread...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AMD's Lisa Su back in Taiwan as AI capacity crunch spreads beyond TSMC（產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "CHPT posts record quarterly revenue as chip test demand rises（產能、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
