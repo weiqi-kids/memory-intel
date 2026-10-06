@@ -1,0 +1,317 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T15:03:24.648275Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "adata-2026-10-06-014",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "ADATA posts record 3Q revenue as memory prices rise",
+      "companies": [
+        "adata"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261006PD243/revenue-2026-dram-demand-memory-module.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-06-031",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Arcadyan September revenue hits record on mobile communications strength",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261006PD218/revenue-arcadyan-market-mobile-communications.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-06-003",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及 HBM"
+      ],
+      "title": "Chip Industry Technical Paper Roundup: Oct. 6",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-6/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-06-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Chinese LCD panel makers tighten supply to lift prices &mdash; Taiwan suppliers eye order shifts",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261006PD233/panel-taiwan-production-tv-price.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-06-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China's 15th five-year plan elevates PCB role in AI supply chains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261006PD227/pcb-it-materials-electronics-investment.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.29,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 12,
+      "neutral": 30,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "amd",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "google",
+        "count": 2
+      },
+      {
+        "id": "qualcomm",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "inventory",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 86,
+    "too_old": 68,
+    "gate1_blocked": 66,
+    "gate2_blocked": 31,
+    "passed": 52,
+    "pass_rate": "24.0%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "From Scan to Treatment Plan, AI Helps Close Breast Cancerâs Deadliest Gaps",
+      "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "New updates coming to Apple Creator Studio",
+      "Making global public health more proactive with Google Earth AI"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為超微、英特爾、GCP相關動態：「ADATA posts record 3Q revenue as memory prices rise」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ADATA posts record 3Q revenue as memory prices rise（DRAM 價格、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Arcadyan September revenue hits record on mobile communications strength（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 5 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

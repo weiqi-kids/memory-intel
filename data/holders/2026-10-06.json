@@ -1,0 +1,2172 @@
+{
+  "updated_at": "2026-10-06T15:03:23.512678+00:00",
+  "companies": {
+    "asml": {
+      "name": "ASML",
+      "short_name": "艾司摩爾",
+      "ticker": "ASML",
+      "holders": [
+        {
+          "holder": "FMR, LLC",
+          "shares": 5478341,
+          "pct_held": 1.41,
+          "value": 10125014731
+        },
+        {
+          "holder": "Fisher Asset Management, LLC",
+          "shares": 4737614,
+          "pct_held": 1.22,
+          "value": 8756010541
+        },
+        {
+          "holder": "Capital World Investors",
+          "shares": 3726679,
+          "pct_held": 0.96,
+          "value": 6887610642
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 3140208,
+          "pct_held": 0.81,
+          "value": 5803700839
+        },
+        {
+          "holder": "State Farm Mutual Automobile Insurance Co",
+          "shares": 2758173,
+          "pct_held": 0.71,
+          "value": 5097627595
+        },
+        {
+          "holder": "Capital International Investors",
+          "shares": 2439219,
+          "pct_held": 0.63,
+          "value": 4508140020
+        },
+        {
+          "holder": "Van Eck Associates Corporation",
+          "shares": 2459420,
+          "pct_held": 0.63,
+          "value": 4545475305
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 2395859,
+          "pct_held": 0.62,
+          "value": 4428002504
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 1933524,
+          "pct_held": 0.5,
+          "value": 3573519608
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 1788291,
+          "pct_held": 0.46,
+          "value": 3305101438
+        }
+      ]
+    },
+    "tokyo_electron": {
+      "name": "Tokyo Electron",
+      "short_name": "東京威力科創",
+      "ticker": "8035.T",
+      "holders": [
+        {
+          "holder": "Stanley-Laman Group, Ltd.",
+          "shares": 6000,
+          "pct_held": 0.0,
+          "value": 76830000
+        },
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 62030,
+          "pct_held": 0.0,
+          "value": 794294150
+        }
+      ]
+    },
+    "lam_research": {
+      "name": "Lam Research",
+      "short_name": "科林研發",
+      "ticker": "LRCX",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 132727776,
+          "pct_held": 10.61,
+          "value": 44652280184
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 81683639,
+          "pct_held": 6.53,
+          "value": 27480010929
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 60704130,
+          "pct_held": 4.85,
+          "value": 20422084229
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 52319973,
+          "pct_held": 4.18,
+          "value": 17601486019
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 45317479,
+          "pct_held": 3.62,
+          "value": 15245706893
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 36635534,
+          "pct_held": 2.93,
+          "value": 12324926840
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 34506240,
+          "pct_held": 2.76,
+          "value": 11608589724
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 33677858,
+          "pct_held": 2.69,
+          "value": 11329905440
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 24596295,
+          "pct_held": 1.97,
+          "value": 8274685894
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 19217787,
+          "pct_held": 1.54,
+          "value": 6465248160
+        }
+      ]
+    },
+    "applied_materials": {
+      "name": "Applied Materials",
+      "short_name": "應材",
+      "ticker": "AMAT",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 80212518,
+          "pct_held": 10.11,
+          "value": 42670254292
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 51848358,
+          "pct_held": 6.53,
+          "value": 27581513155
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 38240019,
+          "pct_held": 4.82,
+          "value": 20342352734
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 28265844,
+          "pct_held": 3.56,
+          "value": 15036440462
+        },
+        {
+          "holder": "Capital Research Global Investors",
+          "shares": 22159097,
+          "pct_held": 2.79,
+          "value": 11787864630
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 22007983,
+          "pct_held": 2.77,
+          "value": 11707477267
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 18553307,
+          "pct_held": 2.34,
+          "value": 9869710456
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 13886053,
+          "pct_held": 1.75,
+          "value": 7386894557
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 13523832,
+          "pct_held": 1.7,
+          "value": 7194205653
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 12627555,
+          "pct_held": 1.59,
+          "value": 6717417634
+        }
+      ]
+    },
+    "kla": {
+      "name": "KLA Corporation",
+      "short_name": "KLA",
+      "ticker": "KLAC",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 126198653,
+          "pct_held": 9.67,
+          "value": 24907827526
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 85323770,
+          "pct_held": 6.54,
+          "value": 16840352068
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 62892994,
+          "pct_held": 4.82,
+          "value": 12413189918
+        },
+        {
+          "holder": "Capital World Investors",
+          "shares": 45318111,
+          "pct_held": 3.47,
+          "value": 8944435346
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 44848852,
+          "pct_held": 3.44,
+          "value": 8851817700
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 43007912,
+          "pct_held": 3.3,
+          "value": 8488471381
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 39388674,
+          "pct_held": 3.02,
+          "value": 7774142395
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 36488344,
+          "pct_held": 2.8,
+          "value": 7201704277
+        },
+        {
+          "holder": "Capital International Investors",
+          "shares": 35558216,
+          "pct_held": 2.72,
+          "value": 7018124918
+        },
+        {
+          "holder": "Primecap Management Company",
+          "shares": 20536730,
+          "pct_held": 1.57,
+          "value": 4053334299
+        }
+      ]
+    },
+    "sumco": {
+      "name": "SUMCO",
+      "short_name": "SUMCO",
+      "ticker": "3436.T",
+      "holders": [
+        {
+          "holder": "Oregon Public Employees Retirement Fund",
+          "shares": 133100,
+          "pct_held": 0.04,
+          "value": 495664400
+        },
+        {
+          "holder": "Paradigm Asset Management Company, LLC",
+          "shares": 1780,
+          "pct_held": 0.0,
+          "value": 6628720
+        }
+      ]
+    },
+    "shin_etsu": {
+      "name": "Shin-Etsu Chemical",
+      "short_name": "信越化學",
+      "ticker": "4063.T",
+      "holders": [
+        {
+          "holder": "Meyer Handelman Co",
+          "shares": 5425,
+          "pct_held": 0.0,
+          "value": 34291425
+        },
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 52671,
+          "pct_held": 0.0,
+          "value": 332933391
+        }
+      ]
+    },
+    "entegris": {
+      "name": "Entegris",
+      "short_name": "Entegris",
+      "ticker": "ENTG",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 20480129,
+          "pct_held": 13.43,
+          "value": 3439227912
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 12801259,
+          "pct_held": 8.39,
+          "value": 2149715330
+        },
+        {
+          "holder": "Capital Research Global Investors",
+          "shares": 11207917,
+          "pct_held": 7.35,
+          "value": 1882145419
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 7784532,
+          "pct_held": 5.1,
+          "value": 1307256401
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 6888468,
+          "pct_held": 4.52,
+          "value": 1156780380
+        },
+        {
+          "holder": "Principal Financial Group, Inc.",
+          "shares": 5955687,
+          "pct_held": 3.91,
+          "value": 1000138474
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 5626402,
+          "pct_held": 3.69,
+          "value": 944841646
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 5522913,
+          "pct_held": 3.62,
+          "value": 927462739
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 5520399,
+          "pct_held": 3.62,
+          "value": 927040563
+        },
+        {
+          "holder": "Primecap Management Company",
+          "shares": 3125433,
+          "pct_held": 2.05,
+          "value": 524853940
+        }
+      ]
+    },
+    "synopsys": {
+      "name": "Synopsys",
+      "short_name": "新思科技",
+      "ticker": "SNPS",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 16203958,
+          "pct_held": 8.46,
+          "value": 8080751854
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 12507020,
+          "pct_held": 6.53,
+          "value": 6237125834
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 9073873,
+          "pct_held": 4.73,
+          "value": 4525049748
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 6028804,
+          "pct_held": 3.15,
+          "value": 3006504281
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 5989785,
+          "pct_held": 3.13,
+          "value": 2987045896
+        },
+        {
+          "holder": "Nvidia Corp                          ",
+          "shares": 4821717,
+          "pct_held": 2.52,
+          "value": 2404542062
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 4510929,
+          "pct_held": 2.35,
+          "value": 2249555194
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 4493481,
+          "pct_held": 2.34,
+          "value": 2240854050
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 3768607,
+          "pct_held": 1.97,
+          "value": 1879366634
+        },
+        {
+          "holder": "Van Eck Associates Corporation",
+          "shares": 3457249,
+          "pct_held": 1.8,
+          "value": 1724095512
+        }
+      ]
+    },
+    "cadence": {
+      "name": "Cadence Design Systems",
+      "short_name": "益華電腦",
+      "ticker": "CDNS",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 26660845,
+          "pct_held": 9.68,
+          "value": 9556846270
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 18016381,
+          "pct_held": 6.54,
+          "value": 6458151779
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 13031391,
+          "pct_held": 4.73,
+          "value": 4671232306
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 9554947,
+          "pct_held": 3.47,
+          "value": 3425066219
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 8980518,
+          "pct_held": 3.26,
+          "value": 3219156405
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 7865907,
+          "pct_held": 2.86,
+          "value": 2819612956
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 7184139,
+          "pct_held": 2.61,
+          "value": 2575226404
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 6961873,
+          "pct_held": 2.53,
+          "value": 2495552936
+        },
+        {
+          "holder": "Van Eck Associates Corporation",
+          "shares": 4889765,
+          "pct_held": 1.78,
+          "value": 1752785120
+        },
+        {
+          "holder": "Capital International Investors",
+          "shares": 4886202,
+          "pct_held": 1.77,
+          "value": 1751507927
+        }
+      ]
+    },
+    "arm": {
+      "name": "Arm Holdings",
+      "short_name": "安謀",
+      "ticker": "ARM",
+      "holders": [
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 12816588,
+          "pct_held": 1.2,
+          "value": 3927451112
+        },
+        {
+          "holder": "Dz Bank Ag Deutsche Zentral Genossenschafts Bank, Frankfurt Am Main",
+          "shares": 6504147,
+          "pct_held": 0.61,
+          "value": 1993098270
+        },
+        {
+          "holder": "Capital World Investors",
+          "shares": 4330875,
+          "pct_held": 0.41,
+          "value": 1327131670
+        },
+        {
+          "holder": "Arrowstreet Capital, Limited Partnership",
+          "shares": 4094696,
+          "pct_held": 0.38,
+          "value": 1254758158
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 4062977,
+          "pct_held": 0.38,
+          "value": 1245038347
+        },
+        {
+          "holder": "Goldman Sachs Group Inc",
+          "shares": 2922908,
+          "pct_held": 0.27,
+          "value": 895681305
+        },
+        {
+          "holder": "Van Eck Associates Corporation",
+          "shares": 2600597,
+          "pct_held": 0.24,
+          "value": 796913935
+        },
+        {
+          "holder": "Capital Research Global Investors",
+          "shares": 2401422,
+          "pct_held": 0.22,
+          "value": 735879744
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 2158428,
+          "pct_held": 0.2,
+          "value": 661417878
+        },
+        {
+          "holder": "Capital International Investors",
+          "shares": 2050241,
+          "pct_held": 0.19,
+          "value": 628265595
+        }
+      ]
+    },
+    "samsung": {
+      "name": "Samsung Electronics",
+      "short_name": "三星",
+      "ticker": "005930.KS",
+      "holders": [
+        {
+          "holder": "Aristotle Capital Management, LLC",
+          "shares": 732033,
+          "pct_held": 0.01,
+          "value": 199112976000
+        },
+        {
+          "holder": "Stanley-Laman Group, Ltd.",
+          "shares": 20000,
+          "pct_held": 0.0,
+          "value": 5440000000
+        },
+        {
+          "holder": "Paradigm Asset Management Company, LLC",
+          "shares": 29000,
+          "pct_held": 0.0,
+          "value": 7888000000
+        },
+        {
+          "holder": "RNC Capital Management LLC",
+          "shares": 936,
+          "pct_held": 0.0,
+          "value": 254592000
+        },
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 100222,
+          "pct_held": 0.0,
+          "value": 27260384000
+        }
+      ]
+    },
+    "micron": {
+      "name": "Micron Technology",
+      "short_name": "美光",
+      "ticker": "MU",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 104827219,
+          "pct_held": 9.28,
+          "value": 112094360838
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 73659544,
+          "pct_held": 6.52,
+          "value": 78765988291
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 50075870,
+          "pct_held": 4.43,
+          "value": 53547377242
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 36315240,
+          "pct_held": 3.22,
+          "value": 38832792239
+        },
+        {
+          "holder": "Capital World Investors",
+          "shares": 29469646,
+          "pct_held": 2.61,
+          "value": 31512627770
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 27705797,
+          "pct_held": 2.45,
+          "value": 29626500024
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 26718869,
+          "pct_held": 2.37,
+          "value": 28571153288
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 25836011,
+          "pct_held": 2.29,
+          "value": 27627091201
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 24662080,
+          "pct_held": 2.18,
+          "value": 26371777491
+        },
+        {
+          "holder": "Primecap Management Company",
+          "shares": 19217236,
+          "pct_held": 1.7,
+          "value": 20549469947
+        }
+      ]
+    },
+    "kioxia": {
+      "name": "Kioxia",
+      "short_name": "鎧俠",
+      "ticker": "285A.T",
+      "holders": [
+        {
+          "holder": "Scopus Asset Management, LP",
+          "shares": 266700,
+          "pct_held": 0.02,
+          "value": 4996624500
+        },
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 182706,
+          "pct_held": 0.01,
+          "value": 3422996910
+        }
+      ]
+    },
+    "western_digital": {
+      "name": "Western Digital",
+      "short_name": "威騰電子",
+      "ticker": "WDC",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 32953613,
+          "pct_held": 9.56,
+          "value": 13715952843
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 25983645,
+          "pct_held": 7.54,
+          "value": 10814912753
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 22510811,
+          "pct_held": 6.53,
+          "value": 9369449781
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 17007789,
+          "pct_held": 4.93,
+          "value": 7078981958
+        },
+        {
+          "holder": "Capital World Investors",
+          "shares": 16598211,
+          "pct_held": 4.82,
+          "value": 6908507402
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 16276615,
+          "pct_held": 4.72,
+          "value": 6774652715
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 14435741,
+          "pct_held": 4.19,
+          "value": 6008444136
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 13109474,
+          "pct_held": 3.8,
+          "value": 5456425284
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 8411628,
+          "pct_held": 2.44,
+          "value": 3501087816
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 8148144,
+          "pct_held": 2.36,
+          "value": 3391420505
+        }
+      ]
+    },
+    "silicon_motion": {
+      "name": "Silicon Motion",
+      "short_name": "慧榮科技",
+      "ticker": "SIMO",
+      "holders": [
+        {
+          "holder": "FMR, LLC",
+          "shares": 2277824,
+          "pct_held": 6.72,
+          "value": 658837791
+        },
+        {
+          "holder": "Acadian Asset Management. LLC",
+          "shares": 1315838,
+          "pct_held": 3.88,
+          "value": 380592970
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 1142437,
+          "pct_held": 3.37,
+          "value": 330438466
+        },
+        {
+          "holder": "Alkeon Capital Management LLC",
+          "shares": 1100000,
+          "pct_held": 3.24,
+          "value": 318163989
+        },
+        {
+          "holder": "Hawk Ridge Capital Management, LP",
+          "shares": 1015215,
+          "pct_held": 2.99,
+          "value": 293640776
+        },
+        {
+          "holder": "Reinhart Partners, LLC",
+          "shares": 966060,
+          "pct_held": 2.85,
+          "value": 279423184
+        },
+        {
+          "holder": "Polar Capital Holdings PLC",
+          "shares": 931375,
+          "pct_held": 2.75,
+          "value": 269390895
+        },
+        {
+          "holder": "Driehaus Capital Management, LLC",
+          "shares": 786074,
+          "pct_held": 2.32,
+          "value": 227364036
+        },
+        {
+          "holder": "Two Sigma Investments, LP",
+          "shares": 701105,
+          "pct_held": 2.07,
+          "value": 202787603
+        },
+        {
+          "holder": "Wolf Hill Capital Management, LP",
+          "shares": 548791,
+          "pct_held": 1.62,
+          "value": 158732303
+        }
+      ]
+    },
+    "tsmc": {
+      "name": "TSMC",
+      "short_name": "台積電",
+      "ticker": "TSM",
+      "holders": [
+        {
+          "holder": "FMR, LLC",
+          "shares": 58937551,
+          "pct_held": 1.14,
+          "value": 28512218399
+        },
+        {
+          "holder": "Capital World Investors",
+          "shares": 34372274,
+          "pct_held": 0.66,
+          "value": 16628274615
+        },
+        {
+          "holder": "Sanders Capital, LLC",
+          "shares": 26149064,
+          "pct_held": 0.5,
+          "value": 12650132403
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 23829286,
+          "pct_held": 0.46,
+          "value": 11527893426
+        },
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 20112852,
+          "pct_held": 0.39,
+          "value": 9729994191
+        },
+        {
+          "holder": "Fisher Asset Management, LLC",
+          "shares": 18866198,
+          "pct_held": 0.36,
+          "value": 9126900399
+        },
+        {
+          "holder": "Van Eck Associates Corporation",
+          "shares": 17210604,
+          "pct_held": 0.33,
+          "value": 8325973707
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 15847816,
+          "pct_held": 0.31,
+          "value": 7666697772
+        },
+        {
+          "holder": "Goldman Sachs Group Inc",
+          "shares": 16125333,
+          "pct_held": 0.31,
+          "value": 7800952168
+        },
+        {
+          "holder": "Bank of America Corporation",
+          "shares": 15282620,
+          "pct_held": 0.29,
+          "value": 7393272909
+        }
+      ]
+    },
+    "intel": {
+      "name": "Intel",
+      "short_name": "英特爾",
+      "ticker": "INTC",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 426478962,
+          "pct_held": 8.46,
+          "value": 49062097879
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 285230183,
+          "pct_held": 5.65,
+          "value": 32812852223
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 216849675,
+          "pct_held": 4.3,
+          "value": 24946365302
+        },
+        {
+          "holder": "Nvidia Corp                          ",
+          "shares": 214776632,
+          "pct_held": 4.26,
+          "value": 24707882639
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 157902890,
+          "pct_held": 3.13,
+          "value": 18165132949
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 110339857,
+          "pct_held": 2.19,
+          "value": 12693486306
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 94431754,
+          "pct_held": 1.87,
+          "value": 10863419700
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 89395975,
+          "pct_held": 1.77,
+          "value": 10284104179
+        },
+        {
+          "holder": "Softbank Group Corporation",
+          "shares": 86956522,
+          "pct_held": 1.72,
+          "value": 10003469745
+        },
+        {
+          "holder": "Primecap Management Company",
+          "shares": 75250958,
+          "pct_held": 1.49,
+          "value": 8656862813
+        }
+      ]
+    },
+    "amkor": {
+      "name": "Amkor Technology",
+      "short_name": "艾克爾",
+      "ticker": "AMKR",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 12292760,
+          "pct_held": 4.95,
+          "value": 675608859
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 9712553,
+          "pct_held": 3.91,
+          "value": 533800940
+        },
+        {
+          "holder": "Dimensional Fund Advisors LP",
+          "shares": 8064191,
+          "pct_held": 3.25,
+          "value": 443207130
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 6701080,
+          "pct_held": 2.7,
+          "value": 368290686
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 5702608,
+          "pct_held": 2.3,
+          "value": 313414764
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 3730584,
+          "pct_held": 1.5,
+          "value": 205032523
+        },
+        {
+          "holder": "AQR Capital Management, LLC",
+          "shares": 3231546,
+          "pct_held": 1.3,
+          "value": 177605444
+        },
+        {
+          "holder": "Earnest Partners LLC",
+          "shares": 2852492,
+          "pct_held": 1.15,
+          "value": 156772674
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 2798149,
+          "pct_held": 1.13,
+          "value": 153785988
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 2485794,
+          "pct_held": 1.0,
+          "value": 136618989
+        }
+      ]
+    },
+    "nvidia": {
+      "name": "NVIDIA",
+      "short_name": "輝達",
+      "ticker": "NVDA",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 1941918386,
+          "pct_held": 8.06,
+          "value": 470390882344
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 1540816358,
+          "pct_held": 6.39,
+          "value": 373231939815
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 1026051548,
+          "pct_held": 4.26,
+          "value": 248540462088
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 1009783437,
+          "pct_held": 4.19,
+          "value": 244599837630
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 606216492,
+          "pct_held": 2.52,
+          "value": 146843818267
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 517816949,
+          "pct_held": 2.15,
+          "value": 125430797343
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 449404578,
+          "pct_held": 1.86,
+          "value": 108859269008
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 369829781,
+          "pct_held": 1.53,
+          "value": 89583866271
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 356420089,
+          "pct_held": 1.48,
+          "value": 86335636635
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 329593488,
+          "pct_held": 1.37,
+          "value": 79837429190
+        }
+      ]
+    },
+    "amd": {
+      "name": "AMD",
+      "short_name": "超微",
+      "ticker": "AMD",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 150301510,
+          "pct_held": 9.21,
+          "value": 98575168274
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 106500177,
+          "pct_held": 6.52,
+          "value": 69848086483
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 74361687,
+          "pct_held": 4.56,
+          "value": 48770074294
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 53171203,
+          "pct_held": 3.26,
+          "value": 34872306226
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 40309233,
+          "pct_held": 2.47,
+          "value": 26436789796
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 39568601,
+          "pct_held": 2.42,
+          "value": 25951046679
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 37929920,
+          "pct_held": 2.32,
+          "value": 24876318585
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 35938258,
+          "pct_held": 2.2,
+          "value": 23570088083
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 25558552,
+          "pct_held": 1.57,
+          "value": 16762563225
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 24286371,
+          "pct_held": 1.49,
+          "value": 15928203968
+        }
+      ]
+    },
+    "broadcom": {
+      "name": "Broadcom",
+      "short_name": "博通",
+      "ticker": "AVGO",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 398213826,
+          "pct_held": 8.34,
+          "value": 150250057715
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 309168582,
+          "pct_held": 6.48,
+          "value": 116652396919
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 196900541,
+          "pct_held": 4.12,
+          "value": 74292542643
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 144359173,
+          "pct_held": 3.02,
+          "value": 54468159212
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 127001513,
+          "pct_held": 2.66,
+          "value": 47918940559
+        },
+        {
+          "holder": "Capital World Investors",
+          "shares": 121892859,
+          "pct_held": 2.55,
+          "value": 45991394331
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 116394795,
+          "pct_held": 2.44,
+          "value": 43916919817
+        },
+        {
+          "holder": "Capital Research Global Investors",
+          "shares": 113126312,
+          "pct_held": 2.37,
+          "value": 42683688504
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 95016148,
+          "pct_held": 1.99,
+          "value": 35850542569
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 82851970,
+          "pct_held": 1.74,
+          "value": 31260876598
+        }
+      ]
+    },
+    "qualcomm": {
+      "name": "Qualcomm",
+      "short_name": "高通",
+      "ticker": "QCOM",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 95151875,
+          "pct_held": 8.91,
+          "value": 17138755260
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 68837417,
+          "pct_held": 6.45,
+          "value": 12398995213
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 52763263,
+          "pct_held": 4.94,
+          "value": 9503718673
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 36101702,
+          "pct_held": 3.38,
+          "value": 6502638387
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 33847770,
+          "pct_held": 3.17,
+          "value": 6096660167
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 29645446,
+          "pct_held": 2.78,
+          "value": 5339737588
+        },
+        {
+          "holder": "Charles Schwab Investment Management, Inc.",
+          "shares": 22310326,
+          "pct_held": 2.09,
+          "value": 4018535810
+        },
+        {
+          "holder": "Van Eck Associates Corporation",
+          "shares": 17202619,
+          "pct_held": 1.61,
+          "value": 3098535650
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 17100302,
+          "pct_held": 1.6,
+          "value": 3080106312
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 16209022,
+          "pct_held": 1.52,
+          "value": 2919568963
+        }
+      ]
+    },
+    "marvell": {
+      "name": "Marvell Technology",
+      "short_name": "美滿電子",
+      "ticker": "MRVL",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 85641174,
+          "pct_held": 9.77,
+          "value": 24783700598
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 57898902,
+          "pct_held": 6.6,
+          "value": 16755364097
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 56933063,
+          "pct_held": 6.49,
+          "value": 16475859935
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 41834272,
+          "pct_held": 4.77,
+          "value": 12106420586
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 30285653,
+          "pct_held": 3.45,
+          "value": 8764365565
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 21126096,
+          "pct_held": 2.41,
+          "value": 6113681230
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 21015501,
+          "pct_held": 2.4,
+          "value": 6081676142
+        },
+        {
+          "holder": "Goldman Sachs Group Inc",
+          "shares": 14700948,
+          "pct_held": 1.68,
+          "value": 4254307557
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 14201483,
+          "pct_held": 1.62,
+          "value": 4109767373
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 13891628,
+          "pct_held": 1.58,
+          "value": 4020098430
+        }
+      ]
+    },
+    "ti": {
+      "name": "Texas Instruments",
+      "short_name": "德州儀器",
+      "ticker": "TXN",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 82555483,
+          "pct_held": 9.04,
+          "value": 24426516713
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 59441598,
+          "pct_held": 6.51,
+          "value": 17587580306
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 44453341,
+          "pct_held": 4.87,
+          "value": 13152854752
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 37777410,
+          "pct_held": 4.14,
+          "value": 11177580255
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 32449245,
+          "pct_held": 3.55,
+          "value": 9601082769
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 29529799,
+          "pct_held": 3.23,
+          "value": 8737277072
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 24038147,
+          "pct_held": 2.63,
+          "value": 7112407051
+        },
+        {
+          "holder": "Charles Schwab Investment Management, Inc.",
+          "shares": 21171749,
+          "pct_held": 2.32,
+          "value": 6264297197
+        },
+        {
+          "holder": "Bank Of New York Mellon Corporation",
+          "shares": 15059099,
+          "pct_held": 1.65,
+          "value": 4455686285
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 13220004,
+          "pct_held": 1.45,
+          "value": 3911534848
+        }
+      ]
+    },
+    "onsemi": {
+      "name": "ON Semiconductor",
+      "short_name": "安森美",
+      "ticker": "ON",
+      "holders": [
+        {
+          "holder": "FMR, LLC",
+          "shares": 56679393,
+          "pct_held": 14.56,
+          "value": 4864225489
+        },
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 40980739,
+          "pct_held": 10.53,
+          "value": 3516967008
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 25616396,
+          "pct_held": 6.58,
+          "value": 2198399096
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 19639331,
+          "pct_held": 5.04,
+          "value": 1685447380
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 18557255,
+          "pct_held": 4.77,
+          "value": 1592583618
+        },
+        {
+          "holder": "Jupiter Topco LLC",
+          "shares": 13427527,
+          "pct_held": 3.45,
+          "value": 1152350363
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 10836563,
+          "pct_held": 2.78,
+          "value": 929993833
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 10129250,
+          "pct_held": 2.6,
+          "value": 869292231
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 7857251,
+          "pct_held": 2.02,
+          "value": 674309278
+        },
+        {
+          "holder": "Goldman Sachs Group Inc",
+          "shares": 7877881,
+          "pct_held": 2.02,
+          "value": 676079745
+        }
+      ]
+    },
+    "infineon": {
+      "name": "Infineon Technologies",
+      "short_name": "英飛凌",
+      "ticker": "IFX.DE",
+      "holders": [
+        {
+          "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
+          "shares": 8177,
+          "pct_held": 0.0,
+          "value": 522837
+        },
+        {
+          "holder": "Meyer Handelman Co",
+          "shares": 2562,
+          "pct_held": 0.0,
+          "value": 163814
+        },
+        {
+          "holder": "Atlas Capital Advisors Inc",
+          "shares": 3048,
+          "pct_held": 0.0,
+          "value": 194889
+        },
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 39210,
+          "pct_held": 0.0,
+          "value": 2507087
+        }
+      ]
+    },
+    "apple": {
+      "name": "Apple",
+      "short_name": "蘋果",
+      "ticker": "AAPL",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 1162996939,
+          "pct_held": 7.97,
+          "value": 387336116337
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 959107911,
+          "pct_held": 6.57,
+          "value": 319430878050
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 615129929,
+          "pct_held": 4.21,
+          "value": 204869015344
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 371336543,
+          "pct_held": 2.54,
+          "value": 123673631113
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 334119156,
+          "pct_held": 2.29,
+          "value": 111278380827
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 325348754,
+          "pct_held": 2.23,
+          "value": 108357398548
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 242614238,
+          "pct_held": 1.66,
+          "value": 80802669004
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 228762008,
+          "pct_held": 1.57,
+          "value": 76189183971
+        },
+        {
+          "holder": "Berkshire Hathaway, Inc",
+          "shares": 227917808,
+          "pct_held": 1.56,
+          "value": 75908023172
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 190726866,
+          "pct_held": 1.31,
+          "value": 63521580393
+        }
+      ]
+    },
+    "dell": {
+      "name": "Dell Technologies",
+      "short_name": "戴爾",
+      "ticker": "DELL",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 24094119,
+          "pct_held": 7.64,
+          "value": 13934833135
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 19013637,
+          "pct_held": 6.03,
+          "value": 10996536494
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 13764359,
+          "pct_held": 4.36,
+          "value": 7960616691
+        },
+        {
+          "holder": "Bank of America Corporation",
+          "shares": 10842148,
+          "pct_held": 3.44,
+          "value": 6270556031
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 10437458,
+          "pct_held": 3.31,
+          "value": 6036503579
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 7651858,
+          "pct_held": 2.43,
+          "value": 4425451887
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 7668070,
+          "pct_held": 2.43,
+          "value": 4434828097
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 7074450,
+          "pct_held": 2.24,
+          "value": 4091507984
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 5654576,
+          "pct_held": 1.79,
+          "value": 3270323891
+        },
+        {
+          "holder": "Goldman Sachs Group Inc",
+          "shares": 5498457,
+          "pct_held": 1.74,
+          "value": 3180032471
+        }
+      ]
+    },
+    "hp": {
+      "name": "HP Inc.",
+      "short_name": "惠普",
+      "ticker": "HPQ",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 107463839,
+          "pct_held": 11.92,
+          "value": 3478604353
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 59650437,
+          "pct_held": 6.61,
+          "value": 1930884581
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 58027884,
+          "pct_held": 6.43,
+          "value": 1878362543
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 52843678,
+          "pct_held": 5.86,
+          "value": 1710549800
+        },
+        {
+          "holder": "Dodge & Cox Inc.",
+          "shares": 42627828,
+          "pct_held": 4.73,
+          "value": 1379862746
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 30617807,
+          "pct_held": 3.4,
+          "value": 991098379
+        },
+        {
+          "holder": "Primecap Management Company",
+          "shares": 24885325,
+          "pct_held": 2.76,
+          "value": 805537943
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 19253526,
+          "pct_held": 2.14,
+          "value": 623236616
+        },
+        {
+          "holder": "DnB Asset Management AS",
+          "shares": 18841944,
+          "pct_held": 2.09,
+          "value": 609913707
+        },
+        {
+          "holder": "AQR Capital Management, LLC",
+          "shares": 18041490,
+          "pct_held": 2.0,
+          "value": 584003012
+        }
+      ]
+    },
+    "lenovo": {
+      "name": "Lenovo",
+      "short_name": "聯想",
+      "ticker": "0992.HK",
+      "holders": [
+        {
+          "holder": "Pacer Advisors, Inc.",
+          "shares": 282258,
+          "pct_held": 0.0,
+          "value": 9991933
+        }
+      ]
+    },
+    "supermicro": {
+      "name": "Super Micro Computer",
+      "short_name": "超微電腦",
+      "ticker": "SMCI",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 47686321,
+          "pct_held": 7.26,
+          "value": 2076739243
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 36356823,
+          "pct_held": 5.53,
+          "value": 1583339613
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 32864645,
+          "pct_held": 5.0,
+          "value": 1431255264
+        },
+        {
+          "holder": "Jane Street Group, LLC",
+          "shares": 28787183,
+          "pct_held": 4.38,
+          "value": 1253681797
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 24635554,
+          "pct_held": 3.75,
+          "value": 1072878357
+        },
+        {
+          "holder": "UBS Group AG",
+          "shares": 19689932,
+          "pct_held": 3.0,
+          "value": 857496523
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 15510079,
+          "pct_held": 2.36,
+          "value": 675463928
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 11716747,
+          "pct_held": 1.78,
+          "value": 510264322
+        },
+        {
+          "holder": "Goldman Sachs Group Inc",
+          "shares": 11085764,
+          "pct_held": 1.69,
+          "value": 482785013
+        },
+        {
+          "holder": "Two Sigma Investments, LP",
+          "shares": 9783845,
+          "pct_held": 1.49,
+          "value": 426086442
+        }
+      ]
+    },
+    "aws": {
+      "name": "Amazon Web Services",
+      "short_name": "亞馬遜雲端",
+      "ticker": "AMZN",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 748403539,
+          "pct_held": 6.94,
+          "value": 190805479984
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 635764130,
+          "pct_held": 5.89,
+          "value": 162088063003
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 397186958,
+          "pct_held": 3.68,
+          "value": 101262813729
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 365660364,
+          "pct_held": 3.39,
+          "value": 93225108685
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 233211684,
+          "pct_held": 2.16,
+          "value": 59457318124
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 179376541,
+          "pct_held": 1.66,
+          "value": 45732048580
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 167979147,
+          "pct_held": 1.56,
+          "value": 42826283015
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 143818328,
+          "pct_held": 1.33,
+          "value": 36666482284
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 140565601,
+          "pct_held": 1.3,
+          "value": 35837199545
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 121626899,
+          "pct_held": 1.13,
+          "value": 31008777528
+        }
+      ]
+    },
+    "microsoft": {
+      "name": "Microsoft",
+      "short_name": "微軟",
+      "ticker": "MSFT",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 607367113,
+          "pct_held": 8.18,
+          "value": 324300637599
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 485192007,
+          "pct_held": 6.53,
+          "value": 259065849731
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 315653206,
+          "pct_held": 4.25,
+          "value": 168541453389
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 189632090,
+          "pct_held": 2.55,
+          "value": 101253107683
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 185960066,
+          "pct_held": 2.5,
+          "value": 99292448802
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 168407641,
+          "pct_held": 2.27,
+          "value": 89920419107
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 135173516,
+          "pct_held": 1.82,
+          "value": 72175223990
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 127674661,
+          "pct_held": 1.72,
+          "value": 68171247802
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 102732956,
+          "pct_held": 1.38,
+          "value": 54853748943
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 100247890,
+          "pct_held": 1.35,
+          "value": 53526860360
+        }
+      ]
+    },
+    "google": {
+      "name": "Google Cloud",
+      "short_name": "谷歌雲端",
+      "ticker": "GOOGL",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 460972803,
+          "pct_held": 7.86,
+          "value": 160425456788
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 382951664,
+          "pct_held": 6.53,
+          "value": 133272928956
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 250714005,
+          "pct_held": 4.27,
+          "value": 87252238122
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 238977259,
+          "pct_held": 4.07,
+          "value": 83167674291
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 150078198,
+          "pct_held": 2.56,
+          "value": 52229466275
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 120511301,
+          "pct_held": 2.05,
+          "value": 41939742182
+        },
+        {
+          "holder": "Price (T.Rowe) Associates Inc",
+          "shares": 101316099,
+          "pct_held": 1.73,
+          "value": 35259523677
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 98896291,
+          "pct_held": 1.69,
+          "value": 34417394161
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 91919476,
+          "pct_held": 1.57,
+          "value": 31989357786
+        },
+        {
+          "holder": "Invesco Ltd.",
+          "shares": 91277658,
+          "pct_held": 1.56,
+          "value": 31765995485
+        }
+      ]
+    },
+    "meta": {
+      "name": "Meta Platforms",
+      "short_name": "臉書",
+      "ticker": "META",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 173396976,
+          "pct_held": 7.86,
+          "value": 128345840257
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 143440997,
+          "pct_held": 6.5,
+          "value": 106172874014
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 95895744,
+          "pct_held": 4.35,
+          "value": 70980591038
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 92033963,
+          "pct_held": 4.17,
+          "value": 68122158678
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 54949893,
+          "pct_held": 2.49,
+          "value": 40673086416
+        },
+        {
+          "holder": "JPMORGAN CHASE & CO",
+          "shares": 45944387,
+          "pct_held": 2.08,
+          "value": 34007345979
+        },
+        {
+          "holder": "Capital World Investors",
+          "shares": 40876883,
+          "pct_held": 1.85,
+          "value": 30256455543
+        },
+        {
+          "holder": "Capital Research Global Investors",
+          "shares": 39619778,
+          "pct_held": 1.8,
+          "value": 29325965282
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 39435817,
+          "pct_held": 1.79,
+          "value": 29189800109
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 38386817,
+          "pct_held": 1.74,
+          "value": 28413346047
+        }
+      ]
+    },
+    "oracle": {
+      "name": "Oracle",
+      "short_name": "甲骨文",
+      "ticker": "ORCL",
+      "holders": [
+        {
+          "holder": "Blackrock Inc.",
+          "shares": 145353687,
+          "pct_held": 4.81,
+          "value": 21154761322
+        },
+        {
+          "holder": "Vanguard Capital Management LLC",
+          "shares": 111788001,
+          "pct_held": 3.7,
+          "value": 16269614680
+        },
+        {
+          "holder": "State Street Corporation",
+          "shares": 78645193,
+          "pct_held": 2.6,
+          "value": 11446013661
+        },
+        {
+          "holder": "Vanguard Portfolio Management LLC",
+          "shares": 57285664,
+          "pct_held": 1.89,
+          "value": 8337349909
+        },
+        {
+          "holder": "Capital Research Global Investors",
+          "shares": 39746237,
+          "pct_held": 1.31,
+          "value": 5784663427
+        },
+        {
+          "holder": "Geode Capital Management, LLC",
+          "shares": 39248959,
+          "pct_held": 1.3,
+          "value": 5712289635
+        },
+        {
+          "holder": "Morgan Stanley",
+          "shares": 30551196,
+          "pct_held": 1.01,
+          "value": 4446418063
+        },
+        {
+          "holder": "FMR, LLC",
+          "shares": 26025909,
+          "pct_held": 0.86,
+          "value": 3787808238
+        },
+        {
+          "holder": "NORGES BANK",
+          "shares": 25002553,
+          "pct_held": 0.83,
+          "value": 3638869106
+        },
+        {
+          "holder": "Bank of America Corporation",
+          "shares": 23954012,
+          "pct_held": 0.79,
+          "value": 3486264552
+        }
+      ]
+    }
+  }
+}
