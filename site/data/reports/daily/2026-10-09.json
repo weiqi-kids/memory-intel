@@ -1,0 +1,359 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T15:13:16.764521Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-10-09-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Samsung HBM4E wins NVIDIA nod for AI accelerator push",
+      "companies": [
+        "samsung",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261008PD231/samsung-hbm-production-data-data-center.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "tsmc-2026-10-09-026",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Intel Again Tipped For Major Foundry Business Win As NVIDIA Might Use Foveros Chip Technology In H2 2028, Says Analyst",
+      "companies": [
+        "tsmc",
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/intel-again-tipped-for-major-foundry-business-win-as-nvidia-might-use-foveros-chip-technology-in-h2-2028-says-analyst/"
+    },
+    {
+      "rank": 3,
+      "event_id": "innodisk-2026-10-09-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Innodisk, Apacer post September 2026 revenue growth on AI demand",
+      "companies": [
+        "innodisk"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261007PD243/apacer-innodisk-memory-module-revenue-demand-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-09-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Advantech tops US$1 billion in third-quarter revenue as edge AI orders climb",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261007PD245/advantech-revenue-growth-2026-taiwan.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-09-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "WinWay tops NT$10 billion in revenue as AI demand lifts third-quarter results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261007PD247/revenue-demand-2026-sales-shipments.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 25,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "tsmc",
+        "count": 5
+      },
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      },
+      {
+        "id": "applied_materials",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "euv",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 283,
+    "dup_title": 92,
+    "too_old": 66,
+    "gate1_blocked": 39,
+    "gate2_blocked": 36,
+    "passed": 50,
+    "pass_rate": "26.2%",
+    "gate2_block_rate": "18.8%",
+    "gate2_samples": [
+      "2026.10.08HoldingsSCREEN acquires shares in Atomis, startup which develops and manufactures MOFs",
+      "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
+      "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "From Scan to Treatment Plan, AI Helps Close Breast Cancerâs Deadliest Gaps"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為台積電、英特爾、輝達相關動態：「Samsung HBM4E wins NVIDIA nod for AI accelerator push」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung HBM4E wins NVIDIA nod for AI accelerator push（HBM、AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intel Again Tipped For Major Foundry Business Win As NVIDIA Might Use Foveros...（資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
