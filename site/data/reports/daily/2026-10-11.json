@@ -1,0 +1,263 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:52:47.830331Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-11-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lift results",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "inventory",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261008PD239/novatek-revenue-chips-smartphone-demand-2026.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "onsemi-2026-10-11-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Changs Ascending September revenue jumps 92% on semiconductor plant buildouts",
+      "companies": [
+        "onsemi"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261008PD229/revenue-plant-equipment-ups-aidc.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-11-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Sysgration bets on battery backup, drones to hit US$314 million in sales by 2028",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.67
+      },
+      "source_url": "https://www.digitimes.com/news/a20261008PD219/revenue-2028-sales-2026-growth.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-11-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Everlight Chemical September revenue rises on strong electronic chemicals demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261008PD215/revenue-everlight-demand-2026-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-11-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cerebras: The Earnings Curve Changes The Entire Setup",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4953325-cerebras-the-earnings-curve-changes-the-entire-setup?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.31,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "microsoft",
+        "count": 2
+      },
+      {
+        "id": "nvidia",
+        "count": 2
+      },
+      {
+        "id": "google",
+        "count": 1
+      },
+      {
+        "id": "onsemi",
+        "count": 1
+      },
+      {
+        "id": "ti",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "dram_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 120,
+    "too_old": 67,
+    "gate1_blocked": 49,
+    "gate2_blocked": 39,
+    "passed": 28,
+    "pass_rate": "15.3%",
+    "gate2_block_rate": "21.3%",
+    "gate2_samples": [
+      "2026.10.08HoldingsSCREEN acquires shares in Atomis, startup which develops and manufactures MOFs",
+      "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents",
+      "Why Telecom Operators Are Building Their AI Strategy on Open Models",
+      "From Scan to Treatment Plan, AI Helps Close Breast Cancerâs Deadliest Gaps"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為微軟、輝達、GCP相關動態：「Novatek quarterly revenue tops NT$30B as smartphone deman...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Novatek quarterly revenue tops NT$30B as smartphone demand, edge AI chips lif...（庫存、財報、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Changs Ascending September revenue jumps 92% on semiconductor plant buildouts（財報、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
