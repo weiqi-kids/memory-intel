@@ -1,5 +1,919 @@
 [
   {
+    "id": "nvidia-2026-10-14-001",
+    "date": "2026-10-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
+    "summary": "NVIDIA today announced a five-year compute donation valued at $250 million to strengthen the United Kingdomâs agentic safety and security research capability.",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-10-14-002",
+    "date": "2026-10-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+    "summary": "Keeping a city running means making decisions that affect residents every day â from when to repair a road to how to use energy more efficiently. Across the EMEA region, cities and local software, i",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-10-14-003",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How To Define CPU And Software Stack Performance For Agentic AI",
+    "summary": "<p>Measuring the performance demands of agentic AI; assessing CPU bottlenecks, SW stack efficiency, and system-level tradeoffs.</p>\n<p>The post <a href=\"https://semiengineering.com/how-to-define-cpu-a",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/how-to-define-cpu-and-software-stack-performance-for-agentic-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-004",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Accelerating Advanced IC Package Design: A Methodology for Early and Iterative Optimization of Chiplet Integration",
+    "summary": "<p>Optimizing chiplet integration, power integrity, and performance through early-stage IC package design and analysis.</p>\n<p>The post <a href=\"https://semiengineering.com/accelerating-advanced-ic-pa",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/accelerating-advanced-ic-package-design-a-methodology-for-early-and-iterative-optimization-of-chiplet-integration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-005",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Heat Is Becoming A Bigger Chip Design Issue",
+    "summary": "<p>Increasing complexity requires thermal, electrical, and mechanical effects to be analyzed together.</p>\n<p>The post <a href=\"https://semiengineering.com/why-heat-is-becoming-a-bigger-chip-design-is",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/why-heat-is-becoming-a-bigger-chip-design-issue/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-006",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blog Review: Oct. 14",
+    "summary": "<p>Engineers' role in autonomous workflows; UALink over UCIe; GDDR7; on-device speech filtering.</p>\n<p>The post <a href=\"https://semiengineering.com/blog-review-oct-14-3/\">Blog Review: Oct. 14</a> ap",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/blog-review-oct-14-3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-10-14-007",
+    "date": "2026-10-14",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "capacity",
+      "euv"
+    ],
+    "impact": "positive",
+    "title": "ASML’s EUV Expansion Runs Through Zeiss",
+    "summary": "\n\t\t\t\t\t\t<p>ASML’s plans to expand EUV production depend partly on Zeiss’s ability to increase qualified precision-optics output.</p>\n<p>The post <a href=\"https://www.eetimes.com/asml-euv-expansion-runs",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/asml-euv-expansion-runs-through-zeiss/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-14-008",
+    "date": "2026-10-14",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analyzing Intel's EMIB and Foveros advanced packaging roadmaps",
+    "summary": "\n                             Intel was the first large chipmaker to start using advanced packaging methods in 2017 – 2019. But where are Intel's EMIB and Foveros technologies today and where are they",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/analyzing-intels-emib-and-foveros-advanced-packaging-roadmaps-how-intel-plans-to-scale-chips-in-every-direction",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-10-14-009",
+    "date": "2026-10-14",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "capex",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk's Terafab will reportedly receive its first EUV tool from ASML in mid-2027",
+    "summary": "\n                             Elon Musk may prefer FEL light sources for in-house chip production, but Terafab will start with proven tech from ASML. \n                                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musks-terafab-will-reportedly-receive-its-first-euv-tool-from-asml-in-mid-2027-cutting-edge-scanner-could-sit-idle-for-some-time-as-experimental-facility-is-completed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-010",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Offset extortionate memory pricing with 32GB of DDR5-6000 RAM for $151 with this 9800X3D bundle",
+    "summary": "\n                             Offset high memory and storage prices with a combo deal from Newegg. \n                                                                                                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/offset-extortionate-memory-pricing-with-32gb-of-ddr5-6000-ram-for-usd151-with-this-9800x3d-bundle-combo-also-features-an-x870e-mobo-aio-cooler-onimusha-game-and-a-2tb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-011",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "32GB of DDR5 6000 RAM now costs $450",
+    "summary": "\n                             32GB of DDR5 6000 RAM now costs $450, as supply for consumer DIMMs remains constrained. \n                                                                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-6000-ram-now-costs-usd450-ai-induced-shortage-reaches-worst-milestone-yet",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-012",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "capex",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "300mm fab equipment spending to hit US$227 billion by 2029, SEMI says",
+    "summary": "Global spending on 300mm front-end fab equipment is projected to reach US$149 billion in 2026, up 31% from a year earlier. Spending is expected to keep growing at double-digit rates and reach US$227 b",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014VL216/300mm-equipment-semi-fab-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-10-14-013",
+    "date": "2026-10-14",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "BOE struggles with glass breakage at US$9.4 billion OLED plant as it seeks Apple iPad orders",
+    "summary": "<p class=\"P1\" data-pm-slice=\"1 1 []\">China's BOE has spent approximately six months trying to resolve recurring glass substrate breakage at its Gen 8.6 OLED plant in Chengdu, raising concerns about pr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014VL215/boe-glass-substrate-production-ipad.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-014",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tata's flagship chip fab faces pressure from its own shareholders",
+    "summary": "Tata Group's semiconductor fab in Gujarat, held up as the foundation of India's chipmaking ambitions, now faces scrutiny from within, as the group's controlling shareholder presses for quicker returns",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014VL218/tata-group-90nm-fab-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-10-14-015",
+    "date": "2026-10-14",
+    "companies": [
+      "ti"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI computing demand drives water management integration at Tianyi",
+    "summary": "Rising AI computing demand is fueling capacity expansion in advanced semiconductor manufacturing, making water recycling, energy efficiency, and smart operations and maintenance key components of the ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PD229/demand-water-management-capacity-expansion-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ase-2026-10-14-016",
+    "date": "2026-10-14",
+    "companies": [
+      "ase"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASE expands PowerSiP platform to improve AI data center power efficiency",
+    "summary": "ASE has expanded its PowerSiP platform with a 3D system-in-package solution aimed at vertical voltage regulator modules (VRMs) for AI data centers and high-performance computing systems. The move coul",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PR202/ase-efficiency-data-center-3d-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-017",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wiwynn unveils CPO compute system with GUC and Ayar Labs",
+    "summary": "Wiwynn Corporation, CPO solutions provider Ayar Labs and Global Unichip Corp. (GUC) will stage the first live demonstration of an integrated compute system with real-time telemetry monitoring at the 2",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PD247/cpo-guc-wiwynn-laser.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-018",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tsang Yow's semiconductor revenue share reaches 12%",
+    "summary": "Automotive drivetrain manufacturer Tsang Yow reported consolidated revenue of NT$86.36 million (US$2.69 million) in September 2026, down 2.3% month-over-month and 1.24% year-over-year as demand from t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PD240/tsang-yow-revenue-equipment-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-14-019",
+    "date": "2026-10-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "shortage"
+    ],
+    "impact": "positive",
+    "title": "Cerebras CEO reveals the capacity shortfall behind OpenAI's turn to Nvidia GPUs",
+    "summary": "Cerebras Systems' shortage of data centre capacity was a key reason OpenAI turned to Nvidia GPUs to expand services for its next-generation models, co-founder and CEO Andrew Feldman said at TechCrunch",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PD230/cerebras-data-capacity-openai-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-020",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "negative",
+    "title": "Kingboard Laminates raises thin-cloth laminates, prepreg prices 15% in eighth hike of 2026",
+    "summary": "Kingboard Laminates Holdings (KB Laminates), a leading Chinese manufacturer, announced its eighth price increase of 2026 on October 13, raising prices by 15% for laminates and prepreg (PP) made with s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PD200/kingboard-ccl-pcb-price-increase-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-021",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ubiqconn satellite revenue jumps 175% as 3Q26 operations recover",
+    "summary": "Ubiqconn Technology reported September 2026 consolidated revenue of NT$142 million (US$4.4 million), up 32.4% month-on-month and 6.7% year-on-year. Third-quarter revenue rose 9.6% sequentially to NT$4",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PD239/revenue-ubiqconn-2026-market-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-022",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Largan chairman casts doubt on Micro LED links for AI data centers",
+    "summary": "Largan Precision chairman En-ping Lin has questioned the viability of Micro LED-based optical links for AI data centers, citing concerns over power consumption, size, and transmission efficiency. Indu",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PD227/largan-precision-microled-transmission-data-center-communications.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-10-14-023",
+    "date": "2026-10-14",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "dram_price",
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
+    "summary": "Some back-end manufacturing equipment intended for SK Hynix's sixth-generation high-bandwidth memory (HBM4) production may be deferred from the second half of 2026 into 2027, raising questions about t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-024",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Huawei's Kirin 9050 Pro delivers 53.5% density gain; tighter 3D bonding next for 2027",
+    "summary": "Huawei has begun mass-producing its Kirin 9050 series with LogicFolding, a 3D chip architecture that improves transistor density and computing efficiency without relying solely on smaller process node",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014VL205/huawei-kirin-3d-transistor-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-14-025",
+    "date": "2026-10-14",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Microsoft adds US$132.5 billion in lease commitments&mdash;but AI capacity takes years to build",
+    "summary": "Microsoft's lease commitments that have not yet commenced reached US$329.1 billion in the fourth quarter of fiscal 2026, which ended in June, according to its latest regulatory filing. The total rose ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014PD234/microsoft-capacity-2026-demand-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-10-14-026",
+    "date": "2026-10-14",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASML's record 3Q26 sales expose a capacity gap for AI chip demand through 2028",
+    "summary": "ASML reported record third-quarter 2026 net sales of EUR11.7 billion (approx. US$13.1 billion) and net income of EUR5 billion, while warning that its planned supply for 2027 and 2028 would fall short ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014VL212/asml-sales-2028-demand-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-14-027",
+    "date": "2026-10-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia's share of China's AI chips falls by a third while Huawei gains",
+    "summary": "Nvidia's share of AI chips in China's data center market has fallen by 34% in the first half of this year, according to a new report. The drop follows months of US restrictions on advanced chip sales ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014VL210/nvidia-huawei-china-chips-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-14-028",
+    "date": "2026-10-14",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "dram_price",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk says Micron is 'reasonable' on memory prices while others are 'extortionate'",
+    "summary": "Elon Musk has criticized memory chip suppliers for charging what he called \"extortionate\" prices while praising Micron Technology's approach to future pricing, highlighting tensions between chipmakers",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261014VL211/micron-dram-price-elon-musk.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-029",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Investors Need To Keep Their Eyes On The Earnings Ball",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4954088-investors-need-to-keep-their-eyes-on-the-earnings-ball?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-030",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Disney: Cruise Expansion, Strong Live Event Schedule, And Retention Support Good FY 2027 Growth",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4954087-disney-cruise-expansion-strong-live-event-schedule-and-retention-support-good-fy27-growth?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-031",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs: What To Watch Before Q3 Earnings (Preview)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4954070-cleveland-cliffs-what-to-watch-before-q3-earnings-preview?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-032",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "BDCs Look Attractive, But I'd Consider These Four Stocks For Income Instead",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4953745-bdcs-look-attractive-but-id-consider-these-four-stocks-for-income-instead?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-14-033",
+    "date": "2026-10-14",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron: China Just Broke The Memory Supercycle Story",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4954084-micron-china-just-broke-the-memory-supercycle-story?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-034",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "BlackRock, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4954109-blackrock-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-035",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Visa: Unpacking The 7 Powers And Forward Valuation Ahead Of Q4 Earnings",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4954082-visa-unpacking-the-7-powers-and-forward-valuation-ahead-of-q4-earnings?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-14-036",
+    "date": "2026-10-14",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Newegg Slashes Intel Arc B580 To $329 And Throws In A Free 360mm AIO, Effectively Undercutting Its $249 Launch MSRP",
+    "summary": "For gamers on a tight budget, there is no better option than the Intel Arc B580 at this price. Newegg Drops Intel Arc B580 to Just $329, Making it the Cheapest 12 GB GPU While Also Bundling a Free 360",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/buy-intel-arc-b580-for-329-and-get-a-free-90-aio-cooler/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-14-037",
+    "date": "2026-10-14",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GIGABYTE Throws LGA 1700 Owners A Lifeline, Extends Raptor Lake “NEXT” Support To Every Z790, B760 And H610 Board",
+    "summary": "Apart from providing support for the entry-level chipset motherboards, the Z790 lineup will now also support the upcoming processors out of the box. GIGABYTE Brings Support for Upcoming LGA 1700 Proce",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gigabyte-extends-upcoming-lga-1700-processor-support-to-z790-b760-and-h610/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-038",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Huawei’s LogicFolding Architecture Has Surpassed Expectations, As Early 2027 Kirin Results Meet Company’s Targets Without Reliance On Advanced Nodes",
+    "summary": "The lack of access to specialized EUV machinery meant that there was no way for Huawei to compete in the traditional manner of taking advantage of next-generation manufacturing processes, so it relied",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/huawei-logicfolding-architecture-kirin-2027-results/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-14-039",
+    "date": "2026-10-14",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Forza Horizon 6 Crushes Every 2026 First-Party Game With $579.2M, and Its PS5 Launch Puts Gran Turismo 7 in Sight",
+    "summary": "Alinea Analytics has posted a thorough analysis of this year's top-performing games published by Sony's PlayStation and Microsoft's Xbox, and Playground's Forza Horizon 6 easily takes the crown. The e",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/forza-horizon-6-579-2m-2026-first-party-ps5-gran-turismo-7/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-040",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Jailbroken PS5 Got Turned Into a Local AI Server That Can Run A 27B LLM, Smaller Models Can Reach Impressive Speeds Of 124 Tok/s, But There Are Limitations",
+    "summary": "The PS5’s 16GB GDDR6 memory pool and 448GB/s bandwidth are decent specifications for running a local AI model, and it appears that someone has actually attempted this daring experiment, albeit with a ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/jailbroken-ps5-local-ai-server-27b-llm/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-14-041",
+    "date": "2026-10-14",
+    "companies": [
+      "micron",
+      "cxmt",
+      "skhynix",
+      "samsung"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CXMT’s 4F² DDR5 Memory Plan To ‘Leapfrog’ Samsung & Others By Two Years Is A Paper Tiger, Say Analysts, As Sanctions Push It Into Bitter Corner",
+    "summary": "Chinese memory chip manufacturer CXMT's recent claim that it would 'leapfrog' established memory giants Samsung, SK hynix and Micron by two years is nothing but that of a paper tiger, analysts from Ro",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmts-4f%c2%b2-ddr5-memory-plan-to-leapfrog-samsung-others-by-two-years-is-a-paper-tiger-say-analysts-as-sanctions-push-it-into-bitter-corner/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-14-042",
+    "date": "2026-10-14",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xbox CEO Asha Sharma Bets on AI With XBOX LABS, Admitting the Experiments Could Challenge Xbox’s Own Business Models",
+    "summary": "Xbox CEO Asha Sharma dropped yet another announcement yesterday, as she revealed the foundation of a new division called XBOX LABS. The dynamic Chief Executive Officer explained that Chief Technical O",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-asha-sharma-ai-labs-business-models/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-043",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "The AI math isn't mathing as infrastructure spending forecast to outstrip expected revenue",
+    "summary": " Analyst predicts 80% of neoclouds will disappear as standalone businesses by 2030 ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "onsemi-2026-10-14-044",
+    "date": "2026-10-14",
+    "companies": [
+      "onsemi"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EW Video: In conversation with Tessent on semiconductor test technology",
+    "summary": "<p>Electronics Weekly recently caught up with Lee Harrison, Director of Product Marketing at Tessent, Siemens Digital Industries Software, to discuss the latest semiconductor test technology. Topics i",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/design/eda-and-ip/ew-video-in-conversation-with-tessent-on-semiconductor-test-technology-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-045",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "TechPoint buys Esprit Electronics for EMS growth",
+    "summary": "<p>TechPoint has announced it is buying Esprit Electronics, to strengthen its UK manufacturing capability and support its growth ambitions, says the company. &#8220;We’re delighted to welcome the Espr",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/techpoint-buys-esprit-electronics-for-ems-growth-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-046",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "This time it’s different",
+    "summary": "<p>The overall chip market continues to show treble-digit monthly annualised growth rates, more than twice as large as the industry’s two previous record highs in June 2000 (59.3 percent) and [&#8230;",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/this-time-its-different-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-10-14-047",
+    "date": "2026-10-14",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Apple bids for home electronics market",
+    "summary": "<p>Apple made a statement yesterday that it is still in the home electronics market. It launched a new $200 HomePod smart speaker  (pictured above)  and a $299 HomeView hub (pictured [&#8230;]</p>\n<p>",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/apple-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-10-14-048",
+    "date": "2026-10-14",
+    "companies": [
+      "arm",
+      "synopsys",
+      "cadence"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top Ten IP Semiconductor Suppliers",
+    "summary": "<p>Thanks to IPNest for this one &#8211; the top ten semiconductor IP vendors: Arm. Synopsys Cadence . Alphawave Semi Imagination Technologies Rambus VeriSilicon CEva Arteris Silicon Creations</p>\n<p>",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-ip-semiconductor-suppliers-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-10-13-001",
     "date": "2026-10-13",
     "companies": [
@@ -1002,6 +1916,208 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/bbc-microbit-ten-years-on-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-13-055",
+    "date": "2026-10-13",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Build your data strength with October’s Demand Gen drop.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_October_2026.max-600x600.format-webp.webp\">Boost your measurement and ROI with YouTube’s October Demand Gen ",
+    "sources": []
+  },
+  {
+    "id": "google-2026-10-13-056",
+    "date": "2026-10-13",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "We're helping Indiana communities save with clean energy investments.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp\">The Monroe-Gregg School District and Morgan County Public Library will benefit fr",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-10-13-057",
+    "date": "2026-10-13",
+    "companies": [
+      "intel",
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Agentic AI Automates RTL Waveform Analysis And Debugging (Columbia, Google)",
+    "summary": "<p>Researchers at Columbia University, Google DeepMind, and Google published a technical paper titled “Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/agentic-ai-automates-rtl-waveform-analysis-and-debugging-columbia-google/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-058",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amperesand Aims to Smooth AI Data Center Power Spikes",
+    "summary": "\n\t\t\t\t\t\t<p>See how Amperesand’s solid-state transformers aim to tame AI data center power spikes with batteries, 800 VDC conversion, and microgrid control.</p>\n<p>The post <a href=\"https://www.eetimes.",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-059",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "GTA 6 could come to PC as early as Q1 2027, leak claims",
+    "summary": "\n                             GTA 6, the biggest release of the year, will be console-only at launch, with a PC launch now expected within the first three months of 2027. \n                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/pc-gaming/gta-6-could-come-to-pc-as-early-as-q1-2027-leak-claims-january-march-launch-window-a-huge-improvement-over-18-month-gta-v-wait",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-060",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Enshrouded Director Admits Keen Games Bet the Studio’s Future on It, and Over 5 Million Players Paid Off That Gamble",
+    "summary": "Indie German studio Keen Games may not be a household name in the games industry, but its games have steadily improved since the days of Sacred 3, which launched in 2014. Three years later, they would",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/enshrouded-director-keen-games-bet-studio-future-5-million-players-paid-off-gamble/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hp-2026-10-13-061",
+    "date": "2026-10-13",
+    "companies": [
+      "hp"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HP Crams A Full PC Inside A Keyboard, Featuring Ryzen AI Pro 400 And Support For Up To 64 GB RAM",
+    "summary": "HP has started to deploy the latest Ryzen AI Pro 400 series into its EliteBoard series, but the price is gonna make you cry. HP EliteBoard Gets Ryzen AI Pro 400 Chips With Up To 8-Core/16-Thread Confi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/hp-crams-a-full-pc-inside-a-keyboard-featuring-ryzen-ai-pro-400/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-10-13-062",
+    "date": "2026-10-13",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Claude Fable 5.5 Tipped To Land This Week, As Anthropic Warns That A Self-Replicating, Persistent Botnet Might Emerge By The Year’s End, And Meta Muse Wonder Intrigues With Its Active Memory",
+    "summary": "It is a development-dense week in the AI sphere, as Anthropic prepares to spill its secrets in a pre-IPO meeting on Wednesday, and peppers the upcoming launch of Claude Fable 5.5 with its now-typical ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/claude-fable-5-5-tipped-to-land-this-week-as-anthropic-warns-that-a-self-replicating-persistent-botnet-might-emerge-by-the-years-end-and-meta-muse-wonder-intrigues-with-its-active-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-10-13-063",
+    "date": "2026-10-13",
+    "companies": [
+      "amd",
+      "nvidia",
+      "tsmc",
+      "apple"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "TSMC Could Hit Its 2027 2nm Capacity Goals A Year Early As NVIDIA, AMD And Apple Pile On Orders For Latest Chipmaking Tech",
+    "summary": "The Taiwan Semiconductor Manufacturing Company (TSMC) is experiencing booming demand for its 2-nanometer chip manufacturing process technology, which has enabled it to meet 2027's production targets a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmc-could-hit-its-2027-2nm-capacity-goals-a-year-early-as-nvidia-amd-and-apple-pile-on-orders-for-latest-chipmaking-tech/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-064",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
+    "summary": " Geordie's tests recorded 155 activity traces and multiple subagents after dot was given read-only permissions ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-13-065",
+    "date": "2026-10-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'",
+    "summary": " Jefferies wonders if LLMs will ever be\nprofitable during the 'ongoing collapse in token pricing' ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
         "type": "rss"
       }
     ]

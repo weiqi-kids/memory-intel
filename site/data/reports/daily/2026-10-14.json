@@ -1,0 +1,355 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:35:30.900384Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "skhynix-2026-10-14-023",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及價格",
+        "涉及產能"
+      ],
+      "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
+      "companies": [
+        "skhynix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "dram_price",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261014VL213/equipment-hbm4-sk-hynix-2027-investment.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "asml-2026-10-14-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "ASML's record 3Q26 sales expose a capacity gap for AI chip demand through 2028",
+      "companies": [
+        "asml"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261014VL212/asml-sales-2028-demand-capacity.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-14-020",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Kingboard Laminates raises thin-cloth laminates, prepreg prices 15% in eighth hike of 2026",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261014PD200/kingboard-ccl-pcb-price-increase-2026.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "microsoft-2026-10-14-025",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "Microsoft adds US$132.5 billion in lease commitments&mdash;but AI capacity takes years to build",
+      "companies": [
+        "microsoft"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261014PD234/microsoft-capacity-2026-demand-data.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-14-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tsang Yow's semiconductor revenue share reaches 12%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261014PD240/tsang-yow-revenue-equipment-2026-demand.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.32,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.31,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 48,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 35,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "asml",
+        "count": 3
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "microsoft",
+        "count": 3
+      },
+      {
+        "id": "micron",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 7
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "euv",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 93,
+    "too_old": 64,
+    "gate1_blocked": 55,
+    "gate2_blocked": 41,
+    "passed": 59,
+    "pass_rate": "26.9%",
+    "gate2_block_rate": "18.7%",
+    "gate2_samples": [
+      "2026.10.08HoldingsSCREEN acquires shares in Atomis, startup which develops and manufactures MOFs",
+      "From Enterprise to Earthshot: UKâs Ecosystem Moves From Ambition to Application With NVIDIA",
+      "From Earth to Orbit, Franceâs Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+      "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs with RTX Spark and AI Agents"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 48 則事件，焦點為輝達、艾司摩爾、英特爾相關動態：「SK Hynix HBM4 equipment installations reportedly face par...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027（HBM、DRAM 價格、產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "ASML's record 3Q26 sales expose a capacity gap for AI chip demand through 2028（產能、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
