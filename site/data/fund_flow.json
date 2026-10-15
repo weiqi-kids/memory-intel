@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-14T13:35:24",
+  "updated_at": "2026-10-15T13:18:58",
   "etfs": {
     "SMH": {
       "name": "VanEck Semiconductor ETF",
-      "latest_price": 577.53,
-      "daily_change_pct": -0.23,
-      "flow_5d": -193392668,
-      "flow_20d": 367133046,
+      "latest_price": 564.74,
+      "daily_change_pct": -2.44,
+      "flow_5d": -359608004,
+      "flow_20d": 200917710,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -185,18 +185,18 @@
         },
         {
           "date": "2026-10-14",
-          "flow": -592154,
-          "volume": 441906,
-          "change_pct": -0.23
+          "flow": -166807490,
+          "volume": 11805201,
+          "change_pct": -2.44
         }
       ]
     },
     "SOXX": {
       "name": "iShares Semiconductor ETF",
-      "latest_price": 532.27,
-      "daily_change_pct": -0.09,
-      "flow_5d": -193613476,
-      "flow_20d": 392182822,
+      "latest_price": 519.42,
+      "daily_change_pct": -2.5,
+      "flow_5d": -336247205,
+      "flow_20d": 249549093,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -375,18 +375,18 @@
         },
         {
           "date": "2026-10-14",
-          "flow": -268886,
-          "volume": 584534,
-          "change_pct": -0.09
+          "flow": -142902615,
+          "volume": 10736485,
+          "change_pct": -2.5
         }
       ]
     },
     "SOXQ": {
       "name": "Invesco PHLX Semiconductor ETF",
-      "latest_price": 94.04,
-      "daily_change_pct": -0.18,
-      "flow_5d": -4980648,
-      "flow_20d": 8718420,
+      "latest_price": 91.95,
+      "daily_change_pct": -2.4,
+      "flow_5d": -7524646,
+      "flow_20d": 6174422,
       "flow_trend": "outflow",
       "daily_flow": [
         {
@@ -565,9 +565,9 @@
         },
         {
           "date": "2026-10-14",
-          "flow": -5167,
-          "volume": 30394,
-          "change_pct": -0.18
+          "flow": -2549165,
+          "volume": 1127949,
+          "change_pct": -2.4
         }
       ]
     }
