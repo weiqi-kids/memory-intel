@@ -1,5 +1,146 @@
 [
   {
+    "id": "unknown-2026-10-18-001",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "300-plus local data center bans have only delayed just three US projects",
+    "summary": "\n                             SemiAnalysis mapped more than 300 local data center moratoriums against the US pipeline and found only three projects actually delayed. \n                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/300-plus-local-data-center-bans-have-only-delayed-just-three-us-projects-bans-much-more-bark-than-bite-only-2-3-gigawatts-of-data-centers-are-held-up-versus-38-gigawatts-expected-online-in-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-002",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Data Center Doomsday Scenario",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955024-the-data-center-doomsday-scenario?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-003",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CoreWeave: 3Q Capex At 3.5x Revenue; High Leverage Without Profit Is The Red Flag In An AI Downturn",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955040-coreweave-3q-capex-at-3-5x-revenue-high-leverage-without-profit-is-the-red-flag-in-an-ai-downturn?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-18-004",
+    "date": "2026-10-18",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Says Silicon Photonics Are The “Golden Hammer” Of Next-Gen Systems As They Are The Only High-Volume Fab Delivering 300mm Indium Phosphide Photonics At Scale",
+    "summary": "Intel has shared its vision of silicon photonics, saying that it is the only volume fab that can provide 300mm InP Silicon at scale to the entire industry. Intel Goes All In On Silicon Photonics With ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-silicon-photonics-are-the-golden-hammer-of-next-gen-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-10-18-005",
+    "date": "2026-10-18",
+    "companies": [
+      "tsmc",
+      "skhynix",
+      "nvidia",
+      "samsung",
+      "micron"
+    ],
+    "topics": [
+      "hbm",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node",
+    "summary": "Samsung has typically adopted a “turnkey” approach when developing HBM’s core and base dies, but according to the latest report, NVIDIA’s custom NVHBM&#160;requires a more streamlined approach in manu",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-10-18-006",
+    "date": "2026-10-18",
+    "companies": [
+      "tsmc",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Apple More Likely To Introduce Its First 1.4nm Chips In Two Years As TSMC Races To Mass Production Stage In H1 2028, Trying To Prevent AI Outstripping Supply",
+    "summary": "TSMC’s latest lithography is typically adopted by Apple in its A-series chipsets to gain a competitive edge in the industry, but on this occasion, the company may be moving to a new manufacturing proc",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-14nm-chips-tsmc-2028-mass-production-ai-supply/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-18-007",
+    "date": "2026-10-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "RTX 5090 Shipments Worth $500,000 Vanished Into Thin Air At São Paulo Airport, Distributor Says This Has Never Happened In Nearly Four Decades Of Operation",
+    "summary": "Two pallets of ZOTAC-made RTX 5090&#160;GPUs arrived at the Guarulhos International Airport terminal in São Paulo, worth around $500,000, but according to the latest report, the flagship GPU shipments",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/rtx-5090-shipment-missing-guarulhos-airport/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "asml-2026-10-17-001",
     "date": "2026-10-17",
     "companies": [
@@ -284,6 +425,220 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/groom-brought-to-tears-asus-rog-astral-rtx-5090-wedding-gift/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-17-016",
+    "date": "2026-10-17",
+    "companies": [
+      "microsoft",
+      "lenovo",
+      "hp",
+      "nvidia",
+      "dell"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX Spark Ignites Global Celebration as New Windows PCs Arrive",
+    "summary": "NVIDIA RTX Spark laptops are now available, bringing NVIDIA Blackwell RTX graphics, up to 128GB of unified memory and the full NVIDIA AI platform to slim, premium Windows PCs.Â Starting at $2,399, lap",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-10-17-017",
+    "date": "2026-10-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers",
+    "summary": "\n                             Nvidia states that RTX 5090 isn't discontinued, only that supply is constrained — and yet the card is effectively gone from storefronts \n                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-17-018",
+    "date": "2026-10-17",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale",
+    "summary": "\n                             Nintendo Switch 2 owners looking to download more games can take advantage of this deal on SanDisk’s officially licensed microSD Express card, which supports read speeds ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-17-019",
+    "date": "2026-10-17",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Taiwan targets illicit AI server exports to China with five-year prison terms",
+    "summary": "\n                             Taiwan is expanding the Foreign Trade Act to include AI servers and semiconductors in its list of controlled exports. \n                                                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-17-020",
+    "date": "2026-10-17",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive: EnterpriseSG positions Singapore's semiconductor SMEs for bigger roles in global chip supply chains",
+    "summary": "Singapore is targeting high-value semiconductor manufacturing, advanced packaging, and silicon photonics, building on its strengths in engineering, precision manufacturing, and reliability, according ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261012PD215/manufacturing-equipment-packaging-testing-silicon.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-17-021",
+    "date": "2026-10-17",
+    "companies": [
+      "intel",
+      "micron"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron’s Edge Inference Memory Could Solve HBM’s Power Efficiency Weakness, Ushering The Age Of AI-Powered Robots With A Mass Production Target Of 2028",
+    "summary": "Generative AI could eventually transition to physical artificial intelligence, resulting in the mass production of humanoids that can make decisions based on proactive behavior. This is expected to be",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/micron-edge-inference-memory-hbm-power-efficiency-ai-robots/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-10-17-022",
+    "date": "2026-10-17",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Samsung’s Galaxy Tab S12+ is An Excellent & Powerful Laptop Substitute, With Amazon Offering Bundle Savings Of $287 That Includes A Free $200 Gift Card",
+    "summary": "The Galaxy Tab S12+ is as premium as they come when discussing Android tablets, and if you want a solid deal on this 12.6-inch slate, Amazon has a deal that’ll knock you off your seat. Starting from $",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/galaxy-tab-s12-plus-laptop-substitute-amazon-deal/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-17-023",
+    "date": "2026-10-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DeepSeek’s Post-Training Lead Declares “Entering the Era of Democratized Wish-Driven Coding” As V4.1-Flash-1017 Model Smokes OpenAI’s GPT-5.5 Sol",
+    "summary": "What does it say about DeepSeek's innate prowess if it is able to outmatch and outcompete the erstwhile workhorse models from OpenAI and Anthropic at a fraction of their compute and cost structure, as",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/deepseeks-post-training-lead-declares-entering-the-era-of-democratized-wish-driven-coding-as-v4-1-flash-1017-model-smokes-openais-gpt-5-5-sol/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-17-024",
+    "date": "2026-10-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Nova Lake Reportedly Ditches The Expected Core Ultra 400 Name For Laptop H And U Chips, As All Five Families Adopt Core Ultra 4000",
+    "summary": "The next-gen Intel processors will have a common naming convention for all of its variants. Intel to Use Core Ultra 4000 Naming for All Desktop and Laptop CPUs, Confirms Leaker Several leaks and relia",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-to-use-core-ultra-4000-for-all-nova-lake-families/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-17-025",
+    "date": "2026-10-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel SVP Confirms Razor Lake-AX Will Hit 700 TOPS & Launch In 2028, 3.88x The AI Compute Of Panther Lake",
+    "summary": "Intel has confirmed that its next-generation Razor Lake-AX SoCs will launch in 2028, bringing increased AI capabilities. Intel SVP Confirms Nova Lake For 2027 &#38; Razor Lake For 2028 - AX SoCs Drive",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-confirms-razor-lake-ax-700-tops-launch-in-2028/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-17-026",
+    "date": "2026-10-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping",
+    "summary": "While we see multiple reports indicating the discontinuation of the flagship Blackwell GeForce GPU, NVIDIA, on the other hand, denies such reports. NVIDIA's Jeff Fisher Says RTX 5090 isn't Discontinue",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-denies-rtx-5090-discontinuation-reports/",
         "type": "rss"
       }
     ]
