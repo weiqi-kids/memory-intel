@@ -1,0 +1,392 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:30:25.878651Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "samsung-2026-10-19-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips",
+      "companies": [
+        "samsung",
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261019PD247/samsung-exynos-kirin-huawei-chips.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "microsoft-2026-10-19-008",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及先進封裝"
+      ],
+      "title": "DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",
+      "companies": [
+        "microsoft",
+        "google",
+        "intel",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "google",
+          "microsoft"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261019PD235/microsoft-tsmc-2nm-intel-digitimes.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "google-2026-10-19-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Anthropic offers Blackstone more than 10% return in US$60 billion AI chip financing deal",
+      "companies": [
+        "google",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261019PD245/anthropic-financing-ai-chip-capacity-finance.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "micron-2026-10-19-038",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung, Micron, Hynix to use TSMC base dies for NVHBM",
+      "companies": [
+        "micron",
+        "nvidia",
+        "samsung",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "micron",
+          "samsung",
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/"
+    },
+    {
+      "rank": 5,
+      "event_id": "cxmt-2026-10-19-029",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "CXMT Is Expected To Add Over 100,000 DRAM Wafers Per Month Within A Year, Aiming At Consumer Electronics Squeezed By The Memory Shortage",
+      "companies": [
+        "cxmt"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "shortage",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/cxmt-is-expected-to-add-over-100000-dram-wafers-per-month-within-a-year-aiming-at-consumer-electronics-squeezed-by-the-memory-shortage/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "advanced_packaging",
+        "capex",
+        "euv",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "ddr5"
+      ]
+    },
+    {
+      "from": "google",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "advanced_packaging",
+        "capacity",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 26,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 8
+      },
+      {
+        "id": "microsoft",
+        "count": 4
+      },
+      {
+        "id": "tsmc",
+        "count": 4
+      },
+      {
+        "id": "nvidia",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "capacity",
+        "count": 4
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 2
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 92,
+    "too_old": 63,
+    "gate1_blocked": 63,
+    "gate2_blocked": 48,
+    "passed": 46,
+    "pass_rate": "20.9%",
+    "gate2_block_rate": "21.8%",
+    "gate2_samples": [
+      "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
+      "Dial Up the Cloud: NVIDIA DLSS 4.5 Controls Arrive on GeForce NOW",
+      "The Nordics and NVIDIA Show Whatâs Possible When a Region Commits to Advanced Computing",
+      "From Enterprise to Earthshot: UKâs Ecosystem Moves From Ambition to Application With NVIDIA",
+      "From Earth to Orbit, Franceâs Ecosystem Delivers Agentic Computing at Scale With NVIDIA"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為英特爾、微軟、台積電相關動態：「Samsung targets Exynos 2700 expansion as Huawei advances ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips（產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shif...（先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

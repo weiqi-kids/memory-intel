@@ -1,5 +1,779 @@
 [
   {
+    "id": "intel-2026-10-19-001",
+    "date": "2026-10-19",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+    "summary": "At a creative industry event that took place today in Berlin â hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA â the latest advancements in intelligent media were on display. Key t",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-10-19-002",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Breaking The Memory Bottleneck In AI And HPC SoCs",
+    "summary": "<p>Opimizing embedded memory IP for RibbonFET and PowerVia.</p>\n<p>The post <a href=\"https://semiengineering.com/breaking-the-memory-bottleneck-in-ai-and-hpc-socs/\">Breaking The Memory Bottleneck In A",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/breaking-the-memory-bottleneck-in-ai-and-hpc-socs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-003",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Physical AI Is So Hard To Engineer",
+    "summary": "<p>Integrating sensors, compute, and actuators into autonomous systems adds new challenges for chip design.</p>\n<p>The post <a href=\"https://semiengineering.com/why-physical-ai-is-so-hard-to-engineer/",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/why-physical-ai-is-so-hard-to-engineer/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-004",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Macro to Micro, and Back",
+    "summary": "\n\t\t\t\t\t\t<p>This year’s Nobel prizes explained large systems through their smallest parts. What can chip design learn from them, and can AI help us design in the other direction too?</p>\n<p>The post <a ",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/from-macro-to-micro-and-back/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-19-005",
+    "date": "2026-10-19",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save $500 on this 1440p gaming PC with an RTX 5070, now under $1,800",
+    "summary": "\n                             This Newegg deal on an ABS Flux II Aqua gaming PC gives you a machine ready for 1440p and 4K gameplay for $1,799.99. This pre-built comes with a 20-core Intel Core i7-147",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd500-on-this-1440p-gaming-pc-with-an-rtx-5070-now-under-usd1-800-abs-flux-ii-aqua-rig-ships-with-a-20-core-intel-cpu-32gb-ddr5-and-a-1tb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-19-006",
+    "date": "2026-10-19",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "DeepSeek updates V4.1 Flash to improve AI agent performance",
+    "summary": "DeepSeek released an updated version of its V4.1 Flash artificial intelligence (AI) model on October 17, improving coding and reasoning performance while reducing task execution time and output length",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD246/deepseek-performance-api-software-opus.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-10-19-007",
+    "date": "2026-10-19",
+    "companies": [
+      "samsung",
+      "qualcomm"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips",
+    "summary": "Samsung Electronics is developing the Exynos 2700 for broader use across its Galaxy S27 lineup in 2027, while Huawei has moved its next-generation Kirin chips into testing. The competing efforts are r",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD247/samsung-exynos-kirin-huawei-chips.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-19-008",
+    "date": "2026-10-19",
+    "companies": [
+      "microsoft",
+      "google",
+      "intel",
+      "tsmc"
+    ],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "DIGITIMES Insight: Microsoft Maia 300 leads 2nm race, TSMC's US strategy shifts, Intel EMIB-T faces yield challenge",
+    "summary": "Microsoft's early adoption of TSMC's 2nm process, a US$2 billion manufacturing partnership between TSMC and GlobalFoundries, and delays to Google's next-gen TPU highlight diverging strategies in AI ch",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD235/microsoft-tsmc-2nm-intel-digitimes.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-19-009",
+    "date": "2026-10-19",
+    "companies": [
+      "google",
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Anthropic offers Blackstone more than 10% return in US$60 billion AI chip financing deal",
+    "summary": "Anthropic is offering Blackstone a total return of more than 10% to help finance a US$60 billion artificial intelligence (AI) chip procurement package, as higher infrastructure financing costs make ex",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD245/anthropic-financing-ai-chip-capacity-finance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-19-010",
+    "date": "2026-10-19",
+    "companies": [
+      "intel",
+      "tsmc"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Solution Finders Part 2 of 2: TSMC's first CTO said no to Intel twice but still wonders what if",
+    "summary": "Chenming Hu co-invented the FinFET transistor with colleagues at the University of California, Berkeley, in the 1990s and became TSMC's first chief technology officer in 2001. Decades earlier, as a gr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD218/intel-taiwan-academia-sinica-tsmc-electronics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-011",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Action cameras gain momentum as camera demand fragments",
+    "summary": "After two years of recovery, the digital camera market is slowing in 2026, with action cameras and handheld smart cameras taking over as the next growth engines. Optical industry observers say consume",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD239/market-camera-recovery-growth-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-10-19-012",
+    "date": "2026-10-19",
+    "companies": [
+      "samsung",
+      "skhynix"
+    ],
+    "topics": [
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power",
+    "summary": "Tesla CEO Elon Musk has predicted a surge in Chinese memory chip production by 2028, raising questions over Samsung Electronics and SK Hynix's pricing power during an AI-driven dynamic random-access m",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019VL210/elon-musk-dram-tesla-2028-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-013",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ACM Research bets on panel-level packaging and overseas growth as adoption risks persist",
+    "summary": "ACM Research is expanding beyond China as its panel-level packaging equipment advances through customer evaluations in Taiwan, while the US semiconductor equipment maker invests in South Korea and Ore",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD231/acm-packaging-equipment-adoption-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-10-19-014",
+    "date": "2026-10-19",
+    "companies": [
+      "screen"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "From LCD powerhouse to AI enabler: Taiwan's display industry reinvents itself after 30 turbulent years",
+    "summary": "Once a global LCD manufacturing powerhouse, Taiwan's display industry has weathered financial crises, antitrust penalties and fierce competition from state-backed Chinese rivals. Now, after three deca",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD224/auo-innolux-display-lcd-manufacturing-ic-packaging-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-015",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SiC powering the future: market scaling meets IDM synergies",
+    "summary": "The global silicon carbide (SiC) market stands at a critical juncture of industrial scaling, driven by rising demand across the automotive, AI data center, and renewable energy sectors.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019VL211/sic-silicon-market-data-center-industrial.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-016",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sanan Optoelectronics faces corp governance turmoil amid Micro LED breakthroughs",
+    "summary": "Sanan Optoelectronics Co., a leading player in China's compound semiconductor and LED chip industry, finds itself at a critical juncture, marked by severe corporate governance challenges at the shareh",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019VL207/sanan-optoelectronics-governance-market-xiamen-display.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-19-017",
+    "date": "2026-10-19",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IBM and Siemens collaborate to advance nanostack chip architecture",
+    "summary": "IBM and Siemens will collaborate on research to develop IBM's nanostack transistor architecture, aiming to move its design toward manufacturing. The work could influence chip performance, energy effic",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PR201/ibm-siemens-design-manufacturing-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-018",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Von Ardenne's flexible equipment targets unsettled panel-level packaging market",
+    "summary": "German equipment maker Von Ardenne is entering the semiconductor industry with coating technology aimed at panel-level packaging, a segment where the choice among competing panel dimensions remains un",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD232/equipment-packaging-market-panel-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-019",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Exclusive: Wooptix targets leading chipmakers with wafer metrology technology, eyes production adoption within 3-5 years",
+    "summary": "Spanish semiconductor metrology startup Wooptix, whose technology originated in astronomical observation, is accelerating efforts to enter the supply chains of leading semiconductor foundries.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261019PD220/interview-wafer-metrology-startup-adoption-spain.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-19-020",
+    "date": "2026-10-19",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Alphabet Q3 Preview: I'm Not Adding Before Q3 (Rating Downgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955216-alphabet-q3-preview-im-not-adding-before-q3-rating-downgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-021",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "positive",
+    "title": "What Does This Record Correlation In Bonds And Oil Mean For Stocks?",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955228-what-does-record-correlation-in-bonds-oil-mean-for-stocks?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ase-2026-10-19-022",
+    "date": "2026-10-19",
+    "companies": [
+      "ase"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ASE Technology: More Value In The Package, More Earnings For The Assembler",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955196-ase-technology-more-value-in-the-package-more-earnings-for-the-assembler?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-023",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fifth Third: Solid Q3 Should Calm Margin Fears (Upgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955210-fifth-third-solid-q3-should-calm-margin-fears-upgade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-024",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Calgro M3 Holdings Limited (CLMHF) Q2 2027 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955188-calgro-m3-holdings-limited-clmhf-q2-2027-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-025",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "UltraTech Cement Limited (UCLQF) Q2 2027 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955187-ultratech-cement-limited-uclqf-q2-2027-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-026",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cleveland-Cliffs Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955222-cleveland-cliffs-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-027",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Learning From The Abrupt Drop In AI Stocks",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955154-learning-from-the-abrupt-drop-in-ai-stocks?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-028",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Witchfire’s Adrian Chmielarz Turned Down Offers From ‘Basically Everybody’ to Stay Independent, but the Price Was a Roughly 10-Year Development",
+    "summary": "Indie Polish developer The Astronauts has released only one game since its founding: the 2014 award-winning horror adventure title The Vanishing of Ethan Carter. However, the studio was established by",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/witchfire-adrian-chmielarz-interview-independent-10-year-development/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-10-19-029",
+    "date": "2026-10-19",
+    "companies": [
+      "cxmt"
+    ],
+    "topics": [
+      "hbm",
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "CXMT Is Expected To Add Over 100,000 DRAM Wafers Per Month Within A Year, Aiming At Consumer Electronics Squeezed By The Memory Shortage",
+    "summary": "Chinese memory chip manufacturer CXMT could double its memory production capacity by 2028, according to research from Trendforce and Counterpoint Research. The boom comes as the DRAM industry continue",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-is-expected-to-add-over-100000-dram-wafers-per-month-within-a-year-aiming-at-consumer-electronics-squeezed-by-the-memory-shortage/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-19-030",
+    "date": "2026-10-19",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Call of Duty: Modern Warfare 4 on Switch 2 Looks Sharper With DLSS Than SMAA, According to Digital Foundry",
+    "summary": "Call of Duty: Modern Warfare 4 is special for at least one good reason: it's the first time in the highly popular first-person shooter franchise to hit a Nintendo console in 13 years. Competitive mili",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/call-of-duty-modern-warfare-4-switch-2-dlss-vs-smaa-digital-foundry/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-10-19-031",
+    "date": "2026-10-19",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix Subsidiary Solidigm’s U.S. NAND Plant And Overseas Equipment Export Plans For China Could Go Up In Smoke As Korean Authorities Sprout Regulatory Hurdles",
+    "summary": "Solidigm has many cogs in the company’s grand plans to establish a manufacturing footprint in the United States, but the SK hynix subsidiary could run into obstacles that might make scaling difficult,",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/solidigm-us-nand-plant-china-equipment-export-plans-korean-regulatory-hurdles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-19-032",
+    "date": "2026-10-19",
+    "companies": [
+      "intel",
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel CEO Lip-Bu Tan Says China Is “Not That Far Behind” In Chip Manufacturing, Despite US Sanctions Blocking Its Access To EUV Machines",
+    "summary": "Intel CEO Lip-Bu Tan believes that China is not significantly behind the US when it comes to chip manufacturing prowess. The CEO made the remarks in an interview with Nikkei Asia, where he also discus",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-ceo-lip-bu-tan-says-china-is-not-that-far-behind-in-chip-manufacturing-despite-us-sanctions-blocking-its-access-to-euv-machines/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-19-033",
+    "date": "2026-10-19",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
+    "summary": " Tech giant walks away from flagship Essex project as power connection delays threaten to leave nation's AI ambitions waiting until the 2030s ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "broadcom-2026-10-19-034",
+    "date": "2026-10-19",
+    "companies": [
+      "broadcom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Broadcom Wi-Fi bug turns sweet 16, still lets strangers hijack your router",
+    "summary": " Chip giant knew about the flaw in 2018, researcher claims, but millions of devices may still be vulnerable ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/networks/2026/10/19/broadcom-wi-fi-bug-turns-sweet-16-still-lets-strangers-hijack-your-router/5303771",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-035",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI’s epic cash call is matched only by its ability to strangle revenue streams",
+    "summary": " The first technology created with a self-disrupt button... But why oh why didn't they call Claude clone Fauxtoshop? ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-036",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
+    "summary": " SPONSORED POST: The Context Memory Storage platform aims to improve the economics of large-scale AI inference ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-19-037",
+    "date": "2026-10-19",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "MS pulls out of Nscale UK datacentre project",
+    "summary": "<p>Nscale, the London neocloud startup, has had another setback to its IPO plans with Microsoft pulling out of a deal to be the anchor tenant on Nscale’s Loughton, Essex, datacentre [&#8230;]</p>\n<p>T",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/ms-pulls-out-of-nscale-uk-datacentre-project-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-19-038",
+    "date": "2026-10-19",
+    "companies": [
+      "micron",
+      "nvidia",
+      "samsung",
+      "tsmc"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, Micron, Hynix to use TSMC base dies for NVHBM",
+    "summary": "<p>Nvidia has asked Samsung, Hynix and Micron to use base dies made on TSMC’s 3nm node for its custom HBM called NVHBM (pictured), reports the Seoul Economic Daily. The base [&#8230;]</p>\n<p>The post ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/samsung-micron-hynix-to-use-tsmc-base-dies-for-nvhbm-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-039",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elektrobit software + Microchip hardware to accelerate vehicle production",
+    "summary": "<p>Elektrobit, an automotive software specialist, and Microchip are to simplify and accelerate AUTOSAR-based software development for automotive manufacturers and suppliers. By combining Microchip’s a",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/elektrobit-software-microchip-hardware-to-accelerate-vehicle-production-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-040",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Q3 PC units down 22.4% y-o-y",
+    "summary": "<p>Q3 PC shipments of 55.4 million units were down 22.4% y-o-y,  according to Gartner. “The impact of higher memory and storage costs is now fully reflected in PC pricing. DRAM [&#8230;]</p>\n<p>The po",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/q3-pc-units-down-22-4-yoy-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-18-001",
     "date": "2026-10-18",
     "companies": [],
@@ -136,6 +910,123 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/rtx-5090-shipment-missing-guarulhos-airport/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-18-008",
+    "date": "2026-10-18",
+    "companies": [
+      "intel",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)",
+    "summary": "<p>Researchers at the UC Berkeley, Samsung Electronics, and Intel published “Nanoelectromechanically Gated Gain Cell eDRAM.” Abstract Excerpt: “The memory wall and the slowdown of static random access",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/nanoelectromechanical-switches-target-more-efficient-embedded-dram-uc-berkeley-samsung-intel/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cadence-2026-10-18-009",
+    "date": "2026-10-18",
+    "companies": [
+      "cadence"
+    ],
+    "topics": [
+      "advanced_packaging"
+    ],
+    "impact": "neutral",
+    "title": "A Composable Thermal Solver For Heterogeneous 2.5D/3D-IC Packages (Cadence, Notre Dame)",
+    "summary": "<p>Researchers at Cadence Design Systems and the University of Notre Dame published “A Composable AI-Accelerated Iterative Solver for 3D-IC Thermal Modeling.&#8221; Abstract: “Accurate thermal analysi",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/a-composable-thermal-solver-for-heterogeneous-2-5d-3d-ic-packages-cadence-notre-dame/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-18-010",
+    "date": "2026-10-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport",
+    "summary": "\n                             Brazilian electronics and IT distributor Oderço claims that two pallets of Zotac RTX 5090 GPUs have arrived at the airport but has since completely disappeared. \n        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-011",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Web-based chip fab engineering game goes viral in Taiwan",
+    "summary": "\n                             A new 3D web game where you live 'A Day in the Life of a Semiconductor Wafer Factory Worker' has gone viral in Taiwan, where it was developed. \n                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-012",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Newegg’s Ryzen 7 9800X3D CPU Bundle Is $189 Off And Includes A 32GB DDR5 RAM kit And ASUS Motherboard, But You’ll Love These Freebies Worth $185",
+    "summary": "The latest Ryzen 7 9800X3D combo listed on Newegg is currently available for the price of $1,034.99 after savings of $189, with the price cut alone making it an excellent offer, but the online retaile",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/newegg-ryzen-7-9800x3d-bundle-189-off-32gb-ddr5-asus-motherboard-freebies/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-18-013",
+    "date": "2026-10-18",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Exclusive: NVIDIA’s Vera Team Says Chiplet Designs Sacrificed Single-Threaded Performance For Core Counts, And Agentic AI Is Now Forcing A Reversal",
+    "summary": "NVIDIA's Vera CPU heralds a redefinition of computing architecture from a traditional, task-isolated paradigm to an orchestrated, agentic intelligence ecosystem, shifting the role of the central proce",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/",
         "type": "rss"
       }
     ]
