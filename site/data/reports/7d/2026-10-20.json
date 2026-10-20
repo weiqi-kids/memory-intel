@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-20",
+  "date_range": {
+    "start": "2026-10-14",
+    "end": "2026-10-20"
+  },
+  "generated_at": "2026-10-20T13:31:39.738270Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "skhynix-2026-10-14-023",
+      "date": "2026-10-14",
+      "title": "SK Hynix HBM4 equipment installations reportedly face partial deferral to 2027",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 149,
+      "last_week": 176,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": 0.09
+    },
+    "capacity": {
+      "this_week": 34,
+      "last_week": 19,
+      "week_over_week_change": "+79%",
+      "sentiment_this_week": 0.27
+    },
+    "euv": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.29
+    },
+    "advanced_packaging": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 20,
+      "last_week": 16,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": -0.0
+    },
+    "ddr5": {
+      "this_week": 11,
+      "last_week": 9,
+      "week_over_week_change": "+22%",
+      "sentiment_this_week": -0.02
+    },
+    "guidance": {
+      "this_week": 7,
+      "last_week": 8,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 64,
+      "last_week": 61,
+      "week_over_week_change": "+5%",
+      "sentiment_this_week": 0.09
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 11,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": 0.29
+    },
+    "hbm": {
+      "this_week": 9,
+      "last_week": 7,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.17
+    },
+    "dram_price": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.08
+    },
+    "inventory": {
+      "this_week": 7,
+      "last_week": 10,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.12
+    },
+    "ai_server": {
+      "this_week": 14,
+      "last_week": 21,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.23
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 27,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "asml": {
+      "event_count": 9,
+      "sentiment_avg": 0.14,
+      "rank": 6
+    },
+    "intel": {
+      "event_count": 29,
+      "sentiment_avg": 0.22,
+      "rank": 1
+    },
+    "apple": {
+      "event_count": 9,
+      "sentiment_avg": -0.08,
+      "rank": 7
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "ase": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "skhynix": {
+      "event_count": 10,
+      "sentiment_avg": 0.05,
+      "rank": 5
+    },
+    "microsoft": {
+      "event_count": 9,
+      "sentiment_avg": -0.03,
+      "rank": 8
+    },
+    "micron": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "cxmt": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "samsung": {
+      "event_count": 11,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "synopsys": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "amd": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 10
+    },
+    "tsmc": {
+      "event_count": 17,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 24
+    },
+    "screen": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 14
+    },
+    "infineon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "dell": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "hp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "lenovo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "google": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 25
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    },
+    "powertech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 29
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 30
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 320,
+        "last": 342,
+        "change_pct": -6.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-14",
+      "event_count": 60,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 71,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 55,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 26,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 13,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 49,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 46,
+      "sentiment_avg": 0.08
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-14 ~ 2026-10-20）共 320 則事件，重點為「SK Hynix HBM4 equipment installations reportedl...」。英特爾、Screen Holdings表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "輝達",
+        "reason": "本週出現 27 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "艾司摩爾",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "英特爾",
+        "reason": "本週出現 29 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

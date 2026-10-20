@@ -1,5 +1,877 @@
 [
   {
+    "id": "nvidia-2026-10-20-001",
+    "date": "2026-10-20",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Spain-Based Startups Advance Regional Innovation With Barcelona Supercomputing Center",
+    "summary": "The Barcelona Supercomputing Center (BSC)âs AI Factory Accelerator Programme, now in full operation following a pilot initiative, gives startups access to sovereign compute, technical support and tr",
+    "sources": []
+  },
+  {
+    "id": "apple-2026-10-20-002",
+    "date": "2026-10-20",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Apple announces American Manufacturing Program partners for latest iPhone lineup",
+    "summary": "Apple announced new and expanded partnerships with American companies that are supplying critical materials and components for iPhone Duo and iPhone 18 Pro.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-10-20-003",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Oct. 20",
+    "summary": "<p>HBM power consumption; GAAFET leakage pathways; agentic AI for heterogeneous system design; nanoelectromechanical gain-cell eDRAM; AI-accelerated 3D-IC thermal modeling; agentic AI for RTL verifica",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-14-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-004",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US restarts three shut-down nuclear reactors to feed AI data centers",
+    "summary": "\n                             The U.S. government is helping fund projects to bring nuclear reactors back online in an attempt to provide more energy capacity to AI data centers. \n                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/us-takes-unprecedented-step-of-recommissioning-nuclear-plants-due-to-ai-power-demand-2-25-gw-currently-on-tap-from-refurbished-reactors",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-20-005",
+    "date": "2026-10-20",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports",
+    "summary": "\n                             $35 billion worth of Nvidia RTX Pro 5500 GPUs have been bought by Chinese trio Tencent, Alibaba and ByteDance, with demand far exceeding Nvidia's planned production, acco",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/chinas-tech-giants-drop-usd35-billion-on-export-compliant-nvidia-rtx-pro-5500-workstation-gpu-orders-to-power-ai-ambitions-according-to-reports-bytedance-alibaba-and-tencent-order-3-million-cards-despite-warnings-that-only-10-percent-of-orders-are-fulfillable",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-20-006",
+    "date": "2026-10-20",
+    "companies": [
+      "nvidia",
+      "amd",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Modal taps Nvidia Vera CPUs after firm's internal tests show 2x throughput over Intel and AMD chips",
+    "summary": "\n                             Nvidia's Vera CPU delivers twice the performance of Intel and AMD chips in AI agent workloads, Modal claims. \n                                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/nvidia-vera-cpu-deployed-at-ai-startup-modal-alongside-existing-x86-fleet-internal-testing-showed-2x-throughput-compared-to-amd-and-intel",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-20-007",
+    "date": "2026-10-20",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel asks FCC for waiver to buy foreign robots",
+    "summary": "\n                             Intel is concerned that the sweeping ban on foreign-made robots means that it could not update or maintain its fleet of AGVs. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-asks-fcc-for-waiver-to-buy-foreign-robots-chipmakers-automated-guided-vehicles-could-run-afoul-of-agencys-sweeping-robot-ban",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-10-20-008",
+    "date": "2026-10-20",
+    "companies": [
+      "skhynix",
+      "meta"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Electronics hobbyist converts $120 DDR5 SODIMM kit into ‘$1000’ desktop kit to fight RAM crisis",
+    "summary": "\n                             A hobbyist converted a SK hynix 2x 16GB DDR5-5600 SODIMM kit they got off Facebook Marketplace for $120 into a DDR5-7800 desktop kit. \n                                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ddr5/electronics-hobbyist-converts-usd120-ddr5-sodimm-kit-into-usd1000-desktop-kit-to-fight-ram-crisis-ics-from-sk-hynix-ddr5-5600-16gb-modules-used-to-create-ddr5-7800-desktop-sticks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-009",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Pick up this DDR5 gaming PC for only $899",
+    "summary": "\n                             Pick up a brand-new iBuypower Slate PC for just $899, a great entry-level gaming PC option for 1080p gaming. \n                                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/pick-up-this-ddr5-gaming-pc-for-only-usd899-save-usd300-off-the-ibuypower-slate-pc-with-10gb-of-graphics-vram",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-010",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukraine rescues wounded soldier using drone in daring 'world's first' UAV evacuation of a human",
+    "summary": "\n                             The Ukrainian military is claiming a world’s first after using an unmanned drone to rescue an injured soldier on the eastern Kharkiv front. \n                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/drones/ukraine-rescues-wounded-soldier-using-hexacopter-drone-in-daring-first-heavy-lift-uav-brought-the-injured-infantryman-11-miles-back-to-safety",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-20-011",
+    "date": "2026-10-20",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "ai_server",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unimicron chairman sees substrate sizes reaching 14x current scale by 2030",
+    "summary": "TPCA Show 2026 officially opened, with Unimicron Chairman Shan-Chieh Chien saying in his opening address that solving the three major challenges facing AI accelerators in high-performance computing (H",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD247/unimicron-substrate-tpca-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-20-012",
+    "date": "2026-10-20",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jensen Huang urges Germany to embrace physical AI at Berlin summit",
+    "summary": "German Chancellor Friedrich Merz and Nvidia CEO Jensen Huang urged German businesses to embrace AI at an industry summit in Berlin on October 19, aiming to revive the economy and modernize industry. H",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD246/nvidia-germany-jensen-huang-berlin-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-013",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Global Tek's new Thailand plant enters trial production in 3Q26, targeting AI liquid cooling and aerospace opportunities",
+    "summary": "Global Tek Industrial held an opening ceremony on the 20th for its Super Smart Manufacturing Park in Chonburi, Thailand. Spanning 177,600 square meters, the facility is the group's largest single prod",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD244/production-liquid-cooling-2026-plant-growth.html?chid=10",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-20-014",
+    "date": "2026-10-20",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel requests FCC waiver from US foreign robot ban, citing impact on US chipmaking",
+    "summary": "Intel has asked the Federal Communications Commission (FCC) for a waiver to the US ban on advanced foreign robots, citing worries that its machines will not receive equipment updates, which could hind",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020VL221/intel-ban-fcc-robot-security.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-20-015",
+    "date": "2026-10-20",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chief Telecom starts NT$3.3 billion AI data center in Taiwan",
+    "summary": "Chief Telecom broke ground on a new AI data center at the Central Taiwan Science Park on the 20th, committing approximately NT$3.3 billion (US$101.7 million) to a facility expected to begin operations",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD243/chief-telecom-data-center-taiwan-infrastructure-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-016",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI server demand lifts Tongtai drilling orders through 2027",
+    "summary": "Tongtai Machine &amp; Tool said it had order visibility for its printed circuit board (PCB) drilling equipment through the end of 2027 as AI infrastructure demand increased pressure on high-end board ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD241/tongtai-demand-2027-ai-server-pcb.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ase-2026-10-20-017",
+    "date": "2026-10-20",
+    "companies": [
+      "ase",
+      "powertech"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AUO selects glass substrate specs for semiconductor processes, not size rivalry",
+    "summary": "AUO is tailoring its glass core substrate specifications specifically to semiconductor process requirements rather than competing on panel dimensions with Innolux, according to Chairman and CEO Paul P",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD237/auo-substrate-lcd-packaging-osat.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-018",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan anchors US chip revival, SEMICON West spotlights trusted partners",
+    "summary": "SEMICON West 2026 wrapped up in San Francisco last week, with US officials, industry executives, equipment and materials suppliers, and workforce-development partners repeatedly highlighting Taiwan as",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD231/taiwan-semicon-west-2026-investment-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-019",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "inventory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI servers drive TVS and ESD demand for Yea Shin Tech",
+    "summary": "AI servers are driving demand for power components, transient voltage suppressors (TVS), and electrostatic discharge (ESD) protection devices. Yea Shin Technology, a subsidiary of Eris Technology, wil",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD239/demand-esd-capacity-power-components-eris-tech.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-020",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Thermaltake expands AI workstation lineup on edge AI demand",
+    "summary": "Thermaltake is targeting the growing edge AI market with a new workstation lineup. Chairman Kenny Lin said the company has transformed from a gaming components maker into an AI PC and workstation syst",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD232/thermaltake-workstation-gaming-market-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-10-20-021",
+    "date": "2026-10-20",
+    "companies": [
+      "cxmt",
+      "apple",
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung's HBM4 supply lock-in exposes limits of China's CXMT as Apple and Tesla seek DRAM alternatives",
+    "summary": "Samsung Electronics is expected to enter 2027 with approximately 80% of its planned memory production secured under long-term contracts, reinforcing its pricing position while China's ChangXin Memory ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020VL218/samsung-cxmt-dram-hbm4.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-022",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Daeduck Electronics targets 2029 ceramic substrates for AI packaging",
+    "summary": "South Korean substrate maker Daeduck Electronics is accelerating development of ceramic core substrates (CCS) to address warpage and thermal-management challenges as AI semiconductor packages grow lar",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD235/substrate-packaging-development-production-performance.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-023",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Genius Electronic Optical partners with 3M on EBO development",
+    "summary": "Genius Electronic Optical (GSEO), a leading manufacturer of optical lenses and precision optical components, has entered into a strategic partnership with 3M to develop, manufacture and expand product",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD236/3m-gseo-partnership-production-optical-components.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-024",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hygon's revenue jumps 58% on AI chip demand, but growth slows amid 51% stock slump",
+    "summary": "China's Hygon Information Technology reported a 57.58% increase in revenue for the first nine months of 2026, reflecting sustained demand for domestic high-performance processors and AI computing chip",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020VL213/revenue-ai-chip-demand-earnings-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-025",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Powertip Technology transitions into a solutions provider as demand and costs rise",
+    "summary": "Powertip Technology is transitioning from a module design and supply company to a solutions provider. The company has seen rising demand in the first half of 2026 as the electronics and manufacturing ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261020PD233/powertip-technology-design-demand-manufacturing-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-026",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Region Group Stapled Units (SCPAF) Shareholder/Analyst Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955380-region-group-stapled-units-scpaf-shareholder-analyst-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-027",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Aker BP: Overlift Should Mean A Q4 Headwind",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955469-aker-bp-overlift-should-mean-a-q4-headwind?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-028",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "OVH Groupe S.A. (OVHFF) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955427-ovh-groupe-s-a-ovhff-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-029",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Equifax Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955488-equifax-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-030",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AGNC Investment Corp. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955487-agnc-investment-corp-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-031",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump Administration's Last-Ditch Effort To Avoid A Global Diesel And Energy Crisis Failed",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955413-trump-administrations-last-ditch-effort-to-avoid-global-diesel-and-energy-crisis-failed?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-032",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hasbro, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955486-hasbro-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-033",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "F.N.B. Corporation 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955484-f-n-b-corporation-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-034",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Genuine Parts Company 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955483-genuine-parts-company-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-035",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RTX Corporation 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955482-rtx-corporation-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-036",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "System Integrator Informs About Another 10-15% Hike In DDR5 Memory Price, Leading To Cancellation Of Existing Orders",
+    "summary": "Another price hike has been reportedly implemented for DDR5 RAM, forcing vendors to pass the costs on. Stince Built Says Another 10-15% Price Hike Has Been Implemented in DDR5 Memory, and a RAM Vendor",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/system-integrator-informs-about-another-10-15-hike-in-ddr5-memory-price/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-10-20-037",
+    "date": "2026-10-20",
+    "companies": [
+      "tsmc",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Built Its First Nova Lake 8+16 Samples On Its Own 18A-P With Backside Power, Then Handed The Compute Tiles To TSMC’s N2P",
+    "summary": "Intel was testing early Nova Lake CPUs on its own 18A-P process technology before moving the 8+16 compute tiles to TSMC's N2P. Intel Nova Lake 8+16 Compute Tile Had ES1 Samples Ready on 18A-P Node Bef",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-built-first-nova-lake-samples-on-18a-p-then-handed-compute-tiles-to-tsmc-n2p/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-10-20-038",
+    "date": "2026-10-20",
+    "companies": [
+      "dell",
+      "lenovo",
+      "hp"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Major PC Brands Pivot To Enterprise Customers To Secure Profitability By Locking In Long-Term Memory Deals For 2027 As Soaring Prices Deter Consumers",
+    "summary": "Skyrocketing RAM prices have made PCs go from a value proposition to an unaffordable luxury as consumers are taking a backseat toward upgrading. As a result, brands like Lenovo, HP, and Dell suffered ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/pc-brands-pivot-b2b-long-term-memory-deals-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-039",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "An Explosive Conspiracy Theory Suggests China’s MiniMax “Sniped” Artificial Analysis’ Evaluation Queries To Make Its Otherwise Shitty M3.1 Flash Model Look Good",
+    "summary": "Every day brings something new in the AI world, including conspiracy theories that are batshit crazy. One conspiracy theory about MiniMax's new M3.1 Flash model, however, is not crazy at all. In fact,",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/an-explosive-conspiracy-theory-suggests-chinas-minimax-sniped-artificial-analysis-evaluation-queries-to-make-its-otherwise-shitty-m3-1-flash-model-look-good/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-20-040",
+    "date": "2026-10-20",
+    "companies": [
+      "nvidia",
+      "aws"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone",
+    "summary": "The AI race is forcing technology titans like Amazon to buy NVIDIA’s GB300&#160;racks faster than they can be powered on, with a new report stating that the e-commerce giant received “$5 billion in de",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amazon-free-cash-flow-negative-ai-infrastructure-spending/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-20-041",
+    "date": "2026-10-20",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google Cloud says a 'power event' caused today's outage",
+    "summary": " Fells London zone, taking banks, parcel firm and property sites with it – and recovery is 'tentatively' due by 1300 UTC ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-042",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tenstorrent Series E raises $1.5bn",
+    "summary": "<p>Tenstorrent, the AI chips-to-computers manufacturer, has raised $1.5 billion in a Series E round at a $6.2 billion post-money valuation. The round was led by Trace Capital and Innovation X, with [&",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/tenstorrent-series-e-raises-1-5bn-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-043",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Q2 EDA revenues up 12.2% YoY",
+    "summary": "<p>Electronic System Design (ESD) industry revenue increased 12.2% to $5,710.8 million in Q2, up from the $5,089.4 million of Q2 2025, says the ESD Alliance. “The electronic design automation industry",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/q2-eda-revenues-up-12-2-yoy-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-10-20-044",
+    "date": "2026-10-20",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "AdapTronics wins Infineon’s humanoid robotics startup challenge",
+    "summary": "<p>AdapTronics from Italy has won the Infineon Startup Challenge 2026 focused on key technologies for humanoid robots. COSMzoke of Korea was runner up and TECHiFAB from Germany third. The three [&#823",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/adaptronics-wins-infineons-humanoid-robotics-startup-challenge-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-045",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Datacentre CPU growth outpaces GPUs and ASICs",
+    "summary": "<p>Agentic AI is reviving data center CPU demand, with CPU revenues up 35%, ahead of AI ASICs (+23%) and GPUs (+13%), according to the Data Centers Processor Market Monitor, Q3 [&#8230;]</p>\n<p>The po",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/descent-cpus-outpace-gpus-and-asics-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-046",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "positive",
+    "title": "Hyperscaler CSPs pile on the capex",
+    "summary": "<p>Combined Capex among the world’s nine leading CSPs (cloud service providers) is projected to surge 106% YoY to $957 billion in 2026 and to $1.5 trillion in 2027, says TrendForce. [&#8230;]</p>\n<p>T",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/hyperscaler-csps-pile-on-the-capex-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intel-2026-10-19-001",
     "date": "2026-10-19",
     "companies": [
@@ -769,6 +1641,157 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/q3-pc-units-down-22-4-yoy-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-19-041",
+    "date": "2026-10-19",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+    "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germanyâs AI roadmap, and in partic",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-10-19-042",
+    "date": "2026-10-19",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at JÃ¼lich Supercomputing Centre",
+    "summary": "NVIDIA today announced a record-breaking quantum computing simulation on JUPITER, Europeâs first exascale supercomputer, allowing researchers to fully explore and validate magic state cultivation â",
+    "sources": []
+  },
+  {
+    "id": "google-2026-10-19-043",
+    "date": "2026-10-19",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Partnering to strengthen the grid and support local communities in Arkansas",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp\">Since we first announced plans to build in West Memphis, Arkansas, we’ve continued",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-10-19-044",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Agentic AI Explores Heterogeneous Chip and Interconnect Architectures (Argonne, UIUC)",
+    "summary": "<p>Researchers at Argonne National Laboratory and the University of Illinois Urbana-Champaign published a technical paper titled “Agentic AI for Heterogeneous System Design Across Chip, Scale-Up, and ",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/agentic-ai-explores-heterogeneous-chip-and-interconnect-architectures-argonne-uiuc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "applied_materials-2026-10-19-045",
+    "date": "2026-10-19",
+    "companies": [
+      "applied_materials"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+    "summary": "\n\t\t\t\t\t\t<p>Following the unveiling of its EPIC Center, Applied Materials revealed strong financial projections. We look at how it all ties together and feature a new video interview with CEO Gary Dicke",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-10-19-046",
+    "date": "2026-10-19",
+    "companies": [
+      "arm",
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
+    "summary": "\n\t\t\t\t\t\t<p>The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm.</p>\n<p>The post <a",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-19-047",
+    "date": "2026-10-19",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "You can now modify the vBIOS on Nvidia gaming GPUs without flashing thanks to a solo developer’s project",
+    "summary": "\n                             Flashing the VBIOS is risky and can brick a GPU, but this VBIOS configurator uses an Nvidia register key to override VBIOS settings without flashing. \n                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpu-drivers/vbios-on-rtx-cards-can-be-modified-without-flashing-thanks-to-a-solo-developers-project-provides-a-ui-for-quick-vbios-configuration",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-048",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stupid Never Dies Review – A Chaotic Action Roguelite That Sometimes Stumbles",
+    "summary": "In an era for the gaming industry when the aesthetics of AAA video games are becoming increasingly homogenized, titles that attempt to do something different have no trouble standing out. This has lon",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/review/stupid-never-dies-review-a-gloriously-chaotic-action-roguelite-worth-the-growing-pains/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-049",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amazon makes vague commitment to unproven nuclear tech to power Indiana datacenters",
+    "summary": " Partner X-energy has not built a single working reactor yet ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/10/19/amazon-makes-vague-commitment-to-unproven-nuclear-tech-to-power-indiana-datacenters/5303974",
         "type": "rss"
       }
     ]
