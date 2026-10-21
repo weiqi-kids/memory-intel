@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-21",
+  "date_range": {
+    "start": "2026-10-15",
+    "end": "2026-10-21"
+  },
+  "generated_at": "2026-10-21T13:41:09.383275Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "asml-2026-10-15-013",
+      "date": "2026-10-15",
+      "title": "ASML reports record $13 billion quarter, vows to expand capacity as demand for lithography equipment soars",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "dell",
+      "company_b": "nvidia",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "dell",
+      "company_b": "microsoft",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capacity": {
+      "this_week": 36,
+      "last_week": 23,
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": 0.29
+    },
+    "industry_general": {
+      "this_week": 153,
+      "last_week": 182,
+      "week_over_week_change": "-16%",
+      "sentiment_this_week": 0.08
+    },
+    "capex": {
+      "this_week": 19,
+      "last_week": 19,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.01
+    },
+    "earnings": {
+      "this_week": 66,
+      "last_week": 67,
+      "week_over_week_change": "-1%",
+      "sentiment_this_week": 0.08
+    },
+    "ddr5": {
+      "this_week": 8,
+      "last_week": 10,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": -0.03
+    },
+    "guidance": {
+      "this_week": 7,
+      "last_week": 10,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.03
+    },
+    "advanced_packaging": {
+      "this_week": 7,
+      "last_week": 10,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 14,
+      "last_week": 22,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": 0.2
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 9,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.33
+    },
+    "inventory": {
+      "this_week": 6,
+      "last_week": 11,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": 0.14
+    },
+    "hbm": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.2
+    },
+    "shortage": {
+      "this_week": 6,
+      "last_week": 12,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.25
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "samsung": {
+      "event_count": 13,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "nvidia": {
+      "event_count": 40,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "apple": {
+      "event_count": 7,
+      "sentiment_avg": -0.04,
+      "rank": 7
+    },
+    "synopsys": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 8
+    },
+    "microsoft": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 10
+    },
+    "asml": {
+      "event_count": 6,
+      "sentiment_avg": 0.13,
+      "rank": 11
+    },
+    "tsmc": {
+      "event_count": 18,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "micron": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 13
+    },
+    "intel": {
+      "event_count": 29,
+      "sentiment_avg": 0.18,
+      "rank": 2
+    },
+    "skhynix": {
+      "event_count": 10,
+      "sentiment_avg": 0.1,
+      "rank": 5
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 22
+    },
+    "screen": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 14
+    },
+    "infineon": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "dell": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "hp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "lenovo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "google": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ase": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 23
+    },
+    "qualcomm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "cxmt": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 18
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "meta": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "powertech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 27
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 328,
+        "last": 362,
+        "change_pct": -9.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-15",
+      "event_count": 71,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 55,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 26,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 13,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 49,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 56,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 58,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-15 ~ 2026-10-21）共 328 則事件，重點為「ASML reports record $13 billion quarter, vows t...」。CXMT情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "三星",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 40 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
