@@ -1,0 +1,370 @@
+{
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T13:42:54.415349Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-10-22-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "psmc-2026-10-22-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "PSMC raises mature-node prices again, targets 20% increase in 2027",
+      "companies": [
+        "psmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "ai_server",
+        "earnings",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.17
+      },
+      "source_url": "https://www.digitimes.com/news/a20261022PD248/psmc-2027-capacity-2026-demand.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-10-22-047",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Samsung’s HBM Base Die Development Is Benefitting Its 2nm 5G Modem Advancements, And Could Be The Catalyst For Qualcomm Finding A Foundry Alternative To TSMC",
+      "companies": [
+        "tsmc",
+        "qualcomm",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm"
+        ],
+        "suppliers": [
+          "tsmc",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-hbm-base-die-2nm-5g-modem-qualcomm-tsmc-alternative/"
+    },
+    {
+      "rank": 4,
+      "event_id": "ti-2026-10-22-025",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Texas Instruments posts rising Q3 sales across data centers, cars, industry",
+      "companies": [
+        "ti"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261022VL219/texas-instruments-sales-data-growth-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-10-22-050",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
+      "companies": [
+        "samsung",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.28,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.22,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.34,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 50,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 35,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 6
+      },
+      {
+        "id": "micron",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "google",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "earnings",
+        "count": 16
+      },
+      {
+        "id": "capacity",
+        "count": 6
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 84,
+    "too_old": 66,
+    "gate1_blocked": 44,
+    "gate2_blocked": 49,
+    "passed": 59,
+    "pass_rate": "27.1%",
+    "gate2_block_rate": "22.5%",
+    "gate2_samples": [
+      "[Interview] A Rocket Toward Her Future: Eva Neill’s Career Journey at Samsung",
+      "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
+      "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "NVIDIA Open Models Power a New Wave of European Public Sector Projects"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 50 則事件，焦點為輝達、美光、超微相關動態：「Leading European Financial Services Organizations Embrace...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Leading European Financial Services Organizations Embrace Open Models to Buil...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "PSMC raises mature-node prices again, targets 20% increase in 2027（產能、資本支出、AI 伺服器、財報、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

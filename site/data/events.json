@@ -1,5 +1,940 @@
 [
   {
+    "id": "intel-2026-10-22-001",
+    "date": "2026-10-22",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+    "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like â built on NVIDIA accelerated computing, powered by open weight models ",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-10-22-002",
+    "date": "2026-10-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
+    "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of th",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-10-22-003",
+    "date": "2026-10-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Pioneers Across Europe Deploy NVIDIA Earth-2 Open Models to Power Real-World Weather and Climate Prediction",
+    "summary": "Weather forecasts shape more than daily plans; timely weather information is crucial for energy producers, insurers and transport operators to plan around changing conditions. A global forecast can sh",
+    "sources": []
+  },
+  {
+    "id": "google-2026-10-22-004",
+    "date": "2026-10-22",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "We are working with Voltus to build a 1-gigawatt virtual power plant.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp\">Google and Voltus are building a 1-gigawatt virtual power plant ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-10-22-005",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography",
+    "summary": "<p>Why better models, richer metrology, explainable AI, and cross-industry collaboration must come together to extend semiconductor scaling.</p>\n<p>The post <a href=\"https://semiengineering.com/beyond",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/beyond-the-epe-budget-building-the-next-generation-of-computational-lithography/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-006",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Scaling Moves Beyond The Transistor",
+    "summary": "<p>SEMICON West 2026: Advanced packaging, photonics, test, and AI are increasingly intertwined; very different conversations ahead. </p>\n<p>The post <a href=\"https://semiengineering.com/chip-scaling-m",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-007",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
+    "summary": "<p>A process sequence for SRAM and logic that delivers higher performance through larger effective channel width and improved electrostatics at smaller nodes.</p>\n<p>The post <a href=\"https://semiengi",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-008",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
+    "summary": "<p>Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. </p>\n<p>The post <a href=\"https://semiengineer",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-009",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Breaks When Packaging Moves From Wafer To Panel?",
+    "summary": "<p>Engineers are discovering many things they thought were process assumptions were actually wafer assumptions.</p>\n<p>The post <a href=\"https://semiengineering.com/what-breaks-when-packaging-moves-fr",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/what-breaks-when-packaging-moves-from-wafer-to-panel/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-010",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Foundries And OSATs Increasingly Overlap",
+    "summary": "<p>Advanced packaging growth and capacity constraints are pushing more onto OSATs.</p>\n<p>The post <a href=\"https://semiengineering.com/foundries-and-osats-increasingly-overlap/\">Foundries And OSATs I",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/foundries-and-osats-increasingly-overlap/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-011",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Goodram Validates DRAM and SSD Reliability in Europe",
+    "summary": "\n\t\t\t\t\t\t<p>Explore Goodram’s European approach to DRAM and SSD testing, from burn-in to platform validation, for reliable industrial and embedded systems.</p>\n<p>The post <a href=\"https://www.eetimes.c",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/how-goodram-validates-dram-and-ssd-reliability-in-europe/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-012",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Everspin Expands MRAM Push into AI Servers, Data Centers, Satellite Systems",
+    "summary": "\n\t\t\t\t\t\t<p>In an exclusive interview, Everspin CEO Sanjeev Aggarwal discusses MRAM opportunities amid NOR flash supply constraints.</p>\n<p>The post <a href=\"https://www.eetimes.com/everspin-expands-mra",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/everspin-expands-mram-push-into-ai-servers-data-centers-satellite-systems/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-22-013",
+    "date": "2026-10-22",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron pulls the plug on future 4F² DRAM after two decades of research in dramatic shift",
+    "summary": "\n                             Micron believes that more advanced process technologies will present more benefits in terms of DRAM bit density than smaller memory cells. \n                              ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/micron-pulls-the-plug-on-future-4f2-dram-after-two-decades-of-research-in-dramatic-shift-company-says-architecture-offers-no-meaningful-density-advantages-increases-manufacturing-complexity-and-costs-and-has-fundamental-scaling-limitations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-014",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LTO roadmap extends to 365 TB per cartridge as tape storage refuses to die",
+    "summary": "\n                             Despite all odds, the AI boom is increasing relevance of tape storage as technology enables cheap storage with zero power consumption in idle and ultimate security with a",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/storage/lto-roadmap-extends-to-365-tb-per-cartridge-as-tape-storage-refuses-to-die-25-year-old-format-sees-400x-capacity-increase-without-changing-form-factor",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-10-22-015",
+    "date": "2026-10-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save $238 on this 9800X3D combo deal with 32GB DDR5 that lets you start a 4K gaming PC build for just over $1,000",
+    "summary": "\n                             This Newegg combo deal combines the AMD Ryzen 7 9800X3D, 32GB of fast DDR5 RAM, and a Gigabyte AM5 X870E motherboard for $1,029.99, saving you over $238 in total. \n      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/save-usd238-on-this-9800x3d-combo-deal-with-32gb-ddr5-that-lets-you-start-a-4k-gaming-pc-build-for-just-over-usd1-000-newegg-bundle-ships-this-powerhouse-amd-cpu-with-a-gigabyte-x870e-am5-motherboard-and-a-free-240mm-aio-cooler",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-10-22-016",
+    "date": "2026-10-22",
+    "companies": [
+      "meta",
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google’s TPUs for AI workloads now run in Meta's data centers",
+    "summary": "\n                             Google’s TPUs now serve AI in production at Meta, through new open-source engines that run PyTorch models natively on the chips. \n                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/googles-tpus-for-ai-workloads-now-run-in-at-metas-data-centers-tpus-sold-to-external-customers-for-the-first-time-threaten-nvidias-market-dominance",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-22-017",
+    "date": "2026-10-22",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Micron overhauls pay in Taiwan as unions push for profit sharing",
+    "summary": "Micron is overhauling how it pays employees, promising quarterly profit-sharing bonuses and better pay and benefits for its Taiwan staff. The changes follow a labor dispute with the company's unions i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022VL223/micron-taiwan-labor-staff-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "psmc-2026-10-22-018",
+    "date": "2026-10-22",
+    "companies": [
+      "psmc"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "ai_server",
+      "earnings",
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PSMC raises mature-node prices again, targets 20% increase in 2027",
+    "summary": "Powerchip Semiconductor Manufacturing (PSMC) reported third-quarter 2026 revenue of NT$21.3 billion (US$654.3 million), up 23% quarter-over-quarter, as higher foundry prices, a stronger average sellin",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022PD248/psmc-2027-capacity-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-019",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan-France semiconductor alliance strengthens with CPU pact between SiPearl and Egis Group",
+    "summary": "Highlighting the deepening industrial synergies between Europe and Asia, the Egis Group TechDay Taiwan-France Strategic CPU Partnership Signing Ceremony hosted the official signing between Egis Group ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022VL222/alliance-industrial-taiwan-europe-cpu.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-020",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "ADEPT Taiwan holds inaugural in-person meeting as PLP and substrate standardization efforts gain momentum",
+    "summary": "The Advanced Electronic Packaging Technology (ADEPT) committee under the Global Electronics Association continues to expand its presence in Taiwan.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022PD241/taiwan-substrate-packaging-hpc-development.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-021",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "MIPI expands beyond smartphones into AR glasses and humanoid robots",
+    "summary": "The MIPI Alliance held this year's MIPI Demo Day Taipei at the Grand Hyatt Taipei this week, where 16 member companies demonstrated working products to more than 200 developers and engineers. Founded ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022PD243/ar-glasses-taipei-display-camera-industrial.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-10-22-022",
+    "date": "2026-10-22",
+    "companies": [
+      "infineon",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Infineon, Nvidia push gallium nitride power for 800-volt AI data centers",
+    "summary": "Infineon Technologies is expanding its work with Nvidia on 800-volt direct current power architectures for AI data centers, with a focus on gallium nitride (GaN) chips in the intermediate bus converte",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022VL220/infineon-data-gallium-gan-2025.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-023",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Chi Yi Hsin Technology's Arizona fab projects drive order backlog to NT$4.476B",
+    "summary": "As the global foundry leader accelerates construction of advanced-process and advanced-packaging facilities in the US, semiconductor facility engineering integrator Chi Yi Hsin Technology is expanding",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022PD235/fab-arizona-revenue-materials-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-024",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tesla's Megapack boom meets AI power crunch, but margin gains raise questions",
+    "summary": "While Tesla is expanding its ambitions in autonomous transportation and embodied AI, developments in its energy-storage business are drawing attention following a mixed set of financial results in the",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022VL215/tesla-electricity-infrastructure-transportation-demand-capacity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-10-22-025",
+    "date": "2026-10-22",
+    "companies": [
+      "ti"
+    ],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Texas Instruments posts rising Q3 sales across data centers, cars, industry",
+    "summary": "Texas Instruments reported strong revenue growth in its third-quarter earnings call due to strong demand across its industrial, automotive, and data center businesses. The company said it is facing a ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022VL219/texas-instruments-sales-data-growth-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-10-22-026",
+    "date": "2026-10-22",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung reportedly overhauls DRAM, NAND R&amp;D incentives to retain talent and accelerate next-gen memory chips",
+    "summary": "Samsung Electronics is reportedly restructuring its semiconductor research operations and performance-based compensation system to accelerate next-generation DRAM and NAND flash development, bringing ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022VL214/samsung-dram-incentives-nand-talent.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-027",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Taiwan's Aero Win expands role in next-gen engine programs amid global aircraft backlog",
+    "summary": "Taiwan's aerospace components maker Aero Win Technology is positioning itself for a new growth cycle, capitalizing on robust aircraft engine demand while expanding its role in next-generation developm",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022PD230/taiwan-aircraft-production-development-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-028",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "China's L3 autonomous driving adoption tipped to top 35% by 2030, raising stakes for automakers",
+    "summary": "Level 3 (L3) autonomous driving penetration in China is forecast to exceed 35% by 2030, supported by falling sensor costs, advances in AI models, and tighter safety regulations. The forecast comes as ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022VL217/autonomous-driving-2030-automakers-2026-vehicle.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-029",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Terafab approached South Korean suppliers first",
+    "summary": "Elon Musk is moving ahead with Terafab, as Tesla and SpaceX reportedly negotiate with about 10 South Korean semiconductor materials, components, and equipment suppliers. The discussions cover process ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022PD229/elon-musk-equipment-tesla-materials-spacex.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-22-030",
+    "date": "2026-10-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside Nvidia DSX POD: How a factory-built AI data center could go live in 14 days",
+    "summary": "Nvidia used its first GTC conference in Berlin to present a factory-style approach to AI, framing AI production as an industrial process. CEO Jensen Huang introduced the DSX full-stack architecture an",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261022PD232/nvidia-data-center-gtc-berlin-production.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-031",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hemnet Group AB (publ) (HMNTY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956390-hemnet-group-ab-publ-hmnty-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-032",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ipsen S.A. (IPSEY) Q2 2026 Sales/Trading Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956324-ipsen-s-a-ipsey-q2-2026-sales-trading-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-033",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Netflix: Earnings Are Growing, But The Market Doesn't Care",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956335-netflix-earnings-are-growing-but-market-doesnt-care?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-034",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "IG Group Holdings plc (IGGHY) Shareholder/Analyst Call - Slideshow",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956385-ig-group-holdings-plc-igghy-shareholder-analyst-call-slideshow?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-035",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "M/I Homes: High Mortgage Rates Cloud Earnings (Rating Downgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956334-mi-homes-stock-high-mortgage-rates-cloud-earnings-rating-downgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-036",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Live Oak Bancshares, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956384-live-oak-bancshares-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-037",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ardagh Metal Packaging S.A. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956383-ardagh-metal-packaging-s-a-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-038",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Why Stocks May Rally If Trump Loses Congress",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4955963-why-stocks-may-rally-if-trump-loses-congress?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-039",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Palo Alto Networks: 34% Growth That's Really 15%, At 84x Earnings",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956330-palo-alto-networks-34-percent-growth-thats-really-15-percent-at-84x-earnings?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-040",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RELX PLC (RELX) Q3 2026 Sales/Trading Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956246-relx-plc-relx-q3-2026-sales-trading-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-041",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Houlihan Lokey Q2 Earnings Preview: A Resilient Franchise With Something To Prove",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956262-houlihan-lokey-q2-earnings-preview-resilient-franchise-with-something-to-prove?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-042",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ares Management: Q3 Will Look Slower, The Earnings Engine Is Not",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956326-ares-management-q3-will-look-slower-the-earnings-engine-is-not?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-043",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Palantir Reports On Nov. 2: Here's What I'd Do If The Stock Drops",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956344-palantir-reports-nov-2-heres-what-id-do-if-the-stock-drops?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-044",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASX Limited (ASXFY) Shareholder/Analyst Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956162-asx-limited-asxfy-shareholder-analyst-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-045",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "TTM Technologies, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956368-ttm-technologies-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-10-22-046",
+    "date": "2026-10-22",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lisa Su Wanted Ryzen 7 5800X3D As The “Final Gift” For AM4 Owners, Reveals AMD’s Travis Kirsch",
+    "summary": "The interview with the Japanese publication revealed some interesting details regarding AMD's CPU product stack. Interview Reveals AMD CEO, Lisa Su, Revived Ryzen 7 5800X3D as a Final Gift for Users W",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/lisa-su-wanted-ryzen-7-5800x3d-as-the-final-gift-for-am4-owners/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-10-22-047",
+    "date": "2026-10-22",
+    "companies": [
+      "tsmc",
+      "qualcomm",
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s HBM Base Die Development Is Benefitting Its 2nm 5G Modem Advancements, And Could Be The Catalyst For Qualcomm Finding A Foundry Alternative To TSMC",
+    "summary": "The M2800 5G modem is moving away from Samsung’s 4nm process to its advanced 2nm one, marking the first time in the Korean giant’s history of upgrading the lithography for its baseband chip. However, ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-hbm-base-die-2nm-5g-modem-qualcomm-tsmc-alternative/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-10-22-048",
+    "date": "2026-10-22",
+    "companies": [
+      "dell",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alienware Area 51 Pre-Built Owner Finds That Dell Locked The Ryzen 9 9950X3D To Work With The Motherboard Only, Preventing Him From Swapping Out Parts To Custom PC",
+    "summary": "The Ryzen 9 9950X3D&#160;would have been the perfect addition to deliver a multi-core and gaming performance boost thanks to sporting 16 cores, and AMD’s 3D V-Cache technology, assuming this particula",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/alienware-area-51-ryzen-9-9950x3d-locked-dell-motherboard/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-22-049",
+    "date": "2026-10-22",
+    "companies": [
+      "micron",
+      "cxmt",
+      "ymtc"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "While Micron Calls The 4F² Memory Cell Architecture A “Myth,” YMTC Has Followed CXMT In Lining Up A Prototype That Operates At 9,600 MT/s",
+    "summary": "Micron has just taken a cudgel to the memory cell miniaturization advantages that supposedly ensue from a 4F² architecture, even as YMTC prepares to follow CXMT's lead by going all in on this technolo",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/while-micron-calls-the-4f%c2%b2-memory-cell-architecture-a-myth-ymtc-has-followed-cxmt-in-lining-up-a-prototype-that-operates-at-9600-mt-s/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-10-22-050",
+    "date": "2026-10-22",
+    "companies": [
+      "samsung",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain",
+    "summary": " Signs Samsung to build substrates, bolsters spend with other players ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-10-21-001",
     "date": "2026-10-21",
     "companies": [
@@ -1024,6 +1959,177 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-stent-chinese-semiconductor-companies-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lam_research-2026-10-21-059",
+    "date": "2026-10-21",
+    "companies": [
+      "lam_research"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lam Research Corporation Reports Financial Results for the Quarter Ended September 27, 2026",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-10-21-060",
+    "date": "2026-10-21",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab",
+    "summary": "\n                             Intel makes progress on its manufacturing expansion in Arizona and Ohio as it continues to expand advanced semiconductor manufacturing capacity in the U.S. \n             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-10-21-061",
+    "date": "2026-10-21",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASML and other critical semiconductor equipment suppliers expedite shipments to Musk's Terafab",
+    "summary": "\n                             Elon Musk says ASML and other semiconductor equipment suppliers are expediting deliveries for Terafab, as Tesla and SpaceX target volume chip production in Texas by late ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-asml-and-other-critical-semiconductor-equipment-suppliers-will-expedite-shipments-to-terafab-facility-targets-volume-chip-production-by-q3-q4-2028-in-highly-aspirational-timeline",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-062",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump announces mandate forcing AI data centers to pay energy dividends to the local community",
+    "summary": "\n                             Trump's latest post on Truth Social announces his plans to make data centers more popular among local communities. \n                                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/trump-announces-mandate-for-data-centers-to-pay-dividends-to-the-local-community-hopes-to-win-more-data-center-supporters-through-dividend-scheme",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-10-21-063",
+    "date": "2026-10-21",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Qualcomm to cut jobs globally in \"performance-based\" layoffs, as company pivots to AI data center and edge computing markets",
+    "summary": "\n                             Qualcomm will begin performance-based layoffs worldwide in November as the chipmaker reallocates resources toward AI infrastructure, data centers, automotive, PCs, and ed",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/qualcomm-to-cut-jobs-globally-in-performance-based-layoffs-ceo-says-move-will-build-stronger-performance-culture-as-company-pivots-to-ai-data-center-and-edge-products",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-064",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FADU puts the filesystem inside the SSD's flash to bypass host CPUs",
+    "summary": "\n                             FADU’s FS-SSD carries NFSv3 file operations inside NVMe commands, letting GPUs, DPUs, and NICs read files without a host file system. \n                                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/fadu-puts-the-filesystem-inside-the-ssds-flash-to-bypass-host-cpus-file-semantic-pcie-6-0-ssd-delivers-460-000-ops-s-to-gpus-and-dpus-samples-due-by-q3-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-065",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "capex",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk Breaks Silence On Plans For A School For 10,000 Robots & Says Terafab Would Probably Rank Among The Top 20 Countries By Economic Value",
+    "summary": "Tesla CEO Elon Musk has outlined plans to build a school for his Optimus robots in order to ensure smooth AI training. Musk discussed the plans during Tesla's third-quarter earnings call and added tha",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/elon-musk-breaks-silence-on-plans-for-a-school-for-10000-robots-says-terafab-would-probably-rank-among-the-top-20-countries-by-economic-value/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-21-066",
+    "date": "2026-10-21",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "hbm",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron’s DDR6 Doubles DDR5 Bandwidth While LPDDR6 Delivers 35% Better Power Efficiency, Both Built On Its Upcoming 1δ DRAM Node, vHBM Goes Vertical & G11 NAND Goes Beyond 400 Layers",
+    "summary": "Micron has showcased its next-gen DRAM and NAND products which will power upcoming client and enterprise solutions while uplifting AI. Micron Pumps Out >35% Efficiency &#38; 2x Bandwidth Bump With Its",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/micron-ddr6-doubles-ddr5-bandwidth-lpddr6-better-power-efficiency-vhbm-vertical-g11-nand-beyond-400-layers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-21-067",
+    "date": "2026-10-21",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Xbox Could Be Worth Up to $150 Billion to Private Equity Buyers, but Microsoft Insists the Division Isn’t for Sale",
+    "summary": "The Xbox buyout rumor that started circulating shortly after Asha Sharma replaced Phil Spencer as the division's Chief Executive Officer has just gotten quite a bit more substantial following a new re",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-150-billion-private-equity-buyers-microsoft-not-for-sale/",
         "type": "rss"
       }
     ]

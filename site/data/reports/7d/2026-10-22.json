@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-22",
+  "date_range": {
+    "start": "2026-10-16",
+    "end": "2026-10-22"
+  },
+  "generated_at": "2026-10-22T13:42:54.565429Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "skhynix-2026-10-16-017",
+      "date": "2026-10-16",
+      "title": "Samsung, SK Hynix aim to ease AI memory bottlenecks with zHBM, HBF",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "dell",
+      "company_b": "nvidia",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "dell",
+      "company_b": "microsoft",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 146,
+      "last_week": 182,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.05
+    },
+    "advanced_packaging": {
+      "this_week": 8,
+      "last_week": 12,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.02
+    },
+    "ddr5": {
+      "this_week": 7,
+      "last_week": 12,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": -0.03
+    },
+    "ai_server": {
+      "this_week": 11,
+      "last_week": 23,
+      "week_over_week_change": "-52%",
+      "sentiment_this_week": 0.11
+    },
+    "earnings": {
+      "this_week": 66,
+      "last_week": 73,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.05
+    },
+    "capacity": {
+      "this_week": 30,
+      "last_week": 28,
+      "week_over_week_change": "+7%",
+      "sentiment_this_week": 0.31
+    },
+    "capex": {
+      "this_week": 16,
+      "last_week": 21,
+      "week_over_week_change": "-24%",
+      "sentiment_this_week": 0.01
+    },
+    "hbm": {
+      "this_week": 10,
+      "last_week": 8,
+      "week_over_week_change": "+25%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_memory": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 12,
+      "week_over_week_change": "-58%",
+      "sentiment_this_week": 0.0
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 10,
+      "week_over_week_change": "-70%",
+      "sentiment_this_week": 0.17
+    },
+    "shortage": {
+      "this_week": 6,
+      "last_week": 12,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.17
+    },
+    "inventory": {
+      "this_week": 7,
+      "last_week": 12,
+      "week_over_week_change": "-42%",
+      "sentiment_this_week": 0.12
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": -0.25
+    }
+  },
+  "company_7d_summary": {
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 9
+    },
+    "nvidia": {
+      "event_count": 41,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "dell": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "hp": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "lenovo": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "google": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "tsmc": {
+      "event_count": 11,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "amd": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 7
+    },
+    "intel": {
+      "event_count": 25,
+      "sentiment_avg": 0.19,
+      "rank": 2
+    },
+    "ase": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "samsung": {
+      "event_count": 15,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "skhynix": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 8
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 23
+    },
+    "asml": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "micron": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "apple": {
+      "event_count": 3,
+      "sentiment_avg": -0.08,
+      "rank": 14
+    },
+    "qualcomm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "cxmt": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 12
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "powertech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    },
+    "infineon": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 15
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 21
+    },
+    "ymtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "psmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.17,
+      "rank": 27
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 28
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 316,
+        "last": 363,
+        "change_pct": -12.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-16",
+      "event_count": 55,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 26,
+      "sentiment_avg": 0.15
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 13,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 49,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 56,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 67,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 50,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-16 ~ 2026-10-22）共 316 則事件，重點為「Samsung, SK Hynix aim to ease AI memory bottlen...」。CXMT情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "微軟",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 41 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
