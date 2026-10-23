@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:18:58.054176Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "qualcomm-2026-10-23-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Two Dollars and a Test Suite",
+      "companies": [
+        "qualcomm",
+        "arm"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.eetimes.com/two-dollars-and-a-test-suite/"
+    },
+    {
+      "rank": 2,
+      "event_id": "tsmc-2026-10-23-022",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及產能"
+      ],
+      "title": "Samsung Orders Equipment For 6,000 More 2nm Wafers A Month At Its Taylor, Texas Fab, Putting 20,000 Within Reach By The Second Half Of 2027",
+      "companies": [
+        "tsmc",
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/samsung-orders-equipment-for-6000-more-2nm-wafers-a-month-at-its-taylor-texas-fab-putting-20000-within-reach-by-the-second-half-of-2027/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-23-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Driehaus Emerging Markets Growth Strategy Q3 2026 Commentary",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://seekingalpha.com/article/4956888-driehaus-emerging-markets-growth-strategy-q3-2026-commentary?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-23-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Celestica's Next Rally Could Start Here (Q3 Earnings Preview)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4956864-celestica-next-rally-could-start-here-q3-earnings-preview?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-23-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Cass Information Systems: Q3 2026 Earnings Beat And Higher Dividend",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4956882-cass-information-systems-3q26-earnings-beat-and-higher-dividend?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 21,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "qualcomm",
+        "count": 1
+      },
+      {
+        "id": "arm",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "ddr5",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 292,
+    "dup_title": 97,
+    "too_old": 71,
+    "gate1_blocked": 46,
+    "gate2_blocked": 41,
+    "passed": 37,
+    "pass_rate": "19.0%",
+    "gate2_block_rate": "21.0%",
+    "gate2_samples": [
+      "[Interview] A Rocket Toward Her Future: Eva Neill’s Career Journey at Samsung",
+      "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
+      "Kazakhstan Expands Compute for Its AI Future",
+      "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為蘋果、高通、ARM相關動態：「Two Dollars and a Test Suite」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Two Dollars and a Test Suite（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung Orders Equipment For 6,000 More 2nm Wafers A Month At Its Taylor, Tex...（產能、資本支出、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,494 @@
 [
   {
+    "id": "qualcomm-2026-10-23-001",
+    "date": "2026-10-23",
+    "companies": [
+      "qualcomm",
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Two Dollars and a Test Suite",
+    "summary": "\n\t\t\t\t\t\t<p>The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping.</p>\n<p>The p",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-23-002",
+    "date": "2026-10-23",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network",
+    "summary": "\n                             A security firm has been able to identify 32 Nvidia Blackwell Ultra B300 AI chips running inside a China Telecom network, but it's unclear where the export-barred compone",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-003",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FCC issues first bans under new chip-level rule",
+    "summary": "\n                             FCC bans a dashcam and wireless video transmitter produced by HiSilicon, a subsidiary of Huawei for containing an AI chip that advertises face detection algorithms. \n    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-004",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deepseek's latest AI model is smarter than ever, but its low running costs come at a price",
+    "summary": "\n                             Deepseek 4.1 Flash 1017 drives cost-per-task further down still — open-weight model is fit for agentic workloads and exceedingly cheap to run \n                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-10-23-005",
+    "date": "2026-10-23",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "China-aligned hackers deploy AI agents in massive ConnectWise supply chain attack",
+    "summary": "\n                             Microsoft says China-aligned Storm-0940 used the ARTEX AI agent framework in the ConnectWise Cloud Backup supply chain attack. \n                                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/cyber-security/microsoft-says-china-aligned-hackers-used-ai-agents-in-connectwise-supply-chain-attack-agents-attempted-sign-ins-at-more-than-2-250-microsoft-365-tenants-with-some-of-the-groups-attacks-reaching-privileged-access-in-under-three-hours",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-10-23-006",
+    "date": "2026-10-23",
+    "companies": [
+      "ti",
+      "amd"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save $450 on this 4K gaming PC with an RTX 5070 Ti and 9800X3D, now $2,549.99",
+    "summary": "\n                             You can save $450 on this 4K-capable gaming machine from Newegg's ABS brand, featuring the powerful RTX 5070 Ti, AMD Ryzen 7 9800X3D, 32GB DDR5, and a 2TB SSD for $2,549.",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd450-on-this-4k-gaming-pc-with-an-rtx-5070-ti-and-9800x3d-now-usd2-549-99-liquid-cooled-abs-stratos-ii-ruby-rig-comes-with-32gb-ddr5-and-a-2tb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-23-007",
+    "date": "2026-10-23",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers",
+    "summary": "\n                             Wolves, who used to live in the forests recently cleared for Google data center development, are now roaming into Finnish villages nearby. \n                              ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-forest-for-ai-data-centers-forest-where-wolf-packs-used-to-live-are-now-an-expanse-of-mud",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-10-23-008",
+    "date": "2026-10-23",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "The original Apple iPod debuted 25 years ago today",
+    "summary": "\n                             On this day in 2001, Apple CEO Steve Jobs unveiled the original iPod. He began the presentation by teasing 'a breakthrough digital device that’s not a Mac.' \n            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/the-original-apple-ipod-debuted-25-years-ago-today-steve-jobs-usd399-device-fit-1-000-songs-into-a-package-the-size-of-a-deck-of-cards-with-5-gigabytes-of-storage",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-009",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "FNDF: Cheap International Stocks Face Three Central Banks And Dollar",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956891-fndf-cheap-international-stocks-face-three-central-banks-and-dollar?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-010",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Driehaus Emerging Markets Growth Strategy Q3 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956888-driehaus-emerging-markets-growth-strategy-q3-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-011",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Celestica's Next Rally Could Start Here (Q3 Earnings Preview)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956864-celestica-next-rally-could-start-here-q3-earnings-preview?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-012",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cass Information Systems: Q3 2026 Earnings Beat And Higher Dividend",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956882-cass-information-systems-3q26-earnings-beat-and-higher-dividend?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-013",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Röko AB (publ) (ROKOF) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956912-roko-ab-publ-rokof-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-014",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Svenska Cellulosa Aktiebolaget SCA (publ) (SCABY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956837-svenska-cellulosa-aktiebolaget-sca-publ-scaby-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-015",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Aeroports de Paris SA (ARRPY) Q3 2026 Sales/Trading Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956805-aeroports-de-paris-sa-arrpy-q3-2026-sales-trading-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-016",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lockheed Martin: Q3 Sparked Euphoria, But Factory Physics Matters More Than Paper Billions",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956880-lockheed-martin-q3-sparked-euphoria-but-factory-physics-matters-more-than-paper-billions?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-017",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bank OZK: Buy Reaffirmed After Q3 Results Support Dividend Strength",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956804-bank-ozk-buy-reaffirmed-after-q3-results-support-dividend-strength?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-018",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "EuroDry: Some Profits Still Remain - Downgrade To Buy",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956879-eurodry-some-profits-still-remain-downgrade-to-buy?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-019",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Heartland Express: The Profits Are Coming From Selling Trucks, Not Hauling Freight",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956877-heartland-express-the-profits-are-coming-from-selling-trucks-not-hauling-freight?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-020",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AngloGold Ashanti: A Free Cash Flow Dividend At 12x Earnings",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4956876-anglogold-ashanti-a-free-cash-flow-dividend-at-12x-earnings?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-021",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PowerSpec G538 Gaming PC Costs Less At $1,099 Than Its Ryzen 5 7500X3D, RX 9060 XT 16 GB And 1 TB SSD Bought Separately",
+    "summary": "For nearly $1,100, you cannot get a better deal than this since the SSD, GPU, and CPU alone cost over $1,100. Micro Center Slashes $600 Off PowerSpec G538 Gaming PC, Featuring Radeon RX 9060 XT 16 GB,",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/powerspec-g538-gaming-pc-with-rx-9060-xt-16-gb-listed-at-1099/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-10-23-022",
+    "date": "2026-10-23",
+    "companies": [
+      "tsmc",
+      "samsung"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung Orders Equipment For 6,000 More 2nm Wafers A Month At Its Taylor, Texas Fab, Putting 20,000 Within Reach By The Second Half Of 2027",
+    "summary": "Semiconductor manufacturing giant Samsung is planning to expand its 2-nanometer production capacity at the Taylor, Texas plant to 6,000 wafers per month. Samsung's Taylor site is part of the firm's ma",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-orders-equipment-for-6000-more-2nm-wafers-a-month-at-its-taylor-texas-fab-putting-20000-within-reach-by-the-second-half-of-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-23-023",
+    "date": "2026-10-23",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Electronics production growth accelerating, says SI",
+    "summary": "<p>Growth in electronics production has been accelerating in 2026, says Semiconductor Intelligence. Three-month-average change versus a year ago for electronics production in the U.S. was 8.1% in Augu",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/electronics-production-growth-accelerating-says-si-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-024",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The AI Race, by imec",
+    "summary": "<p>“The AI race is often framed as a race for bigger models, faster chips and larger datacentres, &#8211; that framing is outdated,” says Patrick Vandenameele (pictured below), CEO of imec, [&#8230;]<",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/the-ai-race-by-imec-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-23-025",
+    "date": "2026-10-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Washington takes stake in fusion company",
+    "summary": "<p>The US government has taken a share in fusion energy company Helios in return for a $175 million Chips Act grant. The grant comes with an additional private investment of [&#8230;]</p>\n<p>The post ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/washington-takes-stake-in-fusion-company-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-10-23-026",
+    "date": "2026-10-23",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "China Q3 phone market down 10% YoY",
+    "summary": "<p>China’s smartphone shipments fell 10% YoY in Q3 2026, marking the lowest Q3 level since 2012, according to Counterpoint Research. Huawei and Apple captured 40% of shipments, widening their lead [&#",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/china-q3-phone-market-down-10-yoy-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intel-2026-10-22-001",
     "date": "2026-10-22",
     "companies": [
@@ -930,6 +1419,213 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-22-051",
+    "date": "2026-10-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+    "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-10-22-052",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Cloud AI to Edge AI: How BIWIN Enables the Next Generation of Storage and Memory Solutions",
+    "summary": "\n\t\t\t\t\t\t<p>See how BIWIN’s SSD, embedded storage, and memory portfolio supports faster, efficient AI from cloud data centers to edge wearables.</p>\n<p>The post <a href=\"https://www.eetimes.com/from-clo",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/from-cloud-ai-to-edge-ai-how-biwin-enables-the-next-generation-of-storage-and-memory-solutions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-053",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deepx Building Open Software Ecosystem to Scale Physical AI Beyond the Data Center",
+    "summary": "\n\t\t\t\t\t\t<p>Deepx is combining low-power AI accelerators and portable software with industry partnerships to bring physical AI into production.</p>\n<p>The post <a href=\"https://www.eetimes.com/deepx-bui",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/deepx-building-open-software-ecosystem-to-scale-physical-ai-beyond-the-data-center/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-22-054",
+    "date": "2026-10-22",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GPUs from stolen $470,000 Nvidia RTX 5090 shipment at Brazil airport appear for sale online, identified by serial numbers",
+    "summary": "\n                             One of the GPUs from a stolen shipment of RTX 5090 graphics cards has appeared for sale online. Police have identified three employees at an airport who stole the goods. ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-10-22-055",
+    "date": "2026-10-22",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC is seeking chipmaking equipment that doesn't contain Chinese rare-earth magnets",
+    "summary": "\n                             TSMC is reportedly asking equipment suppliers for factory machinery that doesn't use rare-earth components, as the chipmaker seeks to reduce exposure to China’s dominance",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-is-seeking-chipmaking-equipment-that-doesnt-contain-chinese-rare-earth-magnets-asks-suppliers-to-provide-alternative-motors-as-export-controls-threaten-fab-operations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-056",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "dram_price",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Global PC Shipments Drop 21% In Q3 As Memory Prices Surge, And Forecasts Point To An Even Steeper 27% Fall In Q4",
+    "summary": "Global PC shipments declined 21% versus the previous year in Q3, while the industry is forecast to witness an additional 27% decline in Q4. Continued Memory &#38; Component Price Hikes Plunge Global P",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/global-pc-shipments-drop-21-percent-q3-as-memory-prices-surge/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-22-057",
+    "date": "2026-10-22",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Intel’s Long-Delayed US Fab Expansion Gains Momentum As AI Demand Surges, Arizona Fab 62 Targets 2028 While Ohio One Hits Major Construction Milestone",
+    "summary": "Intel's ambitious US semiconductor manufacturing expansion appears to be gaining momentum once again, with the company reporting significant progress at its Arizona and Ohio facilities. The developmen",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-arizona-fab-62-targets-2028-ohio-hits-major-construction-milestone/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-22-058",
+    "date": "2026-10-22",
+    "companies": [
+      "nvidia",
+      "intel",
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Report: Elon Musk Chases Jensen Huang As Tesla Bankrolls $830 Million Of Samsung’s Substrate Plant To Lock 5 Years Of Supply For Its Humanoid Robots And Self-Driving Cars",
+    "summary": "NVIDIA and Tesla will invest nearly $3 billion in Samsung to develop substrates for artificial intelligence chips. The technology, called Flip Chip-Ball Grid Array (FC-BGA), flips the die upside down ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/report-elon-musk-chases-jensen-huang-as-tesla-bankrolls-830-million-of-samsungs-substrate-plant-to-lock-5-years-of-supply-for-its-humanoid-robots-and-self-driving-cars/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-059",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DeepSeek’s V4.1-Flash-1017 Model Just Built An Exploit That Escapes Chrome’s Sandbox, As The AI-Driven Assault On The Open Web Goes On An Overdrive",
+    "summary": "DeepSeek is the poster child of China's ongoing AI revolution, and its latest model, dubbed the V4.1-Flash-1017, while still not at par with Anthropic's Fable or OpenAI's Astra, is certainly good enou",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/deepseeks-v4-1-flash-1017-model-just-built-an-exploit-that-escapes-chromes-sandbox-as-the-ai-driven-assault-on-the-open-web-goes-on-an-overdrive/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-060",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Singapore boffins weave a GUI into fabric, and it's machine washable too",
+    "summary": " For those who find taking a phone out of their pocket just so last century ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-22-061",
+    "date": "2026-10-22",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Fable: The CEO Who Cut The Cr*p",
+    "summary": "<p>There was once a company expecting to lose $17 billion one year who bought in a new CEO. He mortgaged all the assets of the company to raise a $23.5 [&#8230;]</p>\n<p>The post <a href=\"https://www.e",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-ceo-who-cut-the-crp-2026-10/",
         "type": "rss"
       }
     ]
