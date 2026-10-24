@@ -1,0 +1,291 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:36:46.004950Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-24-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及產能"
+      ],
+      "title": "LGES Poland plant nears breakeven as utilization rebounds",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD204/lges-plant-poland-2026-europe.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "arm-2026-10-24-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+      "companies": [
+        "arm",
+        "qualcomm"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/"
+    },
+    {
+      "rank": 3,
+      "event_id": "cxmt-2026-10-24-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia rejects near-term memory glut fears, leaves CXMT cooperation open",
+      "companies": [
+        "cxmt",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD243/nvidia-cxmt-demand-technology-market.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Bosch to spin off automotive business as Asian rivals intensify pressure",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD244/bosch-business-automotive-subsidiary-revenue.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-24-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MORI TRUST REIT, Inc. 2027 Q2 - Results - Earnings Call Presentation",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4957212-mori-trust-reit-inc-2027-q2-results-earnings-call-presentation?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.3,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "arm",
+        "count": 1
+      },
+      {
+        "id": "qualcomm",
+        "count": 1
+      },
+      {
+        "id": "cxmt",
+        "count": 1
+      },
+      {
+        "id": "nvidia",
+        "count": 1
+      },
+      {
+        "id": "intel",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "ai_server",
+        "count": 1
+      },
+      {
+        "id": "inventory",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 108,
+    "too_old": 70,
+    "gate1_blocked": 59,
+    "gate2_blocked": 40,
+    "passed": 35,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "19.6%",
+    "gate2_samples": [
+      "[Interview] A Rocket Toward Her Future: Eva Neill’s Career Journey at Samsung",
+      "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
+      "Kazakhstan Expands Compute for Its AI Future",
+      "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為ARM、高通、CXMT相關動態：「LGES Poland plant nears breakeven as utilization rebounds」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LGES Poland plant nears breakeven as utilization rebounds（產能、財報）",
+        "level": "red"
+      },
+      {
+        "text": "Arm Comments on Jury Decision in Qualcomm Trial（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

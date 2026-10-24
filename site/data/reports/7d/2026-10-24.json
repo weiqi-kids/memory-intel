@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-24",
+  "date_range": {
+    "start": "2026-10-18",
+    "end": "2026-10-24"
+  },
+  "generated_at": "2026-10-24T12:36:46.107990Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tsmc-2026-10-18-005",
+      "date": "2026-10-18",
+      "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "tsmc",
+      "co_mention_count": 5,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "samsung",
+      "company_b": "tsmc",
+      "co_mention_count": 4,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 133,
+      "last_week": 173,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": 0.0
+    },
+    "capex": {
+      "this_week": 15,
+      "last_week": 19,
+      "week_over_week_change": "-21%",
+      "sentiment_this_week": -0.02
+    },
+    "earnings": {
+      "this_week": 68,
+      "last_week": 71,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.03
+    },
+    "hbm": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.06
+    },
+    "ddr5": {
+      "this_week": 7,
+      "last_week": 13,
+      "week_over_week_change": "-46%",
+      "sentiment_this_week": -0.03
+    },
+    "capacity": {
+      "this_week": 27,
+      "last_week": 31,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": 0.18
+    },
+    "advanced_packaging": {
+      "this_week": 6,
+      "last_week": 8,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.03
+    },
+    "shortage": {
+      "this_week": 4,
+      "last_week": 11,
+      "week_over_week_change": "-64%",
+      "sentiment_this_week": 0.12
+    },
+    "inventory": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.17
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 9,
+      "last_week": 24,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.02
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": -0.25
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 11,
+      "week_over_week_change": "-55%",
+      "sentiment_this_week": -0.1
+    }
+  },
+  "company_7d_summary": {
+    "intel": {
+      "event_count": 20,
+      "sentiment_avg": 0.1,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 11,
+      "sentiment_avg": -0.02,
+      "rank": 4
+    },
+    "skhynix": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nvidia": {
+      "event_count": 35,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "samsung": {
+      "event_count": 12,
+      "sentiment_avg": -0.09,
+      "rank": 3
+    },
+    "micron": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "apple": {
+      "event_count": 5,
+      "sentiment_avg": -0.25,
+      "rank": 10
+    },
+    "qualcomm": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 8
+    },
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 11
+    },
+    "google": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 20
+    },
+    "ase": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "cxmt": {
+      "event_count": 5,
+      "sentiment_avg": -0.3,
+      "rank": 12
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "amd": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 9
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "powertech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "dell": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 25
+    },
+    "infineon": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 15
+    },
+    "arm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "ymtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "psmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.17,
+      "rank": 26
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 19
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 307,
+        "last": 367,
+        "change_pct": -16.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-18",
+      "event_count": 13,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 49,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 56,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 67,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 61,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 47,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 14,
+      "sentiment_avg": -0.14
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-18 ~ 2026-10-24）共 307 則事件，重點為「NVIDIA’s Development Of Custom HBM Drops Samsun...」。蘋果、CXMT情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.2），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-0.3），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "英特爾",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
