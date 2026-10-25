@@ -1,0 +1,345 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T13:09:34.058338Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "qualcomm-2026-10-25-018",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Exynos 2700 Internal Tests Show Qualcomm’s 2nm And New Snapdragon 8 Elite Extreme Gen 6 Packaging Bet Failed; Samsung’s Flagship SoC 20% Faster In CPU, GPU Workloads",
+      "companies": [
+        "qualcomm",
+        "samsung",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "qualcomm"
+        ],
+        "suppliers": [
+          "samsung",
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://wccftech.com/exynos-2700-outpaces-snapdragon-8-elite-extreme-gen-6-internal-tests/"
+    },
+    {
+      "rank": 2,
+      "event_id": "meta-2026-10-25-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Meta&rsquo;s AI commitments surge to US$825 billion, testing financing power",
+      "companies": [
+        "meta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "capex",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD220/meta-financing-infrastructure-investment-capex.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-25-010",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Magnate Technology sees aerospace, semiconductor growth opportunities",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "earnings",
+        "guidance",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD207/growth-revenue-aircraft-demand-equipment.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "micron-2026-10-25-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "CXMT’s Rigid DRAM Pricing Means Rejecting Lucrative Global Giants Like Apple, But That’s Because The Company Has A Far Greater Goal; Achieving China’s Self-Sufficiency",
+      "companies": [
+        "micron",
+        "apple",
+        "skhynix",
+        "samsung",
+        "cxmt"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "samsung",
+          "skhynix"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/cxmt-dram-pricing-apple-china-self-sufficiency/"
+    },
+    {
+      "rank": 5,
+      "event_id": "samsung-2026-10-25-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
+      "companies": [
+        "samsung"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.14,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "micron",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "inventory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "micron",
+        "count": 2
+      },
+      {
+        "id": "skhynix",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      },
+      {
+        "id": "guidance",
+        "count": 3
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 117,
+    "too_old": 70,
+    "gate1_blocked": 61,
+    "gate2_blocked": 40,
+    "passed": 24,
+    "pass_rate": "12.3%",
+    "gate2_block_rate": "20.5%",
+    "gate2_samples": [
+      "[Interview] A Rocket Toward Her Future: Eva Neill’s Career Journey at Samsung",
+      "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
+      "Kazakhstan Expands Compute for Its AI Future",
+      "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為輝達、三星、美光相關動態：「Exynos 2700 Internal Tests Show Qualcomm’s 2nm And New Sn...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Exynos 2700 Internal Tests Show Qualcomm’s 2nm And New Snapdragon 8 Elite Ext...（半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Meta&rsquo;s AI commitments surge to US$825 billion, testing financing power（產能、資本支出、財報、展望、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

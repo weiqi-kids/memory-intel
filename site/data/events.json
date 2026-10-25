@@ -1,5 +1,388 @@
 [
   {
+    "id": "nvidia-2026-10-25-001",
+    "date": "2026-10-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Nvidia discusses $2,000-per-GPU annual software fee for running agents on AI infrastructure",
+    "summary": "\n                             Nvidia CEO Jensen Huang is reportedly weighing annual software fees of around $2,000 per GPU for enterprise AI, a model that could generate $10 billion a year if five mil",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-002",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "New CD players keep launching, but a drive shortage could make them unfixable",
+    "summary": "\n                             The lack of optical drive manufacturers is raising questions about the repairability and longevity of new CD players that are coming out on the market today. \n           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-10-25-003",
+    "date": "2026-10-25",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "shortage",
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages",
+    "summary": "\n                             AMD Director Travis Kirsch confirmed the rationale for relaunching the first X3D chip and explained why the company no longer offers many Ryzen 3 SKUs. \n                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-25-004",
+    "date": "2026-10-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia eyes converting old nuclear plants into massive AI data centers",
+    "summary": "\n                             Nvidia and PreussenElektra are studying whether decommissioned sites of German nuclear power plants can be repurposed as AI data centers, potentially cutting development ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-25-005",
+    "date": "2026-10-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+    "summary": "Nvidia has unveiled a prototype of its next-generation co-packaged optics (CPO) technology, Optics-on-Interposer (OOI), at SEMICON West 2026. The design moves the optical engine from a conventional or",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-10-25-006",
+    "date": "2026-10-25",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Namuga expands beyond Samsung with humanoid robot camera modules",
+    "summary": "South Korean image-sensing module maker Namuga is accelerating its physical AI strategy after securing a supply deal with a global humanoid robot company. The company is preparing for shipments and ma",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261023PD237/robot-camera-samsung-production-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-007",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI data centers drive Taiwan's electrical firms into modular, EPC markets",
+    "summary": "As demand for AI data centers expands, next-generation AI servers are raising requirements for power supply, cooling efficiency, and deployment speed. Taiwan's electrical and mechanical equipment prov",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261023PD233/data-equipment-epc-demand-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-10-25-008",
+    "date": "2026-10-25",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "capacity",
+      "capex",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Meta&rsquo;s AI commitments surge to US$825 billion, testing financing power",
+    "summary": "Meta Platforms&rsquo; long-term AI infrastructure spending is driving rising financial pressure, with free cash flow turning negative in Q3 2026 and future lease and non-cancelable contract commitment",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261023PD220/meta-financing-infrastructure-investment-capex.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-10-25-009",
+    "date": "2026-10-25",
+    "companies": [
+      "ti"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Texas Instruments sees up to $1,000 in chip content per humanoid robot as analog supply tightens",
+    "summary": "Texas Instruments (TI) held its latest earnings call this week, projecting fourth-quarter 2026 revenue of US$5.8 billion to US$6.3 billion. The midpoint of its guidance is broadly in line with third-q",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261023PD218/texas-instruments-robot-earnings-2026-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-010",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Magnate Technology sees aerospace, semiconductor growth opportunities",
+    "summary": "Magnate Technology expects rising aircraft engine demand and semiconductor equipment opportunities to support growth as it expands production capacity, with implications for global aviation and chip s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261023PD207/growth-revenue-aircraft-demand-equipment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-25-011",
+    "date": "2026-10-25",
+    "companies": [
+      "micron",
+      "skhynix"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "SK hynix Stock: Micron's AI Boom Sets Up A Cash Flow Test",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4957324-sk-hynix-stock-microns-ai-boom-sets-up-a-cash-flow-test?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-012",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Southwest Airlines: Revenue Transformation Accelerates",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4957294-southwest-airlines-revenue-transformation-accelerates?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-013",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Stock-Bond Correlation: Oil Broke The Hedge - Oil Will Fix It",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4957325-stock-bond-correlation-oil-broke-hedge-oil-will-fix-it?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-014",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Booz Allen: Q2 Earnings Weren't A Game-Changer, But I Remain Bullish",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4957286-booz-allen-q2-earnings-werent-a-gamechanger-but-i-remain-bullish?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-015",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Most Negative Momentum Signal For 2026 Meets The Q4 Rally Cycle",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4957319-most-negative-momentum-signal-for-2026-meets-q4-rally-cycle?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-25-016",
+    "date": "2026-10-25",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thunderobot ZERO Air 15 Drops From $2,246 To $1,858 For Singles’ Day, Pairing An RTX 5060 With A 165 Hz OLED Display",
+    "summary": "Thunderobot's ZERO Air 15 gaming laptop launched with a significant price cut after government subsidies. Thunderobot ZERO Air 15 Gaming Laptop With Core Ultra 7 356H and RTX 5060 Debuts at $1,858 Cou",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/thunderobot-zero-air-15-launches-at-1700-featuring-rtx-5060/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-25-017",
+    "date": "2026-10-25",
+    "companies": [
+      "micron",
+      "apple",
+      "skhynix",
+      "samsung",
+      "cxmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CXMT’s Rigid DRAM Pricing Means Rejecting Lucrative Global Giants Like Apple, But That’s Because The Company Has A Far Greater Goal; Achieving China’s Self-Sufficiency",
+    "summary": "Manufacturers from non-memory sectors are bending over backwards for Apple, offering the technology giant attractive discounts in exchange for long-term business contracts. When it comes to the DRAM c",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/cxmt-dram-pricing-apple-china-self-sufficiency/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-10-25-018",
+    "date": "2026-10-25",
+    "companies": [
+      "qualcomm",
+      "samsung",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Exynos 2700 Internal Tests Show Qualcomm’s 2nm And New Snapdragon 8 Elite Extreme Gen 6 Packaging Bet Failed; Samsung’s Flagship SoC 20% Faster In CPU, GPU Workloads",
+    "summary": "New details surrounding the Exynos 2700 talk about the chipset’s internal tests allegedly outperforming the Snapdragon 8 Elite Extreme Gen 6 in both CPU and GPU workloads. The latest claim paints Qual",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/exynos-2700-outpaces-snapdragon-8-elite-extreme-gen-6-internal-tests/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-25-019",
+    "date": "2026-10-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Want to build a UK datacenter? Please hold while Whitehall transfers you",
+    "summary": " Minister insists responsibilities are clear as construction, telecoms, and energy fall under separate departments ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "arm-2026-10-24-001",
     "date": "2026-10-24",
     "companies": [
@@ -258,6 +641,101 @@
       {
         "name": "wccftech",
         "url": "https://wccftech.com/intel-tech-chief-says-it-is-only-a-few-percent-behind-tsmc-on-performance-but-catching-up-in-scale-will-be-slow-vp-asserts-high-na-euv-is-the-right-choice/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-10-24-015",
+    "date": "2026-10-24",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s Highly Compact 13-Inch M5 MacBook Air Is Now $200 Cheaper On Amazon And Grants You A Solid Configuration Of 24GB Unified Memory And A 1TB SSD",
+    "summary": "The top-tier 13-inch M5 MacBook Air&#160;listed on Amazon has dropped to its lowest price on the online retailer thanks to a $200 discount. This means that for $1,599, you can become the proud owner o",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/13-inch-m5-macbook-air-24gb-1tb-200-off-amazon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-016",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Newegg Drops $900 Bundle To $680, While Giving Away A Free 850W PSU With Ryzen 9600X, 32 GB DDR5, And B650E Motherboard",
+    "summary": "For a limited time, Newegg is selling an expensive bundle at a price nearly $217 lower than usual, and this won't last long. 32 GB DDR5 Memory Becomes Cheap When Bundled With Ryzen 9600X and B650E Mot",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/newegg-drops-900-bundle-to-680-while-giving-away-a-free-850w-psu/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-24-017",
+    "date": "2026-10-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "NVIDIA DLSS 5 Neural Rendering Now Available In Portal With RTX And Half-Life 2 RTX Demo, Alongside 6X Multi Frame Generation",
+    "summary": "NVIDIA has officially brought DLSS 5 with 3D-Guided Neural Rendering to Portal with RTX and the Half-Life 2 RTX demo, allowing players to experience its latest AI-powered graphics technology in two cl",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-now-available-in-portal-with-rtx-and-half-life-2-rtx-demo-alongside-6x-multi-frame-generation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-24-018",
+    "date": "2026-10-24",
+    "companies": [],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Nintendo’s Shigeru Miyamoto Has a Surprisingly Positive Outlook on Generative AI: “We’ll Have Opportunities to Think About What’s Truly Important”",
+    "summary": "Yesterday, legendary game designer Shigeru Miyamoto spoke at a press conference following the news that he's scheduled to receive the prestigious Order of Culture award from Emperor Naruhito on Novemb",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nintendo-shigeru-miyamoto-surprisingly-positive-outlook-generative-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-24-019",
+    "date": "2026-10-24",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA GeForce RTX 30 GPUs Get Up To 2X Faster AI Compute Performance With New GPU Unlock Mod, Real-World Gains Of Up To 60%",
+    "summary": "NVIDIA's aging GeForce RTX 30 Series (codename Ampere) GPUs apparently have a considerable amount of untapped computing potential. A new open-source project called GPU Unlock, developed by GitHub user",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-geforce-rtx-30-gpus-get-up-to-2x-faster-ai-compute-performance-with-new-gpu-unlock-mod-real-world-gains-of-up-to-60/",
         "type": "rss"
       }
     ]

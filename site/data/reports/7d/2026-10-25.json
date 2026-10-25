@@ -1,0 +1,318 @@
+{
+  "date": "2026-10-25",
+  "date_range": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "generated_at": "2026-10-25T13:09:34.180441Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "samsung-2026-10-19-007",
+      "date": "2026-10-19",
+      "title": "Samsung targets Exynos 2700 expansion as Huawei advances Kirin chips",
+      "importance_score": 1.0
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "apple",
+      "subject_type": "company",
+      "this_week_sentiment": -0.4,
+      "last_week_sentiment": 0.14,
+      "delta": -0.54,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "tsmc",
+      "co_mention_count": 5,
+      "rank": 3
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "qualcomm",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 4
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 140,
+      "last_week": 166,
+      "week_over_week_change": "-16%",
+      "sentiment_this_week": 0.01
+    },
+    "ddr5": {
+      "this_week": 8,
+      "last_week": 13,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": -0.03
+    },
+    "capacity": {
+      "this_week": 29,
+      "last_week": 31,
+      "week_over_week_change": "-6%",
+      "sentiment_this_week": 0.15
+    },
+    "advanced_packaging": {
+      "this_week": 6,
+      "last_week": 8,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.03
+    },
+    "shortage": {
+      "this_week": 6,
+      "last_week": 11,
+      "week_over_week_change": "-45%",
+      "sentiment_this_week": 0.08
+    },
+    "earnings": {
+      "this_week": 74,
+      "last_week": 65,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.01
+    },
+    "inventory": {
+      "this_week": 10,
+      "last_week": 6,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.13
+    },
+    "hbm": {
+      "this_week": 7,
+      "last_week": 10,
+      "week_over_week_change": "-30%",
+      "sentiment_this_week": 0.07
+    },
+    "capex": {
+      "this_week": 13,
+      "last_week": 22,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": -0.06
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 8,
+      "week_over_week_change": "-62%",
+      "sentiment_this_week": 0.0
+    },
+    "ai_server": {
+      "this_week": 10,
+      "last_week": 23,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.07
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": -0.25
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 11,
+      "week_over_week_change": "-27%",
+      "sentiment_this_week": -0.13
+    }
+  },
+  "company_7d_summary": {
+    "intel": {
+      "event_count": 19,
+      "sentiment_avg": 0.11,
+      "rank": 2
+    },
+    "nvidia": {
+      "event_count": 37,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "samsung": {
+      "event_count": 14,
+      "sentiment_avg": -0.04,
+      "rank": 3
+    },
+    "qualcomm": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 7
+    },
+    "microsoft": {
+      "event_count": 5,
+      "sentiment_avg": -0.2,
+      "rank": 11
+    },
+    "google": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tsmc": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "skhynix": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 20
+    },
+    "ase": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "cxmt": {
+      "event_count": 6,
+      "sentiment_avg": -0.25,
+      "rank": 10
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "micron": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "apple": {
+      "event_count": 5,
+      "sentiment_avg": -0.4,
+      "rank": 12
+    },
+    "amd": {
+      "event_count": 7,
+      "sentiment_avg": -0.07,
+      "rank": 9
+    },
+    "meta": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 14
+    },
+    "powertech": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "dell": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "lenovo": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "aws": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 25
+    },
+    "infineon": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 16
+    },
+    "arm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "ymtc": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "psmc": {
+      "event_count": 1,
+      "sentiment_avg": 0.17,
+      "rank": 26
+    },
+    "ti": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 318,
+        "last": 359,
+        "change_pct": -11.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-19",
+      "event_count": 49,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 56,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 67,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 61,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 47,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 19,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 19,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-19 ~ 2026-10-25）共 318 則事件，重點為「Samsung targets Exynos 2700 expansion as Huawei...」。CXMT、蘋果情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-0.2），共 6 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "蘋果",
+        "reason": "本週情緒偏負面（-0.4），共 5 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "英特爾",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
