@@ -1,0 +1,401 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T15:06:24.746920Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-26-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/"
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-10-26-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with AMD",
+      "companies": [
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/intel-explores-potential-collaboration-with-amd-as-lip-bu-tan-pushes-customer-focused-turnaround-ceo-targets-custom-chips-advanced-packaging-and-stronger-foundry-business"
+    },
+    {
+      "rank": 3,
+      "event_id": "nvidia-2026-10-26-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及財報",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Podcast highlights: TSMC's 3nm demand story, Samsung HBM shift, and A14 ramp",
+      "companies": [
+        "nvidia",
+        "tsmc",
+        "intel",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261023PD235/tsmc-3nm-demand-samsung-hbm.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-10-26-029",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Samsung & SK hynix Reportedly Set To Ramp 8-Layer HBM4 Shipments For NVIDIA’s Rubin Ultra In Q2 2027, As Heat And Yield Issues Continue To Complicate 12-Layer Stack Manufacturing",
+      "companies": [
+        "nvidia",
+        "skhynix",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "skhynix",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-sk-hynix-downgraded-hbm4-q2-2027-nvidia-rubin-ultra/"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-10-26-033",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "$5 Billion From NVIDIA, AMD And Intel Rumored To Flow Into Taiwan’s Substrate Makers, Matching Their Own Factory Expansion Spending",
+      "companies": [
+        "nvidia",
+        "amd",
+        "nanya",
+        "micron",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "nvidia",
+          "amd"
+        ],
+        "suppliers": [
+          "micron"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/5-billion-from-nvidia-amd-and-intel-rumored-to-flow-into-taiwans-substrate-makers-matching-their-own-factory-expansion-spending/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "capex",
+        "capacity",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "hbm",
+        "capex",
+        "capacity",
+        "industry_general",
+        "earnings"
+      ]
+    },
+    {
+      "from": "nvidia",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "capex",
+        "industry_general",
+        "earnings"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 34,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "intel",
+        "count": 9
+      },
+      {
+        "id": "amd",
+        "count": 5
+      },
+      {
+        "id": "nvidia",
+        "count": 5
+      },
+      {
+        "id": "apple",
+        "count": 2
+      },
+      {
+        "id": "micron",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 13
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 5
+      },
+      {
+        "id": "hbm",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 98,
+    "too_old": 66,
+    "gate1_blocked": 55,
+    "gate2_blocked": 44,
+    "passed": 49,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "20.6%",
+    "gate2_samples": [
+      "[Interview] A Rocket Toward Her Future: Eva Neill’s Career Journey at Samsung",
+      "Samsung Electronics Expands SSD Brand Campaign Across Global Landmarks",
+      "Kazakhstan Expands Compute for Its AI Future",
+      "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為英特爾、超微、輝達相關動態：「Vertical DRAM Stacking Expands Thermal Design Space Beyon...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)（HBM、產能、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intel's Lip-Bu Tan has spoken with Lisa Su about potential collaboration with...（資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

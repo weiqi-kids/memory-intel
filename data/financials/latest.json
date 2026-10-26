@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T13:09:26.358203Z",
+  "updated_at": "2026-10-26T15:06:17.035284Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -364,17 +364,17 @@
       "name": "科林研發",
       "ticker": "LRCX",
       "currency": "USD",
-      "ar": 5339682000,
-      "ar_prev": 4132890000,
-      "ar_qoq": "+29%",
+      "ar": 5658379000,
+      "ar_prev": 5339682000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 4276111000,
-      "inv_prev": 3999992000,
-      "inv_qoq": "+7%",
+      "inventory": 4550544000,
+      "inv_prev": 4276111000,
+      "inv_qoq": "+6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "lenovo",
@@ -432,17 +432,17 @@
       "name": "臉書",
       "ticker": "META",
       "currency": "USD",
-      "ar": 21752000000,
-      "ar_prev": 17470000000,
-      "ar_qoq": "+25%",
+      "ar": 22716000000,
+      "ar_prev": 21752000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "inv_period": "QoQ",
       "inventory_applicable": false,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "micron",
