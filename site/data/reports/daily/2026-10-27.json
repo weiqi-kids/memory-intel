@@ -1,0 +1,339 @@
+{
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T14:20:32.608528Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-10-27-009",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及產能",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "ai_server",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/nvidia-is-bankrolling-ai-accelerator-supply-chain-buildout-to-reserve-production-capacity-announces-billion-dollar-deals-with-six-major-suppliers-across-substrates-advanced-packaging-semiconductor-testing-and-optical-engines"
+    },
+    {
+      "rank": 2,
+      "event_id": "tsmc-2026-10-27-033",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及先進封裝"
+      ],
+      "title": "Demand & Complexities Of AI GPUs And Custom ASICs Have Stressed TSMC’s CoWoS Supply, Reportedly Sparking The Possibility Of A 20% Price Hike",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/tsmc-cowos-price-hike-20-percent-ai-gpu-asic-demand/"
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-10-27-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AMD and Meta Advance Strategic Partnership to Power Meta’s Superintelligence Infrastructure",
+      "companies": [
+        "intel",
+        "amd",
+        "meta"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "microsoft-2026-10-27-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intel's APX offers 'better performance' in Windows 11 according to new Insider setting",
+      "companies": [
+        "microsoft",
+        "intel"
+      ],
+      "related": {
+        "customers": [
+          "microsoft"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/software/windows/intels-apx-offers-better-performance-in-windows-11-according-to-new-insider-setting-microsoft-begins-early-enablement-for-advanced-performance-extensions-on-nova-lake-cpus"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-10-27-030",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nintendo Raised The Switch 2’s Price Last Month, But Samsung’s Upgraded 8nm Node Could Make A Cheaper Lite Model Possible",
+      "companies": [
+        "nvidia",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/nintendo-raised-switch-2s-price-samsungs-upgraded-8nm-node-cheaper-lite-model/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 29,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "apple",
+        "count": 3
+      },
+      {
+        "id": "microsoft",
+        "count": 3
+      },
+      {
+        "id": "meta",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "advanced_packaging",
+        "count": 2
+      },
+      {
+        "id": "euv",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 282,
+    "dup_title": 92,
+    "too_old": 64,
+    "gate1_blocked": 44,
+    "gate2_blocked": 42,
+    "passed": 40,
+    "pass_rate": "21.1%",
+    "gate2_block_rate": "22.1%",
+    "gate2_samples": [
+      "[Interview] A Rocket Toward Her Future: Eva Neill’s Career Journey at Samsung",
+      "Kazakhstan Expands Compute for Its AI Future",
+      "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+      "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+      "NVIDIA Open Models Power a New Wave of European Public Sector Projects"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為輝達、英特爾、蘋果相關動態：「Nvidia is bankrolling AI accelerator supply chain buildou...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve product...（產能、AI 伺服器、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Demand & Complexities Of AI GPUs And Custom ASICs Have Stressed TSMC’s CoWoS ...（HBM、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
