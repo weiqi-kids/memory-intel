@@ -1,0 +1,325 @@
+{
+  "date": "2026-10-29",
+  "date_range": {
+    "start": "2026-10-23",
+    "end": "2026-10-29"
+  },
+  "generated_at": "2026-10-29T15:09:18.630588Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intel-2026-10-23-034",
+      "date": "2026-10-23",
+      "title": "Lenovo mounts AI comeback with Nvidia Vera Rubin NVL72 deliveries and US plant expansion",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "oracle",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cxmt",
+      "company_b": "skhynix",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 121,
+      "last_week": 146,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.09
+    },
+    "ai_server": {
+      "this_week": 7,
+      "last_week": 11,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": 0.21
+    },
+    "ddr5": {
+      "this_week": 8,
+      "last_week": 7,
+      "week_over_week_change": "+14%",
+      "sentiment_this_week": 0.06
+    },
+    "inventory": {
+      "this_week": 10,
+      "last_week": 7,
+      "week_over_week_change": "+43%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 98,
+      "last_week": 66,
+      "week_over_week_change": "+48%",
+      "sentiment_this_week": 0.06
+    },
+    "capacity": {
+      "this_week": 25,
+      "last_week": 30,
+      "week_over_week_change": "-17%",
+      "sentiment_this_week": 0.07
+    },
+    "capex": {
+      "this_week": 18,
+      "last_week": 16,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.03
+    },
+    "guidance": {
+      "this_week": 8,
+      "last_week": 5,
+      "week_over_week_change": "+60%",
+      "sentiment_this_week": -0.0
+    },
+    "euv": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.18
+    },
+    "hbm": {
+      "this_week": 14,
+      "last_week": 10,
+      "week_over_week_change": "+40%",
+      "sentiment_this_week": 0.09
+    },
+    "advanced_packaging": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_memory": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.25
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.75
+    }
+  },
+  "company_7d_summary": {
+    "qualcomm": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 10
+    },
+    "arm": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 15
+    },
+    "nvidia": {
+      "event_count": 26,
+      "sentiment_avg": 0.01,
+      "rank": 2
+    },
+    "microsoft": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 7
+    },
+    "ti": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "amd": {
+      "event_count": 14,
+      "sentiment_avg": 0.21,
+      "rank": 3
+    },
+    "google": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "apple": {
+      "event_count": 10,
+      "sentiment_avg": -0.18,
+      "rank": 6
+    },
+    "tsmc": {
+      "event_count": 8,
+      "sentiment_avg": -0.12,
+      "rank": 9
+    },
+    "samsung": {
+      "event_count": 12,
+      "sentiment_avg": 0.02,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 28,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "cxmt": {
+      "event_count": 5,
+      "sentiment_avg": -0.05,
+      "rank": 11
+    },
+    "meta": {
+      "event_count": 5,
+      "sentiment_avg": -0.06,
+      "rank": 12
+    },
+    "micron": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 13
+    },
+    "skhynix": {
+      "event_count": 11,
+      "sentiment_avg": 0.2,
+      "rank": 5
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "screen": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 19
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "oracle": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.62,
+      "rank": 24
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "kla": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 304,
+        "last": 327,
+        "change_pct": -7.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-23",
+      "event_count": 47,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 20,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 27,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 44,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 40,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 60,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 66,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-23 ~ 2026-10-29）共 304 則事件，重點為「Lenovo mounts AI comeback with Nvidia Vera Rubi...」。ARM情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "ARM",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "高通",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 26 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
