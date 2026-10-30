@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-29T15:09:12.607402Z",
+  "updated_at": "2026-10-30T15:00:28.168045Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -806,17 +806,17 @@
       "name": "台積電",
       "ticker": "TSM",
       "currency": "USD",
-      "ar": 435762477000,
-      "ar_prev": 357742772000,
-      "ar_qoq": "+22%",
+      "ar": 483557000000,
+      "ar_prev": 435762477000,
+      "ar_qoq": "+11%",
       "ar_period": "QoQ",
-      "inventory": 385524542000,
-      "inv_prev": 311453459000,
-      "inv_qoq": "+24%",
+      "inventory": 427753000000,
+      "inv_prev": 385524542000,
+      "inv_qoq": "+11%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "western_digital",

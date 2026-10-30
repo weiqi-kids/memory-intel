@@ -1,5 +1,960 @@
 [
   {
+    "id": "screen-2026-10-30-001",
+    "date": "2026-10-30",
+    "companies": [
+      "screen"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "2026.10.30HoldingsSCREEN to secure an additional production capacity in Nagaokakyo —Taking a further step to boost the production of SPE",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-10-30-002",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PsiQuantum turns its photonics know-how into an optical switch for supercharging AI data center GPU networks — 8x8 lab prototype loses less light than rivals, with plans to develop larger devices",
+    "summary": "\n                             PsiQuantum’s eight-port optical switch typically loses 1.2 dB, under a quarter of its light, where data centers allow up to 3 dB. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/photonics/psiquantum-turns-its-photonics-know-how-into-an-optical-switch-for-supercharging-ai-data-center-gpu-networks-8x8-lab-prototype-loses-less-light-than-rivals-with-plans-to-develop-larger-devices",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-30-003",
+    "date": "2026-10-30",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "5 years’ worth of salary in bonuses given to 700 eligible Micron workers as company continues to battle union",
+    "summary": "\n                             Eligible employees get an annual performance bonus, a mass-production bonus, and a one-time appreciation bonus. A quarterly profit bonus has also been introduced starting",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/5-years-worth-of-salary-in-bonuses-given-to-700-eligible-micron-workers-as-company-continues-to-battle-union-more-than-4-300-production-line-staff-to-receive-three-bonuses-of-more-than-usd31-000-plus-quarterly-profit-bonuses-starting-next-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-30-004",
+    "date": "2026-10-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel leaker reveals Moon Lake chip as a likely replacement for N-series SoCs",
+    "summary": "\n                             An Intel leaker revealed Moon Lake chip as a likely replacement for N-series SoCs with four lower-power-efficiency cores, no performance cores, and a 6-watt TDP \n        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-reveals-moon-lake-chip-as-a-likely-replacement-for-n-series-socs-four-lower-power-efficiency-cores-no-performance-cores-and-a-6-w-tdp",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-10-30-005",
+    "date": "2026-10-30",
+    "companies": [
+      "amd",
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Benchmarking Nvidia’s Vera CPU for the data center — standalone Vera tested against Granite Rapids-AP and EPYC Turin",
+    "summary": "\n                             Nvidia gave us access to its Vera data center CPU for testing against Intel's Granite Rapids-AP and AMD's EPYC Turin. \n                                                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-nvidias-vera-cpu-for-the-data-center-standalone-vera-tested-against-granite-rapids-ap-and-epyc-turin",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-30-006",
+    "date": "2026-10-30",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google hit with criminal probe over unapproved AI data center deforestation",
+    "summary": "\n                             A criminal investigation into the environmental damage caused by Google’s Finnish subsidiary has been launched. \n                                                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/criminal-investigation-launched-into-googles-ai-data-center-deforestation-in-finland-local-police-act-over-multiple-complaints-about-breaches-of-environmental-law",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-30-007",
+    "date": "2026-10-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deadly Intel Fab 28 explosion causes two-week shutdown, to cost $600 million and severely disrupt server chip manufacturing for six months",
+    "summary": "\n                             A two-week shutdown of Intel's Fab 28 in Israel will affect server CPU shipments for two consecutive quarters. \n                                                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/deadly-intel-fab-28-explosion-causes-two-week-shutdown-to-cost-usd600-million-and-severely-disrupt-server-chip-manufacturing-for-six-months-10nm-xeon-shipments-stall-during-largest-shortage-in-memory",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-10-30-008",
+    "date": "2026-10-30",
+    "companies": [
+      "aws"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "From living neurons to enterprise AI: TBC pursues faster video generation with AWS",
+    "summary": "The Biological Computing Co. (TBC), a San Francisco startup that grows living neurons in its lab to find ways to make AI models more efficient, launched its first publicly available product on October",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030VL207/ai-startup-video-aws-cost.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-10-30-009",
+    "date": "2026-10-30",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Micron says 700-plus Taiwan fab workers earned five years' salary in a single year",
+    "summary": "Micron Technology paid its fiscal 2026 bonuses to Taiwan employees on October 30. The company said more than 700 production-line workers earned at least five years' worth of monthly salary in total pa",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030VL229/micron-taiwan-salary-fab-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-010",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Realtek targets 30% AI revenue share by 2030",
+    "summary": "Realtek Semiconductor quantified its AI business for the first time at an investor conference on October 29, setting a target for high-performance computing (HPC) and edge AI revenue&mdash;including a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD239/realtek-revenue-2030-business-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-30-011",
+    "date": "2026-10-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "HHTD 26: Mitsubishi Electric Mobility to join Foxconn in 2027, targeting JPY1T revenue by 2030",
+    "summary": "Speaking at Hon Hai Tech Day (HHTD 26), Kazunori Tanaka, Representative Director and President of Mitsubishi Electric Mobility, emphasized that the company's core competitiveness in EV platforms has d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD243/mitsubishi-electric-foxconn-2027-revenue-cybersecurity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-012",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Holtek lands major server cooling contract, AI thermal demand soars",
+    "summary": "Microcontroller unit (MCU) major Holtek Semiconductor has secured a substantial order for brushless DC (BLDC) motors, with adoption in Taiwanese server cooling fans slated to begin in 2027, paving the",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD234/holtek-server-cooling-demand-mcu-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-013",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China smartphone market and industry, 3Q 2026",
+    "summary": "According to DIGITIMES observations and analysis, smartphone memory contract prices in the first half of 2026 often rose 50% to 80% quarter-over-quarter.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261029RS400/china-market-smartphone-shipments-digitimes-2026.html?chid=2",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-014",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HHTD 26: The year robots share the stage with AI infrastructure",
+    "summary": "Hon Hai Tech Day 2026 (HHTD 26) continued to focus on next-generation AI infrastructure. Although the event featured slightly fewer robots than in 2025, it still maintained a dedicated robotics exhibi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD237/infrastructure-robotics-2026-tdk-robot.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-015",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Eutelsat eyes EUR10B revenue from IRIS2 as EU seeks homegrown answer to Starlink",
+    "summary": "Eutelsat said that it predicts at least EUR10 billion (US$11.2 billion) in revenue from 2032 to 2040 as it leads the EU's low Earth orbit (LEO) network initiative IRIS2. The European satellite player ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030VL226/revenue-eu-starlink-leo-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-016",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "C Sun Mfg invests in Nemstek to expand advanced packaging equipment",
+    "summary": "C Sun Mfg announced on October 30 that it would subscribe for 1,900 lots of Nemstek's privately placed common shares as a strategic investor, giving it an expected stake of approximately 4.68% upon co",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD235/equipment-packaging-investment-automation-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-10-30-017",
+    "date": "2026-10-30",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "hbm",
+      "ai_memory",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix taps HBM veteran to lead new American unit",
+    "summary": "SK Hynix has appointed its AI memory development chief to lead a newly established Americas unit based in the US, putting a technology veteran closer to major US customers as the industry shifts towar",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030VL227/sk-hynix-hbm-development-americas-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-30-018",
+    "date": "2026-10-30",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Google, Foxconn aims to cut AI infrastructure deployment to six months",
+    "summary": "Google is deepening its strategic partnership with Foxconn to accelerate AI infrastructure deployment, aiming to cut the time from chip supply to data-center deployment from the traditional 12 to 18 m",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD242/google-foxconn-infrastructure-partnership-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-019",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn, TECO showcase factory-built infrastructure for AI data center expansion",
+    "summary": "Hon Hai (Foxconn) and TECO Electric &amp; Machinery showcased a jointly developed modular data center at Hon Hai Tech Day 2026, highlighting a factory-built approach to AI infrastructure. The 40-foot ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD224/teco-foxconn-data-center-infrastructure-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-020",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Foxconn argues it is more than a box mover in AI hardware",
+    "summary": "Foxconn chairman Young Liu said the company's core strengths are processing capabilities and vertical integration, as the manufacturer seeks to move beyond its long-standing image as a simple \"Box Mov",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD225/foxconn-design-chairman-manufacturing-young-liu.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-021",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "inventory",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's memory module bellwethers post record profits as 3Q26 momentum fades",
+    "summary": "China's listed memory module makers, whose results offer an early read on how the global memory upcycle is reaching the country's storage supply chain, reported net profit gains of more than 300-fold ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030VL212/memory-module-profit-revenue-sina-inventory.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-10-30-022",
+    "date": "2026-10-30",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Samsung SDI posts 12-quarter high in 3Q26 operating profit",
+    "summary": "Samsung SDI, a major South Korean battery maker, posted strong results in the third quarter of 2026 as rising energy storage system (ESS) battery demand lifted operating profit to its highest level in",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD207/samsung-sdi-operating-profit-2026-lfp-battery-materials.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-30-023",
+    "date": "2026-10-30",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Nvidia secures substrate capacity as FCBGA market targets US$27.3 billion by 2030",
+    "summary": "Nvidia has begun securing advanced substrate capacity in Taiwan, Japan and South Korea, using capacity reservation agreements and upfront payments to support supplier expansion as next-generation AI a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261030PD226/nvidia-fc-bga-substrate-capacity-2030.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-024",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Hellenic Telecommunications Organization S.A. (HLTOY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960161-hellenic-telecommunications-organization-s-a-hltoy-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-025",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "NatWest Group plc (NWG) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960133-natwest-group-plc-nwg-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-026",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pagaya: I Was Wrong On Profitability, Upgrading To Hold",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960213-pagaya-i-was-wrong-on-profitability-upgrading-to-hold?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-027",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Caterpillar Q3: Growth With A Caveat, Shares Fairly Valued",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960199-caterpillar-q3-growth-with-a-caveat-shares-fairly-valued?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-30-028",
+    "date": "2026-10-30",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Alphabet's Post-Earnings Selloff Is The Best Buying Opportunity In Years",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960207-alphabet-post-earnings-selloff-is-the-best-buying-opportunity-in-years?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-029",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crédit Agricole S.A. (CRARY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960158-credit-agricole-s-a-crary-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-030",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Financial Institutions, Inc. (FISI) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960191-financial-institutions-inc-fisi-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-031",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Coca-Cola Bottlers Japan Holdings Inc. (CCOJY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960259-coca-cola-bottlers-japan-holdings-inc-ccojy-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-032",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Gerresheimer AG 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960256-gerresheimer-ag-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-033",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Olin Corporation 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960254-olin-corporation-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-034",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bloom Energy's Q3 Changed The Story, Not Valuation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960197-bloom-energy-q3-changed-the-story-not-valuation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-035",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Weyerhaeuser Company 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960253-weyerhaeuser-company-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-036",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "FMC Corporation 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4960251-fmc-corporation-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-30-037",
+    "date": "2026-10-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intel Nova Lake Rumored To Deliver 20% Higher Gaming Performance Vs Arrow Lake And A Solid 17% Single-Threaded Improvement With The bLLC Variant",
+    "summary": "As per a prominent leaker, Intel's upcoming Nova Lake CPUs could deliver up to 20% higher gaming performance than Arrow Lake. Intel 28-Core Nova Lake Chip Expected to Benefit Significantly From APX, a",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-nova-lake-rumored-to-deliver-20-higher-gaming-performance-vs-arrow-lake/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-038",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI Boom Triggers Massive PCB Shortage With Orders Booked Until 2030, Posing Big Challenges For Consumer Hardware Vendors",
+    "summary": "Not just memory and NAND, but PCB costs are apparently rising rapidly as well, thanks to the AI boom. AI Infrastructure Demand is Reportedly Gobbling up the PCB Supply, Which Could Make Consumer Hardw",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/ai-boom-triggers-massive-pcb-shortage-with-orders-booked-until-2030/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-10-30-039",
+    "date": "2026-10-30",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Radeon RX 9000 Series Cards Will Likely Cost More Within Weeks As AMD Hikes GPU-Memory Bundle Prices For Board Partners In November",
+    "summary": "A new price hike follows as soon as the GPUs jump in price, and once again, AMD is set to implement a new price adjustment. AMD Expected to Increase GPU-Memory Set Prices, Affecting the Radeon Lineup ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-to-implement-another-gpu-price-hike-in-november/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-040",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Crimson Desert’s New DLC Makes Its Already Huge World Look Tiny, With the Massive Ocean and Full Underwater Exploration, NPC Naval Battles, and Dragons Destroying Ships",
+    "summary": "Crimson Desert's already enormous world has just massively expanded with the release of the Charting the Unknown DLC. Mere hours after the launch, players on forums and social media are already highli",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/crimson-desert-dlc-huge-ocean-map-underwater-exploration-naval-battles-dragons-destroying-ships/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-30-041",
+    "date": "2026-10-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intel CEO Lip-Bu Tan Breaks Silence On Quantum Computing Acquisition & Says Intel Will Become A Full Stack Revenue-Generating Quantum Company”",
+    "summary": "Intel CEO Lip-Bu Tan believes that the total addressable market for his firm's CPUs, when it comes to demand stemming from the AI agentic market, could surge to $200 billion over five years. The execu",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-ceo-lip-bu-tan-breaks-silence-on-quantum-computing-acquisition-says-intel-will-become-a-full-stack-revenue-generating-quantum-company/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-042",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Xbox CEO Asha Sharma Pointed to Record Minecraft and World of Warcraft Forever Sales, but Circana Sees No Impact From Her Initiatives",
+    "summary": "Following Xbox's continued revenue decline this past quarter, CEO Asha Sharma tried to focus on the positives (like record sales of Minecraft and World of Warcraft Forever), but&#160;Circana&#160;anal",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-asha-sharma-record-minecraft-wow-forever-sales-circana-no-impact-initiatives/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-10-30-043",
+    "date": "2026-10-30",
+    "companies": [
+      "amd",
+      "intel"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel CEO Lip-Bu Tan Says Nova Lake Will Fill The High-End Client CPU Gap, Coral Rapids “14A” To Be Competitive Against AMD & Next-Gen To Take The Lead Over EPYC",
+    "summary": "Intel is betting its success in the client and data center spectrums on the next-generation Nova Lake and Coral Rapids CPUs. Intel Nova Lake Fills An Important Hole In Its Client CPU Gap, A Market Tha",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-lip-bu-tan-nova-lake-fill-high-end-client-cpu-gap-coral-rapids-14a-competitive-against-amd/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-30-044",
+    "date": "2026-10-30",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA’s RTX 5080 24 GB Could Arrive As Early As December With 50% More VRAM, As 16 GB Models Already Sell For Over $2,000",
+    "summary": "NVIDIA seems to have finalized the launch timeframe of its next big RTX 50 launch: the 24 GB GeForce RTX 5080 graphics card. NVIDIA GeForce RTX 5080 24 GB Is Launching At A Time When GPU Prices Are Bl",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-geforce-rtx-5080-24-gb-available-next-few-months-replaces-16-gb-5080/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-10-30-045",
+    "date": "2026-10-30",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "TSMC Co-COO Y.P. Chyn Says Longer Hours Don’t Improve R&D, Recalling The Company’s 24-Hour “Night Owl” Program That Failed In Just 6 Months",
+    "summary": "During a conversation with students at National Cheng Kung University, as part of the United Daily News Group’s “United 75, Smart Future” event series, TSMC Co-COO and Executive Vice President Y.P. Ch",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmc-co-coo-chyn-longer-hours-dont-improve-rd-night-owl-program-failed/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-10-30-046",
+    "date": "2026-10-30",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Google's search revenue Ferrari hits an AI-powered speed bump",
+    "summary": " Just wait 'til we add more AI and this thing'll really fly ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/30/googles-search-revenue-ferrari-hits-an-ai-powered-speed-bump/5306520",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-10-30-047",
+    "date": "2026-10-30",
+    "companies": [
+      "aws"
+    ],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
+    "summary": " Before long, we could be writing about a cloud company with a retail side hustle ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-30-048",
+    "date": "2026-10-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "PC chip plunge wipes out a quarter of Intel’s value",
+    "summary": " CEO predicts massive datacenter CPU boom, coming soon, but production problems mean Chipzilla may not cash in ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-30-049",
+    "date": "2026-10-30",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "inventory",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Intel Q4 forecast disappoints",
+    "summary": "<p>Intel’s Q3  revenue was $16.5 billion, up 21% YoY. Q4 revenue was forecast at $15 billion to $16 billion; “Our Q3 results demonstrate improving execution, meaningful progress expanding supply and [",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/intel-q3-disappoints-stock-falls-20-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-30-050",
+    "date": "2026-10-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nordic demo-es Bluetooth HDT",
+    "summary": "<p>Nordic Semiconductor, the low-power wireless connectivity specialist. Has demo-ed  the upcoming Bluetooth High Data Throughput (HDT) feature in silicon through its video demonstration (see below). ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/nordic-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "samsung-2026-10-29-001",
     "date": "2026-10-29",
     "companies": [
@@ -1247,6 +2202,242 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/netflix-revenue-shrinking-but-margin-increasing-2026-10/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-10-29-067",
+    "date": "2026-10-29",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
+    "summary": "\n\t\t\t\t\t\t<p>Explore Infineon’s OktoberTech takeaways on edge AI, SDVs, GaN power, and the shift toward 800 V DC data centers.</p>\n<p>The post <a href=\"https://www.eetimes.com/infineons-oktobertech-edge-",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/infineons-oktobertech-edge-ai-sdvs-and-the-road-to-800-vdc/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-10-29-068",
+    "date": "2026-10-29",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "ai_memory",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Samsung Electronics Posts $80B Operating Profit on AI Memory Demand",
+    "summary": "\n\t\t\t\t\t\t<p>Samsung reported third-quarter operating profit of $80 billion, but rising component prices caused an operating loss in mobile.</p>\n<p>The post <a href=\"https://www.eetimes.com/samsung-elect",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/samsung-electronics-posts-80b-operating-profit-on-ai-memory-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-29-069",
+    "date": "2026-10-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES",
+    "summary": "\n                             Intel's next-gen Nova Lake desktop processors will be the first client product to use Intel's enhanced 18A-P node, CEO Lip-Bu Tan confirmed in the company's Q3 2026 earni",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-confirms-nova-lake-will-use-advanced-18a-p-node-more-details-at-ces-company-says-its-taking-panther-lake-capacity-offline-to-build-more-granite-rapids-data-center-cpus",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-070",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk's SpaceX buying out 418 homes near flagship AI data center, but only if they drop participation in lawsuit",
+    "summary": "\n                             The properties will supposedly house SpaceXSI staff while also giving a chance to those who don't want to live near the data center to sell their homes. \n                ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacex-buying-out-418-homes-near-flagship-ai-data-center-but-only-if-they-drop-participation-in-lawsuit-report-claims-the-company-is-targeting-an-entire-neighborhood-but-will-only-buy-from-people-who-dont-pursue-noise-pollution-complaints",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-071",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI demand triggers massive PCB shortage for PC makers as order books full until 2030",
+    "summary": "\n                             The AI industry continues to gobble up manufacturing resources that were once dedicated to serving PC, smart device, and gadget makers. Inevitably, the PCB industry has s",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ai-demand-triggers-massive-pcb-shortage-for-pc-makers-as-order-books-full-until-2030-lead-times-stretch-to-30-months-as-material-costs-surge-12x",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-072",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US data centers could wipe out 15 years' worth of progress in greenhouse gas emissions, report claims",
+    "summary": "\n                             The Sierra Club, one of the oldest environmental preservation organizations in the U.S., has now put forth an estimate that by 2030, U.S. data center buildouts will be ou",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/us-data-centers-could-wipe-out-15-years-worth-of-progress-in-greenhouse-gas-emissions-report-claims-buildouts-could-emit-as-much-carbon-dioxide-as-all-of-mexico",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-10-29-073",
+    "date": "2026-10-29",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia GeForce RTX 5080 prices hit $2,000, costing more than the RTX 5090 did at launch and with limited stock available",
+    "summary": "\n                             It costs just as much to buy an Nvidia GeForce RTX 5080 right now as the launch price for the RTX 5090, with prices now at least two times higher for this high spec GPU. ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-geforce-rtx-5080-prices-hit-usd2-000-costing-more-than-the-rtx-5090-did-at-launch-and-with-limited-stock-available-original-usd999-msrp-long-forgotten-with-prices-now-2-3x-higher",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-10-29-074",
+    "date": "2026-10-29",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s Data Center Business Is Now Almost As Big As Its PC Division After A 78% Surge, While Q4 Guidance Hints At Softer Revenue And Thinner Margins",
+    "summary": "The Q3 2026 financial results from Intel are here, with the company posting revenue of $16.5 billion, which is up 21 percent from $13.7 billion a year earlier. The company’s standout performer was the",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-q3-2026-earnings-data-center-nearly-matches-pc-business/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-075",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sir Patrick Stewart Dies Aged 86",
+    "summary": "Actor and philanthropist Sir Patrick Stewart died on Wednesday, the 28th of October, aged 86, in his home, after suffering from Alzheimers Diesease and Lewy Body Dementia. His family posted a statemen",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/sir-patrick-stewart-dies-aged-86/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-10-29-076",
+    "date": "2026-10-29",
+    "companies": [
+      "dell",
+      "nvidia"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dell Pro Max Tower T2 With An RTX PRO 6000 Costs $13,395 After Tax, Roughly $2,000 Less Than NVIDIA’s $16,000 Workstation GPU Alone",
+    "summary": "NVIDIA’s RTX PRO 6000 will blow a hole through your wallet, and since we’re in the age of the DRAM shortage, you can only expect the GPU’s price to continue rising, with the latest figure being $16,00",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/dell-pro-max-tower-t2-rtx-pro-6000-configuration-price/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-077",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Topcoat enables Rust to render server-side web apps",
+    "summary": " Rust guru rejiggers web app reactivity for potentially speedier page loading ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/devops/2026/10/29/topcoat-enables-rust-to-render-server-side-web-apps/5306470",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-29-078",
+    "date": "2026-10-29",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Fable: The Thing That Was Too Good For Its Own Good",
+    "summary": "<p>27 years ago a university  student looked for a way round having to buy CDs to get single tracks. He coded a programme letting students share tracks stored on their [&#8230;]</p>\n<p>The post <a hre",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-thing-that-was-too-good-for-its-own-good-2026-10/",
         "type": "rss"
       }
     ]

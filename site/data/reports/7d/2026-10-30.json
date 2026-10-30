@@ -1,0 +1,330 @@
+{
+  "date": "2026-10-30",
+  "date_range": {
+    "start": "2026-10-24",
+    "end": "2026-10-30"
+  },
+  "generated_at": "2026-10-30T15:00:35.167020Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-10-24-007",
+      "date": "2026-10-24",
+      "title": "LGES Poland plant nears breakeven as utilization rebounds",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "oracle",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "cxmt",
+      "company_b": "skhynix",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 134,
+      "last_week": 135,
+      "week_over_week_change": "-1%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_server": {
+      "this_week": 9,
+      "last_week": 10,
+      "week_over_week_change": "-10%",
+      "sentiment_this_week": 0.28
+    },
+    "earnings": {
+      "this_week": 111,
+      "last_week": 67,
+      "week_over_week_change": "+66%",
+      "sentiment_this_week": 0.07
+    },
+    "capacity": {
+      "this_week": 27,
+      "last_week": 28,
+      "week_over_week_change": "-4%",
+      "sentiment_this_week": 0.1
+    },
+    "inventory": {
+      "this_week": 11,
+      "last_week": 8,
+      "week_over_week_change": "+38%",
+      "sentiment_this_week": 0.05
+    },
+    "guidance": {
+      "this_week": 9,
+      "last_week": 4,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.05
+    },
+    "euv": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 8,
+      "last_week": 6,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": 0.16
+    },
+    "ddr5": {
+      "this_week": 6,
+      "last_week": 7,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.08
+    },
+    "capex": {
+      "this_week": 19,
+      "last_week": 16,
+      "week_over_week_change": "+19%",
+      "sentiment_this_week": 0.05
+    },
+    "hbm": {
+      "this_week": 15,
+      "last_week": 9,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.08
+    },
+    "advanced_packaging": {
+      "this_week": 6,
+      "last_week": 6,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.75
+    }
+  },
+  "company_7d_summary": {
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "qualcomm": {
+      "event_count": 4,
+      "sentiment_avg": 0.38,
+      "rank": 13
+    },
+    "cxmt": {
+      "event_count": 5,
+      "sentiment_avg": -0.05,
+      "rank": 11
+    },
+    "nvidia": {
+      "event_count": 28,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "intel": {
+      "event_count": 36,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "tsmc": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "amd": {
+      "event_count": 16,
+      "sentiment_avg": 0.22,
+      "rank": 3
+    },
+    "samsung": {
+      "event_count": 12,
+      "sentiment_avg": 0.11,
+      "rank": 4
+    },
+    "meta": {
+      "event_count": 5,
+      "sentiment_avg": -0.06,
+      "rank": 12
+    },
+    "ti": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "micron": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 10
+    },
+    "skhynix": {
+      "event_count": 12,
+      "sentiment_avg": 0.19,
+      "rank": 5
+    },
+    "apple": {
+      "event_count": 8,
+      "sentiment_avg": -0.1,
+      "rank": 8
+    },
+    "google": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "microsoft": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 9
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "oracle": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 24
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.62,
+      "rank": 25
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    },
+    "kla": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 27
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 29
+    },
+    "aws": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 319,
+        "last": 319,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-24",
+      "event_count": 20,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 27,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 44,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 40,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 60,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 78,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-30",
+      "event_count": 50,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-24 ~ 2026-10-30）共 319 則事件，重點為「LGES Poland plant nears breakeven as utilizatio...」。超微、高通表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "高通",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "CXMT",
+        "reason": "本週出現 5 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 28 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
