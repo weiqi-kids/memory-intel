@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-01",
+  "date_range": {
+    "start": "2026-10-26",
+    "end": "2026-11-01"
+  },
+  "generated_at": "2026-11-01T14:56:50.905187Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-10-26-002",
+      "date": "2026-10-26",
+      "title": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "oracle",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "google",
+      "company_b": "oracle",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "hbm": {
+      "this_week": 15,
+      "last_week": 7,
+      "week_over_week_change": "+114%",
+      "sentiment_this_week": 0.08
+    },
+    "capacity": {
+      "this_week": 25,
+      "last_week": 29,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.17
+    },
+    "advanced_packaging": {
+      "this_week": 7,
+      "last_week": 6,
+      "week_over_week_change": "+17%",
+      "sentiment_this_week": 0.21
+    },
+    "industry_general": {
+      "this_week": 129,
+      "last_week": 140,
+      "week_over_week_change": "-8%",
+      "sentiment_this_week": 0.08
+    },
+    "euv": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "earnings": {
+      "this_week": 109,
+      "last_week": 74,
+      "week_over_week_change": "+47%",
+      "sentiment_this_week": 0.09
+    },
+    "capex": {
+      "this_week": 20,
+      "last_week": 13,
+      "week_over_week_change": "+54%",
+      "sentiment_this_week": 0.05
+    },
+    "ddr5": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_server": {
+      "this_week": 8,
+      "last_week": 10,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.12
+    },
+    "inventory": {
+      "this_week": 11,
+      "last_week": 10,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 9,
+      "last_week": 6,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.14
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    },
+    "guidance": {
+      "this_week": 5,
+      "last_week": 8,
+      "week_over_week_change": "-38%",
+      "sentiment_this_week": 0.2
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.75
+    }
+  },
+  "company_7d_summary": {
+    "apple": {
+      "event_count": 7,
+      "sentiment_avg": -0.11,
+      "rank": 8
+    },
+    "google": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "micron": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 10
+    },
+    "cadence": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "amd": {
+      "event_count": 15,
+      "sentiment_avg": 0.23,
+      "rank": 3
+    },
+    "intel": {
+      "event_count": 36,
+      "sentiment_avg": 0.08,
+      "rank": 1
+    },
+    "meta": {
+      "event_count": 4,
+      "sentiment_avg": 0.04,
+      "rank": 11
+    },
+    "nvidia": {
+      "event_count": 25,
+      "sentiment_avg": -0.01,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 9
+    },
+    "samsung": {
+      "event_count": 10,
+      "sentiment_avg": 0.03,
+      "rank": 6
+    },
+    "skhynix": {
+      "event_count": 11,
+      "sentiment_avg": 0.16,
+      "rank": 5
+    },
+    "screen": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "nanya": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 18
+    },
+    "microsoft": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 7
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "qualcomm": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 14
+    },
+    "cxmt": {
+      "event_count": 3,
+      "sentiment_avg": 0.08,
+      "rank": 12
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "oracle": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "infineon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.62,
+      "rank": 24
+    },
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "kla": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 26
+    },
+    "applied_materials": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 27
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 28
+    },
+    "aws": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 16
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 304,
+        "last": 327,
+        "change_pct": -7.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-26",
+      "event_count": 44,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 40,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 60,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 78,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-30",
+      "event_count": 57,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-10-31",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-01",
+      "event_count": 10,
+      "sentiment_avg": -0.2
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-26 ~ 2026-11-01）共 304 則事件，重點為「Vertical DRAM Stacking Expands Thermal Design S...」。超微、高通表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "蘋果",
+        "reason": "本週出現 7 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "GCP",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "美光",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
