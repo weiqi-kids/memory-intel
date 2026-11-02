@@ -1,0 +1,334 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T18:09:27.705798Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "arm-2026-11-02-029",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "NVIDIA RTX 5090 Records A Staggering 370% Hike In Price Since Launch While Every RTX 50 GPU Saw A Price Hike In 40-120% Range",
+      "companies": [
+        "arm",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://wccftech.com/nvidia-rtx-5090-records-a-staggering-370-hike-in-price-since-launch/"
+    },
+    {
+      "rank": 2,
+      "event_id": "ti-2026-11-02-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DDR5 right now",
+      "companies": [
+        "ti",
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/desktops/gaming-pcs/grab-a-usd450-saving-on-this-4k-ready-gaming-pc-with-an-rtx-5070-ti-and-32gb-ddr5-right-now-abs-rig-from-newegg-ships-with-24-core-intel-cpu-and-a-2tb-ssd-for-usd2-549-99"
+    },
+    {
+      "rank": 3,
+      "event_id": "tsmc-2026-11-02-036",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Elon Musk Rumored To Soften Stance On TSMC For Terafab After Calling It A Subcontractor At Best, With Operational Control And Joint Investment On The Table",
+      "companies": [
+        "tsmc"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/elon-musk-rumored-to-soften-stance-on-tsmc-for-terafab-after-calling-it-a-subcontractor-at-best-with-operational-control-and-joint-investment-on-the-table/"
+    },
+    {
+      "rank": 4,
+      "event_id": "intel-2026-11-02-037",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Intel’s Regression: Accuracy Of Its Guidance Falters, As 18A Capacity Gets Cannibalized To Feed The Older Intel 3 Process",
+      "companies": [
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "inventory",
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/intels-regression-accuracy-of-its-guidance-falters-as-18a-capacity-gets-cannibalized-to-feed-the-older-intel-3-process/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-02-035",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及 AI 記憶體"
+      ],
+      "title": "AI Memory Boom Puts South Korea $70 Billion Away From $1 Trillion In Exports; Chips Now Make Up 49% Of Shipments While Small Businesses Struggle",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_memory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://wccftech.com/south-korea-1-trillion-exports-ai-memory-chip-boom-semiconductors-49-percent/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.75,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "google",
+        "count": 2
+      },
+      {
+        "id": "marvell",
+        "count": 2
+      },
+      {
+        "id": "amd",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "inventory",
+        "count": 3
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      },
+      {
+        "id": "ddr5",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 284,
+    "dup_title": 94,
+    "too_old": 67,
+    "gate1_blocked": 45,
+    "gate2_blocked": 39,
+    "passed": 39,
+    "pass_rate": "20.5%",
+    "gate2_block_rate": "20.5%",
+    "gate2_samples": [
+      "KLA Corporation Reports Fiscal 2027 First Quarter Results",
+      "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+      "Apple Creator Studio adds powerful new AI features and even more creative tools"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為輝達、英特爾、GCP相關動態：「NVIDIA RTX 5090 Records A Staggering 370% Hike In Price S...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NVIDIA RTX 5090 Records A Staggering 370% Hike In Price Since Launch While Ev...（AI 伺服器）",
+        "level": "red"
+      },
+      {
+        "text": "Grab a $450 saving on this 4K-ready gaming PC with an RTX 5070 Ti and 32GB DD...（DDR5）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
