@@ -1,0 +1,398 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T16:04:49.122851Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intel-2026-11-03-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "AI Hardware’s Hidden Cost: Between Orders and Output",
+      "companies": [
+        "intel",
+        "google"
+      ],
+      "related": {
+        "customers": [
+          "google"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "capacity",
+        "inventory",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.eetimes.com/ai-hardwares-hidden-cost-between-orders-and-output/"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-11-03-047",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Samsung Foundry Gets A Massive Boost As AMD Reportedly Commits To Sourcing Next-Generation HBM Base Dies From Its Upcoming Taylor 2 Facility",
+      "companies": [
+        "nvidia",
+        "amd",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "amd",
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/samsung-foundry-secures-amd-hbm-base-die-orders-taylor-fab-2/"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-03-054",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "情緒極端"
+      ],
+      "title": "Don’t Expect Cheaper SSDs Anytime Soon: HBF Would Cost Just $0.64 Per GB But Consume 6.5x More Wafers Than A Typical TLC NAND",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://wccftech.com/dont-expect-cheaper-ssds-anytime-soon-hbf-would-cost-just-0-64-per-gb-but-consume-6-5x-more-wafers-than-a-typical-tlc-nand/"
+    },
+    {
+      "rank": 4,
+      "event_id": "apple-2026-11-03-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Apple faces unprecedented memory cost increases as RAM prices continue to surge, manufacturing bill climbs by $33 billion",
+      "companies": [
+        "apple",
+        "skhynix",
+        "micron",
+        "samsung"
+      ],
+      "related": {
+        "customers": [
+          "apple"
+        ],
+        "suppliers": [
+          "skhynix",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/dram/apple-faces-unprecedented-memory-cost-increases-as-ram-prices-continue-to-surge-manufacturing-bill-climbs-by-usd33-billion-rising-component-expenses-threaten-margins-through-the-holiday-quarter-and-into-2027"
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-11-03-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Ceva takes NeuPro NPU into AI data centers, targeting efficiency gaps rather than Nvidia's dominance",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261103PD217/data-npu-ip-efficiency-nvidia.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "apple",
+      "to": "samsung",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "amd",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "hbm",
+        "capex",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "intel",
+      "to": "microsoft",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 69,
+    "sentiment_distribution": {
+      "positive": 13,
+      "neutral": 54,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 8
+      },
+      {
+        "id": "intel",
+        "count": 7
+      },
+      {
+        "id": "samsung",
+        "count": 5
+      },
+      {
+        "id": "google",
+        "count": 4
+      },
+      {
+        "id": "amd",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "earnings",
+        "count": 15
+      },
+      {
+        "id": "capacity",
+        "count": 7
+      },
+      {
+        "id": "hbm",
+        "count": 4
+      },
+      {
+        "id": "ddr5",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 89,
+    "too_old": 67,
+    "gate1_blocked": 47,
+    "gate2_blocked": 35,
+    "passed": 76,
+    "pass_rate": "33.8%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "KLA Corporation Reports Fiscal 2027 First Quarter Results",
+      "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+      "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+      "Apple Creator Studio adds powerful new AI features and even more creative tools"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 69 則事件，焦點為輝達、英特爾、三星相關動態：「AI Hardware’s Hidden Cost: Between Orders and Output」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AI Hardware’s Hidden Cost: Between Orders and Output（產能、庫存、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung Foundry Gets A Massive Boost As AMD Reportedly Commits To Sourcing Ne...（HBM、資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
