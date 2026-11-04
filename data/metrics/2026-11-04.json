@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-04",
+  "total_events": 59,
+  "by_company": {
+    "intel": {
+      "count": 9,
+      "sentiment_avg": 0.06
+    },
+    "google": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "innodisk": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "broadcom": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "samsung": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "onsemi": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "marvell": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "amd": {
+      "count": 6,
+      "sentiment_avg": 0.25
+    },
+    "nvidia": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "microsoft": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "hp": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 32,
+      "sentiment_avg": 0.1
+    },
+    "ai_server": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "capacity": {
+      "count": 3,
+      "sentiment_avg": -0.25
+    },
+    "advanced_packaging": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 24,
+      "sentiment_avg": 0.14
+    },
+    "guidance": {
+      "count": 2,
+      "sentiment_avg": 1.0
+    },
+    "inventory": {
+      "count": 6,
+      "sentiment_avg": -0.12
+    },
+    "ddr5": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "dram_price": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "hbm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "capex": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {
+      "samsung": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "nvidia": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "asml": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "google": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "amd": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "skhynix": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      },
+      "tokyo_electron": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "data_days": 2
+      }
+    },
+    "topics": {
+      "earnings": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "hbm": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ai_memory": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "ddr5": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      },
+      "guidance": {
+        "7d_avg": null,
+        "30d_avg": null,
+        "yoy_same_week": null,
+        "sentiment_7d_avg": null,
+        "sentiment_30d_avg": null,
+        "last_seen": null,
+        "data_days": 2
+      }
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "industry_general",
+        "guidance",
+        "ddr5",
+        "earnings",
+        "dram_price"
+      ]
+    }
+  ]
+}
