@@ -1,5 +1,953 @@
 [
   {
+    "id": "nvidia-2026-11-05-001",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models",
+    "summary": "Chris Alexiuk has a simple rule about open source AI: If you believe in it, be loud about it. âWe should be shouting about this technology from the rooftops,â said Alexiuk, a Toronto-based senior ",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-11-05-002",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AIâs Memory Challenge",
+    "summary": "Larger models, longer contexts and agentic applications are increasing GPU memory pressure while supply tightens and prices rise â a trend expected to continue through the near term. NVIDIA works cl",
+    "sources": []
+  },
+  {
+    "id": "supermicro-2026-11-05-003",
+    "date": "2026-11-05",
+    "companies": [
+      "supermicro",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Supermicro Launches KV Cache Solution with IBM and NVIDIA Demonstrating Significant Inference Performance Benefits",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-11-05-004",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Adding Network Security To AI, HPC, And Data Centers",
+    "summary": "<p>The location of security functions such as MACsec or IPsec has become a key architectural decision.</p>\n<p>The post <a href=\"https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-c",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-005",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Physical AI Pushes The Limits Of Hardware",
+    "summary": "<p>Autonomous machines promise to transform industries, but memory bottlenecks, power constraints, specialized architectures, and safety requirements are forcing chip designers to rethink the entire s",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/physical-ai-pushes-the-limits-of-hardware/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-05-006",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia, Municipal Leaders Frame AI as Critical Urban Infrastructure",
+    "summary": "\n\t\t\t\t\t\t<p>City officials are moving beyond isolated pilot projects toward local computing infrastructure and AI.</p>\n<p>The post <a href=\"https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-c",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/nvidia-municipal-leaders-frame-ai-as-critical-urban-infrastructure/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-11-05-007",
+    "date": "2026-11-05",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "capex",
+      "earnings",
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Micron has paused a Taiwan cleanroom since October amid labor dispute, but keeps EUV plans",
+    "summary": "Micron has paused construction of a new cleanroom at its Fab 11E site in Taoyuan, Taiwan, since mid-October 2026, according to semiconductor supply chain sources. The company recently introduced a new",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL234/micron-taiwan-euv-cleanroom-labor.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-008",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Largan consolidates camera actuator unit as optical business expands into CPO",
+    "summary": "Largan Technology reported October revenue of NT$5.846 billion (US$178.1 million) on November 5, down 7.0% year-over-year, while moving to consolidate its camera actuator subsidiary and advance co-pac",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105PD243/revenue-camera-cpo-subsidiary-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-009",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Foxconn October revenue tops NT$1.3T on consumer and AI demand",
+    "summary": "Foxconn reported October 2026 revenue of NT$1.3053 trillion (US$39.8 billion), up 12.66% from September and 45.73% from a year earlier, as consumer smart products, computer terminals, components and o",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105PD242/foxconn-revenue-demand-2026-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "hp-2026-11-05-010",
+    "date": "2026-11-05",
+    "companies": [
+      "hp"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "HP names former GSK chief Emma Walmsley as CEO",
+    "summary": "Hewlett Packard (HP) has appointed Emma Walmsley, the former head of drugmaker GSK, as its next CEO, ending a search that began after the company named an interim leader earlier this year.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL227/hp-ceo-management-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-011",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "The 346-GW question: Will anti-data-center votes slow America's AI buildout?",
+    "summary": "US voters favored restrictions on data center development in 40 of 41 local ballot measures across 10 states on November 3, signaling growing opposition to AI infrastructure expansion. Meanwhile, the ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL225/data-center-development-capacity-infrastructure-electricity.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-012",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Advantech sees high-double-digit growth through 2027, driven by AI and semiconductor equipment",
+    "summary": "Industrial PC leader Advantech reported record quarterly revenue and net profit for the third quarter of 2026, propelled by strong demand across semiconductor equipment, factory automation, and medica",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105PD231/advantech-growth-equipment-pc-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-013",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Advantech sees edge AI growth accelerating beyond semiconductor equipment into robotics",
+    "summary": "Advantech expects strong growth in 2027, identifying semiconductor equipment, edge AI and robotics as its principal growth engines. The Taiwanese industrial computing company reported robust orders ac",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105PD223/advantech-growth-equipment-robotics-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-05-014",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Finance firms reportedly begin seeking investors for SpaceX's US$40B chip financing",
+    "summary": "Goldman Sachs and Apollo Global Management have reportedly begun approaching potential investors about purchasing parts of a US$40 billion deal to finance SpaceX's leasing of Nvidia chips. The firms a",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL224/spacex-goldman-sachs-financing-chips-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "kioxia-2026-11-05-015",
+    "date": "2026-11-05",
+    "companies": [
+      "kioxia"
+    ],
+    "topics": [
+      "dram_price",
+      "nand_price",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "NAND prices face pressure as end demand freezes in 4Q26",
+    "summary": "Memory prices have surged for several consecutive quarters, leaving consumer applications grappling with cooling buying interest and weak demand. Kioxia has taken a more conservative view of the next ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105PD215/nand-demand-2026-nand-flash-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-016",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "AI demand lifts Kyocera revenue as company raises forecast again",
+    "summary": "Japanese electronic components giant Kyocera reported record revenue of JPY1.08 trillion (approximately US$6.83 billion) for the first half of fiscal 2026 (April to September 2026), up 8.8% from the s",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105PD200/kyocera-revenue-demand-forecast-electronics.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ymtc-2026-11-05-017",
+    "date": "2026-11-05",
+    "companies": [
+      "ymtc"
+    ],
+    "topics": [
+      "inventory",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Beijing restricts equity listings amid market slump as YMTC pauses its stock market debut",
+    "summary": "Beijing has instructed top securities firms and investment banks to pause initial public offerings and restrict large-scale share sales by major shareholders. Reporting by <em>The Wall Street Journal<",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL223/ymtc-beijing-stock-market-investment-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "marvell-2026-11-05-018",
+    "date": "2026-11-05",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Coherent pitches itself as the neutral optics supplier after Marvell-Lumentum deal",
+    "summary": "Coherent is positioning itself as the optics supplier with no stake in the chip wars, two days after Marvell Technology agreed to acquire one of its closest rivals.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL222/coherent-optics-cpo-revenue-supplier.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-019",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Qisda revenue rises 13% in October as AI businesses accelerate",
+    "summary": "Qisda posted October consolidated revenue of NT$19.39 billion (US$590.8 million), up 13.47% year-over-year but down 1.85% from September, as its AI infrastructure, AI solutions, and smart manufacturin",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105PD225/revenue-qisda-healthcare-2026-infrastructure.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-020",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chipmakers rush to secure equipment for 2029 as lead times top two years",
+    "summary": "Chipmakers are moving to secure production equipment for delivery as far ahead as 2029, as AI-driven fab expansion pushes some equipment lead times beyond two years and forces manufacturers to negotia",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL219/semiconductors-equipment-production-asml-earnings-2028.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-021",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU launches EUR525 million push to close chip design gap",
+    "summary": "The European Union has launched a EUR525 million (approx. US$590 million) initiative to strengthen its semiconductor design industry, seeking to narrow the gap with the US and China while generating d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL221/design-europe-eu-manufacturing-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-022",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CHT ICT orders surge 84% as 3Q26 results beat guidance",
+    "summary": "Chunghwa Telecom (CHT) reported consolidated revenue of NT$675.9 billion (US$2.06 billion) for the third quarter of 2026, up 16.7% year over year, with revenue, operating profit, net income attributab",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105PD201/cht-revenue-profit-growth-operating-profit.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-023",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cirrus Logic rides iPhone content wave, but backend squeeze, PC slump cloud the path ahead",
+    "summary": "Cirrus Logic reported revenue of US$559.5 million for its fiscal second quarter ended September 26, up 22% sequentially and roughly flat year-on-year. Non-GAAP earnings per share came in at US$2.70, w",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261105VL218/cirrus-logic-revenue-capacity-earnings-camera.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-024",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "IIPR.PR.B: A Fairly Priced Preferred Stock IPO From Innovative Industrial Properties",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963164-iiprprb-a-fairly-priced-preferred-stock-ipo-from-innovative-industrial-properties?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-025",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lincoln National Corporation (LNC) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963130-lincoln-national-corporation-lnc-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-026",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Primo Brands Corporation (PRMB) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963039-primo-brands-corporation-prmb-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-027",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Lamar Advertising Company (LAMR) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963171-lamar-advertising-company-lamr-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-028",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Myriad Genetics, Inc. (MYGN) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963219-myriad-genetics-inc-mygn-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-029",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Bentley Systems, Incorporated 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963217-bentley-systems-incorporated-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-030",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MaxLinear: A Hidden AI Infrastructure Gem",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963120-maxlinear-a-hidden-ai-infrastructure-gem?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-031",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ElringKlinger AG (ELLRY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4962969-elringklinger-ag-ellry-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-032",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Millicom International Cellular S.A. (TIGO) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963081-millicom-international-cellular-s-a-tigo-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-033",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Arrow Electronics, Inc. (ARW) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963097-arrow-electronics-inc-arw-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-034",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Freshworks: The Profitability Inflection Point Has Arrived",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963099-freshworks-the-profitability-inflection-point-has-arrived?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-035",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Core Natural Resources, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963209-core-natural-resources-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-11-05-036",
+    "date": "2026-11-05",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rockstar Games Flexes Its Technical Prowess With GTA 6’s 40 Launch Screenshots, As Stunning Attention to Detail Completely Steals the Show",
+    "summary": "GTA 6 is only two weeks away from its release on PlayStation 5 and Xbox Series X&#124;S, and Rockstar Games decided to mark the occasion by sharing a new gallery of 40 screenshots that almost look lik",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/rockstar-games-flexes-prowess-gta-6-launch-screenshot/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-05-037",
+    "date": "2026-11-05",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD Ryzen 7 5800X3D Hits Its Lowest Price Since Relaunch At $279, Giving Existing AM4 Gaming Rigs Their Best Upgrade Option",
+    "summary": "This is the lowest it has gone down since its relaunch and if you are already rocking an AM4 platform, this is the best upgrade you can gift yourself. AM4's Best Gaming Processor Dropped to Just $279 ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-ryzen-7-5800x3d-got-its-price-slashed-by-70-and-now-sits-at-just-279/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-11-05-038",
+    "date": "2026-11-05",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TSMC’s 1-nanometer Chip Making Site Could Be In A Science Park That Also Manufactures Components For Space Use Imply Taiwanese Official’s Statements",
+    "summary": "After his earlier comments discussing potential plans for TSMC's 1-nanometer chip production factory, the chairman of Taiwan's National Science Council, Cheng-Weng Wu, has discussed details about reso",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/tsmcs-1-nanometer-chip-making-site-could-be-in-a-science-park-that-also-manufactures-components-for-space-use-imply-taiwanese-officials-statements/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-05-039",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA GeForce 8800 GTX Turns 20: The First CUDA GPU Packed 128 Cores, 768 MB GDDR3, Ran Crysis At Playable FPS & Changed Everything About Graphics",
+    "summary": "NVIDIA's GeForce 8800 GTX launched 20 years ago, offering the CUDA architecture for the first time, which fundamentally changed the graphics industry. NVIDIA's Historic GeForce 8800 GTX Launched Today",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-geforce-8800-gtx-turns-20/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-05-040",
+    "date": "2026-11-05",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Nova Lake-H Smiles For The Camera; Reveals A Six-Tile Setup",
+    "summary": "Intel's upcoming Nova Lake-H mobile chip gets a closer look as its unusual multi-tile design comes into focus. Intel Core Ultra \"4000H\" Processor Appears in a New Image, Giving Us a Closer Look at the",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-nova-lake-h-smiles-for-the-camera-reveals-a-six-tile-setup/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-11-05-041",
+    "date": "2026-11-05",
+    "companies": [
+      "tsmc",
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel Engineers Get Angry When MediaTek People “Ask Questions Yesterday And Expect Answers Today,” According To An Explosive New Tidbit",
+    "summary": "A labyrinthine, inefficient bureaucracy, and general sloth have long characterized the malaise that has been plaguing Intel for a while now, and the company's new CEO, Lip-Bu Tan, has apparently faile",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-engineers-get-angry-when-mediatek-people-ask-questions-yesterday-and-expect-answers-today-according-to-an-explosive-new-tidbit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-05-042",
+    "date": "2026-11-05",
+    "companies": [
+      "microsoft",
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA RTX 5080 Sees Over 220X FPS Boost With New DirectX Raytracing Technology, Outpaces RX 9070 XT By 3.4X",
+    "summary": "Microsoft's latest DirectX Raytracing (DXR) technology continues to deliver remarkable results in independent testing, with NVIDIA's GeForce RTX 5080 achieving a more than 220-fold frame-rate improvem",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-rtx-5080-sees-over-220x-fps-boost-with-new-directx-raytracing-technology-outpaces-rx-9070-xt-by-3-4x/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-043",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "G.Skill Announces Limited Time Discounts On Its Popular DDR5/DDR4 Memory Kits, But 32 GB Memory Kit Still Costs $539 After $110 Discount",
+    "summary": "For users who were waiting for the DDR5 and DDR4 RAM prices to drop, you can have a look at the discounted prices for these kits. G.Skill Slashes Prices for Several of its DDR4 and DDR5 Memory Kits on",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/g-skill-announces-limited-time-discounts-on-its-popular-ddr5-memory-kits/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-05-044",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA DLSS 5 Gives Astral Chain’s Native PC Port Richer Textures and Moodier Lighting, as PlatinumGames’ Switch Exclusive Starts Looking Like a Remaster",
+    "summary": "Once NVIDIA DLSS 5 neural rendering was officially released in September, many have experimented with the technology to see how far it could be pushed. While it delivers the best results in games with",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-dlss-5-astral-chain-pc-port-richer-textures-platinumgames-remaster/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-05-045",
+    "date": "2026-11-05",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Microsoft’s New Windows 11 Accelerated App Launch Feature Makes Edge Open Up To 33% Faster, With More Apps To Follow",
+    "summary": "Microsoft's latest Windows 11 optimization eliminates unnecessary process overhead when reopening applications, promising faster launches, particularly under heavy multitasking Microsoft has introduce",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/microsofts-new-windows-11-accelerated-app-launch-feature-makes-edge-open-up-to-33-faster-with-more-apps-to-follow/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-046",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nintendo’s Switch 2 Sales Fell 41% In The September Quarter As Memory Costs Bit And Operating Profit Dropped 16%, Missing Analyst Estimates",
+    "summary": "Nintendo's half-year financial results tell a seemingly contradictory story: sales fell 12.1% to ¥966.0 billion ($6.23 billion), but operating profit rose 49.1% to ¥216.5 billion ($1.40 billion). Basi",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nintendo-switch-2-lower-sales-higher-revenue/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-047",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "PlayStation Posts Its Strongest Quarter In Years As Sony Raises Its Full-Year Forecast, But PlayStation 5 Console Shipments Fell 35% Year-On-Year",
+    "summary": "It's time for another quarterly report across the industry, starting with Japanese companies like Sony and Nintendo. In this article, we'll focus on Sony and specifically on its PlayStation gaming div",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/playstation-profit-record-quarter-ps5-shipments-drop/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-048",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Memory makers mint megabucks while buyers beg for mercy",
+    "summary": " DRAM revenue jumps 369 percent as AI demand keeps supplies tight and prices climbing ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-049",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'Stop dirty datacenters': Europe-wide protests planned demanding building moratorium",
+    "summary": " Curbing compute farms played a big part in recent US elections, now Euro activists are making their feelings known ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-11-05-050",
+    "date": "2026-11-05",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "When datacenters lose power, generators should kick in. That didn’t happen for Google in London",
+    "summary": " October outage caused by bad PLC config exposed at a time maintenance work reduced resilience ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/11/05/when-datacenters-lose-power-generators-should-kick-in-that-didnt-happen-for-google-in-london/5307739",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-05-051",
+    "date": "2026-11-05",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Microsoft admits certifications can be a drag, launches creds that recognize skills",
+    "summary": " ‘Pro Badges’ don’t require a test, Microsoft awards them by watching you use GitHub ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-04-001",
     "date": "2026-11-04",
     "companies": [],
@@ -1120,6 +2068,45 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/blogs/mannerisms/ten-best/top-ten-10-semiconductor-companies-in-q2-2-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-11-04-060",
+    "date": "2026-11-04",
+    "companies": [
+      "meta",
+      "cadence"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chiplets: Meta-Scale Chiplet Velocity Accelerating AI SoC Development to Match the Rapid Evolution of AI Model",
+    "summary": "\n\t\t\t\t\t\t<p>This event session is presented by Olivia Wu, Distinguished Engineer at Meta AI model architectures are evolving faster than traditional chip development cycles, and at Meta&#8217;s scale—se",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/chiplets-meta-scale-chiplet-velocity-accelerating-ai-soc-development-to-match-the-rapid-evolution-of-ai-model/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-04-061",
+    "date": "2026-11-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ABLIC’s Small, Smart, and Simple Strategy for High-Value Analog Semiconductors",
+    "summary": "\n\t\t\t\t\t\t<p>ABLIC’s Satoshi Hanazawa discusses its low-power analog semiconductor strategy, target markets, product innovation and development approach. </p>\n<p>The post <a href=\"https://www.eetimes.com",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ablics-small-smart-and-simple-strategy-for-high-value-analog-semicondutors/",
         "type": "rss"
       }
     ]

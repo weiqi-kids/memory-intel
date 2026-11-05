@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T16:09:15.458862Z",
+  "updated_at": "2026-11-05T16:23:14.774119Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -92,9 +92,9 @@
       "name": "安謀",
       "ticker": "ARM",
       "currency": "USD",
-      "ar": 1119000000,
-      "ar_prev": 1300000000,
-      "ar_qoq": "-14%",
+      "ar": 1086000000,
+      "ar_prev": 1119000000,
+      "ar_qoq": "-3%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -102,7 +102,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ase",
@@ -398,17 +398,17 @@
       "name": "旺宏電子",
       "ticker": "2337.TW",
       "currency": "TWD",
-      "ar": 10751421000,
-      "ar_prev": 6048635000,
-      "ar_qoq": "+78%",
+      "ar": 14184166000,
+      "ar_prev": 10751421000,
+      "ar_qoq": "+32%",
       "ar_period": "QoQ",
-      "inventory": 9756117000,
-      "inv_prev": 9276087000,
-      "inv_qoq": "+5%",
+      "inventory": 11537302000,
+      "inv_prev": 9756117000,
+      "inv_qoq": "+18%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "marvell",
@@ -654,12 +654,12 @@
       "ticker": "7735.T",
       "currency": "JPY",
       "ar": 100702000000,
-      "ar_prev": 85843000000,
-      "ar_qoq": "+17%",
+      "ar_prev": 97018000000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
       "inventory": 158637000000,
-      "inv_prev": 173406000000,
-      "inv_qoq": "-9%",
+      "inv_prev": 171749000000,
+      "inv_qoq": "-8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,

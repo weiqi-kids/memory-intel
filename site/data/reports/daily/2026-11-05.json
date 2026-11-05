@@ -1,0 +1,347 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:23:23.196569Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "kioxia-2026-11-05-015",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "NAND prices face pressure as end demand freezes in 4Q26",
+      "companies": [
+        "kioxia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "nand_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261105PD215/nand-demand-2026-nand-flash-2027.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "micron-2026-11-05-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及產能"
+      ],
+      "title": "Micron has paused a Taiwan cleanroom since October amid labor dispute, but keeps EUV plans",
+      "companies": [
+        "micron"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capex",
+        "earnings",
+        "euv",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261105VL234/micron-taiwan-euv-cleanroom-labor.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-05-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "AI demand lifts Kyocera revenue as company raises forecast again",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261105PD200/kyocera-revenue-demand-forecast-electronics.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-05-019",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Qisda revenue rises 13% in October as AI businesses accelerate",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261105PD225/revenue-qisda-healthcare-2026-infrastructure.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-11-05-002",
+      "importance_score": 0.8,
+      "importance_reasons": [
+        "涉及 HBM"
+      ],
+      "title": "More Performance From Every Byte: How Full-Stack Codesign Solves AIâs Memory Challenge",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 51,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 40,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 8
+      },
+      {
+        "id": "amd",
+        "count": 3
+      },
+      {
+        "id": "microsoft",
+        "count": 3
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      },
+      {
+        "id": "intel",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 22
+      },
+      {
+        "id": "guidance",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 2
+      },
+      {
+        "id": "capacity",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 284,
+    "dup_title": 88,
+    "too_old": 73,
+    "gate1_blocked": 36,
+    "gate2_blocked": 34,
+    "passed": 53,
+    "pass_rate": "27.0%",
+    "gate2_block_rate": "17.3%",
+    "gate2_samples": [
+      "âHogwarts Legacyâ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+      "Check out our free livestream during National Veterans Small Business Week.",
+      "Watch Henry Cavill build a video game on his Googlebook"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 51 則事件，焦點為輝達、超微、微軟相關動態：「NAND prices face pressure as end demand freezes in 4Q26」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "NAND prices face pressure as end demand freezes in 4Q26（DRAM 價格、NAND 價格、財報、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Micron has paused a Taiwan cleanroom since October amid labor dispute, but ke...（資本支出、財報、EUV、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
