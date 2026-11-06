@@ -1,5 +1,926 @@
 [
   {
+    "id": "marvell-2026-11-06-001",
+    "date": "2026-11-06",
+    "companies": [
+      "marvell"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Marvell Technology, Inc. Announces Conference Call to Review Third Quarter of Fiscal Year 2027 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "amd-2026-11-06-002",
+    "date": "2026-11-06",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "IBM, AMD Mix Quantum and AI at U.S. National Lab",
+    "summary": "\n\t\t\t\t\t\t<p>IBM, AMD, and Oak Ridge launch hybrid quantum-classical system to accelerate quantum-error correction research ahead of 2028.</p>\n<p>The post <a href=\"https://www.eetimes.com/ibm-amd-mix-qua",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ibm-amd-mix-quantum-and-ai-at-u-s-national-lab/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-003",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Europe’s Chip Industry: Perfect Storm or Perfect Timing?",
+    "summary": "\n\t\t\t\t\t\t<p>At SEMICON Europa 2026, Europe’s chip industry will confront a “perfect storm” of geopolitical, technological, and competitive pressures.</p>\n<p>The post <a href=\"https://www.eetimes.com/eur",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/europe-chip-industry-perfect-storm-or-perfect-timing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-004",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GlobalFoundries VP details FDX Fusion technology, sporting 7nm-class performance without the need for EUV tools — company targets 2030 for high-volume manufacturing, with planar transistors in tow",
+    "summary": "\n                             GlobalFoundries reveals new details about its FDX Fusion technology, which promises 7nm-class performance and 8nm-class logic density using planar FD-SOI transistors with",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-vp-details-fdx-fusion-technology-sporting-7nm-class-performance-without-the-need-for-euv-tools-company-targets-2030-for-high-volume-manufacturing-with-planar-transistors-in-tow",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-06-005",
+    "date": "2026-11-06",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Protesters storm Microsoft AI data center construction site",
+    "summary": "\n                             The protesters stormed over the walls and took over the construction site, with the Stop Dirty Data Centers coalition saying that more actions are planned across Europe. ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/protesters-storm-microsoft-ai-data-center-construction-site-amsterdam-reportedly-first-of-85-targeted-actions-across-europe",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "supermicro-2026-11-06-006",
+    "date": "2026-11-06",
+    "companies": [
+      "supermicro",
+      "nvidia",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia tightens tracking of AI GPUs in Southeast Asia as Chinese chip smuggling draws scrutiny, report claims",
+    "summary": "\n                             Nvidia is requiring Southeast Asian cloud providers seeking Nvidia Cloud Partner status to enroll in its Fleet Intelligence tracking program, giving the chipmaker greater",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-007",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Six pallets of Nvidia GPUs worth $11.4 million stolen in California cargo heist",
+    "summary": "\n                             The latest incident comes amid growing concerns over GPU theft, with experts warning that advanced Nvidia chips can command significantly higher prices abroad and could e",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/six-pallets-of-nvidia-gpus-worth-usd11-4-million-stolen-in-california-cargo-heist-authorities-investigate-after-truck-posing-as-a-food-transport-company-disappears",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-008",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia wants to repurpose over 130 old telco buildings as tiny data centers, report claims",
+    "summary": "\n                             Brightspeed has over 130 facilities located across the U.S., with Nvidia estimating that they could produce up to 1GW of compute capacity. \n                              ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-wants-to-repurpose-over-130-old-telco-buildings-as-tiny-data-centers-report-claims-company-in-talks-with-brightspeed-after-pitching-idea-to-parent-company-apollo-global-management",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-06-009",
+    "date": "2026-11-06",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tesla unveils AI accelerator roadmap, adopts new 'SI' branding in 'Super Intelligence' push",
+    "summary": "\n                             Tesla is ramping up its custom silicon ambitions with training-oriented Dojo D3 that can eventually go to orbital data centers and massive SI6 inference accelerator. \n   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/tesla-unveils-ai-accelerator-roadmap-adopts-new-si-branding-in-super-intelligence-push-si6-to-bring-80x-more-compute-performance-dojo-3-headed-to-space",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-06-010",
+    "date": "2026-11-06",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s next-gen Nova Lake needs new motherboards — what we expect from Nova Point and Z990, Z970, and B960 chipsets",
+    "summary": "\n                             New Intel CPUs mean a new LGA 1954 socket and new motherboards. Here’s what we know about Nova Point’s Z990, Z970, and B960 chipsets, including more PCIe 5.0, Thunderbolt",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/chipsets/intels-next-gen-nova-lake-needs-new-motherboards-what-we-expect-from-nova-point-and-z990-z970-and-b960-chipsets",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ti-2026-11-06-011",
+    "date": "2026-11-06",
+    "companies": [
+      "ti",
+      "hp"
+    ],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Score a huge $600 saving on this RTX 5070 Ti gaming laptop from HP, now under $2,100",
+    "summary": "\n                             Save $600 on this customizable RTX 5070 Ti HP Omen Max 16 gaming laptop with 16GB DDR5, 512GB SSD, and a 16-inch display. \n                                               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/laptops/gaming-laptops/score-a-huge-usd600-saving-on-this-rtx-5070-ti-gaming-laptop-from-hp-now-under-usd2-100-hyperx-omen-max-16-machine-is-fully-customizable-base-model-ships-with-16gb-ddr5-and-a-512gb-ssd",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-012",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gelsinger-backed Nagare Labs’ Z2RAM promises SRAM speed at DRAM density",
+    "summary": "\n                             Georgia Tech spinout Nagare Labs, backed by Playground Global, unveils Z2RAM, a capacitorless memory to stack on AI accelerators. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/gelsinger-backed-nagare-labs-capacitorless-z2ram-promises-sram-speed-with-dram-density-latest-published-cell-retains-data-for-over-300-seconds-at-85-c-but-further-figures-are-projected",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-013",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia",
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "US lawmakers request briefing with Nvidia's Jensen Huang on dealings with Megaspeed executive",
+    "summary": "Three US lawmakers asked Nvidia CEO Jensen Huang to attend a closed-door meeting to discuss his interactions with former Megaspeed executive Alice Huang. The request followed recent reports alleging t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106VL220/nvidia-jensen-huang-ceo-chips-government.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-014",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commentary: US governors target AI data centers as Taiwan firms await Nvidia outlook",
+    "summary": "Following the 2026 US gubernatorial elections, four states that host major AI data centers&mdash;Texas, Ohio, Georgia, and Pennsylvania&mdash;could impose tighter controls on new projects after Democr",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106PD241/usa-data-center-ai-outlook-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-015",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Moonshot AI reportedly seeking access to Nvidia GPUs through European neoclouds",
+    "summary": "Moonshot AI, a leading Chinese model developer, is reportedly seeking remote access to Nvidia chips held in Europe. With sales of advanced US chips to China limited, the move would exploit a loophole ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106VL219/moonshot-nvidia-chips-blackwell-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ymtc-2026-11-06-016",
+    "date": "2026-11-06",
+    "companies": [
+      "ymtc"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "YMTC targets up to 70% Chinese tools for new NAND fab",
+    "summary": "China's Yangtze Memory Technologies (YMTC) plans to source as much as 70% of the manufacturing equipment for its fourth NAND flash factory from domestic suppliers, a substantial increase over the shar",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106VL217/ymtc-nand-equipment-manufacturing.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-017",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Democrats constrain Trump as scarce AI capacity benefits CSPs",
+    "summary": "Democrats swept the US midterm elections, reshaping the global technology and industrial landscape. Their victories in key gubernatorial races, including in Texas and Georgia, have raised concerns abo",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106PD243/capacity-industrial-policy-technology-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-018",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates",
+    "summary": "Wistron ITS reported record gross profit, operating profit, net income, and earnings per share in the third quarter of 2026, as stronger revenue and improved operating efficiency supported continued e",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106PD234/wistron-its-revenue-profit-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-019",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US election backlash reshapes AI data center expansion strategies",
+    "summary": "Companies at the forefront of the AI infrastructure buildout in the US are taking different approaches following the results of this week's midterm elections, which saw a nationwide backlash against d",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106VL213/data-center-infrastructure-nvidia-openai-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-020",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Taiwan science park debt tops NT$160 billion as NSTC targets faster repayment",
+    "summary": "Debt held by Taiwan's science park operating funds reached NT$163.54 billion (approx. US$4.97 billion) as of the end of September 2026, while the National Science and Technology Council (NSTC) remains",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106PD215/taiwan-nstc-science-park-government-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-06-021",
+    "date": "2026-11-06",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Tencent launches Hy4 model to boost visual reasoning, AI safety",
+    "summary": "Tencent has launched its next-generation artificial intelligence (AI) model, Hy4, adding visual understanding for the first time and limiting cybersecurity training data to reduce the risk of misuse i",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106PD206/tencent-training-cybersecurity-testing-data.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "qualcomm-2026-11-06-022",
+    "date": "2026-11-06",
+    "companies": [
+      "qualcomm"
+    ],
+    "topics": [
+      "hbm",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qualcomm validates HBC memory architecture, targets AI250 samples in 1H27",
+    "summary": "Qualcomm has completed initial hardware validation of its high-bandwidth compute (HBC) memory architecture, which will form a key part of its next-generation Dragonfly data-center AI accelerators. The",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106PD216/qualcomm-hardware-ai-inference-technology-hbm4.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-023",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "EOI posts record nine-month results, readies Mexico plant for 4Q26 production",
+    "summary": "Excellence Opto (EOI), a major automotive LED light-source supplier, posted record revenue and profit for the first nine months as product-mix optimization, supply-chain efficiencies and high global c",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106PD233/eoi-mexico-production-plant-excellence-opto.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-024",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "LX Semicon posts first quarterly operating loss since IPO",
+    "summary": "South Korean chip designer LX Semicon posted its first quarterly operating loss since going public in 2010, as weak demand for display chips and pricing pressure from electronics manufacturers weighed",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106VL212/lx-semicon-loss-semicon-display-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-025",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "capex",
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "TV panel makers hold prices firm in November despite fading demand, with supply cuts proving crucial",
+    "summary": "The global TV panel market entered a period of fragile equilibrium in November 2026 following the end of peak-season inventory replenishment. Although TV brands have become more cautious in procuremen",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106PD232/tv-panel-demand-market-production-tv.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-026",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's NSIG sees silicon wafer prices rebound, but profitability remains elusive",
+    "summary": "National Silicon Industry Group (NSIG) expects to complete its expansion to 1.2 million 300mm silicon wafers per month by the end of 2026, positioning the Chinese semiconductor materials supplier to b",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106VL208/nsig-silicon-wafer-300mm-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-027",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's chip equipment makers ride record AI orders into 2027, but new challenges lie ahead",
+    "summary": "Chinese semiconductor equipment makers report record orders extending into 2027, with AI-driven investment in advanced memory, logic chips and packaging strengthening demand for domestic manufacturing",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261106VL211/china-ic-manufacturing-equipment-expansion-investment-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-028",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Charles River Laboratories International, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964121-charles-river-laboratories-international-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-029",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Krones AG (KRNTY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963998-krones-ag-krnty-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-030",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Humana Inc. (HUM) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964049-humana-inc-hum-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-031",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Rigetti: The Stock Has Fallen, But Expectations Haven't (Rating Downgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964057-rigetti-stock-fallen-but-expectations-havent-rating-downgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-032",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Mach Natural Resources LP 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964108-mach-natural-resources-lp-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-033",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ameren Corporation 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964106-ameren-corporation-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-034",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Morgan Stanley Direct Lending Fund 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964105-morgan-stanley-direct-lending-fund-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-035",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Loma Negra Compañía Industrial Argentina Sociedad Anónima 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964104-loma-negra-compania-industrial-argentina-sociedad-anonima-2026-q3-results-earnings-call?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-036",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Vistra Corp. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964103-vistra-corp-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-037",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Frontline: Second Half Earnings Far Outweigh Doubts About The Future",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964042-frontline-second-half-earnings-far-outweigh-doubts-about-the-future?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-038",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Cigna's Earnings Growth Deserves A Higher Valuation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4963997-cignas-earnings-growth-deserves-a-higher-valuation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-039",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "RenovoRx, Inc. (RNXT) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4964097-renovorx-inc-rnxt-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-040",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA GPUs Worth $11.4 Million Stolen From Oakland Fetch A Hefty Price Outside Of U.S. Says UC Berkeley Professor, “They Go For About 1 Million Or More Abroad”",
+    "summary": "The astronomical value of NVIDIA’s AI GPUs will attract the wrong kind of attention. Just last month, we reported that an RTX 5090 shipment worth almost $500,000 was stolen from a Brazilian airport. N",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-cargo-heist-11-million-dollars-hardware-stolen-oakland-texas/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "cxmt-2026-11-06-041",
+    "date": "2026-11-06",
+    "companies": [
+      "cxmt",
+      "samsung"
+    ],
+    "topics": [
+      "hbm",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Chinese Memory Chip Manufacturer CXMT Struggles In Q3 As Share Drops To 9% Amidst Aggressive Ramp From Samsung, Says Research",
+    "summary": "Chinese memory manufacturer CXMT's market share in the DRAM memory chip industry is coming under pressure as behemoth Samsung scales its production and the market starts to focus on high bandwidth mem",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/chinese-memory-chip-manufacturer-cxmt-struggles-in-q3-as-share-drops-to-9-amidst-aggressive-ramp-from-samsung-says-research/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-042",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Vera Delivers 2x The Agent Speed Of AMD’s 256-Core EPYC Venice And 1.6x More Agents Per Watt Than The Frequency-Optimized 96-Core Venice",
+    "summary": "NVIDIA Vera CPUs continue to showcase strong performance and efficiency against leading x86 chips across Agentic AI workloads. NVIDIA Vera CPU Early Adopters Are Seeing Higher Tool Speed Per Watt, Age",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-vera-delivers-2x-the-agent-speed-of-amds-256-core-epyc-venice/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-06-043",
+    "date": "2026-11-06",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "positive",
+    "title": "Crimson Desert Charting the Unknown Has Performance Issues In Some Areas, But Pearl Abyss Has Finally Started Addressing the Problem in Patch 2.04.08",
+    "summary": "Crimson Desert: Charting the Unknown released last week on PC and consoles, and all those who started venturing into the unknown on their ship have definitely noticed how the expansion is not as polis",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/crimson-desert-charting-the-unknown-performance-issues-addressed-patch-2-04-08/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-06-044",
+    "date": "2026-11-06",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "XBOX PC App Redesign Rolls Out To Insiders With Up To 60% Faster Launches",
+    "summary": "Microsoft has officially begun rolling out its redesigned XBOX PC app, promising substantial performance improvements and a more streamlined interface. According to the company's latest XBOX Wire anno",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/xbox-pc-app-redesign-rolls-out-to-insiders-with-up-to-60-faster-launches/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-06-045",
+    "date": "2026-11-06",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Windows 11 27H2 Could Be The Biggest Windows Upgrade Since 2024, With Major Performance Improvements And New Wallpapers",
+    "summary": "Microsoft is reportedly preparing a major Windows 11 overhaul for 2027, prioritizing performance and reliability over launching Windows 12. Microsoft is reportedly preparing a substantial Windows 11 u",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/windows-11-27h2-could-be-the-biggest-windows-upgrade-since-2024-with-major-performance-improvements-and-new-wallpapers/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-06-046",
+    "date": "2026-11-06",
+    "companies": [
+      "nvidia",
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "NVIDIA’s Jensen Huang Summoned By U.S. Congress For A Closed Door Briefing To Address His Interactions With An Executive That’s In The Federal Spy Probe’s Crosshairs",
+    "summary": "NVIDIA has spent the last several years trying to balance its status as the world’s dominant force in artificial intelligence with strict United States export regulations. Unfortunately, these efforts",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-ceo-jensen-huang-congress-closed-door-briefing-china-spying-national-security/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "meta-2026-11-06-047",
+    "date": "2026-11-06",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meta Exec Says A Recently Elected, Data Center-Skeptic Democratic Governor Now Wants To Meet After Inauguration, As 22.5 GW Of Capacity Is Still Slated To Come Online Regardless Of Politics",
+    "summary": "Some say the AI bubble has just popped, especially given the carnage unfolding across wide swathes of the market today. Many point to the Democratic sweep on Tuesday, and the ensuing likelihood of a b",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/meta-exec-says-a-recently-elected-data-center-skeptic-democratic-governor-now-wants-to-meet-after-inauguration-as-22-5-gw-of-capacity-is-still-slated-to-come-online-regardless-of-politics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-11-06-048",
+    "date": "2026-11-06",
+    "companies": [
+      "aws"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Home Office cloud services contract may net AWS £1B",
+    "summary": " Planning notice puts renewal at nearly twice the 2023 value, just as Whitehall frets about US tech dependence  ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-11-05-001",
     "date": "2026-11-05",
     "companies": [
@@ -943,6 +1864,214 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lam_research-2026-11-05-052",
+    "date": "2026-11-05",
+    "companies": [
+      "lam_research"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lam Research Corporation Announces $25 Billion Share Repurchase Authorization and Declares Quarterly Dividend",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-11-05-053",
+    "date": "2026-11-05",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Generate longer AI videos with Omni 1.2 Flash in Google Vids at no cost.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp\">Create longer AI videos in Google Vids with the new Omni 1.2 Flash mo",
+    "sources": []
+  },
+  {
+    "id": "google-2026-11-05-054",
+    "date": "2026-11-05",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp\">Gemini Omni 1.2 Flash brings native 15-second video generation and editi",
+    "sources": []
+  },
+  {
+    "id": "google-2026-11-05-055",
+    "date": "2026-11-05",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Investing in Wyoming’s infrastructure, energy and workforce",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero2.max-600x600.format-webp.webp\">We’re building our first data center in Wyoming, representing a $17 billion invest",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-11-05-056",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EE Times Magazine – November 2026",
+    "summary": "\n\t\t\t\t\t\t<p>This edition of EE Times Magazine explores advances in semiconductor manufacturing and packaging, farm autonomy, and Canada’s efforts to commercialize emerging technologies. </p>\n<p>The post",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/ee-times-magazine-november-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-057",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Accelerate Analog Design with Flexible, AI-Native Workflows",
+    "summary": "\n\t\t\t\t\t\t<p>Join this webinar to learn how ChipAgents’ IC-star chip neural engine automates analog design, simulation, and verification in one unified, flexible agentic loop. </p>\n<p>The post <a href=\"h",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/accelerate-analog-design-with-flexible-ai-native-workflows/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-05-058",
+    "date": "2026-11-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "India targets creating homegrown GPUs within 2 years and plans to commercialize indigenous SHAKTI and VEGA processors",
+    "summary": "\n                             MeitY Secretary S. Krishnan says India plans to develop its own GPU under Semiconductor Mission 2.0, with a target of approximately two years. The country is also looking",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/india-targets-creating-homegrown-gpus-within-2-years-and-plans-to-commercialize-indigenous-shakti-and-vega-risc-v-processors-sees-ai-boom-as-a-potential-repeat-of-the-y2k-opportunity-for-its-it-industry",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-05-059",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese AI lab Moonshot reportedly looked at European data centers to access Nvidia chips, report claims",
+    "summary": "\n                             The lab is reportedly interested in renting at least 8,000 Nvidia Blackwell GPUs. \n                                                                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/policy/chinese-ai-lab-moonshot-reportedly-looked-at-european-data-centers-to-access-nvidia-chips-report-claims-kimi-maker-primarily-interested-in-inferencing-capacity-but-also-asked-about-training-clusters",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-05-060",
+    "date": "2026-11-05",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel leaker claims Nova Lake desktop chips have 5.1 GHz clock limit beyond 90°C",
+    "summary": "\n                             A known Intel leaker claims that Intel's next-generation processors will top out at 5.1 GHz if the CPU core temperatures aren't kept below 90°C. \n                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/intel-leaker-claims-nova-lake-desktop-chips-have-5-1-ghz-clock-limit-beyond-90-c-high-clock-speeds-could-demand-significant-cooling-for-next-gen-chips",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-05-061",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Data Centers Aren’t Ready For The Next AI Bottleneck; Power Infrastructure, As NVIDIA’s Kyber Racks Could Require Electricity Usage Equivalent To 500 Homes",
+    "summary": "AI hardware has continued to evolve at a dizzying pace over the past few years, resulting in creating misery for consumers as far as the DRAM shortage goes, but there could be an even bigger problem o",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-kyber-rubin-ultra-nvl576-600kw-power-consumption-data-center-bottleneck/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-05-062",
+    "date": "2026-11-05",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA’s Vendor Financing Deals Are Not A Ponzi Scheme As It Is Slated To “Take Out $420 Billion” By Putting In $250 Billion, Says Tech Venture Capitalist Gene Munster",
+    "summary": "Technology venture capitalist Gene Munster believes that NVIDIA's financing deals, through which the firm lends to its customers to enable them to establish their AI infrastructure, are not a Ponzi sc",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidias-vendor-financing-deals-are-not-a-ponzi-scheme-as-it-is-slated-to-take-out-420-billion-by-putting-in-250-billion-says-tech-venture-capitalist-gene-munster/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "screen-2026-11-05-063",
+    "date": "2026-11-05",
+    "companies": [
+      "screen"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rockstar Games Flexes Its Technical Prowess With GTA 6’s 39 Launch Screenshots, As Stunning Attention to Detail Completely Steals the Show",
+    "summary": "GTA 6 is only two weeks away from its release on PlayStation 5 and Xbox Series X&#124;S, and Rockstar Games decided to mark the occasion by sharing a new gallery of 39 screenshots that almost look lik",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/rockstar-games-flexes-prowess-gta-6-launch-screenshot/",
         "type": "rss"
       }
     ]
