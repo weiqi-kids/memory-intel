@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T15:52:22.018078Z",
+  "updated_at": "2026-11-07T14:52:01.619499Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -653,17 +653,17 @@
       "name": "Screen Holdings",
       "ticker": "7735.T",
       "currency": "JPY",
-      "ar": 100702000000,
-      "ar_prev": 97018000000,
-      "ar_qoq": "+4%",
+      "ar": 89517000000,
+      "ar_prev": 100702000000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 158637000000,
-      "inv_prev": 171749000000,
-      "inv_qoq": "-8%",
+      "inventory": 192590000000,
+      "inv_prev": 158637000000,
+      "inv_qoq": "+21%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "shin_etsu",
