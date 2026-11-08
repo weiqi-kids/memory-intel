@@ -1,0 +1,311 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:58:56.786829Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tsmc-2026-11-08-016",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及 HBM",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry, As Both Manufacturers Join Forces To Develop “Base Die” On The 3nm Node [Update]",
+      "companies": [
+        "tsmc",
+        "samsung",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc",
+          "samsung"
+        ]
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/nvidia-custom-hbm-samsung-tsmc-3nm-base-die/"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-08-004",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及產能"
+      ],
+      "title": "PC's with 64GB of RAM plummet 18% as memory prices soar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/pc-components/ram/pcs-with-64gb-of-ram-plummet-18-percent-as-memory-prices-soar-cpu-z-install-base-data-shows-ddr4-making-a-surprise-comeback"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-08-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "INmune Bio Inc. (INMB) Q3 2026 Earnings Call Prepared Remarks Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4963546-inmune-bio-inc-inmb-q3-2026-earnings-call-prepared-remarks-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-08-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "South Bow Corporation (SOBO:CA) Q3 2026 Earnings Call Transcript",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4964827-south-bow-corporation-sobo-ca-q3-2026-earnings-call-transcript?source=feed_all_articles"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-08-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Berkshire Hathaway: BNSF And Energy Steal The Show In Q3 (Rating Downgrade)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4964819-berkshire-hathaway-bnsf-and-energy-steal-the-show-in-q3?source=feed_all_articles"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 4
+      },
+      {
+        "id": "microsoft",
+        "count": 1
+      },
+      {
+        "id": "tsmc",
+        "count": 1
+      },
+      {
+        "id": "samsung",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 5
+      },
+      {
+        "id": "ai_server",
+        "count": 2
+      },
+      {
+        "id": "inventory",
+        "count": 2
+      },
+      {
+        "id": "dram_price",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 124,
+    "too_old": 78,
+    "gate1_blocked": 56,
+    "gate2_blocked": 38,
+    "passed": 18,
+    "pass_rate": "9.5%",
+    "gate2_block_rate": "20.0%",
+    "gate2_samples": [
+      "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "âHogwarts Legacyâ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW",
+      "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+      "Transform a quick drawing into a live app with Gemini.",
+      "Check out our free livestream during National Veterans Small Business Week."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為輝達、微軟、台積電相關動態：「NVIDIA’s Development Of Custom HBM Drops Samsung’s And TS...」。主要關注主題為半導體/記憶體通用、財報、AI 伺服器，市場情緒中性。",
+    "signals": [
+      {
+        "text": "NVIDIA’s Development Of Custom HBM Drops Samsung’s And TSMC’s Foundry Rivalry...（HBM、資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "PC's with 64GB of RAM plummet 18% as memory prices soar（DRAM 價格、產能、半導體/記憶體通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
