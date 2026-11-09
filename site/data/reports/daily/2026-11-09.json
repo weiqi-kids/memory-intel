@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:40:02.835091Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-11-09-033",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及 AI 伺服器"
+      ],
+      "title": "US-approved Nvidia H200 handlers in China include firms with empty offices and blacklist ties",
+      "companies": [
+        "nvidia",
+        "screen"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261109VL218/nvidia-china-chips-investigation-blacklist.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-11-09-054",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "AMD Leads NVIDIA In GPU Sales, Capturing 47% Share According To Amazon US October Data",
+      "companies": [
+        "amd",
+        "nvidia",
+        "ti"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://wccftech.com/amd-leads-nvidia-in-gpu-sales-capturing-47-share-according-to-amazon-us-october-data/"
+    },
+    {
+      "rank": 3,
+      "event_id": "samsung-2026-11-09-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "companies": [
+        "samsung",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "samsung"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-11-09-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Can Jensen Keep His Job?",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.eetimes.com/can-jensen-keep-his-job/"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-11-09-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Save $300 on this RTX 5070 gaming PC with 32GB DDR5, now under $2,000",
+      "companies": [
+        "nvidia",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ddr5"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-rtx-5070-gaming-pc-with-32gb-ddr5-now-under-usd2-000-pre-built-abs-rig-from-newegg-is-4k-ready-with-an-intel-cpu-and-a-1tb-ssd"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "ddr5",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "samsung",
+      "to": "skhynix",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "capacity",
+        "shortage",
+        "capex",
+        "euv"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 66,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 58,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 21
+      },
+      {
+        "id": "intel",
+        "count": 7
+      },
+      {
+        "id": "samsung",
+        "count": 4
+      },
+      {
+        "id": "skhynix",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "capacity",
+        "count": 9
+      },
+      {
+        "id": "ai_server",
+        "count": 6
+      },
+      {
+        "id": "ddr5",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 87,
+    "too_old": 69,
+    "gate1_blocked": 50,
+    "gate2_blocked": 38,
+    "passed": 70,
+    "pass_rate": "30.8%",
+    "gate2_block_rate": "16.7%",
+    "gate2_samples": [
+      "2026.11.09NoticePlease beware of suspicious social media accounts impersonating SCREEN or its group ",
+      "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Sim",
+      "Koreaâs AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "âHogwarts Legacyâ Gets a Magical NVIDIA DLSS 5 Upgrade on GeForce NOW"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 66 則事件，焦點為輝達、英特爾、三星相關動態：「US-approved Nvidia H200 handlers in China include firms w...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "US-approved Nvidia H200 handlers in China include firms with empty offices an...（AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "AMD Leads NVIDIA In GPU Sales, Capturing 47% Share According To Amazon US Oct...（財報）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
