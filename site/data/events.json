@@ -1,5 +1,1044 @@
 [
   {
+    "id": "unknown-2026-11-11-001",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Variable-Length Prompts on Chimera GPNPU",
+    "summary": "<p>How a flexible binary can serve every length up to the capacity you set.</p>\n<p>The post <a href=\"https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/\">Variable-Length Prompts on C",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-002",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
+    "summary": "<p>The differences and engineering considerations behind choosing and implementing UCIe connectivity for advanced multi-die designs.</p>\n<p>The post <a href=\"https://semiengineering.com/ucie-connectiv",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-003",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blog Review: Nov. 11",
+    "summary": "<p>Interconnects key in AI infrastructure; floating nets; mitigating Control Flow attacks; PNT trends; SEMI Market Symposium.</p>\n<p>The post <a href=\"https://semiengineering.com/blog-review-nov-11-3/",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/blog-review-nov-11-3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-004",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX develops its own ‘Kessel’ rack-scale system featuring 72 Nvidia Rubin GPUs for data centers in space, report claims",
+    "summary": "\n                             SpaceX is reportedly developing a 'Kessel' rack-scale system design with 72 Nvidia Rubin GPUs that relies on a massive 84-layer PCB midplane. \n                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/spacex-develops-its-own-kessel-rack-scale-system-featuring-72-nvidia-rubin-gpus-for-data-centers-in-space-report-claims-replaces-conventional-nvlink-cable-assemblies-with-a-massive-84-layer-printed-circuit-board",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-005",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Softbank loses $3.7 billion on canceled AI data center gas turbine orders days after denying Elon Musk’s claim it was defaulting",
+    "summary": "\n                             SoftBank might not have defaulted on a raft of gas turbine orders, but it has pulled out of deals for unwanted power units after overestimating how many it could use amid",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/softbank-loses-usd3-7-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-006",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nintendo unleashes DMCA takedown wave against open-source Switch modchip firmware, 144 tools disabled",
+    "summary": "\n                             Nintendo is going after the open-source firmware behind hardware modchips on Nintendo Switch \n                                                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-unleashes-dmca-takedown-wave-against-open-source-switch-modchip-firmware-144-tools-disabled-picofly-sx-core-and-hwfly-among-casualties-following-criminal-trial-victory",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-007",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cognichip reveals how its new AI-assisted program can slash chip design times from months to days — automating labor-intensive tasks cuts design time down, Chief Product Officer explains",
+    "summary": "\n                             Cognichip claims its AI can slash chip design time from months to days, only that that design must be very simplistic. \n                                                  ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/cognichip-reveals-how-its-new-ai-assisted-program-can-slash-chip-design-times-from-months-to-days-automating-labor-intensive-tasks-cuts-design-time-down-chief-product-officer-explains",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-008",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Congress could issue subpoena to Nvidia CEO Jensen Huang if he doesn’t respond by today to request for a ‘joint, closed-door briefing’",
+    "summary": "\n                             Three committee chairpersons want to grill Jensen Huang about his company's 'security protocols against foreign adversary espionage,' as a former CIA agent says that he h",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/policy/congress-could-issue-subpoena-to-nvidia-ceo-jensen-huang-if-he-doesnt-respond-by-today-to-request-for-a-joint-closed-door-briefing-us-representatives-want-to-discuss-companys-security-protocols-against-foreign-adversary-espionage",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-009",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Linux kernel reviewer steps down from memory management duties due to influx of AI slop patches",
+    "summary": "\n                             Linux kernel memory-management code reviewer steps down due to influx of AI slop patches — volume of submissions coupled with low manpower forces the step back \n         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/software/linux/linux-kernel-reviewer-steps-down-from-memory-management-duties-due-to-influx-of-ai-slop-patches-the-amount-of-time-wasted-on-ai-slop-is-already-too-much-and-were-only-at-the-start-of-this-volume-of-submissions-and-low-manpower-forces-the-step-back",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-11-010",
+    "date": "2026-11-11",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "capacity",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD shares how it can retain 95% of server performance with just half the DRAM, sidestepping memory shortages with MEXT",
+    "summary": "\n                             Following AMD’s acquisition of MEXT earlier this year, the company has revealed its own IT infrastructure is using the technology to run servers at 50% DRAM capacity whil",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-shares-how-it-can-retain-95-percent-of-server-performance-with-just-half-the-dram-sidestepping-memory-shortages-with-mext-tech-powers-over-100-servers-already-running-with-plans-to-expand-to-2-000-servers-in-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-011",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk wants to build a s $24 billion gas-powered AI supercomputer in Texas company town",
+    "summary": "\n                             The city of Starbase, Texas, is set to vote on a proposed $24 billion data center to be built within its limits, but the SpaceX company town may not provide the friendly ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musk-wants-to-build-a-new-gas-powered-data-center-in-starbase-texas-usd24-billion-site-goes-up-for-approval-in-december-but-could-face-headwinds-from-new-governor",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-012",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ukrainian drone operations squeezed by fiber optic cable shortage triggered by AI data center buildouts",
+    "summary": "\n                             Ukrainian drone manufacturer BlueBird Tech says that limited fiber optic supplies are making it harder to build jam-proof fiber optic drones. \n                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/drones/data-center-demand-for-fiber-optics-squeezes-ukrainian-drone-operations-supply-crunch-has-incurred-6x-10x-cost-increase-for-critical-cabling",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-11-013",
+    "date": "2026-11-11",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "ddr5",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Grab 32GB DDR5 for $351 with this Newegg bundle with the 9800X3D, $87 less than the next cheapest memory",
+    "summary": "\n                             Another brilliant Newegg combo deal has combined the eight-core AMD Ryzen 7 9850X3D with 32GB of V-Color DDR5-6400 RAM, all for just $650, saving you a whopping $348.99 i",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ddr5/grab-32gb-ddr5-for-usd351-with-this-newegg-bundle-with-the-9800x3d-usd87-less-than-the-next-cheapest-memory-gaming-pc-build-kit-includes-enthusiast-asus-x870e-motherboard-and-free-aio-liquid-cooler-with-usd128-99-in-total-savings",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-014",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Moonshot AI reportedly accessed restricted Nvidia chips in China despite US ban",
+    "summary": "Moonshot AI reportedly accessed advanced Nvidia chips this summer, according to documents filed with Chinese regulators. The finding shows that advanced US chips continue to make their way into China ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111VL223/moonshot-nvidia-chips-beijing-exports.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-015",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story",
+    "summary": "Taiwan's AI server component suppliers are surpassing last year's revenue well before December. Eleven of the 13 companies tracked across chassis, power supplies, rail kits and thermal management had ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111VL220/ai-server-revenue-chassis-2025-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-016",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Diamond Foundry says it has grown a 200mm single-crystal diamond",
+    "summary": "Diamond Foundry has produced what it calls the first-ever single-crystal diamond measuring 200mm in diameter, according to a company blog post published on November 5, 2026. The post describes the cry",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PR201/200mm-2026-silicon-manufacturing-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-017",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Buima battery orders stretch six months as LEO projects advance",
+    "summary": "Buima Energy reported a slight month-on-month increase but a year-on-year decline in October 2026 revenue, as construction projects entered completion and acceptance phases while battery module shipme",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PD254/buima-leo-revenue-business-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-11-11-018",
+    "date": "2026-11-11",
+    "companies": [
+      "samsung",
+      "intel",
+      "tsmc"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Samsung reportedly buys four silicon photonics patents from Rockley",
+    "summary": "Samsung Electronics acquired four US silicon photonics patents from UK-based Rockley Photonics in September 2026, South Korea's <em>Shinailbo</em> reported on November 11, citing US Patent and Tradema",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111VL219/samsung-silicon-photonics-2026-cpo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-019",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Canon to launch KrF lithography scanner rated at 400 wafers per hour in December",
+    "summary": "Canon Inc. said on November 10, 2026, that it will launch the FPA-6400ES6a, a krypton fluoride (KrF) scanner for manufacturing memory and logic semiconductors, in early December 2026. The company's re",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PR200/canon-launch-scanner-2026-wafer.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-11-11-020",
+    "date": "2026-11-11",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung targets early 2027 for first 3D Cube-H design kit",
+    "summary": "Samsung Electronics aims to complete its first 3D Cube-H design kit, a hybrid copper bonding technology for vertically stacked logic chips, in early 2027, with prospective customer evaluations to foll",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111VL210/samsung-3d-design-2027-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-021",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "OpenAI 3Q26 revenue tops US$10B as losses persist",
+    "summary": "OpenAI's revenue reached US$10 billion in the third quarter of 2026, up nearly 50% quarter-on-quarter, driven by demand from enterprises and new model products. However, its adjusted operating loss wi",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PD256/openai-revenue-2026-loss-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-11-022",
+    "date": "2026-11-11",
+    "companies": [
+      "amd",
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances",
+    "summary": "<p class=\"P1\" data-sourcepos=\"5:1-5:542;123-664\">As agentic AI rapidly advances, data center workloads are expanding from traditional model training into inference, agent collaboration, and real-time ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PD259/amd-2nm-tsmc-data-center-cpu.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-023",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Dynamic Holding posts record 3Q26 revenue and profit on mix, price hikes",
+    "summary": "PCB maker Dynamic Holding reported October 2026 consolidated revenue of NT$10.637 billion (approx. US$323.6 million), down slightly from NT$10.648 billion in September as extended holidays reduced wor",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PD257/dynamic-pcb-revenue-profit-price.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-11-11-024",
+    "date": "2026-11-11",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [
+      "earnings",
+      "guidance",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Infineon says data center orders already exceed target as factory output sets ceiling",
+    "summary": "Infineon Technologies told analysts that demand is no longer what limits its growth. On a November 10 call to discuss its fiscal 2026 results, the German chipmaker said orders for its data center powe",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111VL218/infineon-demand-data-center-growth-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-025",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Ingentec revenue jumps 79% in first 10 months",
+    "summary": "Ingentec&rsquo;s consolidated revenue reached NT$1.329 billion (US$40.4 million) from January to October 2026, up 79.32% from the same period in 2025. However, October revenue fell 8.59% month-over-mo",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PD216/revenue-2025-shipments-2026-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-026",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia",
+      "tsmc",
+      "cxmt"
+    ],
+    "topics": [
+      "ai_memory",
+      "capacity",
+      "capex",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat",
+    "summary": "Charles Kau, chairman of IEMC, said TSMC \"cannot make 3D DRAM,\" dismissing reports that the foundry is evaluating entry into the next-generation memory market at Nvidia's request. TSMC declined to com",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PD251/dram-tsmc-3d-cxmt-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "skhynix-2026-11-11-027",
+    "date": "2026-11-11",
+    "companies": [
+      "skhynix"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SK Hynix locks in over half of 2027&ndash;28 capacity as smaller buyers turn to spot market",
+    "summary": "Smaller electronics manufacturers are relying on the spot market for memory as major customers lock in future supply through long-term agreements, according to independent electronic components distri",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261110VL218/spot-market-electronics-hbm-chips-chairman.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-028",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AI's grip on capacitor supply leaves consumer electronics facing steeper price hikes",
+    "summary": "Nichidenbo Corporation said successive AI server generations, designed for higher power consumption and voltages, are increasing demand for high-end capacitors offering high capacitance and resistance",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111PD244/ndb-price-electronics-ai-server-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-11-11-029",
+    "date": "2026-11-11",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Infineon's record quarter shows power chips moving from cyclical recovery to AI-led growth",
+    "summary": "Infineon Technologies ended fiscal 2026 with its strongest quarter ever, and the shape of the result says more than its size: profitability rose much faster than sales, and the German chipmaker now pl",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111VL217/infineon-power-semiconductors-data-growth-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-11-11-030",
+    "date": "2026-11-11",
+    "companies": [
+      "micron"
+    ],
+    "topics": [
+      "hbm"
+    ],
+    "impact": "neutral",
+    "title": "Micron: HBM Repricing Strengthens The Buy Case After The Selloff",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966497-micron-hbm-repricing-strengthens-the-buy-case-after-the-selloff?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-031",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AMG TimesSquare International Small Cap Fund Q3 2026 Portfolio Activity",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966496-amg-timessquare-international-small-cap-fund-q3-2026-portfolio-activity?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-032",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AMG TimesSquare International Small Cap Fund Q3 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966495-amg-timessquare-international-small-cap-fund-q3-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-033",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Conduit Holdings Limited (CNDHF) Q3 2026 Sales/Trading Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966429-conduit-holdings-limited-cndhf-q3-2026-sales-trading-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-034",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Polaris International Composite Q3 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966537-polaris-international-composite-q3-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-035",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Swiss Life Holding AG (SZLMY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966357-swiss-life-holding-ag-szlmy-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-036",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Caesarstone Ltd. (CSTE) Q3 2026 Earnings Call Prepared Remarks Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966469-caesarstone-ltd-cste-q3-2026-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-037",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Spire Global, Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966533-spire-global-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-038",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "908 Devices Inc. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966531-908-devices-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-039",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ICL Group Ltd 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966530-icl-group-ltd-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-040",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "H. Lundbeck A/S (HLBBF) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966473-h-lundbeck-a-s-hlbbf-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-11-041",
+    "date": "2026-11-11",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Tekken Veteran Katsuhiro Harada Asks Microsoft Never to Make Another Xbox Series S, Criticizing Its Weak Performance (with an Xbox Official in the Audience)",
+    "summary": "It's been a while since we've heard game developers openly complaining about the Xbox Series S's weak performance. It was a major topic of discussion before the console's launch in November 2020, but ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/katsuhiro-harada-criticizes-xbox-series-s-performance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-11-042",
+    "date": "2026-11-11",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft Is Fighting Trump Administration’s Looming Ban On Chinese Optical AI Parts; Lobbying Executive Says Decision Will “Grind The Data Center Rollout To A Halt”",
+    "summary": "Viewing China as a worthy technological adversary has come to haunt the Trump administration in the worst way possible because the latest report states that giants like Microsoft are aggressively lobb",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/microsoft-fights-trump-administration-ban-chinese-optical-ai-parts-data-center-rollout/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-11-043",
+    "date": "2026-11-11",
+    "companies": [
+      "amd",
+      "microsoft"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Microsoft Auto SR Exits Preview On ROG XBOX Ally X, New Performance Mode Raises FPS Limit To 120",
+    "summary": "Microsoft has officially announced the general availability of its Automatic Super Resolution (Auto SR) technology on the ROG XBOX Ally X and X20, alongside expanded support for AMD Ryzen AI-powered C",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/microsoft-auto-sr-exits-preview-on-rog-xbox-ally-x-new-performance-mode-raises-fps-limit-to-120/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-044",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Reportedly Cancelled RTX 5080 24 GB As 3 GB GDDR7 Is Way Too Expensive, Eventually Leaving The 16 GB Variant As The Only Option",
+    "summary": "We will likely won't see the higher VRAM variant for the RTX 5080 as NVIDIA is finding it difficult to secure 3 GB GDDR7 for cheap. NVIDIA to Continue Production of the RTX 5080 16 GB Variant as 24 GB",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-reportedly-cancelled-rtx-5080-24-gb-as-3-gb-gddr7-is-way-too-expensive/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-045",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Anthropic Jeopardizes NVIDIA’s CUDA Moat As Its Claude Mythos Model Took Only 3 Days To Figure Out How To Run Another Model On AMD’s MI355X GPUs",
+    "summary": "NVIDIA's CUDA moat is quickly losing its primacy, at least as per a very interesting slide within Anthropic's IPO roadshow material, which shows GPUs as fungible compute resources, especially as highl",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/anthropic-jeopardizes-nvidias-cuda-moat-as-its-claude-mythos-model-took-only-3-days-to-figure-out-how-to-run-another-model-on-amds-mi355x-gpus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-11-046",
+    "date": "2026-11-11",
+    "companies": [
+      "amd",
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel’s Next-Gen Diamond Rapids “Xeon 7” CPU Smiles For The Camera, A 256 P-Core Chip Built On 18A-P That Aims For A 2027 Launch",
+    "summary": "Intel has shown off its next-generation Diamond Rapids \"Xeon 7\" CPU at an event in China, as the 18A-P chip closes in on launch next year. Intel Diamond Rapids \"Xeon 7\" CPUs To Face Already-Launched A",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-diamond-rapids-xeon-7-cpu-smiles-for-the-camera/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-047",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "The Outer Worlds 2’s Side Effects Guaranteed DLC Lifts the Level Cap to 36 and Adds 15 New Perks on November 2",
+    "summary": "Obsidian Entertainment has finally unveiled plans for the promised The Outer Worlds 2 expansions. The game launched with a Premium Edition that included two upcoming DLCs, and now the studio has outli",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/the-outer-worlds-2-side-effects-guaranteed-dlc-december-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-048",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX’s AI Satellite Plan Picks Pricey Solar Panels For 100GW Compute Megaplan That Elon Musk Believes Will Build A “Sentient Sun”",
+    "summary": "As part of its efforts to scale up the Starmind computing satellite constellation, SpaceX has entered into a new supply agreement with German firm SINGULUS TECHNOLOGIES. SpaceX plans to aggressively s",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/spacexs-ai-satellite-plan-picks-pricey-solar-panels-for-100gw-compute-megaplan-that-elon-musk-believes-will-build-a-sentient-sun/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-11-11-049",
+    "date": "2026-11-11",
+    "companies": [
+      "tsmc",
+      "cxmt"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Godfather Of Taiwan’s DRAM Industry Says CXMT Will Flood The Market With Memory Products “In Two Years,” As Another Expert Doubles Down On TSMC’s BEOL Memory",
+    "summary": "Charles Kao (Gao Qiquan), who is widely considered the 'Godfather of Taiwan's DRAM industry,' has just pushed back on expectations that TSMC will enter the memory sphere, declaring that the world's la",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/the-godfather-of-taiwans-dram-industry-says-cxmt-will-flood-the-market-with-memory-products-in-two-years-as-another-expert-doubles-down-on-tsmcs-beol-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-050",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA asks Earthlings to wave as Voyager 1 reaches a light-day away",
+    "summary": " Flash VGR in Morse code on November 17 to salute the veteran probe – just don't expect it to see you ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-11-051",
+    "date": "2026-11-11",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD: Where we're going we don't need (as much) DRAM",
+    "summary": " The House of Zen's Mext team promises smarter SWAP through the power of, you'll never guess: AI ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/11/11/amd-where-were-going-we-dont-need-as-much-dram/5308953",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-11-11-052",
+    "date": "2026-11-11",
+    "companies": [
+      "google",
+      "arm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK semi company Fractile raises $720m at $7bn valuation",
+    "summary": "<p>Fractile,  the four year-old UK semiconductor company, has raised $720 million at a $7 billion valuation. Investors were:  Thrive Capital, Founders Fund, Conviction, Alphabet’s independent venture ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/uk-semi-company-fractile-raises-720m-at-7bn-valuation-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-053",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Buffett And The AI Boom",
+    "summary": "<p>Last week&#8217;s stock market sell-off, led by Al and technology stocks after the midterms showed how nervous investors currently are with respect to the staying power of the Al boom. [&#8230;]</p",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/buffett-and-the-ai-boom-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-054",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Imec delivers baseline flows for NanoIC line interposer",
+    "summary": "<p>Imec has delivered the baseline flows for the silicon interposer platform being developed within the NanoIC pilot line. Providing an early technical view of a key technology for chiplet integration",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/imec-delivers-baseline-flows-for-nanoic-interposed-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-11-10-001",
     "date": "2026-11-10",
     "companies": [
@@ -642,6 +1681,128 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/security/2026/11/10/chrome-zero-day-whack-a-mole-continues-as-2026-tally-hits-8/5308732",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "dell-2026-11-10-038",
+    "date": "2026-11-10",
+    "companies": [
+      "dell"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Dell Technologies to Hold Conference Call Nov. 24 to Discuss Third Quarter Fiscal 2027 Financial Results",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-11-10-039",
+    "date": "2026-11-10",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Get step-by-step workout guidance on your Pixel Watch.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp\">Get live workout guidance on your Pixel Watch with Google. Follo",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-11-10-040",
+    "date": "2026-11-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Saskatchewan’s Semiconductor Strength Is Connecting the Pieces",
+    "summary": "\n\t\t\t\t\t\t<p>Saskatchewan brings together AI infrastructure, quantum research, chip design talent, and advanced materials expertise to expand its role in Canada’s technology ecosystem.</p>\n<p>The post <a",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/saskatchewans-semiconductor-strength-is-connecting-the-pieces/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-10-041",
+    "date": "2026-11-10",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft lobbies against potential ban on Chinese optical networking gear for AI data centers as FCC mulls restricting imports",
+    "summary": "\n                             The ITI is lobbying against the ban of these optical transceivers needed by data centers to convert electrical signals into optical signals. \n                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/policy/microsoft-lobbies-against-potential-ban-on-chinese-optical-networking-gear-for-ai-data-centers-as-fcc-mulls-restricting-imports-industry-group-says-move-could-grind-data-center-rollout-to-a-halt",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-10-042",
+    "date": "2026-11-10",
+    "companies": [
+      "nvidia",
+      "arm",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD VP and chief Zen architect rebuke claims that Nvidia and Arm made CPUs for agentic AI — ‘We didn’t magically know four years ago that agentic was going to be a thing’",
+    "summary": "\n                             Nvidia and Arm have new “agentic CPUs,” a title that high-ranking AMD employees are pushing back against with the launch of Zen 6 EPYC Venice CPUs. \n                     ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amd-vp-and-chief-zen-architect-rebuke-claims-that-nvidia-and-arm-made-cpus-for-agentic-ai-we-didnt-magically-know-four-years-ago-that-agentic-was-going-to-be-a-thing",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "microsoft-2026-11-10-043",
+    "date": "2026-11-10",
+    "companies": [
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Microsoft VP Creates Open-Source GPU Task Manager That Shows Exactly What’s Using Your VRAM",
+    "summary": "GPU Taskman provides detailed per-process VRAM monitoring, GPU telemetry, and even insights into local AI model memory consumption. Ever wondered exactly where all your GPU's VRAM is going? Scott Hans",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/microsoft-vp-creates-open-source-gpu-task-manager-that-shows-exactly-whats-using-your-vram/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-10-044",
+    "date": "2026-11-10",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Alleged Chinese Spy Alice Huang Flaunted Deep Personal Bond With NVIDIA’s Jensen Huang, Who Celebrated Her Every Birthday Every Year And Created $7.5 Billion AI GPU Network",
+    "summary": "The relationship between NVIDIA CEO Jensen Huang and Alice Huang wasn’t a short-term fling that spiraled into something deeper before the controversy disseminated around the globe. According to the la",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/alleged-chinese-spy-alice-huang-flaunted-bond-nvidia-jensen-huang-7-5-billion-ai-gpu-network/",
         "type": "rss"
       }
     ]

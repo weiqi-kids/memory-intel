@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T16:21:52.223801Z",
+  "updated_at": "2026-11-11T16:02:18.037588Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -602,17 +602,17 @@
       "name": "南茂",
       "ticker": "8150.TW",
       "currency": "TWD",
-      "ar": 6643121000,
-      "ar_prev": 6042574000,
-      "ar_qoq": "+10%",
+      "ar": 7800881000,
+      "ar_prev": 6643121000,
+      "ar_qoq": "+17%",
       "ar_period": "QoQ",
-      "inventory": 4518828000,
-      "inv_prev": 3356503000,
-      "inv_qoq": "+35%",
+      "inventory": 5258615000,
+      "inv_prev": 4518828000,
+      "inv_qoq": "+16%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-03-31"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "qualcomm",
@@ -738,17 +738,17 @@
       "name": "超微電腦",
       "ticker": "SMCI",
       "currency": "USD",
-      "ar": 6125414000,
-      "ar_prev": 8413396000,
-      "ar_qoq": "-27%",
+      "ar": 9685158000,
+      "ar_prev": 6125414000,
+      "ar_qoq": "+58%",
       "ar_period": "QoQ",
-      "inventory": 12895949000,
-      "inv_prev": 11103376000,
-      "inv_qoq": "+16%",
+      "inventory": 15053640000,
+      "inv_prev": 12895949000,
+      "inv_qoq": "+17%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "synopsys",
@@ -840,17 +840,17 @@
       "name": "華邦電",
       "ticker": "2344.TW",
       "currency": "TWD",
-      "ar": 37436316000,
-      "ar_prev": 22012028000,
-      "ar_qoq": "+70%",
+      "ar": 49307358000,
+      "ar_prev": 37436316000,
+      "ar_qoq": "+32%",
       "ar_period": "QoQ",
-      "inventory": 25787221000,
-      "inv_prev": 25232457000,
-      "inv_qoq": "+2%",
+      "inventory": 29383761000,
+      "inv_prev": 25787221000,
+      "inv_qoq": "+14%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }

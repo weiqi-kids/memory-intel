@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T16:02:24.706496Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-11-015",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://www.digitimes.com/news/a20261111VL220/ai-server-revenue-chassis-2025-taiwan.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "nvidia-2026-11-11-026",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及 AI 記憶體"
+      ],
+      "title": "TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat",
+      "companies": [
+        "nvidia",
+        "tsmc",
+        "cxmt"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "ai_memory",
+        "capacity",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261111PD251/dram-tsmc-3d-cxmt-expansion.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-11-028",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "AI's grip on capacitor supply leaves consumer electronics facing steeper price hikes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261111PD244/ndb-price-electronics-ai-server-demand.html"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-11-021",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "OpenAI 3Q26 revenue tops US$10B as losses persist",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261111PD256/openai-revenue-2026-loss-growth.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "amd-2026-11-11-022",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AMD unveils three-gen EPYC roadmap as TSMC 2nm process advances",
+      "companies": [
+        "amd",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261111PD259/amd-2nm-tsmc-data-center-cpu.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "cxmt",
+      "to": "tsmc",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "capacity",
+        "capex",
+        "industry_general",
+        "ai_memory"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 54,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 43,
+      "negative": 6
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 7
+      },
+      {
+        "id": "amd",
+        "count": 7
+      },
+      {
+        "id": "tsmc",
+        "count": 4
+      },
+      {
+        "id": "microsoft",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 3
+      },
+      {
+        "id": "shortage",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 92,
+    "too_old": 67,
+    "gate1_blocked": 52,
+    "gate2_blocked": 42,
+    "passed": 61,
+    "pass_rate": "27.5%",
+    "gate2_block_rate": "18.9%",
+    "gate2_samples": [
+      "2026.11.09NoticePlease beware of suspicious social media accounts impersonating SCREEN or its group ",
+      "Statement From the Independent Members of the NVIDIA Board",
+      "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Sim",
+      "Koreaâs AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 54 則事件，焦點為輝達、超微、台積電相關動態：「AI server tracker: Beyond GPUs, chassis, power supplies, ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and coolin...（AI 伺服器、財報）",
+        "level": "red"
+      },
+      {
+        "text": "TSMC unlikely to enter 3D DRAM; CXMT expansion a bigger threat（AI 記憶體、產能、資本支出、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "缺貨話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
