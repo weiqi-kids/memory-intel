@@ -1,0 +1,315 @@
+{
+  "date": "2026-11-12",
+  "date_range": {
+    "start": "2026-11-06",
+    "end": "2026-11-12"
+  },
+  "generated_at": "2026-11-12T16:45:38.689786Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-11-06-018",
+      "date": "2026-11-06",
+      "title": "Wistron ITS reports record third-quarter profit as AI and semiconductor focus accelerates",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nvidia",
+      "company_b": "tsmc",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intel",
+      "company_b": "samsung",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 151,
+      "last_week": 146,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.05
+    },
+    "euv": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.12
+    },
+    "capacity": {
+      "this_week": 33,
+      "last_week": 19,
+      "week_over_week_change": "+74%",
+      "sentiment_this_week": 0.03
+    },
+    "ai_server": {
+      "this_week": 18,
+      "last_week": 8,
+      "week_over_week_change": "+125%",
+      "sentiment_this_week": 0.06
+    },
+    "ddr5": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 105,
+      "last_week": 110,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": 0.02
+    },
+    "guidance": {
+      "this_week": 9,
+      "last_week": 8,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.04
+    },
+    "capex": {
+      "this_week": 15,
+      "last_week": 11,
+      "week_over_week_change": "+36%",
+      "sentiment_this_week": -0.12
+    },
+    "hbm": {
+      "this_week": 4,
+      "last_week": 7,
+      "week_over_week_change": "-43%",
+      "sentiment_this_week": -0.12
+    },
+    "inventory": {
+      "this_week": 8,
+      "last_week": 18,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 7,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.14
+    },
+    "ai_memory": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": -0.5
+    },
+    "dram_price": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "marvell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "amd": {
+      "event_count": 15,
+      "sentiment_avg": 0.13,
+      "rank": 3
+    },
+    "microsoft": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 4
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 18
+    },
+    "nvidia": {
+      "event_count": 64,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "intel": {
+      "event_count": 22,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "ti": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 11
+    },
+    "hp": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "ymtc": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 20
+    },
+    "qualcomm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    },
+    "cxmt": {
+      "event_count": 4,
+      "sentiment_avg": -0.5,
+      "rank": 9
+    },
+    "samsung": {
+      "event_count": 12,
+      "sentiment_avg": -0.1,
+      "rank": 5
+    },
+    "meta": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 12
+    },
+    "aws": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 13
+    },
+    "tsmc": {
+      "event_count": 8,
+      "sentiment_avg": -0.03,
+      "rank": 6
+    },
+    "micron": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 10
+    },
+    "skhynix": {
+      "event_count": 6,
+      "sentiment_avg": -0.17,
+      "rank": 8
+    },
+    "broadcom": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 22
+    },
+    "onsemi": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 23
+    },
+    "asml": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 24
+    },
+    "screen": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    },
+    "google": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 7
+    },
+    "adata": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 25
+    },
+    "apple": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 15
+    },
+    "infineon": {
+      "event_count": 2,
+      "sentiment_avg": -0.12,
+      "rank": 16
+    },
+    "arm": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 26
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 343,
+        "last": 329,
+        "change_pct": 4.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-06",
+      "event_count": 59,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 27,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 67,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 44,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 64,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 62,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-06 ~ 2026-11-12）共 343 則事件，重點為「Wistron ITS reports record third-quarter profit...」。CXMT、艾司摩爾情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-0.5），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "艾司摩爾",
+        "reason": "本週情緒偏負面（-0.5），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "超微",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

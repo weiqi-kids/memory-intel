@@ -1,5 +1,1149 @@
 [
   {
+    "id": "nvidia-2026-11-12-001",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Announces CEO Transition",
+    "summary": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-11-12-002",
+    "date": "2026-11-12",
+    "companies": [
+      "intel",
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Designing for privacy on intelligent eyewear",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_bnCZOSz.max-600x600.format-webp.webp\">Learn more about privacy protections on intelligent eyewear.",
+    "sources": []
+  },
+  {
+    "id": "samsung-2026-11-12-003",
+    "date": "2026-11-12",
+    "companies": [
+      "samsung",
+      "intel",
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "See our intelligent eyewear lineup and pre-order your pair",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog1_Banner.max-600x600.format-webp.webp\">Designed by Warby Parker and Gentle Monster and engineered by Samsung, Google's int",
+    "sources": []
+  },
+  {
+    "id": "meta-2026-11-12-004",
+    "date": "2026-11-12",
+    "companies": [
+      "meta"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Meta’s New Agreements Bring Clean Manufacturing to Data Center Supply Chains",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-11-12-005",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Semiconductor Singularity",
+    "summary": "<p>Accelerating IC innovation with AI.</p>\n<p>The post <a href=\"https://semiengineering.com/the-semiconductor-singularity/\">The Semiconductor Singularity</a> appeared first on <a href=\"https://semieng",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/the-semiconductor-singularity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-006",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rethinking Memory For AI Inference",
+    "summary": "<p>Processing data closer to memory could reduce power and boost performance, but software, thermal, and architectural challenges remain.</p>\n<p>The post <a href=\"https://semiengineering.com/rethinkin",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/rethinking-memory-for-ai-inference/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-007",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
+    "summary": "<p>Longer contexts, higher concurrency, multimodal models, and AI agents will continue changing where memory pressure appears. </p>\n<p>The post <a href=\"https://semiengineering.com/beyond-bandwidth-ai",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-008",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Accelerates AI",
+    "summary": "<p>Use evidence from silicon to improve the tools and decisions that create the next generation of hardware.</p>\n<p>The post <a href=\"https://semiengineering.com/the-semiconductor-singularity-when-ai-",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-009",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Memory Challenge Of Physical AI",
+    "summary": "<p>Right-size the memory hierarchy around the device's data streams, reuse patterns, latency requirements, and operating constraints.</p>\n<p>The post <a href=\"https://semiengineering.com/the-memory-ch",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/the-memory-challenge-of-physical-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-010",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Machines See a Sick Plant Before a Farmer Can?",
+    "summary": "\n\t\t\t\t\t\t<p>Soybean disease research shows the promise of hyperspectral imaging, while semiconductor advances could make spectral sensing affordable for farmers.</p>\n<p>The post <a href=\"https://www.eet",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/can-machines-see-a-sick-plant-before-a-farmer-can/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-11-12-011",
+    "date": "2026-11-12",
+    "companies": [
+      "apple",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "President Trump says Apple’s Tim Cook is the only man to replace Jensen Huang as Nvidia CEO",
+    "summary": "\n                             President Trump says Tim Cook should replace Jensen Huang as CEO of Nvidia. \n                                                                                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/president-trump-says-apples-tim-cook-is-the-only-man-to-replace-jensen-huang-as-nvidia-ceo-proposes-a-legend-replaces-a-legend-in-call-for-apples-executive-chairman-of-its-board",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-012",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Elon Musk says it ‘would be an honor’ to hire ousted Nvidia CEO Jensen Huang",
+    "summary": "\n                             A random X poster urged Elon Musk to hire Jensen Huang just hours before the former Nvidia chief resigned from his position. \n                                            ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-says-it-would-be-an-honor-to-hire-ousted-nvidia-ceo-jensen-huang-possible-projects-could-include-terafab-spacexs-planned-gpu-manufacturing-or-teslas-ai-accelerators",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-013",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia CEO Jensen Huang resigns in the wake of multiple affairs, Chinese spy allegations",
+    "summary": "\n                             NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immedi",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/nvidia-confirms-jensen-huang-has-resigned-as-ceo-colette-kress-executive-vice-president-and-chief-financial-officer-appointed-interim-ceo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-014",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save $300 on this 1440p gaming PC with a 9800X3D and RTX 5070 right now",
+    "summary": "\n                             Grab a CyberPowerPC machine with an RX 9070, 9800X3D, 32GB DDR5 and a 2TB SSD for $2,199. \n                                                                               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd350-on-this-all-amd-1440p-gaming-desktop-with-9800x3d-rx-9070-also-features-32gb-of-ram-and-a-1tb-ssd-for-just-usd1-949",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-015",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Struggling marijuana farms pivot to becoming AI data center sites to escape falling weed revenue",
+    "summary": "\n                             One expert says that it still depends on the perfect confluence of cheap power, favorable regulation, and reliable connectivity. \n                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/cannabis-farmers-consider-joining-ai-bandwagon-due-to-falling-weed-revenue-existing-sites-could-house-mini-data-center-nodes-but-still-face-serious-challenges-during-conversion",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-016",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang resigns as Nvidia CEO; CFO Colette Kress named interim chief",
+    "summary": "Nvidia co-founder Jensen Huang resigned as president, CEO and board member on November 12, effective immediately, the company's board said. He had led the company for 33 years, since its founding.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112VL217/nvidia-ceo-jensen-huang-president-roadmap.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-11-12-017",
+    "date": "2026-11-12",
+    "companies": [
+      "micron"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Micron says it has not required waivers and will keep negotiating in Taoyuan labor dispute",
+    "summary": "Micron Technology has responded to an open letter from the Taoyuan Union, a labor group in Taiwan, about its ongoing contract talks. Taoyuan is a city in northern Taiwan where Micron has a large facto",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112VL216.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-018",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "capex",
+      "ai_server",
+      "earnings",
+      "guidance"
+    ],
+    "impact": "negative",
+    "title": "Quanta shifts 2027 capex toward power, the new battleground for AI server ODMs",
+    "summary": "Quanta Computer posted strong revenue and earnings in the third quarter of 2026 and expects operations to continue accelerating in the fourth quarter, driven by AI servers. The company also forecasts ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD243/quanta-2027-capex-ai-server-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-019",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Pegatron targets multiyear AI server surge, with Nvidia Vera Rubin shipments set for 1H27",
+    "summary": "Pegatron said at its November 12 earnings briefing that 2026 would mark its first year of server shipments, with the business expected to contribute about 10% of consolidated revenue and grow severalf",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD244/pegatron-rubin-nvidia-2026-shipments.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-020",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Foxconn sees high-double-digit AI rack growth in 2027",
+    "summary": "Foxconn reported third-quarter 2026 revenue of more than NT$3 trillion (US$91 billion) and raised its full-year outlook, while taking a \"cautiously optimistic\" view of 2027 and forecasting high-double",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD245/foxconn-2027-2026-revenue-growth.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-021",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Aleees makes Tainan plant launchpad for North American LFP expansion",
+    "summary": "Advanced Lithium Electrochemistry (Aleees), a lithium iron phosphate (LFP) cathode-material maker, signed a memorandum of understanding (MOU) with a North American partner on November 12 to trial-prod",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD240/aleees-plant-taiwan-lithium-expansion.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-022",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chinese universities obtain Nvidia chips despite US export controls",
+    "summary": "Several Chinese universities, including Northwestern Polytechnical University, one of China's \"Seven Sons of National Defense,\" have successfully obtained Nvidia chips despite US export controls, acco",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD237/chips-nvidia-university-supplier-military.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-023",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Naver signs US$1.5 billion AI cloud deal with US firm",
+    "summary": "Naver said on November 12 it had signed a KRW2 trillion (approx. US$1.5 billion) AI computing services contract with a US-based AI inference company, securing its first major customer for the AI Facto",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112VL211/naver-ai-data-center-capacity-nvidia.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-024",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "capex",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "India's Tata Electronics reportedly seeks up to US$2 billion in loans",
+    "summary": "Tata Electronics is lining up fresh debt at a moment when nearly every leg of its expansion has run into friction: a flagship chip fab whose production start has moved from the end of 2026 to mid-2028",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112VL213/fab-2026-expansion-production-iphone.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-025",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Synnex pivots to AI solution enabler, targets continued growth in 2027",
+    "summary": "Synnex Technology International Corp. posted record quarterly revenue in the third quarter of 2026 and expects continued growth and new highs in 2027, driven by AI semiconductors, AI servers and infra",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD225/synnex-growth-revenue-2027-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-026",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "China's AI short-drama boom opens new token revenue opportunity for ByteDance's Seedance, Volcengine",
+    "summary": "China's AI-generated short-drama market is expanding rapidly, with surging content production and viewership making the sector an increasingly significant source of demand for AI computing resources.",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD213/bytedance-ai-video-production-revenue-china.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-027",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank rejects Musk's default claim, books JPY597.2B data-center loss",
+    "summary": "SoftBank Group (SBG) has denied SpaceX CEO Elon Musk's claim on X that the company defaulted after ordering turbines, while saying its AI infrastructure plans remain on track. However, SBG recorded a ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD226/loss-2026-equipment-spacex-elon-musk.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-028",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Amtran's 3Q26 profit tops 1H26 total as non-TV shipments surge",
+    "summary": "Amtran Technology reported a sharp profit increase in the third quarter of 2026, driven by stronger shipments of high-value non-TV products and an optimized product mix. Third-quarter earnings per sha",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD236/profit-2026-earnings-shipments-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-11-12-029",
+    "date": "2026-11-12",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "ai_memory",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sam Altman warns Samsung of short-term AI demand volatility",
+    "summary": "OpenAI CEO Sam Altman warned Samsung Electronics executives that AI memory demand could fluctuate in the short term, with the market potentially counting the same demand more than once. He nevertheles",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD219/samsung-demand-openai-sam-altman-ceo.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-030",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese media question timing of Huang allegations amid chip controls",
+    "summary": "With Chinese and US leaders expected to meet on October 18 during the APEC Economic Leaders' Meeting, allegations involving Nvidia CEO Jensen Huang's extramarital affair and supposed links to Chinese ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD221/nvidia-apec-ceo-policy-technology.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-11-12-031",
+    "date": "2026-11-12",
+    "companies": [
+      "aws",
+      "meta"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Meta infrastructure chief to hand over AI compute role in 2027",
+    "summary": "Meta Platforms' longtime infrastructure chief Santosh Janardhan will leave after the end of 1Q27, with former Amazon Web Services (AWS) vice president Dave Brown set to succeed him. The leadership tra",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD218/meta-infrastructure-data-president-aws.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-032",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Kwang-Hwa swings to profit in 3Q26 as EPF film line nears launch",
+    "summary": "Kwang-Hwa Electronic reported consolidated revenue of NT$1.315 billion in the third quarter of 2026, down 2.78% quarter-on-quarter and 3.01% year-on-year. Gross profit was NT$324 million, up 8.61% qua",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD238/profit-2026-revenue-production-loss.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-033",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan's electronics industry targets four overseas tech parks under TEEMA's global expansion plan",
+    "summary": "The Taiwan Electrical and Electronic Manufacturers' Association (TEEMA) released its first industry white paper in 78 years on November 11, proposing a \"Taiwan+N\" global expansion strategy centred on ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD227/taiwan-expansion-electronics-manufacturing-industrial.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-034",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Home Depot: What The Data Tells Us About The Upcoming Q3 Report",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967127-home-depot-what-data-tells-us-about-upcoming-q3-report?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-035",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Stratasys Ltd. 2026 Q3 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967189-stratasys-ltd-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-036",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Wienerberger AG (WBRBY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967186-wienerberger-ag-wbrby-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-037",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Fermi Inc. (FRMI) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967123-fermi-inc-frmi-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-038",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SOLV Energy, Inc. (MWH) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967066-solv-energy-inc-mwh-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-039",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Chicago Atlantic BDC, Inc. (LIEN) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967083-chicago-atlantic-bdc-inc-lien-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-040",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Orbit Garant Drilling Inc. (OGD:CA) Q1 2027 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967139-orbit-garant-drilling-inc-ogd-ca-q1-2027-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-041",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Codere Online Luxembourg, S.A. (CDRO) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967176-codere-online-luxembourg-s-a-cdro-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-042",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Serco Group plc (SCGPY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967174-serco-group-plc-scgpy-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-043",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ag Growth International Inc. (AFN:CA) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967025-ag-growth-international-inc-afn-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-044",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Addiko Bank AG (ADBKF) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967009-addiko-bank-ag-adbkf-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-045",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cisco Earnings Preview: More Cautious After Recent Events",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4967159-cisco-earnings-preview-more-cautious-after-recent-events?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-046",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "KBC Group NV (KBCSY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4966898-kbc-group-nv-kbcsy-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-12-047",
+    "date": "2026-11-12",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Homelabber Runs Massive 2.8-Trillion-Parameter AI Model On Discontinued Intel Optane Memory, Without A GPU",
+    "summary": "A hardware enthusiast has managed to run one of the world's largest open-weight AI models on a server powered entirely by a CPU, with no GPU acceleration whatsoever. The secret? Discontinued Intel Opt",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/homelabber-runs-massive-2-8-trillion-parameter-ai-model-on-discontinued-intel-optane-memory-without-a-gpu/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-12-048",
+    "date": "2026-11-12",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jensen Huang Steps Down As NVIDIA CEO, As Company Thanks Him “For His Immeasurable Contributions To The Company And The Industry,” Current CFO To Spearhead GPU Maker",
+    "summary": "The prediction from analysts about Jensen Huang keeping his position as NVIDIA’s CEO was nothing but hot air because the GPU manufacturer has issued the latest statement that will certainly shake the ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/jensen-huang-resigns-nvidia-ceo-colette-kress-interim/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tsmc-2026-11-12-049",
+    "date": "2026-11-12",
+    "companies": [
+      "tsmc"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan Chip Giant TSMC Acknowledges Hack Of Reportedly 49,000 Employee Files Occurred But Says Leaked Data Matches That Stored With External Cloud Provider",
+    "summary": "A cloud services provider working with Taiwanese contract chip manufacturer TSMC has been hacked, the firm confirmed, after the hackers posted the purported data on underground web forums. The hackers",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/taiwan-chip-giant-tsmc-acknowledges-hack-of-reportedly-49000-employee-files-occurred-but-says-leaked-data-matches-that-stored-with-external-cloud-provider/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-12-050",
+    "date": "2026-11-12",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD’s “Siren Halo” Will Reportedly Support GDDR7 Memory, Potentially Moving Beyond Unified-Memory Approach",
+    "summary": "AMD's upcoming Siren Halo could utilize GDDR7 memory for a major graphics bandwidth upgrade. Leaker Claims AMD's Next-Gen Siren Halo Could Pair Zen 6 and RDNA 5 With Dedicated GDDR7 Memory While we wa",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amds-siren-halo-will-reportedly-support-gddr7-memory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-12-051",
+    "date": "2026-11-12",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Noctua’s NT-CP1 Thermal Pad Promises Years Of Stable CPU Cooling Without Reapplying Thermal Paste, But Costs $25",
+    "summary": "ASUS says the conventional thermal pastes lose their performance over time, while the NT-CP1 thermal pad can go on for several years. Noctua Launches NT-CP1 Thermal Pad for AMD AM4/AM5 Processors, Pro",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/noctua-launches-nt-cp1-thermal-pad-at-24/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-052",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Modded RTX 5090 With 96GB VRAM Shows Up On Chinese Marketplace With A Placeholder Price That’s 57x Higher Than The RTX PRO 6000’s",
+    "summary": "NVIDIA’s RTX 5090&#160;shipments were already hard to come by, and that’s because Chinese hardware modders were repeatedly grabbing the available units to transform them into repurposed GPUs for AI se",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/modded-rtx-5090-96gb-vram-china-listing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-053",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CAPCOM Takes Seven Golden Joystick Awards 2026, With Resident Evil Requiem Winning Ultimate Game of the Year and Console Game of the Year",
+    "summary": "The winners of the Golden Joystick Awards 2026 were unveiled during yesterday evening's ceremony at the Troxy in London. You can now rewatch the entire event on YouTube, but in case you don't have two",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/capcom-resident-evil-requiem-golden-joystick-awards-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-054",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang’s Scandals Create Panic For Chinese AI Firms As They Rush To Secure NVIDIA GPUs Before The U.S. Shuts The Door On The Opportunity Forever",
+    "summary": "The fallout from NVIDIA CEO Jensen Huang’s personal scandal involving not one, but two women has triggered widespread panic across China’s AI sector, especially after it was revealed that one of the w",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/jensen-huang-scandals-create-panic-chinese-ai-firms-rush-secure-nvidia-gpus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-055",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "NVIDIA CEO Jensen Huang’s Biggest Strength Is To Synthesize Strategy, Tech & Other Variables For Decisive Decisions, Writes Analyst Amidst Speculation That He Might Be Fired",
+    "summary": "With NVIDIA's board set to meet following a slew of reports about CEO Jensen Huang, analyst Ming Chi-Ku believes Huang and his involvement in the semiconductor supply chain are invaluable. The analyst",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-ceo-jensen-huangs-biggest-strength-is-to-synthesize-strategy-tech-other-variables-for-decisive-decisions-writes-analyst-amidst-speculation-that-he-might-be-fired/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-056",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Jensen Huang resigns as Nvidia chief executive",
+    "summary": " 'Next week’s earnings call just became the most important in the company’s history' ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-057",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Russian cloud Yandex says drone attacks on its datacenters caused data loss",
+    "summary": " Now enables backup by default and hints a little on-prem infra never hurt anyone ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/11/12/russian-cloud-yandex-says-drone-attacks-on-its-datacenters-caused-data-loss/5309234",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-058",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang resigns",
+    "summary": "<p>NVIDIA’s Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately. Colette Kress, current Executive ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/jensen-huang-resigns-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-059",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why space electronics is a harder code to crack than Moore’s Law",
+    "summary": "<p>Ionising radiation and its types Space vehicles do not need advanced node Moore’s Law follower chips with a billion-transistor count, just less-complex chips to handle navigation, commands, faults ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/why-space-electronics-is-a-harder-code-to-crack-than-moores-law-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-060",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "Fable: The Destructive CEO",
+    "summary": "<p>26 years ago a digital company used its shares which had been inflated by a bubble economy to buy a company with traditional hard assets. The merger resulted in a [&#8230;]</p>\n<p>The post <a href=",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-destructive-ceo-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-12-061",
+    "date": "2026-11-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ron Neale",
+    "summary": "<p>Ron Neale, who died yesterday, was an electronics engineer, researcher, inventor and editor. He was best known for his long career in solid-state memory technology, especially phase-change memory (",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/ron-neale-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-12-062",
+    "date": "2026-11-12",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Jensen Huang’s fate may be decided today",
+    "summary": "<p>The Nvidia board is meeting today to decide if CEO Jensen Huang should be replaced and, if so, by who. Leading candidates are vice-president for hyperscale and HPC Ian Buck [&#8230;]</p>\n<p>The pos",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/jensen-huangs-fate-may-be-decided-today-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-11-001",
     "date": "2026-11-11",
     "companies": [],
@@ -1034,6 +2178,188 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/imec-delivers-baseline-flows-for-nanoic-interposed-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-11-11-055",
+    "date": "2026-11-11",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Get certified as a Google Cloud Professional Agentic Architect.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp\">Today we announced Google Cloud's new Professional Agentic Archite",
+    "sources": []
+  },
+  {
+    "id": "intel-2026-11-11-056",
+    "date": "2026-11-11",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chiplets: Revolutionizing Design Velocity with Artificial Chip Intelligence ACI",
+    "summary": "\n\t\t\t\t\t\t<p>This session introduces Artificial Chip Intelligence (ACI®), a paradigm-shifting technology using a physics-informed foundation model designed to transform chip development from a manual lab",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/chiplets-revolutionizing-design-velocity-with-artificial-chip-intelligence-aci/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-057",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chiplets: Panel Discussion: Scaling Chiplets Without Breaking the System – Where are the Limits?",
+    "summary": "\n\t\t\t\t\t\t<p>As chiplet-based designs grow in scale and complexity, the technical challenges mount up as every layer of the system introduces new constraints.</p>\n<p>The post <a href=\"https://www.eetimes",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/chiplets-panel-discussion-scaling-chiplets-without-breaking-the-system-where-are-the-limits/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-058",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia’s Board reportedly preparing to oust CEO Jensen Huang as second extra-marital affair emerges",
+    "summary": "\n                             Nvidia Board reportedly moves to expel Jensen Huang as stock tumbles on latest scandals and lack of succession plans at Nvidia. \n                                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-board-reportedly-preparing-to-oust-ceo-jensen-huang-as-second-extra-marital-affair-emerges-stock-has-plunged-20-percent-since-scandals-began-huang-has-been-first-and-only-ceo-for-33-years",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-11-059",
+    "date": "2026-11-11",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang now accused of affair with Nvidia executive who reported to him, alleged cover-up attempt",
+    "summary": "\n                             Nvidia CEO Jensen Huang reportedly had an extramarital affair with a direct report, following a separate affair with a woman suspected of being a Chinese spy. \n          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/jensen-huang-now-accused-of-affair-with-nvidia-executive-who-reported-to-him-alleged-cover-up-attempt-new-indiscretion-comes-in-wake-of-admitted-affair-with-alleged-chinese-spy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-11-060",
+    "date": "2026-11-11",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD’s Venice-X maxes out family at 5.3 GHz, returning 3D V-Cache to data center after four years",
+    "summary": "\n                             AMD's Venice-X CPUs launch in the second half of 2027, bringing 3D V-Cache back to the data center after four years on the sidelines. \n                                   ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/amds-venice-x-maxes-out-family-at-5-3-ghz-returning-3d-v-cache-to-data-center-after-four-years-chips-target-hpc-workloads-with-pcie-6-0-and-1-6-tb-s-memory-bandwidth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-061",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Prusa launches new carbon-fiber and carbon-nanotube-filled 3D printing filament for electronics manufacturing",
+    "summary": "\n                             Prusament PETG ESD is the cheapest ESD filament on the market, while being carbon-fiber reinforced, something the competition doesn't have. \n                             ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/3d-printing/prusa-launches-new-carbon-3d-printing-filament-for-electronics-manufacturing-carbon-fiber-and-carbon-nanotube-filled-material-dissipates-electrostatic-energy-for-static-sensitive-electronics",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-062",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center",
+    "summary": "\n                             The plaintiffs alleged that the parties committed fraud and concealment through NDAs and misleading public statements. \n                                                  ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/georgia-politicians-openai-slapped-with-racketeering-lawsuit-over-3-2-gigawatt-ai-data-centers-plaintiffs-allege-multiple-violations-were-part-of-a-coordinated-scheme-to-get-project-camellia-approved",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-11-11-063",
+    "date": "2026-11-11",
+    "companies": [
+      "aws"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amazon’s Computing Boss Says Space Data Centers Won’t Be “Feasible Or Practical” For A Decade Even As Musk Believes In 1,300W/m² Heat Dissipation For AI Satellites",
+    "summary": "Even though Elon Musk and SpaceX aim to target space-based AI compute aggressively, the CEO of Amazon's AWS cloud computing business, Matt Garman, believes that space data centers are unlikely to be f",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amazons-computing-boss-says-space-data-centers-wont-be-feasible-or-practical-for-a-decade-even-as-musk-believes-in-1300w-m%c2%b2-heat-dissipation-for-ai-satellites/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-11-064",
+    "date": "2026-11-11",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "US bit barn boom sees energy needs grow 10x as fast as grid capacity",
+    "summary": " Operators face longer connection waits and a growing need to bring their own electricity ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191",
         "type": "rss"
       }
     ]
