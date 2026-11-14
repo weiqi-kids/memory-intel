@@ -1,5 +1,468 @@
 [
   {
+    "id": "nvidia-2026-11-14-001",
+    "date": "2026-11-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
+    "summary": "\n                             Researchers pinpoint that DeepSeek, Kimi, and other Chinese AI models were trained on export-controlled Nvidia Blackwell chips — statistical analysis on model weights rev",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-14-002",
+    "date": "2026-11-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lawyer’s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision",
+    "summary": "\n                             A lawyer’s eight-GPU Nvidia V100 server now runs DeepSeek V4.1 Flash’s most-used experts at NVFP4 precision instead of 2-bit. \n                                           ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-003",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s Air Force builds drone that shoots painkiller darts at wounded soldiers",
+    "summary": "\n                             The Air Force Medical University of the Chinese People's Liberation Army (PLA) built this drone so it could remotely administer pain killers to injured soldiers and make ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-14-004",
+    "date": "2026-11-14",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback",
+    "summary": "\n                             A new kernel contributor used AI to develop a patch for the drivers powering his nearly-20-year-old Radeon GPU. \n                                                         ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-005",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Neousys Technology posts record quarter as defense, AGV/AMR demand accelerates",
+    "summary": "Industrial PC maker Neousys Technology posted record operating performance in 3Q26, driven by project customer shipments and peak shipments to the North American market. The company expects growth fro",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD220/demand-pc-shipments-market-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-006",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Gemtek returns to profitability on direct-supply expansion, eyes AI infrastructure and optical module growth in 2027",
+    "summary": "Taiwan-based networking equipment maker Gemtek Technology is gaining momentum in its business recovery following a challenging business-model transition, returning to operating profitability in the th",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD222/gemtek-networking-ic-equipment-business-growth-2027.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-007",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Etron plans strategic stake in Powerchip Innovation Investment",
+    "summary": "Memory IC designer Etron Technology reported strong Q3 2026 results on robust memory demand and rising product prices, with revenue reaching NT$6.792 billion (US$206.6 million), up 38.6% quarter-over-",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD224/etron-ic-2026-revenue-demand.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-008",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Pegatron sees networking recovery in 2027 as consumer electronics growth eases after peak",
+    "summary": "Pegatron held an online earnings call on November 12, providing updates and an outlook for its product lines beyond servers. The company said revenue from all three major product lines of information ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261112PD249/pegatron-electronics-growth-2027-recovery.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-14-009",
+    "date": "2026-11-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A reporter's perspective: The Jensen Huang I have known for more than 20 years",
+    "summary": "<p><em>Editor&rsquo;s note: Monica Chen is a senior DIGITIMES journalist who has covered Nvidia, Jensen Huang, and the company&rsquo;s Taiwan supply chain for more than two decades. She has interviewe",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261114VL201/jensen-huang-nvidia-technology-digitimes-taiwan.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-010",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "ai_server",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI server tracker: Aspeed tops NT$2 billion as cable suppliers diverge",
+    "summary": "Aspeed Technology posted its highest monthly revenue in records dating back to January 2019. BizLink's October sales also rose sharply, partly reflecting its first full month of consolidating Interple",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261111VL224/aspeed-bizlink-growth-revenue-sales.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-14-011",
+    "date": "2026-11-14",
+    "companies": [
+      "nvidia",
+      "intel"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Huang's resignation unlikely to disrupt Taiwan's AI industry, Acer founder says",
+    "summary": "Jensen Huang's resignation as Nvidia's CEO is unlikely to disrupt Taiwan's technology industry or the broader development of artificial intelligence, Acer founder Stan Shih said. His comments signal t",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113PD245/taiwan-nvidia-jensen-huang-ceo-acer.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-14-012",
+    "date": "2026-11-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang&rsquo;s exit threatens to upend Nvidia&rsquo;s global AI funding network",
+    "summary": "Nvidia CEO Jensen Huang's forced resignation over a personal controversy, alongside looming regulatory and legal battles, is set to reverberate far beyond GPU orders and product roadmaps. His departur",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113PD239/nvidia-jensen-huang-funding-ceo-investment.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-013",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "shortage"
+    ],
+    "impact": "neutral",
+    "title": "UK steel city's deep-tech push faces mass-production and talent hurdles",
+    "summary": "The United Kingdom's steelmaking hub of Sheffield is transforming from a heavy-industry center into a deep-tech startup cluster, but securing a foothold in the AI, quantum, and photonics wave will req",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113PD232/uk-manufacturing-development-startup-design.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-014",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "AI lifts Foxconn profits as ROE targets 12%",
+    "summary": "Foxconn (Hon Hai) expects continued operational growth in 2027 as AI demand expands, chairman Young Liu said at the company's third-quarter 2026 earnings briefing on November 12. However, he warned th",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113PD207/foxconn-demand-2025-2027-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-11-14-015",
+    "date": "2026-11-14",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Apple: The Business Got Better, The Stock Got Much More Expensive",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4968195-apple-business-got-better-stock-got-much-more-expensive?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-016",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Keihan Holdings Co., Ltd. 2027 Q2 - Results - Earnings Call Presentation",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4968200-keihan-holdings-co-ltd-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-017",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "Monster Beverage: Buy The Energy Drink, Sell The Stock",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4968192-monster-beverage-buy-the-energy-drink-sell-the-stock?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-018",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Indorama Ventures Public Company Limited (INDOY) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4968004-indorama-ventures-public-company-limited-indoy-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oracle-2026-11-14-019",
+    "date": "2026-11-14",
+    "companies": [
+      "oracle",
+      "nvidia",
+      "microsoft"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Microsoft Winds Down Oracle AI Cloud Deal As Older NVIDIA GPUs No Longer Meet Its Needs",
+    "summary": "Microsoft is reportedly winding down its AI computing agreement with Oracle, after deciding that the older-generation NVIDIA GPUs powering the rented infrastructure no longer meet its evolving require",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/microsoft-winds-down-oracle-ai-cloud-deal-as-older-nvidia-gpus-no-longer-meet-its-needs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-14-020",
+    "date": "2026-11-14",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intel Razor Lake Gets Its First Linux Kernel Patch Ahead Of A 2028 Launch, With Desktop Chips Expected To Reuse Nova Lake-S’s LGA 1954 Socket",
+    "summary": "The company has begun preparing the groundwork for the next generation of consumer and server-grade CPUs. Intel Lays Groundwork for Next-Gen Processors in Linux With Early Kernel and Compiler support ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-begins-early-linux-enablement-razor-lake-and-coral-rapids/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-14-021",
+    "date": "2026-11-14",
+    "companies": [],
+    "topics": [
+      "shortage",
+      "inventory",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "TeamGroup CEO Warns 2027 DRAM Shortage Could Become So Severe That Even Money Won’t Guarantee Supply",
+    "summary": "The ongoing global memory shortage could become significantly worse in 2027, with TeamGroup warning that DRAM supplies may become so constrained that even customers willing to pay inflated prices will",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/teamgroup-ceo-warns-2027-ram-shortage-could-become-so-severe-that-even-money-wont-guarantee-supply/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-14-022",
+    "date": "2026-11-14",
+    "companies": [
+      "intel",
+      "amd"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intel Reclaims 70% Desktop CPU Market Share As AMD Falls Below 30% In Surprise Q3 2026 Turnaround",
+    "summary": "Intel has staged a rather unexpected comeback in the desktop CPU market, reclaiming a significant portion of the market share it previously lost to AMD. Interestingly, the turnaround might have more t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-reclaims-70-desktop-cpu-market-share-as-amd-falls-below-30-in-surprise-q3-2026-turnaround/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-14-023",
+    "date": "2026-11-14",
+    "companies": [
+      "nvidia",
+      "intel",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "GeForce Evangelist Jacob Freeman Assures Consumers That The Future Of Gaming GPUs Is Safe, But That Doesn’t Mean Graphics Cards Will Become Cheaper",
+    "summary": "It has certainly been a wild week, and with Jensen Huang’s exit as NVIDIA CEO, there’s an elephant-sized uncertainty concerning the future of the GeForce brand and, in general, the future of gaming. F",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/geforce-evangelist-jacob-freeman-assures-gaming-gpus-safe-prices/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-14-024",
+    "date": "2026-11-14",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Jensen Huang Assured NVIDIA Leadership That His Meetings With Alice Huang Were “Appropriate,” And Mulled Legal Action Against The New York Times About The Affair",
+    "summary": "Fresh details of former NVIDIA CEO&#160;Jensen Huang’s escapades with Megaspeed executive Alice Huang have come to light in the latest report, stating that before the GPU maker’s co-founder admitted t",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/jensen-huang-assured-nvidia-leadership-alice-huang-appropriate-mulled-legal-action-nyt/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "marvell-2026-11-13-001",
     "date": "2026-11-13",
     "companies": [
@@ -585,6 +1048,502 @@
       {
         "name": "theregister",
         "url": "https://www.theregister.com/legal/2026/11/13/singapore-says-us-authorities-and-supermicro-hardly-helped-investigation-of-jensen-huangs-chinese-friend/5309579",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "google-2026-11-13-033",
+    "date": "2026-11-13",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Claim your Google Cloud Credits in Google AI Studio",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_BlogBanner_990x556.max-600x600.format-webp.webp\">Claim your Google Cloud Credits in Google AI Studio",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-11-13-034",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+    "summary": "<p>Tharunya Yogananda and Wantong Li of the University of California, Riverside published a technical paper titled “Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies.",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-035",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
+    "summary": "\n\t\t\t\t\t\t<p>Atlantic Canada’s coastal engineering cluster is turning specialized components and rugged hardware into exportable tools for subsea research, security, and resource markets.</p>\n<p>The post",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-036",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia",
+      "arm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
+    "summary": "\n                             Nvidia's board of directors reportedly approached Rene Haas, chief executive of Arm and a long-time Nvidia veteran, in CEO search. \n                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-13-037",
+    "date": "2026-11-13",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Unannounced Intel Core Ultra 7 260K CPU surfaces in Newegg prebuilt gaming PCs",
+    "summary": "\n                             The mysterious Intel Core Ultra 7 260K has surfaced in some prebuilt gaming PCs on Newegg, despite no official mention of the chip from Intel. \n                          ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/cpus/unannounced-intel-core-ultra-7-260k-cpu-surfaces-in-newegg-prebuilt-gaming-pcs-intel-doesnt-have-official-specs-list-available-for-exclusive-arrow-lake-chip",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-038",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Malaysia and Singapore step up Nvidia AI chip probes amidst Jensen Huang controversy",
+    "summary": "\n                             Malaysia is investigating possible re-exports of Nvidia AI hardware amid concerns about circumvention of U.S. restrictions on China as Singapore charges an executive over",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-and-singapore-step-up-nvidia-ai-chip-probes-as-charges-brought-against-chinese-national-over-917-smuggled-servers-firm-at-center-of-jensen-huang-controversy-announces-inventory-audit-to-account-for-all-restricted-gpus",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-039",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "Commentary: From industry definer to industry participant? Nvidia's 2035 outlook in post-Jensen Huang Era",
+    "summary": "When Jensen Huang's resignation took effect on November 12, most of the market's attention turned to who would be Nvidia's next CEO. However, a better starting point for judging what Nvidia will look ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113VL234/2035-nvidia-jensen-huang-ai-outlook.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-11-13-040",
+    "date": "2026-11-13",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DEEPX tapes out AI chip on Samsung's 2nm process",
+    "summary": "South Korean AI chip developer DEEPX has completed the tape-out of its next-generation DX-M2 processor using Samsung Electronics' second-generation 2nm process, advancing plans to bring generative AI ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113VL232/ai-chip-samsung-2nm-production-processor.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-041",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "E Ink targets 2027 revenue from PTFE materials for AI data centers",
+    "summary": "E Ink Holdings is expanding into materials for AI data centers through a partnership with Taiflex Scientific. The electronic paper maker expects its first revenue from polytetrafluoroethylene (PTFE) m",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113PD230/materials-e-ink-revenue-2027-data-center.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-042",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Mars Semiconductor posts slight revenue growth, expects eBMC orders in 2H27",
+    "summary": "Mars Semiconductor's cumulative revenue for the first three quarters of 2026 edged up from the same period in 2025, while quarterly results rose steadily and EPS growth was significant, company Vice P",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113PD208/mars-semiconductor-revenue-growth-2026-ddr.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-043",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DIGITIMES Chairman urges Taiwan to become sovereign AI partner",
+    "summary": "Digitimes Chairman and CEO Colley Hwang said Taiwan should leverage its strengths in chip manufacturing, advanced packaging, and ICT hardware production to pursue sovereign AI opportunities outside th",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113PD248/digitimes-colley-hwang-ai-manufacturing-taiwan-2026.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-11-13-044",
+    "date": "2026-11-13",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung weighs separating memory and mobile leadership",
+    "summary": "Samsung Electronics may appoint separate heads of its memory and mobile businesses in an upcoming executive reshuffle, as record semiconductor profits contrast with losses in its consumer electronics ",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113VL233/samsung-mobile-development-revenue-business.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-045",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "positive",
+    "title": "Cerebras Systems 3Q26 earnings: macro resilience, sector performance, and future outlook",
+    "summary": "Cerebras Systems reported third-quarter 2026 results, delivering record core revenue of US$231 million, up 10% sequentially and 70% year-over-year, and positive core net income of US$30 million, its f",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113VL231/cerebras-2026-performance-earnings-revenue.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-046",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese AI firms reportedly race for overseas compute, fear upcoming chip curbs amid Nvidia spy case",
+    "summary": "Chinese AI companies reportedly are racing to sign overseas compute deals as they fear the political fallout of the Nvidia spy scandal could push US lawmakers to restrict their remote access to advanc",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113VL224/nvidia-china-ai-chip-regulation-security.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-047",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korean labor minister hears chipmakers on 52-hour cap amid dragging special-zone talks",
+    "summary": "South Korea's labor minister met semiconductor companies on November 13 to hear how the 52-hour workweek cap affects their research and development staff, as unions, employers, and the government rema",
+    "sources": [
+      {
+        "name": "digitimes_daily",
+        "url": "https://www.digitimes.com/news/a20261113VL227/labor-chipmakers-staff-government-samsung.html",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-048",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk Says Petition To Bring Jensen Huang Back To NVIDIA Is Underway And He’ll Sign It",
+    "summary": "Tesla and SpaceX billionaire Elon Musk, who has previously supported bringing former NVIDIA CEO and founder Jensen Huang back to the firm as chairman, is now going to sign a petition in Huang's favor.",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/elon-musk-says-petition-to-bring-jensen-huang-back-to-nvidia-is-underway-and-hell-sign-it/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-049",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Letter Seeking Ex CEO Jensen Huang’s Return Is “Obviously Fake,” Says NVIDIA VP After He Is Made A Named Signatory Alongside Top Leadership At Firm",
+    "summary": "The vice president of NVIDIA's applied deep learning research, Bryan Catanzaro, has revealed that he did not sign a letter circulating online addressed to NVIDIA's board to reinstate former CEO Jensen",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/letter-seeking-ex-ceo-jensen-huangs-return-is-obviously-fake-says-nvidia-vp-after-he-is-made-a-named-signatory-alongside-top-leadership-at-firm/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-050",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia",
+      "tsmc"
+    ],
+    "topics": [
+      "dram_price",
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+    "summary": "Now that NVIDIA’s Jensen Huang is no longer the company CEO, we have some truth behind the exponential rise of semiconductor and memory prices. According to the latest findings, it appears that we wer",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/jensen-huang-financed-ai-startups-absorb-excess-silicon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-13-051",
+    "date": "2026-11-13",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Intel Core Ultra 7 260K Quietly Launches As Newegg-Exclusive CPU, Paired With Up To GeForce RTX 5070 At $1999",
+    "summary": "Intel has dropped a new 20-core Arrow Lake CPU that reaches consumers only through prebuilt systems. Intel Core Ultra 7 260K Quietly Enters the Market as a Newegg-Exclusive Processor, Featuring 20 Cor",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intel-core-ultra-7-260k-quietly-launches-as-newegg-exclusive-cpu/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-052",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Founder Jensen Huang’s Alleged Spy Associate Alice Huang Was Deeply Tied To Another Chinese Firm With Access To Banned NVIDIA Chips, Says Report",
+    "summary": "A new entity tied to Alice Huang, the Chinese executive at the heart of the scandal that led to the resignation of NVIDIA CEO Jensen Huang, disclosed banned NVIDIA GPUs as part of collateral offered b",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-founder-jensen-huangs-alleged-spy-associate-alice-huang-was-deeply-tied-to-another-chinese-firm-with-access-to-banned-nvidia-chips-says-report/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-13-053",
+    "date": "2026-11-13",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer",
+    "summary": " Forensic report finds Blackwell's fingerprint in DeepSeek, Moonshot AI, MiniMax and Ant Group models ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/11/13/chinese-ai-labs-are-training-models-on-nvidias-blackwell-despite-export-controls-says-ex-openai-engineer/5309891",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-054",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Technologies Which Died",
+    "summary": "<p>30 years ago the world was debating the claims of WiMAX and HSDPA to be the future. ‘There was dissension in the ranks over the forthcoming mobile variant of the [&#8230;]</p>\n<p>The post <a href=\"",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/yarns/technologies-which-died-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-055",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Electronica: Renesas adds Xplorer Developer Hub",
+    "summary": "<p>Inexpensive RA MCU board, expansion modules, application software and development tools are available via Xplorer Developer Hub Integrated with Renesas 365, the company&#8217;s electronics system d",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/electronica-renesas-adds-xplorer-developer-hub-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-056",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Most Read – Electronica 2026, 7nm FDSOI, 3D DRAM",
+    "summary": "<p>The most popular articles on the site cover TME showcasing the Arduino VENTUNO Q, our latest news from Electronica, and an apology from Jensen Huang...</p>\n<p>The post <a href=\"https://www.electron",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-electronica-2026-7nm-fdsoi-3d-dram-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-13-057",
+    "date": "2026-11-13",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Panmesia and Intel hook up on CXL",
+    "summary": "<p>Panmnesia, the Korean developer of link solutions for AI infrastructure, has signed an MOU with Intel Korea to collaborate on CXL technology. The agreement aims to bring CXL-based servers into [&#8",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/panmesia-and-intel-hook-up-on-cxl-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-13-058",
+    "date": "2026-11-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Imec and Japan’s ASR standardise auto chiplets",
+    "summary": "<p>Imec and Japan&#8217;s Advanced SoC Research for Automotive (ASRA), have published the Automotive Chiplet Interoperability Requirement (ACIR) establishing a common set of architectural requirements",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/imec-and-japans-asr-standardise-auto-chiplets-2026-11/",
         "type": "rss"
       }
     ]
