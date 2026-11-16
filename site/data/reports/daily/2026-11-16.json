@@ -1,0 +1,351 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T18:18:28.427250Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nvidia-2026-11-16-048",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Lawyer’s NVIDIA V100 AI Server Runs DeepSeek Locally, Upgraded With 1 TB RAM And Near-NVFP4 Precision",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "ai_server",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/lawyers-nvidia-v100-ai-server-runs-deepseek-locally-upgraded-with-1-tb-ram-and-near-nvfp4-precision/"
+    },
+    {
+      "rank": 2,
+      "event_id": "amd-2026-11-16-060",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intel vs AMD",
+      "companies": [
+        "amd",
+        "intel"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "guidance"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/intel-vs-amd-2026-11/"
+    },
+    {
+      "rank": 3,
+      "event_id": "marvell-2026-11-16-052",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及 HBM",
+        "涉及產能"
+      ],
+      "title": "Marvell and Penguin Solutions aim to end the RAMpocalypse with photonic memory fabric",
+      "companies": [
+        "marvell"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "hbm",
+        "capex",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.theregister.com/systems/2026/11/16/marvell-and-penguin-solutions-aim-to-end-the-rampocalypse-with-photonic-memory-fabric/5309921"
+    },
+    {
+      "rank": 4,
+      "event_id": "nvidia-2026-11-16-058",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Nvidia taps Rene Haas for CEO",
+      "companies": [
+        "nvidia",
+        "arm"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/news/business/nvidia-taps-rene-haas-for-ceo-2026-11/"
+    },
+    {
+      "rank": 5,
+      "event_id": "nvidia-2026-11-16-006",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及 AI 伺服器"
+      ],
+      "title": "NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing",
+      "companies": [
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    },
+    "ai_memory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.67,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 60,
+    "sentiment_distribution": {
+      "positive": 9,
+      "neutral": 48,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 17
+      },
+      {
+        "id": "intel",
+        "count": 5
+      },
+      {
+        "id": "google",
+        "count": 4
+      },
+      {
+        "id": "samsung",
+        "count": 3
+      },
+      {
+        "id": "amd",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 12
+      },
+      {
+        "id": "ai_server",
+        "count": 4
+      },
+      {
+        "id": "ddr5",
+        "count": 4
+      },
+      {
+        "id": "capex",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 295,
+    "dup_title": 78,
+    "too_old": 64,
+    "gate1_blocked": 41,
+    "gate2_blocked": 49,
+    "passed": 63,
+    "pass_rate": "29.0%",
+    "gate2_block_rate": "22.6%",
+    "gate2_samples": [
+      "Lam Research, LEGO® Education Partner to Expand Access to STEM Learning for Kids; Lam Named Founding",
+      "2026.11.09NoticePlease beware of suspicious social media accounts impersonating SCREEN or its group ",
+      "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "CUDA at 20: How the Platform Transformed Scientific Computing"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 60 則事件，焦點為輝達、英特爾、GCP相關動態：「Lawyer’s NVIDIA V100 AI Server Runs DeepSeek Locally, Upg...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Lawyer’s NVIDIA V100 AI Server Runs DeepSeek Locally, Upgraded With 1 TB RAM ...（HBM、AI 伺服器、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intel vs AMD（財報、展望）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
