@@ -1,5 +1,777 @@
 [
   {
+    "id": "nvidia-2026-11-17-001",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "NVIDIA Board of Directors Establishes National Security and Export Control Oversight Committee",
+    "summary": "NVIDIA (NASDAQ: NVDA) today announced that the Board of Directors has established the National Security and Export Control Oversight Committee, a new standing committee responsible for board-level ove",
+    "sources": []
+  },
+  {
+    "id": "google-2026-11-17-002",
+    "date": "2026-11-17",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "10 states team up with Google on free AI training",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gwg_state_partnerships_resize.max-600x600.format-webp.webp\">Free Google AI training and career certificates are now available ",
+    "sources": []
+  },
+  {
+    "id": "google-2026-11-17-003",
+    "date": "2026-11-17",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Google Play unveils the best apps, games, and books of 2026",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp\">We’re announcing Google Play’s Best of 2026 awards, celebrating ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-11-17-004",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "hbm",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chip Industry Technical Paper Roundup: Nov. 17",
+    "summary": "<p>HBM4 controller partitioning; single-crystal high-κ dielectrics for low-power 2D CFETs; HW-based location checks for AI chip smuggling; embedded ECC for AI weight protection; optimized e-beam evapo",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-005",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang says he would be ‘honored’ to return as Nvidia CEO",
+    "summary": "\n                             In his first statement since his resignation, former Nvidia CEO Jensen Huang expressed openness to returning to his former role. \n                                        ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/jensen-huang-says-he-would-be-honored-to-return-as-nvidia-ceo-first-statement-since-resignation-follows-support-from-billionaires-investors-and-some-employees",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-17-006",
+    "date": "2026-11-17",
+    "companies": [
+      "intel",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Former Nvidia CEO Jensen Huang will appear before a House Foreign Affairs panel amid concerns over his affair with a suspected Chinese spy",
+    "summary": "\n                             Former Nvidia CEO Jensen Huang will appear before the  House Foreign Affairs, Intelligence, and China Select Committees on December 1, with Nvidia's lawyer following him ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/former-nvidia-ceo-jensen-huang-will-appear-before-a-house-foreign-affairs-panel-amid-concerns-over-his-affair-with-a-suspected-chinese-spy-will-testify-behind-closed-doors-december-1-nvidia-lawyer-will-also-appear",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-007",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Taipei 101 lit up in support of Jensen Huang",
+    "summary": "\n                             The Taipei 101 skyscraper was lit up with messages of support for Jensen Huang overnight, the former Nvidia CEO who left the company after admitting to an affair with a f",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/taipei-101-lit-up-in-support-of-jensen-huang-skyscraper-adorned-with-messages-of-support-following-resignation-as-nvidia-ceo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-17-008",
+    "date": "2026-11-17",
+    "companies": [
+      "amd",
+      "nvidia"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "AMD attacks Nvidia's FP64 emulation at SC26, touts native double-precision on Instinct MI430X",
+    "summary": "\n                             AMD is touting the benefits of the native FP64 support provided by its MI430X accelerator at Supercomputing 2026. The company says that Ozaki FP64 emulation only covers t",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/amd-attacks-nvidias-fp64-emulation-at-sc26-touts-native-double-precision-on-instinct-mi430x-says-ozaki-schemes-fit-less-than-10-percent-of-hpc-workloads-and-triple-memory-use-and-emulated-fp64-is-a-poor-fit-for-many-hpc-workloads",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-009",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nvidia warns customers of new US rule that could expose them to lawsuits for serving Chinese clients",
+    "summary": "\n                             This warning comes amid Jensen Huang's scandal, a new rule from the U.S. Department of Commerce, and a pending bill in the Senate. \n                                      ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-warns-customers-of-new-us-rule-that-could-expose-them-to-lawsuits-for-serving-chinese-clients-commerce-department-releases-interim-regulations-preventing-foreign-actors-from-using-advanced-compute-based-on-american-tech",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-010",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "US government confirms criminal investigation into Singapore company at the heart of Jensen Huang scandal",
+    "summary": "\n                             The Justice and Commerce Departments have announced an investigation into Megaspeed over concerns that it may have been involved in the illegal export of Nvidia's AI hard",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/us-government-confirms-criminal-investigation-into-singapore-company-at-the-heart-of-jensen-huang-scandal-megaspeed-identified-over-suspicious-activity-company-placed-on-no-sell-list-by-nvidia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "phison-2026-11-17-011",
+    "date": "2026-11-17",
+    "companies": [
+      "phison"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Phison Pascari X201P 15.36TB SSD Review: Fast PCIe 5.0 write performance for AI and ingest servers",
+    "summary": "\n                             The Phison Pascari X201P 15.36TB U.2 data center SSD meets its rated speeds and saves AI checkpoints quickly, though it trails on low-queue-depth writes. \n               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/phison-pascari-x201p-15-36tb-ssd-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-11-17-012",
+    "date": "2026-11-17",
+    "companies": [
+      "samsung",
+      "skhynix",
+      "micron"
+    ],
+    "topics": [
+      "capex",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Samsung, SK hynix, and Micron form unlikely alliance to standardize robot charging as chipmakers push toward unmanned fabs",
+    "summary": "\n                             Samsung, SK hynix, and Micron are working to standardize charging infrastructure for mobile fab robot batteries to simplify automation and help fabs deploy larger mixed r",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/semiconductors/samsung-sk-hynix-and-micron-form-unlikely-alliance-to-standardize-robot-charging-as-chipmakers-push-toward-unmanned-chip-fabs-standard-specs-would-allow-manufacturer-agnostic-charging-equipment",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-013",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nvidia board establishes National Security and Export Control Oversight Committee in wake of Jensen Huang scandal",
+    "summary": "\n                             This group will oversee the company's national security concerns and global trade compliance to avoid a repeat of Jensen's scandals. \n                                    ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/policy/nvidia-board-establishes-national-security-and-export-control-oversight-committee-in-wake-of-jensen-huang-scandal-group-to-work-with-independent-law-national-security-and-trade-compliance-experts",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-014",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "ddr5"
+    ],
+    "impact": "neutral",
+    "title": "Save $385 on this 4K-ready Alienware gaming PC with an RTX 5080 and 32GB DDR5 right now",
+    "summary": "\n                             Grab this Alienware Aurora gaming PC with an RTX 5080 and 32GB of DDR5 RAM for just $2,799.99 in this early Black Friday deal from Amazon. \n                              ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-usd385-on-this-4k-ready-alienware-gaming-pc-with-an-rtx-5080-and-32gb-ddr5-right-now-grab-this-powerhouse-aurora-act1250-rig-with-a-24-core-intel-cpu-and-1tb-ssd-for-usd2-799-99",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-015",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "403 hyperscale US data centers used staggering 82 terawatts of electricity in a year, more than 80% of Michigan’s entire consumption",
+    "summary": "\n                             A Harvard-led study in Nature Sustainability estimates 403 US hyperscale data centers used about 82 TWh of electricity in a year. \n                                       ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/403-hyperscale-us-data-centers-used-staggering-82-terawatts-of-electricity-in-a-year-more-than-80-percent-of-michigans-entire-consumption-generated-26-million-tons-of-co2-in-a-single-year-gas-and-coal-supplied-54-percent-of-the-power-harvard-led-study-estimates",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-016",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Amer Sports, Inc. (AS) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969106-amer-sports-inc-as-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-017",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Retail Sales And Manufacturing Suggest Strong Momentum",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969157-us-retail-sales-manufacturing-suggest-strong-momentum?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-018",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Axe Compute Inc. (AGPU) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969179-axe-compute-inc-agpu-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-019",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Similarweb Ltd. (SMWB) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969105-similarweb-ltd-smwb-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-020",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Energizer Holdings, Inc. (ENR) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969154-energizer-holdings-inc-enr-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-021",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The Walt Disney Company (DIS) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969110-the-walt-disney-company-dis-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-022",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Xiaomi Q3 2026 Preview: Premiumization Offsets Handset Weakness, But EV Targets Look Stretched",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969149-xiaomi-q3-2026-preview-premiumization-offsets-handset-weakness-but-ev-targets-look-stretched?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-023",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Envela: Don't Mistake Peak Profits For A Bargain",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969148-envela-dont-mistake-peak-profits-for-a-bargain?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-024",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Spire Inc. (SR) Q4 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969126-spire-inc-sr-q4-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-025",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "eDreams ODIGEO S.A. (EDDRF) Q2 2027 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969169-edreams-odigeo-s-a-eddrf-q2-2027-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-026",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "“I Own My Mistakes Completely,” Says Jensen Huang, Offering To Return As CEO If NVIDIA’s Board Deems Fit",
+    "summary": "Things have taken another dramatic turn in the ongoing saga around Jensen Huang and his shock exit from NVIDIA last week, with the disgraced CEO now breaking his silence for the first time since stepp",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/i-own-my-mistakes-completely-says-jensen-huang-offering-to-return-as-ceo-if-nvidias-board-deems-fit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-027",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk Says SpaceX Is Assuming Zero Sales To OpenAI And Adds “Something Is Wrong With Their Products” If They’re Not Seeing “Super Fast” Demand Growth",
+    "summary": "In a rather unexpected comment, SpaceX CEO Elon Musk has shared that his firm is assuming zero sales to OpenAI. Musk's remarks came after OpenAI's CEO Sam Altman, with whom he has a longstanding disag",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/elon-musk-says-spacex-is-assuming-zero-sales-to-openai-and-says-something-is-wrong-with-their-products-if-theyre-not-seeing-super-fast-demand-growth/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-028",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Harvard Study Warns U.S. Datacenters Power Consumption “Could Already Be Considerably Higher,” As Hyperscalers Estimated To Use As Much Electricity As Chile",
+    "summary": "Large datacenters in the U.S. are already consuming between 68 and 99 terawatt-hours of electricity annually, and if you think the figure isn’t all that alarming, here’s another comparison for you. Th",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/harvard-study-warns-us-datacenters-power-consumption-could-already-be-considerably-higher-chile/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-029",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Jensen Huang’s Shock Exit From NVIDIA Is Followed By A New National Security Committee To Oversee The Chip Giant’s Export Compliance",
+    "summary": "AI chip giant NVIDIA has announced that it will create a national security committee to oversee its compliance and national security obligations. The announcement follows the shock exit of former CEO ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/jensen-huangs-shock-exit-from-nvidia-is-followed-by-a-new-national-security-committee-to-oversee-the-chip-giants-export-compliance/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-11-17-030",
+    "date": "2026-11-17",
+    "companies": [
+      "samsung",
+      "apple"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple Abandons Short-Term DRAM Purchasing Strategy For 4-5-Year Contracts With Samsung, Starting In 2027, Leaving Final Pricing Open To Market Conditions",
+    "summary": "The current DRAM landscape has forced Apple to rethink its previous strategies involving signing short-term deals with suppliers like Samsung into significantly longer contracts that can span between ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-abandons-short-term-dram-purchasing-strategy-samsung-contracts-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-17-031",
+    "date": "2026-11-17",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD FSR 4.1 Finally Makes Its Vulkan Debut In DOOM: The Dark Ages, As Unreal Engine Plugin Gets 4.1.2 Update",
+    "summary": "AMD's latest FidelityFX Super Resolution temporal anti-aliasing and upscaling (TAAU) technology has finally made its official debut in a Vulkan game, with DOOM: The Dark Ages Update 5 introducing FSR ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-fsr-4-1-finally-makes-its-vulkan-debut-in-doom-the-dark-ages-as-unreal-engine-plugin-gets-4-1-2-update/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-032",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jensen Huang Was Absolutely Crucified By The Media, With 75 Percent Of The Recent 1,641 Stories Found Bearing A Negative Tilt",
+    "summary": "Rarely is the CEO of a Fortune 500 company targeted with such apparent gusto. According to a PageRank-driven analysis of all recent news coverage about Jensen Huang, the ex-CEO of NVIDIA appears to ha",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/jensen-huang-was-absolutely-crucified-by-the-media-with-75-percent-of-the-recent-1641-stories-found-bearing-a-negative-tilt/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-17-033",
+    "date": "2026-11-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "earnings",
+      "guidance"
+    ],
+    "impact": "neutral",
+    "title": "GTA 6 Pre-Orders Reach 15 Million Units as Analyst Firm Reckons It Will Cut DAU on All Other Games (Except Roblox) by Over 10%",
+    "summary": "Two days out from launch, two of the biggest firms in games market intelligence have published their final GTA 6 pre-launch forecasts. They agree that the launch will hurt everything around it, but th",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/gta-6-pre-orders-15-million-cut-dau-roblox/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-034",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chinese AI Firms Have Cracked The Code For Training LLMs While Dealing With U.S. Chip Tightening Measures; Using OpenAI’s Models For “Industrial-Scale Distillation”",
+    "summary": "As the U.S. continues to tighten the export control noose, Chinese AI developers and researchers have been forced to resort to more creative ways to bypass these trade limitations. According to the la",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/chinese-ai-firms-training-llms-us-chip-tightening-openai-models-industrial-scale-distillation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-035",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia places chip exports under boardroom supervision after Huang's exit",
+    "summary": " Standing committee will oversee export compliance following allegations its GPUs were diverted to China ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/systems/2026/11/17/nvidia-places-chip-exports-under-boardroom-supervision-after-huangs-exit/5310429",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "aws-2026-11-17-036",
+    "date": "2026-11-17",
+    "companies": [
+      "aws"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "REIT move? Blackstone joint venture buys AWS campuses to lease back to the cloud giant",
+    "summary": " Amazon shunts some real estate off its books, a move Omdia analyst says may be about economics, as AI buildout weighs on hyperscaler finances ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-037",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The future of datacenters depends on behind-the-meter energy generation",
+    "summary": " <span data-lab-font_weight_desktop=\"font-weight-bold\" class=\"font-weight-bold m-font-weight-bold\">PARTNER CONTENT:</span> Hyperscalers and colos have distinct power strategies, but for both, securing",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/ai-and-ml/2026/11/17/partner-content-the-future-of-datacenters-depends-on-behind-the-meter-energy-generation/5307526",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-038",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US extends chip sale restrictions to more Asian countries to reduce risk of ‘diversion’ to China",
+    "summary": " Commerce dept runing criminal investigation into Nvidia-linked Megaspeed  ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/off-prem/2026/11/17/us-extends-chip-sale-restrictions-to-more-asian-countries-to-reduce-risk-of-diversion-to-china/5310307",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-17-039",
+    "date": "2026-11-17",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Government investments of $71.8bn speed militarisation of space",
+    "summary": "<p>Governments invested approximately $71.8 billion in space defence and security activities globally in 2025. This is the main finding of Novaspace &#8211; the space consulting and market intelligenc",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/government-investments-of-71-8bn-speed-militarisation-of-space-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "infineon-2026-11-17-040",
+    "date": "2026-11-17",
+    "companies": [
+      "infineon"
+    ],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "OptiMOS 7 switching-optimised 40 V power mosfets address AI servers",
+    "summary": "<p>Infineon is launching its OptiMOS 7 40 V power mosfet portfolio, for both hard-switching and for soft-switching topologies. Designed for high-frequency DC-DC power conversion, the devices address s",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/products/power-supplies/optimos-7-switching-optimised-40-v-power-mosfets-for-ai-servers-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-041",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "inventory",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Decline And Fall",
+    "summary": "<p>Nvidia saw its revenue grow almost tenfold in the past three years, while the company’s stock price rose around 400% since the beginning of 2024. Since closing at an all-time [&#8230;]</p>\n<p>The p",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/blogs/mannerisms/markets/decline-and-fall-of-nvidia-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-042",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia launches Rubin HPC with 50k CUDA cores",
+    "summary": "<p>Nvidia has launched Rubin HPC &#8211; a new GPU in the NVIDIA Vera Rubin platform with more than 50,000 CUDA cores &#8211; which is expected to be available in 2028. [&#8230;]</p>\n<p>The post <a hr",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/nvidia-launches-rubin-hpc-with-50k-cuda-cores-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-11-16-001",
     "date": "2026-11-16",
     "companies": [],
@@ -1050,6 +1822,119 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/intel-vs-amd-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-16-061",
+    "date": "2026-11-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+    "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node ",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-11-16-062",
+    "date": "2026-11-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "How the Worldâs Most Advanced AI Infrastructure Supply Chain Invents the Future",
+    "summary": "Deb Shoquist leads operations at NVIDIA, overseeing the supply chain and manufacturing behind its AI platforms. That description sums up the job, but it doesnât begin to encompass what Shoquist has ",
+    "sources": []
+  },
+  {
+    "id": "amd-2026-11-16-063",
+    "date": "2026-11-16",
+    "companies": [
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AMD-Powered Lux Supercomputer Opens to Scientific Users at Oak Ridge, Becoming First AI Factory for DOE’s Genesis Mission",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-11-16-064",
+    "date": "2026-11-16",
+    "companies": [
+      "google"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Outpace automated cyber threats with security built for nonstop defense.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Threat_Tracker.max-600x600.format-webp.webp\">See how bad actors are shifting to autonomous attacks and how Google AI Threat De",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-11-16-065",
+    "date": "2026-11-16",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "hbm",
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
+    "summary": "<p>Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for GPU Systems by Mitigating the Latency and SRAM Overheads.” Abstract Excerpt &#8220;Larg",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "samsung-2026-11-16-066",
+    "date": "2026-11-16",
+    "companies": [
+      "samsung"
+    ],
+    "topics": [
+      "capacity"
+    ],
+    "impact": "neutral",
+    "title": "Samsung’s P9 Express microSD Express Cards For The Nintendo Switch 2 Are Up To 40% Off On Amazon, Starting From $47.99 Only",
+    "summary": "Modern handheld titles demand massive storage footprints and ultra-fast data transfer rates, and the only way to do that is with microSD Express cards, which offer both the capacity and speeds to make",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/samsung-p9-express-microsdxc-nintendo-switch-2-amazon-deals/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-16-067",
+    "date": "2026-11-16",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Memphis Is Collecting So Much Revenue From SpaceX’s Colossus 1 Data Center That It Is Now Dishing Out $25,000 To Eligible Residents In The Vicinity",
+    "summary": "While data centers have become a political flashpoint across the United States, Memphis and SpaceX are now showing that the ongoing AI buildout can benefit both local communities and facility operator",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/memphis-is-collecting-so-much-revenue-from-spacexs-colossus-1-data-center-that-it-is-now-dishing-out-25000-to-eligible-residents-in-the-vicinity/",
         "type": "rss"
       }
     ]

@@ -1,0 +1,283 @@
+{
+  "date": "2026-11-17",
+  "date_range": {
+    "start": "2026-11-11",
+    "end": "2026-11-17"
+  },
+  "generated_at": "2026-11-17T17:33:41.461963Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-11-11-015",
+      "date": "2026-11-11",
+      "title": "AI server tracker: Beyond GPUs, chassis, power supplies, rail kits and cooling capture a bigger growth story",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "google",
+      "company_b": "intel",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "capacity": {
+      "this_week": 17,
+      "last_week": 29,
+      "week_over_week_change": "-41%",
+      "sentiment_this_week": -0.05
+    },
+    "industry_general": {
+      "this_week": 121,
+      "last_week": 149,
+      "week_over_week_change": "-19%",
+      "sentiment_this_week": 0.0
+    },
+    "advanced_packaging": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "shortage": {
+      "this_week": 7,
+      "last_week": 4,
+      "week_over_week_change": "+75%",
+      "sentiment_this_week": -0.14
+    },
+    "ddr5": {
+      "this_week": 7,
+      "last_week": 11,
+      "week_over_week_change": "-36%",
+      "sentiment_this_week": 0.1
+    },
+    "ai_server": {
+      "this_week": 18,
+      "last_week": 14,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.19
+    },
+    "earnings": {
+      "this_week": 92,
+      "last_week": 109,
+      "week_over_week_change": "-16%",
+      "sentiment_this_week": -0.01
+    },
+    "capex": {
+      "this_week": 13,
+      "last_week": 12,
+      "week_over_week_change": "+8%",
+      "sentiment_this_week": -0.17
+    },
+    "guidance": {
+      "this_week": 9,
+      "last_week": 12,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.08
+    },
+    "ai_memory": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.25
+    },
+    "hbm": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.12
+    },
+    "inventory": {
+      "this_week": 8,
+      "last_week": 15,
+      "week_over_week_change": "-47%",
+      "sentiment_this_week": -0.25
+    },
+    "euv": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    },
+    "dram_price": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.34
+    }
+  },
+  "company_7d_summary": {
+    "nvidia": {
+      "event_count": 79,
+      "sentiment_avg": -0.01,
+      "rank": 1
+    },
+    "amd": {
+      "event_count": 18,
+      "sentiment_avg": -0.0,
+      "rank": 3
+    },
+    "samsung": {
+      "event_count": 11,
+      "sentiment_avg": 0.02,
+      "rank": 4
+    },
+    "intel": {
+      "event_count": 21,
+      "sentiment_avg": -0.01,
+      "rank": 2
+    },
+    "tsmc": {
+      "event_count": 7,
+      "sentiment_avg": -0.03,
+      "rank": 7
+    },
+    "infineon": {
+      "event_count": 3,
+      "sentiment_avg": -0.08,
+      "rank": 11
+    },
+    "cxmt": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 14
+    },
+    "skhynix": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "micron": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "microsoft": {
+      "event_count": 9,
+      "sentiment_avg": -0.11,
+      "rank": 6
+    },
+    "google": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "arm": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "meta": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 15
+    },
+    "apple": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "aws": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 16
+    },
+    "marvell": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "supermicro": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 17
+    },
+    "oracle": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 18
+    },
+    "ti": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 19
+    },
+    "dell": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 20
+    },
+    "phison": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 21
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 354,
+        "last": 341,
+        "change_pct": 3.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-11",
+      "event_count": 64,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 69,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 58,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 37,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 17,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 67,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 42,
+      "sentiment_avg": -0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-11 ~ 2026-11-17）共 354 則事件，重點為「AI server tracker: Beyond GPUs, chassis, power ...」。CXMT、甲骨文情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "CXMT",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "甲骨文",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "輝達",
+        "reason": "本週出現 79 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
