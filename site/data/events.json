@@ -1,5 +1,698 @@
 [
   {
+    "id": "apple-2026-11-18-001",
+    "date": "2026-11-18",
+    "companies": [
+      "apple"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Meet the 2026 App Store Award finalists",
+    "summary": "Apple announced the finalists for the 2026 App Store Awards, recognizing 45 developers from around the world for exceptional apps and games.",
+    "sources": []
+  },
+  {
+    "id": "supermicro-2026-11-18-002",
+    "date": "2026-11-18",
+    "companies": [
+      "supermicro"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support for AI Training and Inference",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "google-2026-11-18-003",
+    "date": "2026-11-18",
+    "companies": [
+      "google"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp\">The Google Gemini app now supports lower-memory Android devices.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-11-18-004",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can AI Agents Really Shift Chip Design Left?",
+    "summary": "<p>Agentic AI promises to automate more of the chip flow, but integration with EDA tools and capturing decades of engineering expertise are non-trivial.</p>\n<p>The post <a href=\"https://semiengineerin",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-005",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blog Review: Nov. 18",
+    "summary": "<p>PCIe and trust; rack-scale co-design; heterogeneous scaling; AI data center primer; on-device balancing; EU semi trends.</p>\n<p>The post <a href=\"https://semiengineering.com/blog-review-nov-18-3/\">",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/blog-review-nov-18-3/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-006",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Beyond One Turn: How a Single-Chip Multiturn Position Sensor Is Reshaping Actuator Design",
+    "summary": "\n\t\t\t\t\t\t<p>Discover how advanced multiturn position sensing can transform industrial motion control without the limitations of traditional mechanical solutions. Explore how magnetic sensing technology ",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/beyond-one-turn-how-a-single-chip-multiturn-position-sensor-is-reshaping-actuator-design/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-007",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Qnity at One: Randy King on Shrink, Stack and the Materials Behind AI",
+    "summary": "\n\t\t\t\t\t\t<p>Qnity CTO Randy King on year one as an independent company, shrink-and-stack chips and the materials challenges of advanced packaging for AI.</p>\n<p>The post <a href=\"https://www.eetimes.com",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/qnity-at-one-randy-king-on-shrink-stack-and-the-materials-behind-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-008",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Koduri’s Oxmiq Offers IP, Tools for Indian Teams to Design AI Chips",
+    "summary": "\n\t\t\t\t\t\t<p>India's AI infrastructure needs could exceed 6 GW by 2030. Oxmiq Labs CEO Raja Koduri explains why domestic chip design and custom systems matter.</p>\n<p>The post <a href=\"https://www.eetime",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/koduri-oxmiq-offers-ip-tools-for-indian-teams-to-design-ai-chips/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-009",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia",
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Edge AI Moves Agricultural Intelligence from the Cloud to the Field",
+    "summary": "\n\t\t\t\t\t\t<p>NXP and Nvidia tackle the challenges of delivering computing power, energy efficiency, and safety as agricultural machinery becomes autonomous.</p>\n<p>The post <a href=\"https://www.eetimes.c",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/edge-ai-moves-agricultural-intelligence-from-the-cloud-to-the-field/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-010",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Leaked Ohio bill could allow AI data center companies to seize private land for their buildouts using eminent domain law",
+    "summary": "\n                             A leaked Ohio bill could allow data centers to qualify as public utilities for the purpose of eminent domain law, allowing companies to seize private land for building ne",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/leaked-ohio-bill-could-allow-ai-data-center-companies-to-seize-private-land-for-their-buildouts-using-eminent-domain-law-proposed-law-would-expand-list-of-beneficiaries",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-011",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk’s SpaceXAI suffers chemical spill at Mississippi AI data center",
+    "summary": "\n                             5,000 to 6,000 gallons of propylene glycol spilled from a SpaceXAI facility in Southaven, Mississippi, before reaching a nearby drainage ditch. State environmental offici",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-suffers-chemical-spill-at-mississippi-ai-data-center-up-to-6-000-gallons-of-propylene-glycol-heat-transfer-fluid-lost-environment-agency-says-no-threat-to-residents",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-012",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Downfall of Jensen Huang — a timeline of allegations and scandals that brought down the king of AI infrastructure",
+    "summary": "\n                             Jensen’s affairs dominated headlines, but the seeds of his downfall were planted in both the bedroom and the boardroom and stretched from Beijing to Washington, with Nvid",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/the-downfall-of-jensen-huang",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-013",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Global OLED monitor shipments doubled year-over-year in Q3 2026",
+    "summary": "\n                             A TrendForce report reveals that gamers are buying OLED monitors in a big way, and ASUS leads the pack. \n                                                                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/monitors/gaming-monitors/global-oled-monitor-shipments-doubled-year-over-year-in-q3-2026-gamers-turn-to-display-upgrades-as-technology-gets-cheaper-and-ai-squeezes-components",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-014",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia board faction angling for Jensen Huang return as CEO, report claims",
+    "summary": "\n                             Despite Nvidia's board saying it has no intention of bringing former CEO Jensen Huang back to the company, some directors are reportedly still pushing for that to happen.",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/nvidia-board-faction-angling-for-jensen-huang-return-as-ceo-report-claims-company-defiant-at-earnings-calls-says-no-possibility-of-reinstatement",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-015",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Nvidia's revenue hits $115.8 billion as Vera Rubin generates $20 billion in another record-setting quarter",
+    "summary": "\n                             Nvidia's quarterly revenue surged to $115.8 billion as Vera Rubin achieved a record $20 billion debut, while total commitments to suppliers and customers climbed to $540 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-revenue-hits-usd115-8-billion-as-vera-rubin-generates-usd20-billion-in-another-record-setting-quarter-commitments-increase-to-usd390-billion-fy28-forecast-raised",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-016",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Retro Kickstarter speaker can play soundtracks directly from original Game Boy cartridges",
+    "summary": "\n                             Retro Song Bird can play music directly from original cartridges, export individual audio channels to a PC, back up game saves, flash writable cartridges, and sync two un",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/video-games/retro-gaming/retro-kickstarter-speaker-can-play-soundtracks-directly-from-original-game-boy-cartridges-retro-song-bird-supports-over-1-900-with-physical-controls-for-media",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-017",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "SSDs, laptops, and phones may get cheaper as consumer NAND spot pricing drops 20%",
+    "summary": "\n                             According to a new report, slowing demand for consumer electronics and diverging production requirements for consumer and enterprise NAND have resulted in declining spot ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-018",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "ai_server"
+    ],
+    "impact": "neutral",
+    "title": "China threatens 'countermeasures' in the face of new AI GPU rental and export restrictions",
+    "summary": "\n                             China threatens \"countermeasures\" on the face of new Blackwell rental and export restrictions — Sino-American trade war may be renewed for a new season \n                 ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/pc-components/gpus/china-threatens-countermeasures-on-the-face-of-new-ai-gpu-rental-and-export-restrictions-beijing-threatens-retaliation-ahead-of-thursdays-xi-jinping-meeting-sino-american-trade-war-may-be-renewed-for-a-new-season",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-019",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "$3.26 million in SpaceX AI data center revenue will be pumped back into the City of Memphis",
+    "summary": "\n                             The City of Memphis is making its first major investment, almost $3.3 million, through the Community Benefit Ordinance. The fund was set up to use a portion of the tax ge",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/usd3-26-million-in-spacex-ai-data-center-revenue-will-be-pumped-back-into-the-city-of-memphis-up-to-usd25-000-on-offer-to-low-income-residents-for-repairs-and-home-improvements",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-020",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Golar LNG Limited (GLNG) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969618-golar-lng-limited-glng-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-021",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia Q3 Earnings: Why Jensen Huang's Quick Exit Makes Me A Buyer",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969690-nvidia-q3-earnings-why-jensen-huang-quick-exit-makes-me-a-buyer?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-022",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Axcelis Technologies Q3: Seems To Be A Good Entry Point (Rating Upgrade)",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969684-axcelis-technologies-q3-seems-to-be-a-good-entry-point-upgrade?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-023",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BNY Mellon Worldwide Growth Fund Q3 2026 Commentary",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969681-bny-mellon-worldwide-growth-fund-q3-2026-commentary?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-024",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "inventory"
+    ],
+    "impact": "neutral",
+    "title": "CoreWeave Stock Is Down 35%, But Its Contracts Are Quietly Repricing Higher",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969678-coreweave-stock-is-down-35-percent-but-its-contracts-are-quietly-repricing-higher?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-025",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "ZIM Integrated Shipping Services Ltd. (ZIM) Q3 2026 Earnings Call Transcript",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969625-zim-integrated-shipping-services-ltd-zim-q3-2026-earnings-call-transcript?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-026",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Nvidia: Separating The Company From Former CEO Jensen Huang",
+    "summary": "",
+    "sources": [
+      {
+        "name": "seeking_alpha",
+        "url": "https://seekingalpha.com/article/4969669-nvidia-separating-the-company-from-former-ceo-jensen-huang?source=feed_all_articles",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-027",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kraft’s $16-Billion Massachusetts Data Center Dangles A Tax Benefit Of $5,800/Year To Each Household, As The Community Rails It’s ‘In The Middle Of People’s Neighborhoods’",
+    "summary": "Data centers are a political hot potato at the moment, and the Kraft Group is now poised to jump right into this maelstrom alongside the Unified Global Packaging Group to push through a $16 billion da",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/kraft-tries-to-placate-a-massachusetts-community-by-dangling-a-tax-benefit-of-5800-year-to-each-household-for-its-16-billion-data-center-in-the-middle-of-peoples-neighborhoods/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-028",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX’s Tax Break Bid For Its $24 Billion Starbase Data Center Quashed As Commissioners Vote Against Public Hearing For 100% 10-Year Abatement",
+    "summary": "Commissioners in Cameron County, Texas, have rejected SpaceX's tax abatement request for its $24 billion data center. The commissioners voted yesterday and refused to hold a public hearing for SpaceX'",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/spacexs-tax-break-bid-for-its-24-billion-starbase-data-center-quashed-as-commissioners-vote-against-public-hearing-for-100-10-year-abatement/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-029",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "ai_server",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASUS Officially Launches NVIDIA RTX Spark-Powered ProArt GR1X In 64 GB And 128 GB Configurations, Delivering Up To 1 PetaFlop Of AI Performance",
+    "summary": "ASUS has officially launched one of its most powerful mini PCs, bringing Blackwell-powered hardware and high memory capacity for high-performance computing, gaming, and AI workloads. ASUS Readies ProA",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/asus-officially-launches-nvidia-rtx-spark-powered-proart-gr1x/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "arm-2026-11-18-030",
+    "date": "2026-11-18",
+    "companies": [
+      "arm",
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "MSI EdgeMesa N AI+ X Mini PC Review – NVIDIA RTX Spark Delivers Superb Gaming & AI Performance In A Compact Form Factor With Uncompromised 140W TDP",
+    "summary": "NVIDIA RTX Spark is a fresh new Windows PC platform. It was first announced at Computex 2026, and now, the first devices are finally hitting shelves. In our initial impressions, we called RTX Spark a ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/review/msi-edgemesa-n-ai-x-mini-pc-review-nvidia-rtx-spark-delivers-superb-gaming-ai-performance-in-a-compact-form-factor-with-uncompromised-140w-tdp/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-18-031",
+    "date": "2026-11-18",
+    "companies": [
+      "intel"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intel’s Post-Razor Lake Titan Lake Platform Shows Up In Two Linux Bluetooth Patches, With PCI ID 0x9329 Labelled ‘Scorpius Peak2 C0, Titan Lake’",
+    "summary": "Intel is also making some early progress for its upcoming Titan Lake family, which supposedly follows Razor Lake launch. Intel Adds Linux Support for New Bluetooth PCI ID and CNVi Identifier for Titan",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/intels-post-razor-lake-titan-lake-platform-shows-up-in-two-linux-bluetooth-patches/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "amd-2026-11-18-032",
+    "date": "2026-11-18",
+    "companies": [
+      "amd"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD Teases CES 2027 With Possibility Of Unveiling Zen 6-Based Olympic Ridge Processors",
+    "summary": "As we approach the CES 2027 event, AMD seems excited to announce something \"special\", and here's what we think the company might introduce next year early. AMD's Jack Huynh Teases CES 2027; Calls the ",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/amd-teases-ces-2027-with-possibility-of-unveiling-zen-6-based-olympic-ridge-processors/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intel-2026-11-18-033",
+    "date": "2026-11-18",
+    "companies": [
+      "intel"
+    ],
+    "topics": [
+      "capex"
+    ],
+    "impact": "neutral",
+    "title": "OpenAI’s GPT-6.2 Astra Becomes The First Model To Achieve A 100% Score On ARC-AGI-3 While Being ~8x Cheaper Than Anthropic’s Fable 5.2, But Actual Users Are Not Impressed",
+    "summary": "After a fairly long drought, which was presumably necessary to ensure proper alignment, OpenAI has finally launched its latest frontier-class model, dubbed GPT-6.2 Astra, to middling applause. OpenAI'",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/openais-gpt-6-2-astra-becomes-the-first-model-to-achieve-a-100-score-on-arc-agi-3-while-being-8x-cheaper-than-anthropics-fable-5-2-but-actual-users-are-not-impressed/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-034",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA GPU Rental Prices Have Doubled, Asserts Interim CEO Kress As She Reports A Whopping $390 Billion In Supply Commitments Fueled By Pricey Memory Chips",
+    "summary": "AI chip designer NVIDIA Corporation has disclosed a whopping $390 billion in supply commitments in its fiscal third quarter as it continues to deal with the historic turmoil in the memory chip industr",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/nvidia-gpu-rental-prices-have-doubled-asserts-interim-ceo-kress-as-she-reports-a-whopping-309-billion-in-supply-commitments-fueled-by-pricey-memory-chips/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "oracle-2026-11-18-035",
+    "date": "2026-11-18",
+    "companies": [
+      "oracle"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Oracle reveals fix-this-ASAP-grade Java4Shell bug that allows attacks on many third-party apps",
+    "summary": " Attackers can crash the JVM or achieve unauthenticated RCE ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/security/2026/11/18/oracle-reveals-fix-this-asap-grade-java4shell-bug-that-allows-attacks-on-many-third-party-apps/5310661",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "micron-2026-11-18-036",
+    "date": "2026-11-18",
+    "companies": [
+      "micron"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Micron backs space computing startup in Series B funding round",
+    "summary": "<p>Ramon.Space, a space computing infrastructure company, has raised $124 million in a Series B funding round. The round included investment from Micron Technology. The funding was led by equity firm ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/finance/micron-backs-space-computing-startup-in-series-b-funding-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-18-037",
+    "date": "2026-11-18",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nvidia Q3 sparkles. Chairman says no return for Jensen",
+    "summary": "<p>Nvidia’s Q3 revenue was $115.8 billion at a gross margin of 74.8%. Net profit was $65.3 billion. Datacentre revenue was up 110% at $107.6 billion. Nvidia expects Q4 revenue of [&#8230;]</p>\n<p>The ",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/nvidia-q3-sparkles-chairman-says-no-return-for-jensen-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-038",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Imec sets up photonics R&D centre in Hokkaido",
+    "summary": "<p>Imec is expanding its activities in Hokkaido, Japan, with the backing of Japan&#8217;s Ministry of Economy, Trade and Industry (METI) and in collaboration with Leading-edge Semiconductor Technology",
+    "sources": [
+      {
+        "name": "electronicsweekly",
+        "url": "https://www.electronicsweekly.com/news/business/imec-sets-up-photonics-rd-centre-in-hokkaido-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nvidia-2026-11-17-001",
     "date": "2026-11-17",
     "companies": [
@@ -767,6 +1460,147 @@
       {
         "name": "electronicsweekly",
         "url": "https://www.electronicsweekly.com/news/business/nvidia-launches-rubin-hpc-with-50k-cuda-cores-2026-11/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lam_research-2026-11-17-043",
+    "date": "2026-11-17",
+    "companies": [
+      "lam_research"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Lam Research Corporation Announces Participation at Upcoming Conference",
+    "summary": "",
+    "sources": []
+  },
+  {
+    "id": "samsung-2026-11-17-044",
+    "date": "2026-11-17",
+    "companies": [
+      "samsung",
+      "nvidia"
+    ],
+    "topics": [
+      "capacity",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NVIDIA Expands Commitments With Supply Chain Partners to Support AI Infrastructure Buildout",
+    "summary": "News Summary: New agreements with Kinsus and Samsung Electro-Mechanics support additional substrate capacity and expanded production capabilities at existing factories. NVIDIA's work with ...",
+    "sources": []
+  },
+  {
+    "id": "nvidia-2026-11-17-045",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+    "summary": "Revenue of $115.8 billion, up 103% from a year ago Data Center revenue of $107.6 billion, up 110% from a year ago Vera Rubin NVL72, the most versatile and advanced computing platform ever ...",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-11-17-046",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "advanced_packaging",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
+    "summary": "<p>Researchers at Arizona State University and Ampere Computing published “DT-MATCH: Defect- and Topology-Aware Chiplet Matching for Yield Optimization in Heterogeneous Integration.” Abstract “Heterog",
+    "sources": [
+      {
+        "name": "semi_engineering",
+        "url": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "asml-2026-11-17-047",
+    "date": "2026-11-17",
+    "companies": [
+      "asml"
+    ],
+    "topics": [
+      "euv",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+    "summary": "\n\t\t\t\t\t\t<p>Explore how ASML’s partner-driven culture, EUV dominance, and geopolitical pressures reshaped chipmaking in Marc Hijink’s interview.</p>\n<p>The post <a href=\"https://www.eetimes.com/marc-hij",
+    "sources": [
+      {
+        "name": "eetimes",
+        "url": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-048",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Nvidia employee warns of 'irreplaceable' talent exodus if Jensen Huang not reinstated",
+    "summary": "\n                             An internal letter was sent to Nvidia's board and top executives warning that \"irreplaceable talent\" could leave if Jensen Huang isn't reinstated as CEO. \n               ",
+    "sources": [
+      {
+        "name": "toms_hardware",
+        "url": "https://www.tomshardware.com/tech-industry/big-tech/nvidia-employee-warns-of-irreplaceable-talent-exodus-if-jensen-huang-not-reinstated-cautions-board-and-top-brass-that-talent-at-nvidia-is-now-contemplating-departing",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "apple-2026-11-17-049",
+    "date": "2026-11-17",
+    "companies": [
+      "apple"
+    ],
+    "topics": [
+      "shortage",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Apple’s Low-Cost MacBook Neo Is Now $50 Off For Amazon’s Early Black Friday Sale, Dropping To Its Best Price Of $649",
+    "summary": "The MacBook Neo&#160;unlocked a whole new customer base when Apple introduced its affordable portable for only $599, and even though the DRAM shortage has forced the company to introduce a price hike,",
+    "sources": [
+      {
+        "name": "wccftech",
+        "url": "https://wccftech.com/apple-macbook-neo-early-black-friday-amazon-deal-649/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nvidia-2026-11-17-050",
+    "date": "2026-11-17",
+    "companies": [
+      "nvidia",
+      "amd"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "GPU giants throw HPC users some tasty crumbs",
+    "summary": " Nvidia unveils an HPC-optimized Rubin GPU to challenge AMD's 288 teraFLOPS MI430X ",
+    "sources": [
+      {
+        "name": "theregister",
+        "url": "https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611",
         "type": "rss"
       }
     ]
