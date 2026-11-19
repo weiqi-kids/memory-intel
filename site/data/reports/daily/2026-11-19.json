@@ -1,0 +1,385 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T17:16:55.722353Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-19-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "情緒極端",
+        "涉及 AI 伺服器",
+        "涉及先進封裝"
+      ],
+      "title": "AI Accelerators Drive Changes In Power Delivery Networks",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://semiengineering.com/ai-accelerators-drive-changes-in-power-delivery-networks/"
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-11-19-020",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能",
+        "涉及先進封裝"
+      ],
+      "title": "Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT capacity",
+      "companies": [
+        "intel",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "advanced_packaging",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261119PD229/nvidia-capacity-substrate-osat-taiwan.html"
+    },
+    {
+      "rank": 3,
+      "event_id": "amd-2026-11-19-046",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AMD Zen 6 Olympic Ridge Desktop CPUs Reportedly Slip Past Computex 2027 After A Switch To TSMC’s Performance-Focused N2X 2nm Process",
+      "companies": [
+        "amd",
+        "tsmc"
+      ],
+      "related": {
+        "customers": [
+          "amd"
+        ],
+        "suppliers": [
+          "tsmc"
+        ]
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://wccftech.com/amd-zen-6-olympic-ridge-desktop-cpus-reportedly-slip-past-computex-2027-after-a-switch-to-tsmcs-performance-focused-n2x-2nm-process/"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-19-027",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及價格",
+        "涉及財報"
+      ],
+      "title": "MSI targets over 10% non-PC revenue with on-premises AI",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261119PD216/msi-edge-ai-pc-revenue-demand.html"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-19-031",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "涉及財報",
+        "涉及 AI 伺服器"
+      ],
+      "title": "Qualipoly accelerates shift to electronic chemicals, targeting over 50% revenue contribution",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "ai_server",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.digitimes.com/news/a20261118PD250/ai-server-ccl-microled-materials-revenue-demand-production.html"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 40,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.75,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "capex": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "intel",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "advanced_packaging",
+        "capacity",
+        "industry_general"
+      ]
+    },
+    {
+      "from": "microsoft",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "amd",
+      "to": "nvidia",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 63,
+    "sentiment_distribution": {
+      "positive": 7,
+      "neutral": 52,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 11
+      },
+      {
+        "id": "intel",
+        "count": 11
+      },
+      {
+        "id": "amd",
+        "count": 4
+      },
+      {
+        "id": "microsoft",
+        "count": 3
+      },
+      {
+        "id": "google",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 40
+      },
+      {
+        "id": "earnings",
+        "count": 18
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "capex",
+        "count": 4
+      },
+      {
+        "id": "ddr5",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 88,
+    "too_old": 62,
+    "gate1_blocked": 48,
+    "gate2_blocked": 48,
+    "passed": 69,
+    "pass_rate": "30.4%",
+    "gate2_block_rate": "21.1%",
+    "gate2_samples": [
+      "Lam Research, LEGO® Education Partner to Expand Access to STEM Learning for Kids; Lam Named Founding",
+      "NVIDIA RTX Spark Compact Desktops Out Now",
+      "Ian Buck Kicks Off NVIDIAâs Week at SC26 as Science Enters the Age of Agents",
+      "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 63 則事件，焦點為輝達、英特爾、超微相關動態：「AI Accelerators Drive Changes In Power Delivery Networks」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AI Accelerators Drive Changes In Power Delivery Networks（AI 伺服器、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "Nvidia doubles down on Taiwan supply chain as AI squeezes substrate and OSAT ...（產能、先進封裝、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "DRAM 價格話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
