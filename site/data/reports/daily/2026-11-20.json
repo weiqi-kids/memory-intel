@@ -1,0 +1,394 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:55:18.677047Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "cadence-2026-11-20-012",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及",
+        "涉及產能"
+      ],
+      "title": "Huang's exit tests Nvidia's annual chip cadence and Taiwan suppliers' customer mix",
+      "companies": [
+        "cadence",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "capacity",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.digitimes.com/news/a20261120PD225/nvidia-ai-chip-taiwan-jensen-huang-rubin.html"
+    },
+    {
+      "rank": 2,
+      "event_id": "intel-2026-11-20-030",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "HP Inc. Vs. HP Enterprise: What Intel's Earnings Stumble Portends",
+      "companies": [
+        "intel",
+        "hp"
+      ],
+      "related": {
+        "customers": [
+          "hp"
+        ],
+        "suppliers": [
+          "intel"
+        ]
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://seekingalpha.com/article/4970608-hp-inc-vs-hp-enterprise-what-intel-earnings-stumble-portends?source=feed_all_articles"
+    },
+    {
+      "rank": 3,
+      "event_id": "intel-2026-11-20-044",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及價格",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Most Read – Intel vs AMD, Nvidia Rubin HPC, DRAM price-fixing",
+      "companies": [
+        "intel",
+        "nvidia",
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "dram_price",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.electronicsweekly.com/blogs/electro-ramblings/latest-news/most-read-intel-vs-amd-nvidia-rubin-hpc-dram-price-fixing-2026-11/"
+    },
+    {
+      "rank": 4,
+      "event_id": "arm-2026-11-20-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "MSI EdgeMesa N AI+ review: RTX Spark power comes to Windows on Arm desktops, but there are trade-offs",
+      "companies": [
+        "arm",
+        "nvidia"
+      ],
+      "related": {
+        "customers": [
+          "nvidia"
+        ],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.tomshardware.com/desktops/mini-pcs/msi-edgemesa-n-ai-plus-review"
+    },
+    {
+      "rank": 5,
+      "event_id": "intel-2026-11-20-037",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "OpenAI Models Deliver Up To 14% PPA Gains On AMD Flagship GPU Designs, With Some Changes Already Sent To Manufacturing",
+      "companies": [
+        "intel",
+        "amd"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://wccftech.com/openai-models-deliver-up-to-14-ppa-gains-on-amd-flagship-gpu-designs-with-some-changes-already-sent-to-manufacturing/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "ddr5": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "inventory": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "ai_server": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "euv": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "capacity": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "shortage": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.31,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "advanced_packaging": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "hbm": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "guidance": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "dram_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "nand_price": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "amd",
+      "to": "nvidia",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "dram_price",
+        "industry_general",
+        "ai_server"
+      ]
+    },
+    {
+      "from": "amd",
+      "to": "intel",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "dram_price",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 50,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 39,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nvidia",
+        "count": 10
+      },
+      {
+        "id": "amd",
+        "count": 5
+      },
+      {
+        "id": "intel",
+        "count": 3
+      },
+      {
+        "id": "samsung",
+        "count": 2
+      },
+      {
+        "id": "tsmc",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "capacity",
+        "count": 5
+      },
+      {
+        "id": "shortage",
+        "count": 4
+      },
+      {
+        "id": "ai_server",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 98,
+    "too_old": 64,
+    "gate1_blocked": 51,
+    "gate2_blocked": 43,
+    "passed": 54,
+    "pass_rate": "25.5%",
+    "gate2_block_rate": "20.3%",
+    "gate2_samples": [
+      "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "NVIDIA RTX Spark Compact Desktops Out Now",
+      "Ian Buck Kicks Off NVIDIAâs Week at SC26 as Science Enters the Age of Agents",
+      "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 50 則事件，焦點為輝達、超微、英特爾相關動態：「Huang's exit tests Nvidia's annual chip cadence and Taiwa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Huang's exit tests Nvidia's annual chip cadence and Taiwan suppliers' custome...（產能、半導體/記憶體通用）",
+        "level": "red"
+      },
+      {
+        "text": "HP Inc. Vs. HP Enterprise: What Intel's Earnings Stumble Portends（財報）",
+        "level": "red"
+      },
+      {
+        "text": "庫存話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
